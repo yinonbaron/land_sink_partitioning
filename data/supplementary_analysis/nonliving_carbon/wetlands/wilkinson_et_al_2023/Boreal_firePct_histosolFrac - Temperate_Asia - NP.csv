@@ -1,0 +1,1180 @@
+fid,id,fire_pct,_mean,ECO_NAME,area,fired_eurasia_4326_pc,fired_russia_china_japan_4326_pc,layer,BIOME,CONTINENT
+"1",20793,,0.0340909090909091,Caucasus mixed forests,"0",0,,Caucasus_mixed_forest,4,Asia
+"2",20793,,0.0340909090909091,Caucasus mixed forests,"94",0,,Caucasus_mixed_forest,4,Asia
+"3",20793,,0.0340909090909091,Caucasus mixed forests,"9",0,,Caucasus_mixed_forest,4,Asia
+"4",20875,,3.51162790697674,Caucasus mixed forests,"0",0.299198068095968,,Caucasus_mixed_forest,4,Asia
+"5",20875,,3.51162790697674,Caucasus mixed forests,"3015",0.299198068095968,,Caucasus_mixed_forest,4,Asia
+"6",20878,,1.30232558139535,Caucasus mixed forests,"88",0.0516899903327329,,Caucasus_mixed_forest,4,Asia
+"7",20957,,3.13953488372093,Caucasus mixed forests,"0",0.214908583910338,,Caucasus_mixed_forest,4,Asia
+"8",20957,,3.13953488372093,Caucasus mixed forests,"1303",0.214908583910338,,Caucasus_mixed_forest,4,Asia
+"9",20957,,3.13953488372093,Caucasus mixed forests,"4285",0.214908583910338,,Caucasus_mixed_forest,4,Asia
+"10",20958,,0.86046511627907,Caucasus mixed forests,"6",0,,Caucasus_mixed_forest,4,Asia
+"11",20959,,2.38372093023256,Caucasus mixed forests,"3273",0.0508142846201881,,Caucasus_mixed_forest,4,Asia
+"12",20960,,0.0813953488372093,Caucasus mixed forests,"1632",0.210518336976313,,Caucasus_mixed_forest,4,Asia
+"13",21039,,1.75,Caucasus mixed forests,"0",6.73648544900888,,Caucasus_mixed_forest,4,Asia
+"14",21039,,1.75,Caucasus mixed forests,"6090",6.73648544900888,,Caucasus_mixed_forest,4,Asia
+"15",21039,,1.75,Caucasus mixed forests,"1295",6.73648544900888,,Caucasus_mixed_forest,4,Asia
+"16",21040,,3.10227272727273,Caucasus mixed forests,"4874",0,,Caucasus_mixed_forest,4,Asia
+"17",21041,,2.875,Caucasus mixed forests,"7769",0.0134750463921115,,Caucasus_mixed_forest,4,Asia
+"18",21042,,0.215909090909091,Caucasus mixed forests,"5936",0.00796591281895317,,Caucasus_mixed_forest,4,Asia
+"19",21121,,2.27906976744186,Caucasus mixed forests,"3851",2.45100909247914,,Caucasus_mixed_forest,4,Asia
+"20",21121,,2.27906976744186,Caucasus mixed forests,"3994",2.45100909247914,,Caucasus_mixed_forest,4,Asia
+"21",21122,,2.33720930232558,Caucasus mixed forests,"6687",0,,Caucasus_mixed_forest,4,Asia
+"22",21123,,0.744186046511628,Caucasus mixed forests,"4101",0.644777092565582,,Caucasus_mixed_forest,4,Asia
+"23",21124,,0.0116279069767442,Caucasus mixed forests,"1652",0.312923040308072,,Caucasus_mixed_forest,4,Asia
+"24",21204,,2.2093023255814,Caucasus mixed forests,"2269",0.745265268266251,,Caucasus_mixed_forest,4,Asia
+"25",21204,,2.2093023255814,Caucasus mixed forests,"5636",0.745265268266251,,Caucasus_mixed_forest,4,Asia
+"26",21205,,1.5,Caucasus mixed forests,"3800",0,,Caucasus_mixed_forest,4,Asia
+"27",21206,,0.302325581395349,Caucasus mixed forests,"1652",0.742322118732934,,Caucasus_mixed_forest,4,Asia
+"28",21285,,1.23863636363636,Caucasus mixed forests,"0",17.5300682299394,,Caucasus_mixed_forest,4,Asia
+"29",21285,,1.23863636363636,Caucasus mixed forests,"3953",17.5300682299394,,Caucasus_mixed_forest,4,Asia
+"30",21285,,1.23863636363636,Caucasus mixed forests,"1407",17.5300682299394,,Caucasus_mixed_forest,4,Asia
+"31",21286,,1.48863636363636,Caucasus mixed forests,"6427",0,,Caucasus_mixed_forest,4,Asia
+"32",21287,,0.897727272727273,Caucasus mixed forests,"6293",0,,Caucasus_mixed_forest,4,Asia
+"33",21288,,0.318181818181818,Caucasus mixed forests,"1149",0.562744074522035,,Caucasus_mixed_forest,4,Asia
+"34",21368,,1.73255813953488,Caucasus mixed forests,"0",3.75926294087149,,Caucasus_mixed_forest,4,Asia
+"35",21368,,1.73255813953488,Caucasus mixed forests,"5538",3.75926294087149,,Caucasus_mixed_forest,4,Asia
+"36",21368,,1.73255813953488,Caucasus mixed forests,"2327",3.75926294087149,,Caucasus_mixed_forest,4,Asia
+"37",21369,,0.22093023255814,Caucasus mixed forests,"2547",0,,Caucasus_mixed_forest,4,Asia
+"38",21370,,0.686046511627907,Caucasus mixed forests,"6287",0,,Caucasus_mixed_forest,4,Asia
+"39",21371,,0.511627906976744,Caucasus mixed forests,"4331",0,,Caucasus_mixed_forest,4,Asia
+"40",21450,,1.09302325581395,Caucasus mixed forests,"0",1.18975648423733,,Caucasus_mixed_forest,4,Asia
+"41",21450,,1.09302325581395,Caucasus mixed forests,"4833",1.18975648423733,,Caucasus_mixed_forest,4,Asia
+"42",21450,,1.09302325581395,Caucasus mixed forests,"2655",1.18975648423733,,Caucasus_mixed_forest,4,Asia
+"43",21451,,0.0581395348837209,Caucasus mixed forests,"813",0,,Caucasus_mixed_forest,4,Asia
+"44",21452,,0.790697674418605,Caucasus mixed forests,"6910",0,,Caucasus_mixed_forest,4,Asia
+"45",21453,,0.209302325581395,Caucasus mixed forests,"2843",0,,Caucasus_mixed_forest,4,Asia
+"46",21533,,0.863636363636364,Caucasus mixed forests,"5538",5.86238906824413,,Caucasus_mixed_forest,4,Asia
+"47",21533,,0.863636363636364,Caucasus mixed forests,"2088",5.86238906824413,,Caucasus_mixed_forest,4,Asia
+"48",21534,,0.125,Caucasus mixed forests,"242",0,,Caucasus_mixed_forest,4,Asia
+"49",21535,,0.0454545454545455,Caucasus mixed forests,"173",0,,Caucasus_mixed_forest,4,Asia
+"50",21614,,0.290697674418605,Caucasus mixed forests,"0",1.54709502289048,,Caucasus_mixed_forest,4,Asia
+"51",21614,,0.290697674418605,Caucasus mixed forests,"2203",1.54709502289048,,Caucasus_mixed_forest,4,Asia
+"52",21614,,0.290697674418605,Caucasus mixed forests,"757",1.54709502289048,,Caucasus_mixed_forest,4,Asia
+"53",21615,,0.813953488372093,Caucasus mixed forests,"0",0.115876792309501,,Caucasus_mixed_forest,4,Asia
+"54",21615,,0.813953488372093,Caucasus mixed forests,"49",0.115876792309501,,Caucasus_mixed_forest,4,Asia
+"55",21615,,0.813953488372093,Caucasus mixed forests,"5397",0.115876792309501,,Caucasus_mixed_forest,4,Asia
+"56",21697,,0.0930232558139535,Caucasus mixed forests,"316",0,,Caucasus_mixed_forest,4,Asia
+"57",28834,,0.13953488372093,Central Korean deciduous forests,"512",,0.19046179240404,Central_Korean_deciduous_forest,4,Asia
+"58",28915,,1.21590909090909,Central Korean deciduous forests,"405",,0.685146196793262,Central_Korean_deciduous_forest,4,Asia
+"59",28916,,0.681818181818182,Central Korean deciduous forests,"7124",,0.474148818655633,Central_Korean_deciduous_forest,4,Asia
+"60",28917,,0.25,Central Korean deciduous forests,"808",,0.327065489824707,Central_Korean_deciduous_forest,4,Asia
+"61",28997,,2.19767441860465,Central Korean deciduous forests,"2372",,2.86928549049236,Central_Korean_deciduous_forest,4,Asia
+"62",28998,,0.918604651162791,Central Korean deciduous forests,"5997",,2.49891956464006,Central_Korean_deciduous_forest,4,Asia
+"63",28999,,0.779069767441861,Central Korean deciduous forests,"1598",,0.143510558660855,Central_Korean_deciduous_forest,4,Asia
+"64",29000,,0.383720930232558,Central Korean deciduous forests,"1160",,0.00998661788112319,Central_Korean_deciduous_forest,4,Asia
+"65",29001,,1.13953488372093,Central Korean deciduous forests,"1031",,0.228424219169698,Central_Korean_deciduous_forest,4,Asia
+"66",29078,,5.02325581395349,Central Korean deciduous forests,"20",,1.48035656521299,Central_Korean_deciduous_forest,4,Asia
+"67",29079,,3.31395348837209,Central Korean deciduous forests,"3163",,8.46810552362015,Central_Korean_deciduous_forest,4,Asia
+"68",29080,,2.73255813953488,Central Korean deciduous forests,"4794",,13.8063577987219,Central_Korean_deciduous_forest,4,Asia
+"69",29081,,1.46511627906977,Central Korean deciduous forests,"8149",,0.533170153200112,Central_Korean_deciduous_forest,4,Asia
+"70",29082,,1.80232558139535,Central Korean deciduous forests,"8403",,0.67524165493313,Central_Korean_deciduous_forest,4,Asia
+"71",29083,,1.88372093023256,Central Korean deciduous forests,"8502",,1.32476844277902,Central_Korean_deciduous_forest,4,Asia
+"72",29084,,1.18604651162791,Central Korean deciduous forests,"224",,0,Central_Korean_deciduous_forest,4,Asia
+"73",29160,,1.58139534883721,Central Korean deciduous forests,"2495",,1.89846536506493,Central_Korean_deciduous_forest,4,Asia
+"74",29161,,0.988372093023256,Central Korean deciduous forests,"1254",,10.4146236796717,Central_Korean_deciduous_forest,4,Asia
+"75",29162,,3.83720930232558,Central Korean deciduous forests,"4378",,2.7414855954202,Central_Korean_deciduous_forest,4,Asia
+"76",29163,,2.77906976744186,Central Korean deciduous forests,"8523",,0.381760903795726,Central_Korean_deciduous_forest,4,Asia
+"77",29164,,1.67441860465116,Central Korean deciduous forests,"8664",,0.172141723842638,Central_Korean_deciduous_forest,4,Asia
+"78",29165,,1.43023255813953,Central Korean deciduous forests,"2147",,0.0958288909698935,Central_Korean_deciduous_forest,4,Asia
+"79",29242,,2.11363636363636,Central Korean deciduous forests,"627",,2.51037910201692,Central_Korean_deciduous_forest,4,Asia
+"80",29244,,0.375,Central Korean deciduous forests,"672",,0.597914950936777,Central_Korean_deciduous_forest,4,Asia
+"81",29245,,3.19318181818182,Central Korean deciduous forests,"4323",,0.744512258546737,Central_Korean_deciduous_forest,4,Asia
+"82",29246,,2.28409090909091,Central Korean deciduous forests,"8607",,0.182582218414198,Central_Korean_deciduous_forest,4,Asia
+"83",29247,,1.47727272727273,Central Korean deciduous forests,"5050",,0.0938799307252913,Central_Korean_deciduous_forest,4,Asia
+"84",29327,,0.372093023255814,Central Korean deciduous forests,"963",,0.128371284659855,Central_Korean_deciduous_forest,4,Asia
+"85",29328,,0.116279069767442,Central Korean deciduous forests,"1395",,0,Central_Korean_deciduous_forest,4,Asia
+"86",28832,,1.38372093023256,Changbai Mountains mixed forests,"737",,2.87627518475852,Changbai_mountains_mixed_forest,4,Asia
+"87",28912,,2.36363636363636,Changbai Mountains mixed forests,"88",,1.23931436455912,Changbai_mountains_mixed_forest,4,Asia
+"88",28913,,4.45454545454545,Changbai Mountains mixed forests,"274",,0.255282528657735,Changbai_mountains_mixed_forest,4,Asia
+"89",28914,,5.10227272727273,Changbai Mountains mixed forests,"1822",,0.21478996753248,Changbai_mountains_mixed_forest,4,Asia
+"90",28993,,3.09302325581395,Changbai Mountains mixed forests,"1156",,1.92781351809744,Changbai_mountains_mixed_forest,4,Asia
+"91",28994,,4.8953488372093,Changbai Mountains mixed forests,"6698",,0.170687553051441,Changbai_mountains_mixed_forest,4,Asia
+"92",28995,,4.75581395348837,Changbai Mountains mixed forests,"7000",,0.0961683796566451,Changbai_mountains_mixed_forest,4,Asia
+"93",28996,,4.62790697674419,Changbai Mountains mixed forests,"3327",,2.93063125333713,Changbai_mountains_mixed_forest,4,Asia
+"94",29075,,3.80232558139535,Changbai Mountains mixed forests,"1224",,1.99842730925755,Changbai_mountains_mixed_forest,4,Asia
+"95",29076,,5.69767441860465,Changbai Mountains mixed forests,"7908",,0.105301328389459,Changbai_mountains_mixed_forest,4,Asia
+"96",29077,,6,Changbai Mountains mixed forests,"8031",,0.5519547941192,Changbai_mountains_mixed_forest,4,Asia
+"97",29078,,5.02325581395349,Changbai Mountains mixed forests,"7276",,1.48035656521299,Changbai_mountains_mixed_forest,4,Asia
+"98",29079,,3.31395348837209,Changbai Mountains mixed forests,"1635",,8.46810552362015,Changbai_mountains_mixed_forest,4,Asia
+"99",29156,,5.36046511627907,Changbai Mountains mixed forests,"113",,1.05593987546864,Changbai_mountains_mixed_forest,4,Asia
+"100",29157,,5.38372093023256,Changbai Mountains mixed forests,"6159",,0.234072492418964,Changbai_mountains_mixed_forest,4,Asia
+"101",29158,,6.69767441860465,Changbai Mountains mixed forests,"7970",,1.35260377599981,Changbai_mountains_mixed_forest,4,Asia
+"102",29159,,4.06976744186047,Changbai Mountains mixed forests,"7628",,6.10682430467631,Changbai_mountains_mixed_forest,4,Asia
+"103",29160,,1.58139534883721,Changbai Mountains mixed forests,"233",,1.89846536506493,Changbai_mountains_mixed_forest,4,Asia
+"104",29240,,5.27272727272727,Changbai Mountains mixed forests,"3986",,2.53771623210554,Changbai_mountains_mixed_forest,4,Asia
+"105",29241,,4.63636363636364,Changbai Mountains mixed forests,"7540",,4.4148333361199,Changbai_mountains_mixed_forest,4,Asia
+"106",29242,,2.11363636363636,Changbai Mountains mixed forests,"1039",,2.51037910201692,Changbai_mountains_mixed_forest,4,Asia
+"107",29321,,2.63953488372093,Changbai Mountains mixed forests,"434",,7.037560167518,Changbai_mountains_mixed_forest,4,Asia
+"108",29322,,3.54651162790698,Changbai Mountains mixed forests,"2980",,5.10533647064705,Changbai_mountains_mixed_forest,4,Asia
+"109",29323,,1.01162790697674,Changbai Mountains mixed forests,"59",,1.23859203790406,Changbai_mountains_mixed_forest,4,Asia
+"110",29404,,1.67441860465116,Changbai Mountains mixed forests,"281",,15.8005808603882,Changbai_mountains_mixed_forest,4,Asia
+"111",27531,,1.23255813953488,Changjiang Plain evergreen forests,"299",,0.42971634972908,Changjiang_Plain_evergreen_forest,4,Asia
+"112",27532,,1.16279069767442,Changjiang Plain evergreen forests,"690",,1.40808093123638,Changjiang_Plain_evergreen_forest,4,Asia
+"113",27610,,0.886363636363636,Changjiang Plain evergreen forests,"190",,13.2547467147457,Changjiang_Plain_evergreen_forest,4,Asia
+"114",27612,,0.943181818181818,Changjiang Plain evergreen forests,"2906",,0.171836623999592,Changjiang_Plain_evergreen_forest,4,Asia
+"115",27613,,1.02272727272727,Changjiang Plain evergreen forests,"1562",,0.714984516970009,Changjiang_Plain_evergreen_forest,4,Asia
+"116",27614,,0.659090909090909,Changjiang Plain evergreen forests,"3346",,0.370233462000601,Changjiang_Plain_evergreen_forest,4,Asia
+"117",27690,,0.418604651162791,Changjiang Plain evergreen forests,"2",,8.00830719488511,Changjiang_Plain_evergreen_forest,4,Asia
+"118",27691,,0.290697674418605,Changjiang Plain evergreen forests,"6556",,27.5949678320192,Changjiang_Plain_evergreen_forest,4,Asia
+"119",27692,,0.418604651162791,Changjiang Plain evergreen forests,"6931",,16.6614074511746,Changjiang_Plain_evergreen_forest,4,Asia
+"120",27693,,0.348837209302326,Changjiang Plain evergreen forests,"2385",,1.41958555731984,Changjiang_Plain_evergreen_forest,4,Asia
+"121",27694,,2.16279069767442,Changjiang Plain evergreen forests,"8429",,5.86601396761038,Changjiang_Plain_evergreen_forest,4,Asia
+"122",27695,,1.59302325581395,Changjiang Plain evergreen forests,"9324",,3.68998492847107,Changjiang_Plain_evergreen_forest,4,Asia
+"123",27696,,0.244186046511628,Changjiang Plain evergreen forests,"5075",,0.856378270980379,Changjiang_Plain_evergreen_forest,4,Asia
+"124",27697,,0.372093023255814,Changjiang Plain evergreen forests,"2848",,1.80625980106449,Changjiang_Plain_evergreen_forest,4,Asia
+"125",27773,,0.325581395348837,Changjiang Plain evergreen forests,"5755",,43.4977101968993,Changjiang_Plain_evergreen_forest,4,Asia
+"126",27774,,0.581395348837209,Changjiang Plain evergreen forests,"9025",,3.17704102407452,Changjiang_Plain_evergreen_forest,4,Asia
+"127",27775,,0.709302325581395,Changjiang Plain evergreen forests,"9122",,0.812702656705482,Changjiang_Plain_evergreen_forest,4,Asia
+"128",27776,,1.09302325581395,Changjiang Plain evergreen forests,"9217",,4.20496651135318,Changjiang_Plain_evergreen_forest,4,Asia
+"129",27777,,1.02325581395349,Changjiang Plain evergreen forests,"9267",,6.20198116048268,Changjiang_Plain_evergreen_forest,4,Asia
+"130",27778,,0.290697674418605,Changjiang Plain evergreen forests,"4882",,1.32201034907981,Changjiang_Plain_evergreen_forest,4,Asia
+"131",27779,,0.27906976744186,Changjiang Plain evergreen forests,"4672",,4.04063658597291,Changjiang_Plain_evergreen_forest,4,Asia
+"132",27780,,0.534883720930233,Changjiang Plain evergreen forests,"66",,4.39600451331253,Changjiang_Plain_evergreen_forest,4,Asia
+"133",27854,,0.409090909090909,Changjiang Plain evergreen forests,"122",,31.7045747579813,Changjiang_Plain_evergreen_forest,4,Asia
+"134",27855,,0.806818181818182,Changjiang Plain evergreen forests,"4308",,54.7133090569817,Changjiang_Plain_evergreen_forest,4,Asia
+"135",27856,,0.636363636363636,Changjiang Plain evergreen forests,"7740",,5.0192513165487,Changjiang_Plain_evergreen_forest,4,Asia
+"136",27857,,0.522727272727273,Changjiang Plain evergreen forests,"9170",,1.19974205622542,Changjiang_Plain_evergreen_forest,4,Asia
+"137",27858,,0.931818181818182,Changjiang Plain evergreen forests,"9263",,4.06497549372566,Changjiang_Plain_evergreen_forest,4,Asia
+"138",27859,,0.522727272727273,Changjiang Plain evergreen forests,"1948",,5.07448585591229,Changjiang_Plain_evergreen_forest,4,Asia
+"139",27860,,0.363636363636364,Changjiang Plain evergreen forests,"2895",,1.80620200645423,Changjiang_Plain_evergreen_forest,4,Asia
+"140",27938,,1.06976744186047,Changjiang Plain evergreen forests,"691",,43.1312555511703,Changjiang_Plain_evergreen_forest,4,Asia
+"141",27939,,0.744186046511628,Changjiang Plain evergreen forests,"9122",,0.691491072339533,Changjiang_Plain_evergreen_forest,4,Asia
+"142",27940,,0.965116279069767,Changjiang Plain evergreen forests,"9217",,0.64539217703604,Changjiang_Plain_evergreen_forest,4,Asia
+"143",27941,,0.383720930232558,Changjiang Plain evergreen forests,"5370",,12.287274601816,Changjiang_Plain_evergreen_forest,4,Asia
+"144",27942,,0.523255813953488,Changjiang Plain evergreen forests,"4794",,0.983276712848831,Changjiang_Plain_evergreen_forest,4,Asia
+"145",27943,,0.395348837209302,Changjiang Plain evergreen forests,"6445",,3.43909791201938,Changjiang_Plain_evergreen_forest,4,Asia
+"146",27944,,0.558139534883721,Changjiang Plain evergreen forests,"1614",,2.8080460601726,Changjiang_Plain_evergreen_forest,4,Asia
+"147",28019,,2.11627906976744,Changjiang Plain evergreen forests,"159",,69.322925252948,Changjiang_Plain_evergreen_forest,4,Asia
+"148",28020,,0.697674418604651,Changjiang Plain evergreen forests,"7458",,4.39459597708374,Changjiang_Plain_evergreen_forest,4,Asia
+"149",28021,,0.86046511627907,Changjiang Plain evergreen forests,"9170",,1.04090272036552,Changjiang_Plain_evergreen_forest,4,Asia
+"150",28022,,0.86046511627907,Changjiang Plain evergreen forests,"9263",,4.34826786262869,Changjiang_Plain_evergreen_forest,4,Asia
+"151",28023,,1.22093023255814,Changjiang Plain evergreen forests,"8477",,5.8625763645354,Changjiang_Plain_evergreen_forest,4,Asia
+"152",28024,,0.476744186046512,Changjiang Plain evergreen forests,"5283",,3.14673948897997,Changjiang_Plain_evergreen_forest,4,Asia
+"153",28102,,1.86046511627907,Changjiang Plain evergreen forests,"5362",,35.1269267816336,Changjiang_Plain_evergreen_forest,4,Asia
+"154",28103,,0.569767441860465,Changjiang Plain evergreen forests,"9122",,1.52531432505024,Changjiang_Plain_evergreen_forest,4,Asia
+"155",28104,,0.767441860465116,Changjiang Plain evergreen forests,"9217",,1.98108570781039,Changjiang_Plain_evergreen_forest,4,Asia
+"156",28105,,0.767441860465116,Changjiang Plain evergreen forests,"9308",,2.34405146746702,Changjiang_Plain_evergreen_forest,4,Asia
+"157",28106,,0.895348837209302,Changjiang Plain evergreen forests,"9110",,4.33485811164077,Changjiang_Plain_evergreen_forest,4,Asia
+"158",28107,,0.290697674418605,Changjiang Plain evergreen forests,"1187",,3.71183754110028,Changjiang_Plain_evergreen_forest,4,Asia
+"159",28183,,1.44318181818182,Changjiang Plain evergreen forests,"5408",,30.3138651421019,Changjiang_Plain_evergreen_forest,4,Asia
+"160",28184,,0.636363636363636,Changjiang Plain evergreen forests,"9074",,2.33600224401634,Changjiang_Plain_evergreen_forest,4,Asia
+"161",28185,,1.09090909090909,Changjiang Plain evergreen forests,"9170",,5.25942981841527,Changjiang_Plain_evergreen_forest,4,Asia
+"162",28186,,0.840909090909091,Changjiang Plain evergreen forests,"9263",,0.724598341555552,Changjiang_Plain_evergreen_forest,4,Asia
+"163",28187,,0.806818181818182,Changjiang Plain evergreen forests,"9353",,3.66869575051956,Changjiang_Plain_evergreen_forest,4,Asia
+"164",28188,,0.738636363636364,Changjiang Plain evergreen forests,"1329",,1.89598148348488,Changjiang_Plain_evergreen_forest,4,Asia
+"165",28265,,1.69767441860465,Changjiang Plain evergreen forests,"1093",,34.9871079730874,Changjiang_Plain_evergreen_forest,4,Asia
+"166",28266,,0.790697674418605,Changjiang Plain evergreen forests,"9025",,2.69841276208876,Changjiang_Plain_evergreen_forest,4,Asia
+"167",28267,,1.3953488372093,Changjiang Plain evergreen forests,"9122",,6.64899745875198,Changjiang_Plain_evergreen_forest,4,Asia
+"168",28268,,0.558139534883721,Changjiang Plain evergreen forests,"9217",,0.735761676533065,Changjiang_Plain_evergreen_forest,4,Asia
+"169",28269,,0.732558139534884,Changjiang Plain evergreen forests,"9308",,0.629846498765442,Changjiang_Plain_evergreen_forest,4,Asia
+"170",28270,,0.697674418604651,Changjiang Plain evergreen forests,"1131",,1.11646777938198,Changjiang_Plain_evergreen_forest,4,Asia
+"171",28346,,2.25581395348837,Changjiang Plain evergreen forests,"941",,47.645126885973,Changjiang_Plain_evergreen_forest,4,Asia
+"172",28347,,2.91860465116279,Changjiang Plain evergreen forests,"8672",,23.4763485104944,Changjiang_Plain_evergreen_forest,4,Asia
+"173",28348,,1.74418604651163,Changjiang Plain evergreen forests,"8763",,1.39983953075463,Changjiang_Plain_evergreen_forest,4,Asia
+"174",28349,,0.674418604651163,Changjiang Plain evergreen forests,"9170",,5.02702965248657,Changjiang_Plain_evergreen_forest,4,Asia
+"175",28350,,0.453488372093023,Changjiang Plain evergreen forests,"9263",,0.274438714278224,Changjiang_Plain_evergreen_forest,4,Asia
+"176",28351,,0.593023255813954,Changjiang Plain evergreen forests,"2808",,0.568298353589372,Changjiang_Plain_evergreen_forest,4,Asia
+"177",28429,,2.125,Changjiang Plain evergreen forests,"5515",,14.6240842549323,Changjiang_Plain_evergreen_forest,4,Asia
+"178",28430,,1.90909090909091,Changjiang Plain evergreen forests,"8670",,18.2964226598253,Changjiang_Plain_evergreen_forest,4,Asia
+"179",28431,,2.17045454545455,Changjiang Plain evergreen forests,"8905",,1.64165397189428,Changjiang_Plain_evergreen_forest,4,Asia
+"180",28432,,1.45454545454545,Changjiang Plain evergreen forests,"8490",,0.410542242216627,Changjiang_Plain_evergreen_forest,4,Asia
+"181",28433,,0.318181818181818,Changjiang Plain evergreen forests,"1947",,0.182828030626738,Changjiang_Plain_evergreen_forest,4,Asia
+"182",28511,,0.232558139534884,Changjiang Plain evergreen forests,"935",,1.16109398701187,Changjiang_Plain_evergreen_forest,4,Asia
+"183",28512,,2.05813953488372,Changjiang Plain evergreen forests,"6612",,3.18453221302191,Changjiang_Plain_evergreen_forest,4,Asia
+"184",28513,,2.97674418604651,Changjiang Plain evergreen forests,"8216",,1.24618456491127,Changjiang_Plain_evergreen_forest,4,Asia
+"185",28514,,0.790697674418605,Changjiang Plain evergreen forests,"3359",,0.672424780006965,Changjiang_Plain_evergreen_forest,4,Asia
+"186",28594,,0,Changjiang Plain evergreen forests,"29",,0,Changjiang_Plain_evergreen_forest,4,Asia
+"187",28595,,1.2093023255814,Changjiang Plain evergreen forests,"1564",,0.314330568877309,Changjiang_Plain_evergreen_forest,4,Asia
+"188",28596,,0.534883720930233,Changjiang Plain evergreen forests,"392",,0.0245694098708101,Changjiang_Plain_evergreen_forest,4,Asia
+"189",28597,,0.616279069767442,Changjiang Plain evergreen forests,"548",,0.0614186210238317,Changjiang_Plain_evergreen_forest,4,Asia
+"190",26872,,4.45348837209302,Daba Mountains evergreen forests,"641",,0,Daba_Mountains_evergreen_forest,4,Asia
+"191",26873,,2.74418604651163,Daba Mountains evergreen forests,"688",,0.0196815402084648,Daba_Mountains_evergreen_forest,4,Asia
+"192",26873,,2.74418604651163,Daba Mountains evergreen forests,"688",,0.0196815402084648,Daba_Mountains_evergreen_forest,5,Asia
+"193",26954,,3.34090909090909,Daba Mountains evergreen forests,"3033",,0,Daba_Mountains_evergreen_forest,4,Asia
+"194",26955,,1.35227272727273,Daba Mountains evergreen forests,"3817",,0.0132839061799578,Daba_Mountains_evergreen_forest,4,Asia
+"195",26955,,1.35227272727273,Daba Mountains evergreen forests,"3817",,0.0132839061799578,Daba_Mountains_evergreen_forest,5,Asia
+"196",27036,,1.1547619047619,Daba Mountains evergreen forests,"6478",,0,Daba_Mountains_evergreen_forest,4,Asia
+"197",27117,,1.68181818181818,Daba Mountains evergreen forests,"567",,0,Daba_Mountains_evergreen_forest,4,Asia
+"198",27118,,1.69318181818182,Daba Mountains evergreen forests,"8696",,0,Daba_Mountains_evergreen_forest,4,Asia
+"199",27119,,1.11363636363636,Daba Mountains evergreen forests,"5645",,0.00237142649734369,Daba_Mountains_evergreen_forest,4,Asia
+"200",27120,,0.511363636363636,Daba Mountains evergreen forests,"36",,0.00469366065539053,Daba_Mountains_evergreen_forest,4,Asia
+"201",27121,,0.329545454545455,Daba Mountains evergreen forests,"3170",,0.917330121272243,Daba_Mountains_evergreen_forest,4,Asia
+"202",27199,,1.81395348837209,Daba Mountains evergreen forests,"7289",,0.0934949743678045,Daba_Mountains_evergreen_forest,4,Asia
+"203",27200,,1.68604651162791,Daba Mountains evergreen forests,"9074",,0,Daba_Mountains_evergreen_forest,4,Asia
+"204",27201,,0.779069767441861,Daba Mountains evergreen forests,"3406",,0.0234780487179455,Daba_Mountains_evergreen_forest,4,Asia
+"205",27202,,0.790697674418605,Daba Mountains evergreen forests,"7608",,0.485189272681599,Daba_Mountains_evergreen_forest,4,Asia
+"206",27281,,2.54651162790698,Daba Mountains evergreen forests,"1268",,0.00242509545064266,Daba_Mountains_evergreen_forest,4,Asia
+"207",27282,,1.88372093023256,Daba Mountains evergreen forests,"9025",,0.00239734457411671,Daba_Mountains_evergreen_forest,4,Asia
+"208",27283,,1.5,Daba Mountains evergreen forests,"9122",,0.0141979951142421,Daba_Mountains_evergreen_forest,4,Asia
+"209",27284,,0.930232558139535,Daba Mountains evergreen forests,"7949",,0.00234653607814927,Daba_Mountains_evergreen_forest,4,Asia
+"210",27285,,1.74418604651163,Daba Mountains evergreen forests,"451",,0.0290336584045741,Daba_Mountains_evergreen_forest,4,Asia
+"211",27363,,1.23863636363636,Daba Mountains evergreen forests,"2783",,0.0961385843987228,Daba_Mountains_evergreen_forest,4,Asia
+"212",27364,,3.02272727272727,Daba Mountains evergreen forests,"9074",,0.0166801972587816,Daba_Mountains_evergreen_forest,4,Asia
+"213",27365,,1.03409090909091,Daba Mountains evergreen forests,"7176",,0.0258577560775589,Daba_Mountains_evergreen_forest,4,Asia
+"214",27446,,1.46511627906977,Daba Mountains evergreen forests,"7772",,0.101538404701696,Daba_Mountains_evergreen_forest,4,Asia
+"215",27447,,2.52325581395349,Daba Mountains evergreen forests,"9122",,0.0622323057003693,Daba_Mountains_evergreen_forest,4,Asia
+"216",27448,,1.80232558139535,Daba Mountains evergreen forests,"1143",,0.0280219470248468,Daba_Mountains_evergreen_forest,4,Asia
+"217",27527,,1.1046511627907,Daba Mountains evergreen forests,"1935",,0.0864663741523076,Daba_Mountains_evergreen_forest,4,Asia
+"218",27528,,2.19767441860465,Daba Mountains evergreen forests,"9074",,0.0431596350390344,Daba_Mountains_evergreen_forest,4,Asia
+"219",27529,,2.09302325581395,Daba Mountains evergreen forests,"6353",,0.0235092046511668,Daba_Mountains_evergreen_forest,4,Asia
+"220",27610,,0.886363636363636,Daba Mountains evergreen forests,"5120",,13.2547467147457,Daba_Mountains_evergreen_forest,4,Asia
+"221",27611,,1.82954545454545,Daba Mountains evergreen forests,"9122",,0.00237166383706019,Daba_Mountains_evergreen_forest,4,Asia
+"222",27612,,0.943181818181818,Daba Mountains evergreen forests,"2714",,0.171836623999592,Daba_Mountains_evergreen_forest,4,Asia
+"223",27692,,0.418604651162791,Daba Mountains evergreen forests,"2033",,16.6614074511746,Daba_Mountains_evergreen_forest,4,Asia
+"224",27693,,0.348837209302326,Daba Mountains evergreen forests,"6785",,1.41958555731984,Daba_Mountains_evergreen_forest,4,Asia
+"225",28328,,1.06976744186047,Da Hinggan-Dzhagdy Mountains conifer forests,"251",,45.5234284545404,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"226",28409,,1.04545454545455,Da Hinggan-Dzhagdy Mountains conifer forests,"2090",,21.9006486161046,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"227",28410,,2.19318181818182,Da Hinggan-Dzhagdy Mountains conifer forests,"4408",,11.8213853253295,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"228",28411,,2.36363636363636,Da Hinggan-Dzhagdy Mountains conifer forests,"3399",,17.7901447287613,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"229",28415,,3.30681818181818,Da Hinggan-Dzhagdy Mountains conifer forests,"2664",,3.38106795779451,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"230",28416,,1.17045454545455,Da Hinggan-Dzhagdy Mountains conifer forests,"956",,6.1287124898511,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"231",28490,,1.37209302325581,Da Hinggan-Dzhagdy Mountains conifer forests,"3772",,15.4212074424018,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"232",28491,,3.96511627906977,Da Hinggan-Dzhagdy Mountains conifer forests,"6470",,1.29169358055514,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"233",28492,,3.05813953488372,Da Hinggan-Dzhagdy Mountains conifer forests,"5011",,1.88063954500788,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"234",28493,,2.41860465116279,Da Hinggan-Dzhagdy Mountains conifer forests,"2750",,1.48049987908108,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"235",28494,,3.34883720930233,Da Hinggan-Dzhagdy Mountains conifer forests,"453",,6.61547019156157,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"236",28495,,2.87209302325581,Da Hinggan-Dzhagdy Mountains conifer forests,"407",,13.0372850635924,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"237",28496,,3.7093023255814,Da Hinggan-Dzhagdy Mountains conifer forests,"5701",,3.39215658186463,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"238",28497,,1.26744186046512,Da Hinggan-Dzhagdy Mountains conifer forests,"5367",,1.54373046237282,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"239",28572,,0.430232558139535,Da Hinggan-Dzhagdy Mountains conifer forests,"496",,16.3053215976403,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"240",28573,,7.88372093023256,Da Hinggan-Dzhagdy Mountains conifer forests,"6081",,10.597683844245,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"241",28574,,2.51162790697674,Da Hinggan-Dzhagdy Mountains conifer forests,"1878",,0.343594047815307,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"242",28576,,2.68604651162791,Da Hinggan-Dzhagdy Mountains conifer forests,"5670",,0.689453669794972,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"243",28577,,3.3953488372093,Da Hinggan-Dzhagdy Mountains conifer forests,"2231",,7.9431611152879,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"244",28578,,3.32558139534884,Da Hinggan-Dzhagdy Mountains conifer forests,"5543",,39.7275346428367,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"245",28579,,1.17441860465116,Da Hinggan-Dzhagdy Mountains conifer forests,"2034",,18.7516135487719,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"246",28654,,13.0909090909091,Da Hinggan-Dzhagdy Mountains conifer forests,"5751",,32.264992877588,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"247",28655,,2.29545454545455,Da Hinggan-Dzhagdy Mountains conifer forests,"1208",,0.244417118506464,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"248",28657,,2.48863636363636,Da Hinggan-Dzhagdy Mountains conifer forests,"2992",,0.771017999589869,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"249",28658,,2.94318181818182,Da Hinggan-Dzhagdy Mountains conifer forests,"6906",,17.5658905307851,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"250",28659,,2.98863636363636,Da Hinggan-Dzhagdy Mountains conifer forests,"5426",,29.3338248523976,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"251",28660,,0.522727272727273,Da Hinggan-Dzhagdy Mountains conifer forests,"40",,20.6724089638177,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"252",28736,,4.09302325581395,Da Hinggan-Dzhagdy Mountains conifer forests,"2675",,15.7081833359987,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"253",28737,,10.5813953488372,Da Hinggan-Dzhagdy Mountains conifer forests,"4908",,10.1455266338623,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"254",28739,,2.47674418604651,Da Hinggan-Dzhagdy Mountains conifer forests,"2165",,0.924834916070979,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"255",28740,,2.58139534883721,Da Hinggan-Dzhagdy Mountains conifer forests,"6835",,10.960668384755,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"256",28741,,2.56976744186047,Da Hinggan-Dzhagdy Mountains conifer forests,"6333",,43.0896609608684,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"257",28818,,13.7441860465116,Da Hinggan-Dzhagdy Mountains conifer forests,"6051",,31.0951388788859,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"258",28819,,5.94186046511628,Da Hinggan-Dzhagdy Mountains conifer forests,"5966",,15.6672740802194,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"259",28820,,3.56976744186047,Da Hinggan-Dzhagdy Mountains conifer forests,"4435",,0.0868128158111855,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"260",28821,,2.82558139534884,Da Hinggan-Dzhagdy Mountains conifer forests,"5845",,8.84575322223274,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"261",28822,,2.08139534883721,Da Hinggan-Dzhagdy Mountains conifer forests,"2014",,36.4613516586093,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"262",28900,,3.42045454545455,Da Hinggan-Dzhagdy Mountains conifer forests,"1942",,27.497750953863,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"263",28901,,7.51136363636364,Da Hinggan-Dzhagdy Mountains conifer forests,"5748",,59.4303206063691,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"264",28902,,3.10227272727273,Da Hinggan-Dzhagdy Mountains conifer forests,"681",,24.9620396410763,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"265",28903,,3.18181818181818,Da Hinggan-Dzhagdy Mountains conifer forests,"166",,14.4379850598111,Dzhagdy_mountains_conifer_forest - NP,4,Asia
+"266",28903,,3.18181818181818,Da Hinggan-Dzhagdy Mountains conifer forests,"166",,14.4379850598111,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"267",28982,,8.86046511627907,Da Hinggan-Dzhagdy Mountains conifer forests,"4299",,29.1126741523876,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"268",28983,,8.2906976744186,Da Hinggan-Dzhagdy Mountains conifer forests,"2122",,75.5754308165164,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"269",29064,,1.72093023255814,Da Hinggan-Dzhagdy Mountains conifer forests,"451",,23.7867385008245,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"270",29065,,10.4651162790698,Da Hinggan-Dzhagdy Mountains conifer forests,"6310",,59.519740564442,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"271",29066,,14.4302325581395,Da Hinggan-Dzhagdy Mountains conifer forests,"562",,83.3428418399402,Dzhagdy_mountains_conifer_forest - NP,4,Asia
+"272",29066,,14.4302325581395,Da Hinggan-Dzhagdy Mountains conifer forests,"562",,83.3428418399402,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"273",29146,,6.25581395348837,Da Hinggan-Dzhagdy Mountains conifer forests,"2682",,27.0142678821438,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"274",29147,,6.2906976744186,Da Hinggan-Dzhagdy Mountains conifer forests,"1686",,73.4112577560506,Dzhagdy_mountains_conifer_forest - NP,4,Asia
+"275",29147,,6.2906976744186,Da Hinggan-Dzhagdy Mountains conifer forests,"1686",,73.4112577560506,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"276",29229,,4.11363636363636,Da Hinggan-Dzhagdy Mountains conifer forests,"953",,57.9440658315475,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"277",29230,,12.875,Da Hinggan-Dzhagdy Mountains conifer forests,"1484",,80.5551810461183,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"278",29311,,3.75581395348837,Da Hinggan-Dzhagdy Mountains conifer forests,"819",,57.4488652466316,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"279",29312,,19.4767441860465,Da Hinggan-Dzhagdy Mountains conifer forests,"901",,92.9057333680877,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"280",29393,,3.82558139534884,Da Hinggan-Dzhagdy Mountains conifer forests,"312",,20.1717601127712,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"281",29394,,14.0116279069767,Da Hinggan-Dzhagdy Mountains conifer forests,"4238",,53.0837368886122,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"282",29475,,3.375,Da Hinggan-Dzhagdy Mountains conifer forests,"1182",,9.31913215649543,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"283",29476,,13.5227272727273,Da Hinggan-Dzhagdy Mountains conifer forests,"554",,30.2119832950423,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"284",29558,,1.73255813953488,Da Hinggan-Dzhagdy Mountains conifer forests,"0",,9.20939689822452,Dzhagdy_mountains_conifer_forest - NP,5,Asia
+"285",25867,,2.40909090909091,East Siberian taiga,"1354",1.92672907215433,,East_Siberian_taiga - NP,5,Asia
+"286",28490,,1.37209302325581,East Siberian taiga,"20",15.4212074424018,,East_Siberian_taiga - NP,5,Asia
+"287",29558,,1.73255813953488,East Siberian taiga,"46",9.20939689822452,,East_Siberian_taiga - NP,5,Asia
+"288",22421,,2.55813953488372,East European forest steppe,"0",0.582273906098647,,Eastern_European_forest_steppe,4,Asia
+"289",22421,,2.55813953488372,East European forest steppe,"4034",0.582273906098647,,Eastern_European_forest_steppe,4,Asia
+"290",22421,,2.55813953488372,East European forest steppe,"599",0.582273906098647,,Eastern_European_forest_steppe,4,Asia
+"291",22504,,1.86046511627907,East European forest steppe,"13",0.223983088009446,,Eastern_European_forest_steppe,4,Asia
+"292",19730,,0.397727272727273,Euxine-Colchic broadleaf forests,"71",0.901733542228849,,Euxine-Colchic_broadleaf_forest,4,Asia
+"293",19811,,0.686046511627907,Euxine-Colchic broadleaf forests,"2600",0.0826063456889118,,Euxine-Colchic_broadleaf_forest,4,Asia
+"294",19812,,0.465116279069767,Euxine-Colchic broadleaf forests,"1650",0.367193232420409,,Euxine-Colchic_broadleaf_forest,4,Asia
+"295",19893,,0.186046511627907,Euxine-Colchic broadleaf forests,"977",0.0107751734127327,,Euxine-Colchic_broadleaf_forest,4,Asia
+"296",19894,,0.593023255813954,Euxine-Colchic broadleaf forests,"5492",0.574465896495657,,Euxine-Colchic_broadleaf_forest,4,Asia
+"297",19975,,0.965909090909091,Euxine-Colchic broadleaf forests,"5005",0.255519216758396,,Euxine-Colchic_broadleaf_forest,4,Asia
+"298",20057,,0.697674418604651,Euxine-Colchic broadleaf forests,"4016",0.00538792316465533,,Euxine-Colchic_broadleaf_forest,4,Asia
+"299",20058,,0.674418604651163,Euxine-Colchic broadleaf forests,"1094",0.366208030898231,,Euxine-Colchic_broadleaf_forest,4,Asia
+"300",20138,,0.720930232558139,Euxine-Colchic broadleaf forests,"2585",0.00815021384522797,,Euxine-Colchic_broadleaf_forest,4,Asia
+"301",20138,,0.720930232558139,Euxine-Colchic broadleaf forests,"2585",0.00815021384522797,,Euxine-Colchic_broadleaf_forest,5,Asia
+"302",20139,,0.767441860465116,Euxine-Colchic broadleaf forests,"2024",0.241669979979799,,Euxine-Colchic_broadleaf_forest,4,Asia
+"303",20220,,0.0340909090909091,Euxine-Colchic broadleaf forests,"26",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"304",20221,,1.59090909090909,Euxine-Colchic broadleaf forests,"1367",0.110249990810277,,Euxine-Colchic_broadleaf_forest,4,Asia
+"305",20302,,1.03488372093023,Euxine-Colchic broadleaf forests,"3074",0.046052530800969,,Euxine-Colchic_broadleaf_forest,4,Asia
+"306",20303,,0.511627906976744,Euxine-Colchic broadleaf forests,"118",1.42441396261794,,Euxine-Colchic_broadleaf_forest,4,Asia
+"307",20384,,0,Euxine-Colchic broadleaf forests,"24",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"308",20385,,0.86046511627907,Euxine-Colchic broadleaf forests,"5218",0.520944757237556,,Euxine-Colchic_broadleaf_forest,4,Asia
+"309",20466,,0.136363636363636,Euxine-Colchic broadleaf forests,"457",0.364865960162631,,Euxine-Colchic_broadleaf_forest,4,Asia
+"310",20467,,0.988636363636364,Euxine-Colchic broadleaf forests,"4697",0.324984138127036,,Euxine-Colchic_broadleaf_forest,4,Asia
+"311",20549,,0.406976744186047,Euxine-Colchic broadleaf forests,"1506",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"312",20550,,0.965116279069767,Euxine-Colchic broadleaf forests,"2331",0.188122788189156,,Euxine-Colchic_broadleaf_forest,4,Asia
+"313",20631,,1.27906976744186,Euxine-Colchic broadleaf forests,"3475",0.0307389045376858,,Euxine-Colchic_broadleaf_forest,4,Asia
+"314",20632,,0.0581395348837209,Euxine-Colchic broadleaf forests,"36",2.37007509948793,,Euxine-Colchic_broadleaf_forest,4,Asia
+"315",20713,,0.0930232558139535,Euxine-Colchic broadleaf forests,"81",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"316",20714,,1.25581395348837,Euxine-Colchic broadleaf forests,"3477",0.269095838296991,,Euxine-Colchic_broadleaf_forest,4,Asia
+"317",20795,,1.125,Euxine-Colchic broadleaf forests,"3104",0.080143292695433,,Euxine-Colchic_broadleaf_forest,4,Asia
+"318",20877,,0.0465116279069767,Euxine-Colchic broadleaf forests,"435",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"319",20878,,1.30232558139535,Euxine-Colchic broadleaf forests,"1761",0.0516899903327329,,Euxine-Colchic_broadleaf_forest,4,Asia
+"320",20957,,3.13953488372093,Euxine-Colchic broadleaf forests,"770",0.214908583910338,,Euxine-Colchic_broadleaf_forest,4,Asia
+"321",20958,,0.86046511627907,Euxine-Colchic broadleaf forests,"1690",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"322",20959,,2.38372093023256,Euxine-Colchic broadleaf forests,"1682",0.0508142846201881,,Euxine-Colchic_broadleaf_forest,4,Asia
+"323",21040,,3.10227272727273,Euxine-Colchic broadleaf forests,"3035",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"324",21041,,2.875,Euxine-Colchic broadleaf forests,"231",0.0134750463921115,,Euxine-Colchic_broadleaf_forest,4,Asia
+"325",21122,,2.33720930232558,Euxine-Colchic broadleaf forests,"655",0,,Euxine-Colchic_broadleaf_forest,4,Asia
+"326",26298,,0.488372093023256,Hengduan Mountains subalpine conifer forests,"998",,0,Henguan_subalpine_conifer_forest,5,Asia
+"327",26299,,0.313953488372093,Hengduan Mountains subalpine conifer forests,"260",,0.01654951412298,Henguan_subalpine_conifer_forest,5,Asia
+"328",26380,,0.441860465116279,Hengduan Mountains subalpine conifer forests,"4032",,0.0546152168139064,Henguan_subalpine_conifer_forest,5,Asia
+"329",26381,,0.627906976744186,Hengduan Mountains subalpine conifer forests,"5731",,0.0445977378351274,Henguan_subalpine_conifer_forest,5,Asia
+"330",26382,,0.302325581395349,Hengduan Mountains subalpine conifer forests,"2856",,0.290043707537345,Henguan_subalpine_conifer_forest,5,Asia
+"331",26383,,1.47674418604651,Hengduan Mountains subalpine conifer forests,"283",,0.0230585396656955,Henguan_subalpine_conifer_forest,5,Asia
+"332",26462,,0.545454545454545,Hengduan Mountains subalpine conifer forests,"498",,0,Henguan_subalpine_conifer_forest,5,Asia
+"333",26463,,0.681818181818182,Hengduan Mountains subalpine conifer forests,"3084",,0.205465227458356,Henguan_subalpine_conifer_forest,5,Asia
+"334",26464,,0.477272727272727,Hengduan Mountains subalpine conifer forests,"4443",,0.320002118520345,Henguan_subalpine_conifer_forest,5,Asia
+"335",26465,,0.534090909090909,Hengduan Mountains subalpine conifer forests,"7111",,0.446948700770176,Henguan_subalpine_conifer_forest,5,Asia
+"336",26466,,1.43181818181818,Hengduan Mountains subalpine conifer forests,"6370",,0.26094237121658,Henguan_subalpine_conifer_forest,5,Asia
+"337",26467,,3.20454545454545,Hengduan Mountains subalpine conifer forests,"3118",,3.37160297757668,Henguan_subalpine_conifer_forest,5,Asia
+"338",26544,,0.372093023255814,Hengduan Mountains subalpine conifer forests,"204",,0.0500956804580674,Henguan_subalpine_conifer_forest,5,Asia
+"339",26545,,0.802325581395349,Hengduan Mountains subalpine conifer forests,"3177",,0.0951688874446922,Henguan_subalpine_conifer_forest,5,Asia
+"340",26546,,0.465116279069767,Hengduan Mountains subalpine conifer forests,"2756",,0.0802512816423101,Henguan_subalpine_conifer_forest,5,Asia
+"341",26547,,0.593023255813954,Hengduan Mountains subalpine conifer forests,"2230",,0.815219453535649,Henguan_subalpine_conifer_forest,5,Asia
+"342",26548,,2.1046511627907,Hengduan Mountains subalpine conifer forests,"8004",,2.6451002315066,Henguan_subalpine_conifer_forest,5,Asia
+"343",26549,,1.36046511627907,Hengduan Mountains subalpine conifer forests,"5181",,4.62463452753736,Henguan_subalpine_conifer_forest,5,Asia
+"344",26627,,1.23255813953488,Hengduan Mountains subalpine conifer forests,"722",,0.0736966508866157,Henguan_subalpine_conifer_forest,5,Asia
+"345",26628,,1.53488372093023,Hengduan Mountains subalpine conifer forests,"4155",,1.51987224353245,Henguan_subalpine_conifer_forest,5,Asia
+"346",26629,,1.44186046511628,Hengduan Mountains subalpine conifer forests,"7756",,1.60941248313741,Henguan_subalpine_conifer_forest,5,Asia
+"347",26630,,2.17441860465116,Hengduan Mountains subalpine conifer forests,"6859",,2.05701338412279,Henguan_subalpine_conifer_forest,5,Asia
+"348",26631,,1.32558139534884,Hengduan Mountains subalpine conifer forests,"6935",,5.67791243514474,Henguan_subalpine_conifer_forest,5,Asia
+"349",26632,,0.674418604651163,Hengduan Mountains subalpine conifer forests,"2133",,5.41917341050333,Henguan_subalpine_conifer_forest,5,Asia
+"350",26710,,3.29545454545455,Hengduan Mountains subalpine conifer forests,"737",,0.441467482498754,Henguan_subalpine_conifer_forest,5,Asia
+"351",26711,,3.11363636363636,Hengduan Mountains subalpine conifer forests,"2609",,0.577939599723242,Henguan_subalpine_conifer_forest,5,Asia
+"352",26712,,1.73863636363636,Hengduan Mountains subalpine conifer forests,"5772",,5.99389490679473,Henguan_subalpine_conifer_forest,5,Asia
+"353",26713,,1.15909090909091,Hengduan Mountains subalpine conifer forests,"1275",,6.66124046426711,Henguan_subalpine_conifer_forest,5,Asia
+"354",30305,,1.82954545454545,Hokkaido deciduous forests,"1152",,0,Hokkaido_deciduous_forest,4,Asia
+"355",30387,,1.91860465116279,Hokkaido deciduous forests,"1179",,0,Hokkaido_deciduous_forest,4,Asia
+"356",30387,,1.91860465116279,Hokkaido deciduous forests,"1179",,0,Hokkaido_deciduous_forest,5,Asia
+"357",30388,,2.96511627906977,Hokkaido deciduous forests,"1805",,0,Hokkaido_deciduous_forest,4,Asia
+"358",30467,,2.81395348837209,Hokkaido deciduous forests,"234",,0.0770408580778557,Hokkaido_deciduous_forest,4,Asia
+"359",30468,,3.7906976744186,Hokkaido deciduous forests,"3827",,0,Hokkaido_deciduous_forest,4,Asia
+"360",30468,,3.7906976744186,Hokkaido deciduous forests,"3827",,0,Hokkaido_deciduous_forest,5,Asia
+"361",30469,,4.97674418604651,Hokkaido deciduous forests,"6500",,0,Hokkaido_deciduous_forest,4,Asia
+"362",30469,,4.97674418604651,Hokkaido deciduous forests,"6500",,0,Hokkaido_deciduous_forest,5,Asia
+"363",30470,,0,Hokkaido deciduous forests,"71",,0,Hokkaido_deciduous_forest,4,Asia
+"364",30550,,3.77272727272727,Hokkaido deciduous forests,"26",,0,Hokkaido_deciduous_forest,4,Asia
+"365",30551,,6.63636363636364,Hokkaido deciduous forests,"593",,0,Hokkaido_deciduous_forest,4,Asia
+"366",30552,,4.88636363636364,Hokkaido deciduous forests,"1729",,0,Hokkaido_deciduous_forest,4,Asia
+"367",30552,,4.88636363636364,Hokkaido deciduous forests,"1729",,0,Hokkaido_deciduous_forest,5,Asia
+"368",30633,,3.37209302325581,Hokkaido deciduous forests,"2659",,0,Hokkaido_deciduous_forest,4,Asia
+"369",30634,,0.36046511627907,Hokkaido deciduous forests,"414",,0,Hokkaido_deciduous_forest,4,Asia
+"370",30467,,2.81395348837209,Hokkaido montane conifer forests,"4481",,0.0770408580778557,Hokkaido_montane_conifer_forest,4,Asia
+"371",30467,,2.81395348837209,Hokkaido montane conifer forests,"4481",,0.0770408580778557,Hokkaido_montane_conifer_forest,5,Asia
+"372",30468,,3.7906976744186,Hokkaido montane conifer forests,"2034",,0,Hokkaido_montane_conifer_forest,5,Asia
+"373",30469,,4.97674418604651,Hokkaido montane conifer forests,"843",,0,Hokkaido_montane_conifer_forest,5,Asia
+"374",30549,,0.0681818181818182,Hokkaido montane conifer forests,"5",,0,Hokkaido_montane_conifer_forest,4,Asia
+"375",30549,,0.0681818181818182,Hokkaido montane conifer forests,"5",,0,Hokkaido_montane_conifer_forest,5,Asia
+"376",30550,,3.77272727272727,Hokkaido montane conifer forests,"4469",,0,Hokkaido_montane_conifer_forest,4,Asia
+"377",30550,,3.77272727272727,Hokkaido montane conifer forests,"4469",,0,Hokkaido_montane_conifer_forest,5,Asia
+"378",30551,,6.63636363636364,Hokkaido montane conifer forests,"7190",,0,Hokkaido_montane_conifer_forest,4,Asia
+"379",30551,,6.63636363636364,Hokkaido montane conifer forests,"7190",,0,Hokkaido_montane_conifer_forest,5,Asia
+"380",30552,,4.88636363636364,Hokkaido montane conifer forests,"4994",,0,Hokkaido_montane_conifer_forest,5,Asia
+"381",30632,,3.96511627906977,Hokkaido montane conifer forests,"3605",,0,Hokkaido_montane_conifer_forest,5,Asia
+"382",30633,,3.37209302325581,Hokkaido montane conifer forests,"4053",,0,Hokkaido_montane_conifer_forest,4,Asia
+"383",30633,,3.37209302325581,Hokkaido montane conifer forests,"4053",,0,Hokkaido_montane_conifer_forest,5,Asia
+"384",30634,,0.36046511627907,Hokkaido montane conifer forests,"453",,0,Hokkaido_montane_conifer_forest,4,Asia
+"385",30634,,0.36046511627907,Hokkaido montane conifer forests,"453",,0,Hokkaido_montane_conifer_forest,5,Asia
+"386",30715,,4.41860465116279,Hokkaido montane conifer forests,"6187",,0,Hokkaido_montane_conifer_forest,5,Asia
+"387",30716,,0.209302325581395,Hokkaido montane conifer forests,"224",,0,Hokkaido_montane_conifer_forest,5,Asia
+"388",30796,,1.79545454545455,Hokkaido montane conifer forests,"1525",,0,Hokkaido_montane_conifer_forest,5,Asia
+"389",30797,,0.965909090909091,Hokkaido montane conifer forests,"1769",,0,Hokkaido_montane_conifer_forest,5,Asia
+"390",30879,,0.0813953488372093,Hokkaido montane conifer forests,"33",,0,Hokkaido_montane_conifer_forest,5,Asia
+"391",27116,,1.55681818181818,Huang He Plain mixed forests,"1416",,0.0953296681047302,Huang_He_plain_mixed_forest,4,Asia
+"392",27197,,0.383720930232558,Huang He Plain mixed forests,"925",,0.488350838425488,Huang_He_plain_mixed_forest,4,Asia
+"393",27198,,2.06976744186047,Huang He Plain mixed forests,"2560",,6.53606306771433,Huang_He_plain_mixed_forest,4,Asia
+"394",27279,,0.290697674418605,Huang He Plain mixed forests,"1239",,0.163017458569403,Huang_He_plain_mixed_forest,4,Asia
+"395",27280,,0.686046511627907,Huang He Plain mixed forests,"5984",,15.2863969991736,Huang_He_plain_mixed_forest,4,Asia
+"396",27281,,2.54651162790698,Huang He Plain mixed forests,"297",,0.00242509545064266,Huang_He_plain_mixed_forest,4,Asia
+"397",27361,,0.477272727272727,Huang He Plain mixed forests,"4571",,12.8728756237813,Huang_He_plain_mixed_forest,4,Asia
+"398",27362,,1.44318181818182,Huang He Plain mixed forests,"4977",,17.7855137406063,Huang_He_plain_mixed_forest,4,Asia
+"399",27443,,0.627906976744186,Huang He Plain mixed forests,"1545",,1.14592160070285,Huang_He_plain_mixed_forest,4,Asia
+"400",27444,,0.569767441860465,Huang He Plain mixed forests,"7038",,8.12709788012122,Huang_He_plain_mixed_forest,4,Asia
+"401",27524,,0.372093023255814,Huang He Plain mixed forests,"512",,0.445284724365878,Huang_He_plain_mixed_forest,4,Asia
+"402",27525,,0.13953488372093,Huang He Plain mixed forests,"8338",,1.03105083596277,Huang_He_plain_mixed_forest,4,Asia
+"403",27526,,1.09302325581395,Huang He Plain mixed forests,"463",,0.356587817698708,Huang_He_plain_mixed_forest,4,Asia
+"404",27607,,0.397727272727273,Huang He Plain mixed forests,"5736",,1.1584404103537,Huang_He_plain_mixed_forest,4,Asia
+"405",27608,,0.443181818181818,Huang He Plain mixed forests,"5527",,1.45348320057583,Huang_He_plain_mixed_forest,4,Asia
+"406",27688,,0.627906976744186,Huang He Plain mixed forests,"308",,2.76057142596516,Huang_He_plain_mixed_forest,4,Asia
+"407",27689,,0.418604651162791,Huang He Plain mixed forests,"5607",,9.41357948394008,Huang_He_plain_mixed_forest,4,Asia
+"408",27690,,0.418604651162791,Huang He Plain mixed forests,"1634",,8.00830719488511,Huang_He_plain_mixed_forest,4,Asia
+"409",27771,,0.627906976744186,Huang He Plain mixed forests,"1332",,11.3708661718529,Huang_He_plain_mixed_forest,4,Asia
+"410",27772,,0.151162790697674,Huang He Plain mixed forests,"8823",,7.28012991308246,Huang_He_plain_mixed_forest,4,Asia
+"411",27773,,0.325581395348837,Huang He Plain mixed forests,"1973",,43.4977101968993,Huang_He_plain_mixed_forest,4,Asia
+"412",27850,,0.181818181818182,Huang He Plain mixed forests,"633",,4.58437529161123,Huang_He_plain_mixed_forest,4,Asia
+"413",27851,,0.159090909090909,Huang He Plain mixed forests,"41",,7.88060163958848,Huang_He_plain_mixed_forest,4,Asia
+"414",27852,,0.363636363636364,Huang He Plain mixed forests,"1463",,19.7054246317415,Huang_He_plain_mixed_forest,4,Asia
+"415",27853,,0.227272727272727,Huang He Plain mixed forests,"7148",,18.1691144686468,Huang_He_plain_mixed_forest,4,Asia
+"416",27854,,0.409090909090909,Huang He Plain mixed forests,"8753",,31.7045747579813,Huang_He_plain_mixed_forest,4,Asia
+"417",27855,,0.806818181818182,Huang He Plain mixed forests,"4668",,54.7133090569817,Huang_He_plain_mixed_forest,4,Asia
+"418",27856,,0.636363636363636,Huang He Plain mixed forests,"1332",,5.0192513165487,Huang_He_plain_mixed_forest,4,Asia
+"419",27931,,0.255813953488372,Huang He Plain mixed forests,"31",,1.37579343604807,Huang_He_plain_mixed_forest,4,Asia
+"420",27932,,0.395348837209302,Huang He Plain mixed forests,"4508",,15.5579279608594,Huang_He_plain_mixed_forest,4,Asia
+"421",27933,,0.779069767441861,Huang He Plain mixed forests,"7979",,19.085218394567,Huang_He_plain_mixed_forest,4,Asia
+"422",27934,,0.372093023255814,Huang He Plain mixed forests,"8014",,15.5542898987552,Huang_He_plain_mixed_forest,4,Asia
+"423",27935,,0.5,Huang He Plain mixed forests,"8705",,24.4213572633325,Huang_He_plain_mixed_forest,4,Asia
+"424",27936,,0.709302325581395,Huang He Plain mixed forests,"8823",,29.9294751731431,Huang_He_plain_mixed_forest,4,Asia
+"425",27937,,1.25581395348837,Huang He Plain mixed forests,"8926",,59.8526860083831,Huang_He_plain_mixed_forest,4,Asia
+"426",27938,,1.06976744186047,Huang He Plain mixed forests,"8336",,43.1312555511703,Huang_He_plain_mixed_forest,4,Asia
+"427",28012,,0.372093023255814,Huang He Plain mixed forests,"2196",,0.981101413285575,Huang_He_plain_mixed_forest,4,Asia
+"428",28013,,0.27906976744186,Huang He Plain mixed forests,"7728",,10.196777553045,Huang_He_plain_mixed_forest,4,Asia
+"429",28014,,0.418604651162791,Huang He Plain mixed forests,"8443",,7.7252350863493,Huang_He_plain_mixed_forest,4,Asia
+"430",28015,,0.453488372093023,Huang He Plain mixed forests,"8555",,7.70356069130606,Huang_He_plain_mixed_forest,4,Asia
+"431",28016,,0.302325581395349,Huang He Plain mixed forests,"8664",,14.943201151595,Huang_He_plain_mixed_forest,4,Asia
+"432",28017,,0.465116279069767,Huang He Plain mixed forests,"8771",,10.9630091435127,Huang_He_plain_mixed_forest,4,Asia
+"433",28018,,1.16279069767442,Huang He Plain mixed forests,"8875",,48.2038636520782,Huang_He_plain_mixed_forest,4,Asia
+"434",28019,,2.11627906976744,Huang He Plain mixed forests,"8817",,69.322925252948,Huang_He_plain_mixed_forest,4,Asia
+"435",28020,,0.697674418604651,Huang He Plain mixed forests,"1615",,4.39459597708374,Huang_He_plain_mixed_forest,4,Asia
+"436",28094,,0.232558139534884,Huang He Plain mixed forests,"1241",,0.931377604725482,Huang_He_plain_mixed_forest,4,Asia
+"437",28095,,0.197674418604651,Huang He Plain mixed forests,"8270",,5.42851663882854,Huang_He_plain_mixed_forest,4,Asia
+"438",28096,,0.151162790697674,Huang He Plain mixed forests,"8386",,1.62237711767892,Huang_He_plain_mixed_forest,4,Asia
+"439",28097,,0.395348837209302,Huang He Plain mixed forests,"8499",,5.81641289231209,Huang_He_plain_mixed_forest,4,Asia
+"440",28098,,0.267441860465116,Huang He Plain mixed forests,"8610",,10.8438143989831,Huang_He_plain_mixed_forest,4,Asia
+"441",28099,,0.302325581395349,Huang He Plain mixed forests,"8718",,30.252188141834,Huang_He_plain_mixed_forest,4,Asia
+"442",28100,,0.790697674418605,Huang He Plain mixed forests,"8823",,37.0959599055503,Huang_He_plain_mixed_forest,4,Asia
+"443",28101,,2.08139534883721,Huang He Plain mixed forests,"8926",,87.3556805168609,Huang_He_plain_mixed_forest,4,Asia
+"444",28102,,1.86046511627907,Huang He Plain mixed forests,"3662",,35.1269267816336,Huang_He_plain_mixed_forest,4,Asia
+"445",28176,,0.568181818181818,Huang He Plain mixed forests,"4803",,4.38445310237936,Huang_He_plain_mixed_forest,4,Asia
+"446",28177,,0.636363636363636,Huang He Plain mixed forests,"4743",,5.81177677159424,Huang_He_plain_mixed_forest,4,Asia
+"447",28178,,0.409090909090909,Huang He Plain mixed forests,"6368",,2.68714788683748,Huang_He_plain_mixed_forest,4,Asia
+"448",28179,,0.409090909090909,Huang He Plain mixed forests,"8555",,17.4193579907249,Huang_He_plain_mixed_forest,4,Asia
+"449",28180,,0.113636363636364,Huang He Plain mixed forests,"8664",,1.1143189904963,Huang_He_plain_mixed_forest,4,Asia
+"450",28181,,0.272727272727273,Huang He Plain mixed forests,"8771",,21.8708820971279,Huang_He_plain_mixed_forest,4,Asia
+"451",28182,,1.59090909090909,Huang He Plain mixed forests,"8875",,57.2602689027584,Huang_He_plain_mixed_forest,4,Asia
+"452",28183,,1.44318181818182,Huang He Plain mixed forests,"3568",,30.3138651421019,Huang_He_plain_mixed_forest,4,Asia
+"453",28258,,0.802325581395349,Huang He Plain mixed forests,"649",,0.249040595001369,Huang_He_plain_mixed_forest,4,Asia
+"454",28259,,0.476744186046512,Huang He Plain mixed forests,"5130",,3.73763002973342,Huang_He_plain_mixed_forest,4,Asia
+"455",28261,,0.593023255813954,Huang He Plain mixed forests,"4546",,13.4349534628097,Huang_He_plain_mixed_forest,4,Asia
+"456",28262,,0.116279069767442,Huang He Plain mixed forests,"8610",,6.4419236334466,Huang_He_plain_mixed_forest,4,Asia
+"457",28263,,0.0581395348837209,Huang He Plain mixed forests,"8718",,2.51849114782102,Huang_He_plain_mixed_forest,4,Asia
+"458",28264,,1.01162790697674,Huang He Plain mixed forests,"8823",,36.1053838530142,Huang_He_plain_mixed_forest,4,Asia
+"459",28265,,1.69767441860465,Huang He Plain mixed forests,"7835",,34.9871079730874,Huang_He_plain_mixed_forest,4,Asia
+"460",28340,,0.5,Huang He Plain mixed forests,"2379",,0.394401430889506,Huang_He_plain_mixed_forest,4,Asia
+"461",28341,,0.0232558139534884,Huang He Plain mixed forests,"360",,0.144820216196488,Huang_He_plain_mixed_forest,4,Asia
+"462",28343,,0.174418604651163,Huang He Plain mixed forests,"4002",,4.64068024789101,Huang_He_plain_mixed_forest,4,Asia
+"463",28344,,0.0116279069767442,Huang He Plain mixed forests,"8630",,1.39002440412583,Huang_He_plain_mixed_forest,4,Asia
+"464",28345,,0.441860465116279,Huang He Plain mixed forests,"4637",,4.38454419137803,Huang_He_plain_mixed_forest,4,Asia
+"465",28346,,2.25581395348837,Huang He Plain mixed forests,"7880",,47.645126885973,Huang_He_plain_mixed_forest,4,Asia
+"466",28347,,2.91860465116279,Huang He Plain mixed forests,"302",,23.4763485104944,Huang_He_plain_mixed_forest,4,Asia
+"467",28425,,0.0795454545454545,Huang He Plain mixed forests,"4632",,1.54910925147721,Huang_He_plain_mixed_forest,4,Asia
+"468",28426,,0.181818181818182,Huang He Plain mixed forests,"7893",,3.32304769189721,Huang_He_plain_mixed_forest,4,Asia
+"469",28427,,0.0568181818181818,Huang He Plain mixed forests,"714",,0.153121823215528,Huang_He_plain_mixed_forest,4,Asia
+"470",28428,,0.625,Huang He Plain mixed forests,"118",,4.84086269586708,Huang_He_plain_mixed_forest,4,Asia
+"471",28429,,2.125,Huang He Plain mixed forests,"38",,14.6240842549323,Huang_He_plain_mixed_forest,4,Asia
+"472",28506,,0.0581395348837209,Huang He Plain mixed forests,"1270",,0.384613290066305,Huang_He_plain_mixed_forest,4,Asia
+"473",28507,,0.197674418604651,Huang He Plain mixed forests,"7515",,3.65621285173781,Huang_He_plain_mixed_forest,4,Asia
+"474",28508,,0.0348837209302326,Huang He Plain mixed forests,"191",,0.00249966158726195,Huang_He_plain_mixed_forest,4,Asia
+"475",28589,,0.186046511627907,Huang He Plain mixed forests,"3709",,0.279403211098522,Huang_He_plain_mixed_forest,4,Asia
+"476",28590,,0.104651162790698,Huang He Plain mixed forests,"661",,0.012546072601782,Huang_He_plain_mixed_forest,4,Asia
+"477",28671,,0.136363636363636,Huang He Plain mixed forests,"921",,0.251614702207597,Huang_He_plain_mixed_forest,4,Asia
+"478",28416,,1.17045454545455,Manchurian mixed forests,"1110",,6.1287124898511,Manchurian_mixed_forest,4,Asia
+"479",28497,,1.26744186046512,Manchurian mixed forests,"1955",,1.54373046237282,Manchurian_mixed_forest,4,Asia
+"480",28498,,0.0465116279069767,Manchurian mixed forests,"490",,0.591521300460422,Manchurian_mixed_forest,4,Asia
+"481",28578,,3.32558139534884,Manchurian mixed forests,"996",,39.7275346428367,Manchurian_mixed_forest,4,Asia
+"482",28579,,1.17441860465116,Manchurian mixed forests,"4335",,18.7516135487719,Manchurian_mixed_forest,4,Asia
+"483",28580,,0.0348837209302326,Manchurian mixed forests,"2328",,5.21033611147812,Manchurian_mixed_forest,4,Asia
+"484",28586,,0.767441860465116,Manchurian mixed forests,"12",,3.20215688470312,Manchurian_mixed_forest,4,Asia
+"485",28587,,0.267441860465116,Manchurian mixed forests,"1767",,1.15863669393218,Manchurian_mixed_forest,4,Asia
+"486",28659,,2.98863636363636,Manchurian mixed forests,"1620",,29.3338248523976,Manchurian_mixed_forest,4,Asia
+"487",28660,,0.522727272727273,Manchurian mixed forests,"4090",,20.6724089638177,Manchurian_mixed_forest,4,Asia
+"488",28667,,1.29545454545455,Manchurian mixed forests,"1975",,4.78223310408709,Manchurian_mixed_forest,4,Asia
+"489",28668,,0.909090909090909,Manchurian mixed forests,"4969",,1.2371356168868,Manchurian_mixed_forest,4,Asia
+"490",28741,,2.56976744186047,Manchurian mixed forests,"644",,43.0896609608684,Manchurian_mixed_forest,4,Asia
+"491",28742,,0.651162790697674,Manchurian mixed forests,"3767",,31.5141609313599,Manchurian_mixed_forest,4,Asia
+"492",28748,,0.534883720930233,Manchurian mixed forests,"802",,4.94974363835557,Manchurian_mixed_forest,4,Asia
+"493",28749,,2.47674418604651,Manchurian mixed forests,"4419",,3.7668467284059,Manchurian_mixed_forest,4,Asia
+"494",28750,,2.12790697674419,Manchurian mixed forests,"7353",,0.198925935202023,Manchurian_mixed_forest,4,Asia
+"495",28751,,0.197674418604651,Manchurian mixed forests,"0",,1.65479204153745,Manchurian_mixed_forest,4,Asia
+"496",28820,,3.56976744186047,Manchurian mixed forests,"452",,0.0868128158111855,Manchurian_mixed_forest,4,Asia
+"497",28820,,3.56976744186047,Manchurian mixed forests,"452",,0.0868128158111855,Manchurian_mixed_forest,5,Asia
+"498",28821,,2.82558139534884,Manchurian mixed forests,"917",,8.84575322223274,Manchurian_mixed_forest,4,Asia
+"499",28822,,2.08139534883721,Manchurian mixed forests,"4892",,36.4613516586093,Manchurian_mixed_forest,4,Asia
+"500",28823,,1.19767441860465,Manchurian mixed forests,"4343",,55.9919035464875,Manchurian_mixed_forest,4,Asia
+"501",28828,,0.151162790697674,Manchurian mixed forests,"1",,45.5556525205834,Manchurian_mixed_forest,4,Asia
+"502",28829,,1.03488372093023,Manchurian mixed forests,"4995",,3.82953559762618,Manchurian_mixed_forest,4,Asia
+"503",28830,,4,Manchurian mixed forests,"7970",,0.111280633283535,Manchurian_mixed_forest,4,Asia
+"504",28831,,4.18604651162791,Manchurian mixed forests,"8092",,0.226744198858624,Manchurian_mixed_forest,4,Asia
+"505",28832,,1.38372093023256,Manchurian mixed forests,"4615",,2.87627518475852,Manchurian_mixed_forest,4,Asia
+"506",28901,,7.51136363636364,Manchurian mixed forests,"650",,59.4303206063691,Manchurian_mixed_forest,4,Asia
+"507",28902,,3.10227272727273,Manchurian mixed forests,"5865",,24.9620396410763,Manchurian_mixed_forest,4,Asia
+"508",28903,,3.18181818181818,Manchurian mixed forests,"6525",,14.4379850598111,Manchurian_mixed_forest,4,Asia
+"509",28904,,3.19318181818182,Manchurian mixed forests,"6835",,35.8664532157029,Manchurian_mixed_forest,4,Asia
+"510",28905,,1.63636363636364,Manchurian mixed forests,"5296",,49.1979197079443,Manchurian_mixed_forest,4,Asia
+"511",28906,,0.840909090909091,Manchurian mixed forests,"151",,66.005831618286,Manchurian_mixed_forest,4,Asia
+"512",28911,,1.29545454545455,Manchurian mixed forests,"1446",,11.9187629878815,Manchurian_mixed_forest,4,Asia
+"513",28912,,2.36363636363636,Manchurian mixed forests,"5485",,1.23931436455912,Manchurian_mixed_forest,4,Asia
+"514",28913,,4.45454545454545,Manchurian mixed forests,"7759",,0.255282528657735,Manchurian_mixed_forest,4,Asia
+"515",28914,,5.10227272727273,Manchurian mixed forests,"6332",,0.21478996753248,Manchurian_mixed_forest,4,Asia
+"516",28915,,1.21590909090909,Manchurian mixed forests,"5678",,0.685146196793262,Manchurian_mixed_forest,4,Asia
+"517",28983,,8.2906976744186,Manchurian mixed forests,"4348",,75.5754308165164,Manchurian_mixed_forest,4,Asia
+"518",28984,,3.05813953488372,Manchurian mixed forests,"6214",,42.6931560736275,Manchurian_mixed_forest,4,Asia
+"519",28985,,3.45348837209302,Manchurian mixed forests,"5762",,43.7849961928545,Manchurian_mixed_forest,4,Asia
+"520",28985,,3.45348837209302,Manchurian mixed forests,"5762",,43.7849961928545,Manchurian_mixed_forest,5,Asia
+"521",28986,,3.88372093023256,Manchurian mixed forests,"6900",,37.7220921910215,Manchurian_mixed_forest,4,Asia
+"522",28987,,2.03488372093023,Manchurian mixed forests,"5034",,54.6750984350452,Manchurian_mixed_forest,4,Asia
+"523",28988,,1.12790697674419,Manchurian mixed forests,"184",,40.8907082791949,Manchurian_mixed_forest,4,Asia
+"524",28992,,1.91860465116279,Manchurian mixed forests,"3014",,23.6765189734904,Manchurian_mixed_forest,4,Asia
+"525",28993,,3.09302325581395,Manchurian mixed forests,"5496",,1.92781351809744,Manchurian_mixed_forest,4,Asia
+"526",28994,,4.8953488372093,Manchurian mixed forests,"1269",,0.170687553051441,Manchurian_mixed_forest,4,Asia
+"527",28995,,4.75581395348837,Manchurian mixed forests,"1092",,0.0961683796566451,Manchurian_mixed_forest,4,Asia
+"528",28996,,4.62790697674419,Manchurian mixed forests,"4882",,2.93063125333713,Manchurian_mixed_forest,4,Asia
+"529",28997,,2.19767441860465,Manchurian mixed forests,"5957",,2.86928549049236,Manchurian_mixed_forest,4,Asia
+"530",29066,,14.4302325581395,Manchurian mixed forests,"5981",,83.3428418399402,Manchurian_mixed_forest,4,Asia
+"531",29067,,5.12790697674419,Manchurian mixed forests,"1841",,73.9689891054772,Manchurian_mixed_forest,4,Asia
+"532",29068,,3.16279069767442,Manchurian mixed forests,"2933",,29.276400171342,Manchurian_mixed_forest,4,Asia
+"533",29068,,3.16279069767442,Manchurian mixed forests,"2933",,29.276400171342,Manchurian_mixed_forest,5,Asia
+"534",29069,,3.46511627906977,Manchurian mixed forests,"6398",,36.5463813002735,Manchurian_mixed_forest,4,Asia
+"535",29070,,2.76744186046512,Manchurian mixed forests,"6468",,42.5954439676986,Manchurian_mixed_forest,4,Asia
+"536",29071,,2.05813953488372,Manchurian mixed forests,"3198",,36.9271206926872,Manchurian_mixed_forest,4,Asia
+"537",29072,,1.54651162790698,Manchurian mixed forests,"1068",,55.0347983798976,Manchurian_mixed_forest,4,Asia
+"538",29073,,1.75581395348837,Manchurian mixed forests,"1236",,24.5634551036701,Manchurian_mixed_forest,4,Asia
+"539",29074,,2.93023255813953,Manchurian mixed forests,"3341",,13.5521049934876,Manchurian_mixed_forest,4,Asia
+"540",29075,,3.80232558139535,Manchurian mixed forests,"6557",,1.99842730925755,Manchurian_mixed_forest,4,Asia
+"541",29078,,5.02325581395349,Manchurian mixed forests,"859",,1.48035656521299,Manchurian_mixed_forest,4,Asia
+"542",29079,,3.31395348837209,Manchurian mixed forests,"2463",,8.46810552362015,Manchurian_mixed_forest,4,Asia
+"543",29080,,2.73255813953488,Manchurian mixed forests,"3590",,13.8063577987219,Manchurian_mixed_forest,4,Asia
+"544",29147,,6.2906976744186,Manchurian mixed forests,"1641",,73.4112577560506,Manchurian_mixed_forest,4,Asia
+"545",29148,,6.1046511627907,Manchurian mixed forests,"6263",,75.987692208169,Manchurian_mixed_forest,4,Asia
+"546",29149,,2.54651162790698,Manchurian mixed forests,"3",,60.1758060971556,Manchurian_mixed_forest,4,Asia
+"547",29150,,3.54651162790698,Manchurian mixed forests,"207",,60.8437564041767,Manchurian_mixed_forest,4,Asia
+"548",29151,,4.2906976744186,Manchurian mixed forests,"7047",,20.2770222934406,Manchurian_mixed_forest,4,Asia
+"549",29152,,5.16279069767442,Manchurian mixed forests,"7186",,9.35643931087905,Manchurian_mixed_forest,4,Asia
+"550",29153,,4.06976744186047,Manchurian mixed forests,"6223",,29.7264361923409,Manchurian_mixed_forest,4,Asia
+"551",29154,,2.26744186046512,Manchurian mixed forests,"3052",,12.8310786823056,Manchurian_mixed_forest,4,Asia
+"552",29154,,2.26744186046512,Manchurian mixed forests,"1155",,12.8310786823056,Manchurian_mixed_forest,4,Asia
+"553",29155,,3.48837209302326,Manchurian mixed forests,"6351",,2.30559788700721,Manchurian_mixed_forest,4,Asia
+"554",29156,,5.36046511627907,Manchurian mixed forests,"5204",,1.05593987546864,Manchurian_mixed_forest,4,Asia
+"555",29157,,5.38372093023256,Manchurian mixed forests,"1686",,0.234072492418964,Manchurian_mixed_forest,4,Asia
+"556",29159,,4.06976744186047,Manchurian mixed forests,"465",,6.10682430467631,Manchurian_mixed_forest,4,Asia
+"557",29160,,1.58139534883721,Manchurian mixed forests,"1651",,1.89846536506493,Manchurian_mixed_forest,4,Asia
+"558",29161,,0.988372093023256,Manchurian mixed forests,"1325",,10.4146236796717,Manchurian_mixed_forest,4,Asia
+"559",29162,,3.83720930232558,Manchurian mixed forests,"4012",,2.7414855954202,Manchurian_mixed_forest,4,Asia
+"560",29163,,2.77906976744186,Manchurian mixed forests,"30",,0.381760903795726,Manchurian_mixed_forest,4,Asia
+"561",29230,,12.875,Manchurian mixed forests,"2494",,80.5551810461183,Manchurian_mixed_forest,4,Asia
+"562",29230,,12.875,Manchurian mixed forests,"2494",,80.5551810461183,Manchurian_mixed_forest,5,Asia
+"563",29231,,5.86363636363636,Manchurian mixed forests,"3459",,82.0766485926761,Manchurian_mixed_forest,4,Asia
+"564",29232,,4.43181818181818,Manchurian mixed forests,"428",,57.3878201486804,Manchurian_mixed_forest,4,Asia
+"565",29233,,5.05681818181818,Manchurian mixed forests,"2170",,69.7956560134605,Manchurian_mixed_forest,4,Asia
+"566",29234,,5.61363636363636,Manchurian mixed forests,"7117",,15.0877473257725,Manchurian_mixed_forest,4,Asia
+"567",29235,,5.73863636363636,Manchurian mixed forests,"7254",,1.28366880762539,Manchurian_mixed_forest,4,Asia
+"568",29236,,5.26136363636364,Manchurian mixed forests,"6487",,5.15545011506515,Manchurian_mixed_forest,4,Asia
+"569",29237,,4,Manchurian mixed forests,"3157",,9.12391327709058,Manchurian_mixed_forest,4,Asia
+"570",29238,,4.22727272727273,Manchurian mixed forests,"7413",,7.72893033547352,Manchurian_mixed_forest,4,Asia
+"571",29239,,4.48863636363636,Manchurian mixed forests,"5740",,0.402301864255527,Manchurian_mixed_forest,4,Asia
+"572",29240,,5.27272727272727,Manchurian mixed forests,"3922",,2.53771623210554,Manchurian_mixed_forest,4,Asia
+"573",29241,,4.63636363636364,Manchurian mixed forests,"493",,4.4148333361199,Manchurian_mixed_forest,4,Asia
+"574",29242,,2.11363636363636,Manchurian mixed forests,"3233",,2.51037910201692,Manchurian_mixed_forest,4,Asia
+"575",29244,,0.375,Manchurian mixed forests,"9",,0.597914950936777,Manchurian_mixed_forest,4,Asia
+"576",29245,,3.19318181818182,Manchurian mixed forests,"2104",,0.744512258546737,Manchurian_mixed_forest,4,Asia
+"577",29312,,19.4767441860465,Manchurian mixed forests,"5174",,92.9057333680877,Manchurian_mixed_forest,4,Asia
+"578",29312,,19.4767441860465,Manchurian mixed forests,"5174",,92.9057333680877,Manchurian_mixed_forest,5,Asia
+"579",29313,,20.7674418604651,Manchurian mixed forests,"6723",,88.3494067272478,Manchurian_mixed_forest,4,Asia
+"580",29314,,10.7674418604651,Manchurian mixed forests,"1498",,72.0788154420352,Manchurian_mixed_forest,4,Asia
+"581",29315,,6.8953488372093,Manchurian mixed forests,"2657",,42.2518669037466,Manchurian_mixed_forest,4,Asia
+"582",29316,,5.7906976744186,Manchurian mixed forests,"7186",,3.78237330571679,Manchurian_mixed_forest,4,Asia
+"583",29317,,4.11627906976744,Manchurian mixed forests,"5736",,18.8612649624595,Manchurian_mixed_forest,4,Asia
+"584",29318,,2.22093023255814,Manchurian mixed forests,"8",,24.3724948915417,Manchurian_mixed_forest,4,Asia
+"585",29318,,2.22093023255814,Manchurian mixed forests,"3648",,24.3724948915417,Manchurian_mixed_forest,4,Asia
+"586",29319,,3.36046511627907,Manchurian mixed forests,"7433",,0.596707469196708,Manchurian_mixed_forest,4,Asia
+"587",29320,,4.80232558139535,Manchurian mixed forests,"7718",,1.21021190646292,Manchurian_mixed_forest,4,Asia
+"588",29321,,2.63953488372093,Manchurian mixed forests,"7412",,7.037560167518,Manchurian_mixed_forest,4,Asia
+"589",29322,,3.54651162790698,Manchurian mixed forests,"3002",,5.10533647064705,Manchurian_mixed_forest,4,Asia
+"590",29323,,1.01162790697674,Manchurian mixed forests,"2848",,1.23859203790406,Manchurian_mixed_forest,4,Asia
+"591",29394,,14.0116279069767,Manchurian mixed forests,"232",,53.0837368886122,Manchurian_mixed_forest,4,Asia
+"592",29395,,21.4186046511628,Manchurian mixed forests,"6691",,41.8577368732823,Manchurian_mixed_forest,4,Asia
+"593",29396,,9.58139534883721,Manchurian mixed forests,"6835",,20.2762485583083,Manchurian_mixed_forest,4,Asia
+"594",29397,,11.0232558139535,Manchurian mixed forests,"3325",,36.5620392844591,Manchurian_mixed_forest,4,Asia
+"595",29398,,5.94186046511628,Manchurian mixed forests,"6497",,18.4497904878998,Manchurian_mixed_forest,4,Asia
+"596",29399,,2.41860465116279,Manchurian mixed forests,"3762",,38.4788056314678,Manchurian_mixed_forest,4,Asia
+"597",29400,,2.23255813953488,Manchurian mixed forests,"2888",,24.6691241297921,Manchurian_mixed_forest,4,Asia
+"598",29401,,2.56976744186047,Manchurian mixed forests,"6434",,6.65119141808829,Manchurian_mixed_forest,4,Asia
+"599",29402,,3.59302325581395,Manchurian mixed forests,"7653",,0.788126009500885,Manchurian_mixed_forest,4,Asia
+"600",29403,,5.05813953488372,Manchurian mixed forests,"7782",,0.0222403688326706,Manchurian_mixed_forest,4,Asia
+"601",29404,,1.67441860465116,Manchurian mixed forests,"4274",,15.8005808603882,Manchurian_mixed_forest,4,Asia
+"602",29476,,13.5227272727273,Manchurian mixed forests,"2030",,30.2119832950423,Manchurian_mixed_forest,4,Asia
+"603",29477,,4.84090909090909,Manchurian mixed forests,"2755",,2.71993724250173,Manchurian_mixed_forest,4,Asia
+"604",29478,,7.06818181818182,Manchurian mixed forests,"4520",,6.49346229692754,Manchurian_mixed_forest,4,Asia
+"605",29479,,7.79545454545455,Manchurian mixed forests,"3097",,18.5908505769862,Manchurian_mixed_forest,4,Asia
+"606",29480,,1.85227272727273,Manchurian mixed forests,"2765",,70.3577842588184,Manchurian_mixed_forest,4,Asia
+"607",29482,,3.03409090909091,Manchurian mixed forests,"6088",,8.15628366897458,Manchurian_mixed_forest,4,Asia
+"608",29483,,2,Manchurian mixed forests,"5038",,35.8448992725174,Manchurian_mixed_forest,4,Asia
+"609",29484,,2.15909090909091,Manchurian mixed forests,"6832",,49.1558555284752,Manchurian_mixed_forest,4,Asia
+"610",29485,,1.95454545454545,Manchurian mixed forests,"3960",,12.3657826959421,Manchurian_mixed_forest,4,Asia
+"611",29560,,2.53488372093023,Manchurian mixed forests,"17",,8.65326876723942,Manchurian_mixed_forest,4,Asia
+"612",29564,,1.63953488372093,Manchurian mixed forests,"2676",,32.7108521911885,Manchurian_mixed_forest,4,Asia
+"613",29565,,2.06976744186047,Manchurian mixed forests,"545",,13.5413307429225,Manchurian_mixed_forest,4,Asia
+"614",29566,,4.03488372093023,Manchurian mixed forests,"47",,47.7345833154147,Manchurian_mixed_forest,4,Asia
+"615",29567,,2.69767441860465,Manchurian mixed forests,"9",,17.4435314438584,Manchurian_mixed_forest,4,Asia
+"616",29645,,3.03488372093023,Manchurian mixed forests,"97",,21.4017930723691,Manchurian_mixed_forest,4,Asia
+"617",29646,,3.23255813953488,Manchurian mixed forests,"1520",,22.2167688262527,Manchurian_mixed_forest,4,Asia
+"618",29727,,2.81818181818182,Manchurian mixed forests,"1959",,32.2067585270131,Manchurian_mixed_forest,4,Asia
+"619",29728,,4.375,Manchurian mixed forests,"5503",,43.8951023987334,Manchurian_mixed_forest,4,Asia
+"620",29809,,4.94186046511628,Manchurian mixed forests,"1961",,3.03280969924311,Manchurian_mixed_forest,4,Asia
+"621",29575,,0.848837209302326,Nihonkai evergreen forests,"1218",,0,Nihonkai_evergreen_forest,4,Asia
+"622",29576,,3.16279069767442,Nihonkai evergreen forests,"211",,0.0146901824349098,Nihonkai_evergreen_forest,4,Asia
+"623",29656,,0.174418604651163,Nihonkai evergreen forests,"128",,0,Nihonkai_evergreen_forest,4,Asia
+"624",29657,,3.59302325581395,Nihonkai evergreen forests,"2729",,0.00493694468635877,Nihonkai_evergreen_forest,4,Asia
+"625",29739,,2.19318181818182,Nihonkai evergreen forests,"2264",,0.0198054453096392,Nihonkai_evergreen_forest,4,Asia
+"626",29820,,0.674418604651163,Nihonkai evergreen forests,"1103",,0.00249912336481949,Nihonkai_evergreen_forest,4,Asia
+"627",29821,,3.05813953488372,Nihonkai evergreen forests,"1598",,0.00493712638695243,Nihonkai_evergreen_forest,4,Asia
+"628",29902,,0.0116279069767442,Nihonkai evergreen forests,"225",,0,Nihonkai_evergreen_forest,4,Asia
+"629",29903,,2.62790697674419,Nihonkai evergreen forests,"1948",,0.00248381874023706,Nihonkai_evergreen_forest,4,Asia
+"630",29983,,1.44318181818182,Nihonkai evergreen forests,"1512",,0.0780830325786082,Nihonkai_evergreen_forest,4,Asia
+"631",29984,,4.78409090909091,Nihonkai evergreen forests,"926",,0.0996645245125798,Nihonkai_evergreen_forest,4,Asia
+"632",30065,,0.36046511627907,Nihonkai evergreen forests,"312",,0.00254846436676304,Nihonkai_evergreen_forest,4,Asia
+"633",30066,,5.7906976744186,Nihonkai evergreen forests,"1599",,0.187964647767755,Nihonkai_evergreen_forest,4,Asia
+"634",30146,,0.569767441860465,Nihonkai evergreen forests,"67",,0,Nihonkai_evergreen_forest,4,Asia
+"635",30147,,4.26744186046512,Nihonkai evergreen forests,"698",,0.247350239308781,Nihonkai_evergreen_forest,4,Asia
+"636",30228,,0.872093023255814,Nihonkai evergreen forests,"1047",,0.127134632546402,Nihonkai_evergreen_forest,4,Asia
+"637",30229,,4.31395348837209,Nihonkai evergreen forests,"2000",,0.189344878034593,Nihonkai_evergreen_forest,4,Asia
+"638",30309,,3.61363636363636,Nihonkai evergreen forests,"511",,0.0129989689398374,Nihonkai_evergreen_forest,4,Asia
+"639",29902,,0.0116279069767442,Nihonkai montane deciduous forests,"1",,0,Nihonkai_montane_deciduous_forest,4,Asia
+"640",29903,,2.62790697674419,Nihonkai montane deciduous forests,"487",,0.00248381874023706,Nihonkai_montane_deciduous_forest,4,Asia
+"641",29983,,1.44318181818182,Nihonkai montane deciduous forests,"861",,0.0780830325786082,Nihonkai_montane_deciduous_forest,4,Asia
+"642",29984,,4.78409090909091,Nihonkai montane deciduous forests,"5344",,0.0996645245125798,Nihonkai_montane_deciduous_forest,4,Asia
+"643",30066,,5.7906976744186,Nihonkai montane deciduous forests,"4078",,0.187964647767755,Nihonkai_montane_deciduous_forest,4,Asia
+"644",30066,,5.7906976744186,Nihonkai montane deciduous forests,"4078",,0.187964647767755,Nihonkai_montane_deciduous_forest,5,Asia
+"645",30147,,4.26744186046512,Nihonkai montane deciduous forests,"4940",,0.247350239308781,Nihonkai_montane_deciduous_forest,4,Asia
+"646",30147,,4.26744186046512,Nihonkai montane deciduous forests,"4940",,0.247350239308781,Nihonkai_montane_deciduous_forest,5,Asia
+"647",30148,,5.18604651162791,Nihonkai montane deciduous forests,"1587",,0.21854786540427,Nihonkai_montane_deciduous_forest,4,Asia
+"648",30148,,5.18604651162791,Nihonkai montane deciduous forests,"1587",,0.21854786540427,Nihonkai_montane_deciduous_forest,5,Asia
+"649",30228,,0.872093023255814,Nihonkai montane deciduous forests,"725",,0.127134632546402,Nihonkai_montane_deciduous_forest,4,Asia
+"650",30229,,4.31395348837209,Nihonkai montane deciduous forests,"5744",,0.189344878034593,Nihonkai_montane_deciduous_forest,4,Asia
+"651",30230,,3.94186046511628,Nihonkai montane deciduous forests,"1844",,0.35522035430177,Nihonkai_montane_deciduous_forest,4,Asia
+"652",30307,,1.86363636363636,Nihonkai montane deciduous forests,"2703",,0,Nihonkai_montane_deciduous_forest,4,Asia
+"653",30308,,3.73863636363636,Nihonkai montane deciduous forests,"5330",,0.168481358524392,Nihonkai_montane_deciduous_forest,4,Asia
+"654",30308,,3.73863636363636,Nihonkai montane deciduous forests,"5330",,0.168481358524392,Nihonkai_montane_deciduous_forest,5,Asia
+"655",30309,,3.61363636363636,Nihonkai montane deciduous forests,"5932",,0.0129989689398374,Nihonkai_montane_deciduous_forest,4,Asia
+"656",30309,,3.61363636363636,Nihonkai montane deciduous forests,"5932",,0.0129989689398374,Nihonkai_montane_deciduous_forest,5,Asia
+"657",30310,,4.32954545454545,Nihonkai montane deciduous forests,"6914",,0.428860366639142,Nihonkai_montane_deciduous_forest,4,Asia
+"658",30311,,3.27272727272727,Nihonkai montane deciduous forests,"2777",,0.423315120476186,Nihonkai_montane_deciduous_forest,4,Asia
+"659",30389,,1.52325581395349,Nihonkai montane deciduous forests,"1512",,0,Nihonkai_montane_deciduous_forest,4,Asia
+"660",30390,,4.38372093023256,Nihonkai montane deciduous forests,"6443",,0,Nihonkai_montane_deciduous_forest,4,Asia
+"661",30391,,5.16279069767442,Nihonkai montane deciduous forests,"7687",,0.331920752693819,Nihonkai_montane_deciduous_forest,4,Asia
+"662",30392,,3.27906976744186,Nihonkai montane deciduous forests,"1439",,0.295876530961922,Nihonkai_montane_deciduous_forest,4,Asia
+"663",30471,,0.22093023255814,Nihonkai montane deciduous forests,"177",,0,Nihonkai_montane_deciduous_forest,4,Asia
+"664",30472,,2.22093023255814,Nihonkai montane deciduous forests,"2949",,0.00263958023195855,Nihonkai_montane_deciduous_forest,4,Asia
+"665",30473,,1.83720930232558,Nihonkai montane deciduous forests,"740",,0.00520417152826433,Nihonkai_montane_deciduous_forest,4,Asia
+"666",28338,,0,Northeast China Plain deciduous forests,"954",,2.58117957392913,Northeast_China_plain_deciduous_forest,4,Asia
+"667",28339,,0.418604651162791,Northeast China Plain deciduous forests,"1611",,0.429499602408942,Northeast_China_plain_deciduous_forest,4,Asia
+"668",28340,,0.5,Northeast China Plain deciduous forests,"186",,0.394401430889506,Northeast_China_plain_deciduous_forest,4,Asia
+"669",28419,,0.0113636363636364,Northeast China Plain deciduous forests,"8",,3.4266677086734,Northeast_China_plain_deciduous_forest,4,Asia
+"670",28420,,0.0113636363636364,Northeast China Plain deciduous forests,"1893",,1.08655715462279,Northeast_China_plain_deciduous_forest,4,Asia
+"671",28421,,0.0340909090909091,Northeast China Plain deciduous forests,"3473",,0.228641530517007,Northeast_China_plain_deciduous_forest,4,Asia
+"672",28422,,0.159090909090909,Northeast China Plain deciduous forests,"3628",,0.187987737865789,Northeast_China_plain_deciduous_forest,4,Asia
+"673",28500,,0.0116279069767442,Northeast China Plain deciduous forests,"1433",,0.842342657135732,Northeast_China_plain_deciduous_forest,4,Asia
+"674",28501,,0.0116279069767442,Northeast China Plain deciduous forests,"6024",,0.521266933183998,Northeast_China_plain_deciduous_forest,4,Asia
+"675",28502,,0.0581395348837209,Northeast China Plain deciduous forests,"2852",,0.864056665164386,Northeast_China_plain_deciduous_forest,4,Asia
+"676",28503,,0.127906976744186,Northeast China Plain deciduous forests,"4120",,2.1960003912467,Northeast_China_plain_deciduous_forest,4,Asia
+"677",28504,,0,Northeast China Plain deciduous forests,"198",,0.0666906832264463,Northeast_China_plain_deciduous_forest,4,Asia
+"678",28505,,0.104651162790698,Northeast China Plain deciduous forests,"923",,0.0103737493098181,Northeast_China_plain_deciduous_forest,4,Asia
+"679",28582,,0,Northeast China Plain deciduous forests,"1318",,0.369638792589699,Northeast_China_plain_deciduous_forest,4,Asia
+"680",28583,,0.0116279069767442,Northeast China Plain deciduous forests,"7782",,1.83909985674478,Northeast_China_plain_deciduous_forest,4,Asia
+"681",28584,,0.0232558139534884,Northeast China Plain deciduous forests,"4866",,0.398835911110455,Northeast_China_plain_deciduous_forest,4,Asia
+"682",28585,,0.779069767441861,Northeast China Plain deciduous forests,"8031",,7.48022708502707,Northeast_China_plain_deciduous_forest,4,Asia
+"683",28586,,0.767441860465116,Northeast China Plain deciduous forests,"3304",,3.20215688470312,Northeast_China_plain_deciduous_forest,4,Asia
+"684",28587,,0.267441860465116,Northeast China Plain deciduous forests,"4877",,1.15863669393218,Northeast_China_plain_deciduous_forest,4,Asia
+"685",28588,,0.0465116279069767,Northeast China Plain deciduous forests,"60",,0,Northeast_China_plain_deciduous_forest,4,Asia
+"686",28664,,0,Northeast China Plain deciduous forests,"6405",,2.46251699835213,Northeast_China_plain_deciduous_forest,4,Asia
+"687",28665,,0.0227272727272727,Northeast China Plain deciduous forests,"7845",,0.484185356630296,Northeast_China_plain_deciduous_forest,4,Asia
+"688",28666,,0.477272727272727,Northeast China Plain deciduous forests,"7970",,4.24236119513447,Northeast_China_plain_deciduous_forest,4,Asia
+"689",28667,,1.29545454545455,Northeast China Plain deciduous forests,"6116",,4.78223310408709,Northeast_China_plain_deciduous_forest,4,Asia
+"690",28668,,0.909090909090909,Northeast China Plain deciduous forests,"2688",,1.2371356168868,Northeast_China_plain_deciduous_forest,4,Asia
+"691",28669,,0.0568181818181818,Northeast China Plain deciduous forests,"40",,0,Northeast_China_plain_deciduous_forest,4,Asia
+"692",28746,,0.0116279069767442,Northeast China Plain deciduous forests,"1656",,3.98204492734798,Northeast_China_plain_deciduous_forest,4,Asia
+"693",28747,,0.0813953488372093,Northeast China Plain deciduous forests,"6191",,10.823348767086,Northeast_China_plain_deciduous_forest,4,Asia
+"694",28748,,0.534883720930233,Northeast China Plain deciduous forests,"7105",,4.94974363835557,Northeast_China_plain_deciduous_forest,4,Asia
+"695",28749,,2.47674418604651,Northeast China Plain deciduous forests,"3613",,3.7668467284059,Northeast_China_plain_deciduous_forest,4,Asia
+"696",28750,,2.12790697674419,Northeast China Plain deciduous forests,"799",,0.198925935202023,Northeast_China_plain_deciduous_forest,4,Asia
+"697",28751,,0.197674418604651,Northeast China Plain deciduous forests,"1248",,1.65479204153745,Northeast_China_plain_deciduous_forest,4,Asia
+"698",28824,,0.325581395348837,Northeast China Plain deciduous forests,"732",,59.7372175587753,Northeast_China_plain_deciduous_forest,4,Asia
+"699",28825,,0.767441860465116,Northeast China Plain deciduous forests,"1409",,39.6189573098047,Northeast_China_plain_deciduous_forest,4,Asia
+"700",28826,,0.325581395348837,Northeast China Plain deciduous forests,"1559",,17.1826150834452,Northeast_China_plain_deciduous_forest,4,Asia
+"701",28827,,0.325581395348837,Northeast China Plain deciduous forests,"4634",,22.2569463805969,Northeast_China_plain_deciduous_forest,4,Asia
+"702",28828,,0.151162790697674,Northeast China Plain deciduous forests,"7266",,45.5556525205834,Northeast_China_plain_deciduous_forest,4,Asia
+"703",28829,,1.03488372093023,Northeast China Plain deciduous forests,"2850",,3.82953559762618,Northeast_China_plain_deciduous_forest,4,Asia
+"704",28832,,1.38372093023256,Northeast China Plain deciduous forests,"787",,2.87627518475852,Northeast_China_plain_deciduous_forest,4,Asia
+"705",28906,,0.840909090909091,Northeast China Plain deciduous forests,"1422",,66.005831618286,Northeast_China_plain_deciduous_forest,4,Asia
+"706",28907,,0.704545454545455,Northeast China Plain deciduous forests,"4657",,45.5093296873308,Northeast_China_plain_deciduous_forest,4,Asia
+"707",28908,,0.647727272727273,Northeast China Plain deciduous forests,"1411",,36.3219823039011,Northeast_China_plain_deciduous_forest,4,Asia
+"708",28909,,0.295454545454545,Northeast China Plain deciduous forests,"7523",,48.5694223560896,Northeast_China_plain_deciduous_forest,4,Asia
+"709",28910,,0.556818181818182,Northeast China Plain deciduous forests,"7653",,59.8079250296623,Northeast_China_plain_deciduous_forest,4,Asia
+"710",28911,,1.29545454545455,Northeast China Plain deciduous forests,"6337",,11.9187629878815,Northeast_China_plain_deciduous_forest,4,Asia
+"711",28912,,2.36363636363636,Northeast China Plain deciduous forests,"2333",,1.23931436455912,Northeast_China_plain_deciduous_forest,4,Asia
+"712",28988,,1.12790697674419,Northeast China Plain deciduous forests,"3619",,40.8907082791949,Northeast_China_plain_deciduous_forest,4,Asia
+"713",28989,,1.45348837209302,Northeast China Plain deciduous forests,"5869",,44.7490075835457,Northeast_China_plain_deciduous_forest,4,Asia
+"714",28990,,1.03488372093023,Northeast China Plain deciduous forests,"7438",,48.4428017383565,Northeast_China_plain_deciduous_forest,4,Asia
+"715",28991,,0.930232558139535,Northeast China Plain deciduous forests,"7588",,79.5756394316806,Northeast_China_plain_deciduous_forest,4,Asia
+"716",28992,,1.91860465116279,Northeast China Plain deciduous forests,"4703",,23.6765189734904,Northeast_China_plain_deciduous_forest,4,Asia
+"717",28993,,3.09302325581395,Northeast China Plain deciduous forests,"1195",,1.92781351809744,Northeast_China_plain_deciduous_forest,4,Asia
+"718",29071,,2.05813953488372,Northeast China Plain deciduous forests,"2642",,36.9271206926872,Northeast_China_plain_deciduous_forest,4,Asia
+"719",29072,,1.54651162790698,Northeast China Plain deciduous forests,"6322",,55.0347983798976,Northeast_China_plain_deciduous_forest,4,Asia
+"720",29073,,1.75581395348837,Northeast China Plain deciduous forests,"6287",,24.5634551036701,Northeast_China_plain_deciduous_forest,4,Asia
+"721",29074,,2.93023255813953,Northeast China Plain deciduous forests,"4315",,13.5521049934876,Northeast_China_plain_deciduous_forest,4,Asia
+"722",29153,,4.06976744186047,Northeast China Plain deciduous forests,"1100",,29.7264361923409,Northeast_China_plain_deciduous_forest,4,Asia
+"723",29154,,2.26744186046512,Northeast China Plain deciduous forests,"3250",,12.8310786823056,Northeast_China_plain_deciduous_forest,4,Asia
+"724",29155,,3.48837209302326,Northeast China Plain deciduous forests,"1134",,2.30559788700721,Northeast_China_plain_deciduous_forest,4,Asia
+"725",29236,,5.26136363636364,Northeast China Plain deciduous forests,"903",,5.15545011506515,Northeast_China_plain_deciduous_forest,4,Asia
+"726",29237,,4,Northeast China Plain deciduous forests,"2148",,9.12391327709058,Northeast_China_plain_deciduous_forest,4,Asia
+"727",29318,,2.22093023255814,Northeast China Plain deciduous forests,"3619",,24.3724948915417,Northeast_China_plain_deciduous_forest,4,Asia
+"728",29400,,2.23255813953488,Northeast China Plain deciduous forests,"1728",,24.6691241297921,Northeast_China_plain_deciduous_forest,4,Asia
+"729",29401,,2.56976744186047,Northeast China Plain deciduous forests,"672",,6.65119141808829,Northeast_China_plain_deciduous_forest,4,Asia
+"730",25888,,0.306818181818182,Nujiang Langcang Gorge alpine conifer and mixed forests,"1667",,0,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"731",25889,,0.579545454545455,Nujiang Langcang Gorge alpine conifer and mixed forests,"297",,0.00707706799910104,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"732",25971,,0.709302325581395,Nujiang Langcang Gorge alpine conifer and mixed forests,"4680",,0.0495236328132163,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"733",26052,,0.290697674418605,Nujiang Langcang Gorge alpine conifer and mixed forests,"469",,0,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"734",26053,,0.790697674418605,Nujiang Langcang Gorge alpine conifer and mixed forests,"3851",,0.0259166491572189,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"735",26134,,0.209302325581395,Nujiang Langcang Gorge alpine conifer and mixed forests,"300",,0,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"736",26135,,0.406976744186047,Nujiang Langcang Gorge alpine conifer and mixed forests,"1270",,0,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"737",26136,,1.12790697674419,Nujiang Langcang Gorge alpine conifer and mixed forests,"2577",,0.00469328127322294,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"738",26215,,0.477272727272727,Nujiang Langcang Gorge alpine conifer and mixed forests,"4",,0,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"739",26216,,0.272727272727273,Nujiang Langcang Gorge alpine conifer and mixed forests,"4232",,0.182383058332696,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"740",26217,,0.0909090909090909,Nujiang Langcang Gorge alpine conifer and mixed forests,"5254",,0.0117550409012198,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"741",26218,,0.443181818181818,Nujiang Langcang Gorge alpine conifer and mixed forests,"2933",,0.00233465942467586,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"742",26299,,0.313953488372093,Nujiang Langcang Gorge alpine conifer and mixed forests,"82",,0.01654951412298,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"743",26300,,0.197674418604651,Nujiang Langcang Gorge alpine conifer and mixed forests,"2628",,0.0607334887679293,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"744",26301,,0.63953488372093,Nujiang Langcang Gorge alpine conifer and mixed forests,"3097",,0.0392444410055813,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"745",26302,,3.17441860465116,Nujiang Langcang Gorge alpine conifer and mixed forests,"2426",,0.23961247251096,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"746",26382,,0.302325581395349,Nujiang Langcang Gorge alpine conifer and mixed forests,"2149",,0.290043707537345,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"747",26383,,1.47674418604651,Nujiang Langcang Gorge alpine conifer and mixed forests,"6273",,0.0230585396656955,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"748",26384,,4.66279069767442,Nujiang Langcang Gorge alpine conifer and mixed forests,"8689",,0.633432995526253,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"749",26385,,3.37209302325581,Nujiang Langcang Gorge alpine conifer and mixed forests,"5040",,0.352386599134748,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"750",26386,,2.24418604651163,Nujiang Langcang Gorge alpine conifer and mixed forests,"3527",,2.38633577202859,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"751",26387,,1.5,Nujiang Langcang Gorge alpine conifer and mixed forests,"1081",,0.413128263955658,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"752",26466,,1.43181818181818,Nujiang Langcang Gorge alpine conifer and mixed forests,"2308",,0.26094237121658,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"753",26467,,3.20454545454545,Nujiang Langcang Gorge alpine conifer and mixed forests,"6241",,3.37160297757668,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"754",26468,,1.92045454545455,Nujiang Langcang Gorge alpine conifer and mixed forests,"5126",,5.43139854016463,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"755",26469,,1.18181818181818,Nujiang Langcang Gorge alpine conifer and mixed forests,"38",,3.27498865005699,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"756",26549,,1.36046511627907,Nujiang Langcang Gorge alpine conifer and mixed forests,"3930",,4.62463452753736,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"757",26550,,0.604651162790698,Nujiang Langcang Gorge alpine conifer and mixed forests,"769",,3.83993310177301,Nujiang_alpine_conifer_mixed_forest,5,Asia
+"758",29477,,4.84090909090909,Okhotsk-Manchurian taiga,"3094",2.71993724250173,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"759",29478,,7.06818181818182,Okhotsk-Manchurian taiga,"2385",6.49346229692754,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"760",29806,,10.8372093023256,Okhotsk-Manchurian taiga,"970",7.68454798381566,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"761",29888,,3.52325581395349,Okhotsk-Manchurian taiga,"4224",8.81194507723955,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"762",29889,,37.8837209302326,Okhotsk-Manchurian taiga,"684",72.6762335029237,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"763",29892,,3.34883720930233,Okhotsk-Manchurian taiga,"381",0.18426812109961,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"764",29973,,2.82954545454545,Okhotsk-Manchurian taiga,"3160",1.38233903945141,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"765",29974,,2.90909090909091,Okhotsk-Manchurian taiga,"999",2.36936125627847,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"766",30056,,3.45348837209302,Okhotsk-Manchurian taiga,"96",7.05240141243044,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"767",30218,,3.01162790697674,Okhotsk-Manchurian taiga,"5857",9.10222895701367,,Okhotsk-Manchurian_taiga - NP,4,Asia
+"768",26870,,1.58139534883721,Qin Ling Mountains deciduous forests,"1286",,0.214427727994725,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"769",26952,,0.636363636363636,Qin Ling Mountains deciduous forests,"4784",,0.0269270125814366,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"770",26953,,1.76136363636364,Qin Ling Mountains deciduous forests,"5715",,0.00968912384744463,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"771",26954,,3.34090909090909,Qin Ling Mountains deciduous forests,"4404",,0,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"772",27033,,0.107142857142857,Qin Ling Mountains deciduous forests,"7",,0.00246832898314191,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"773",27034,,0.80952380952381,Qin Ling Mountains deciduous forests,"6191",,0.0461299440530059,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"774",27035,,1.85714285714286,Qin Ling Mountains deciduous forests,"8976",,0,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"775",27036,,1.1547619047619,Qin Ling Mountains deciduous forests,"958",,0,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"776",27116,,1.55681818181818,Qin Ling Mountains deciduous forests,"2493",,0.0953296681047302,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"777",27117,,1.68181818181818,Qin Ling Mountains deciduous forests,"8360",,0,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"778",27118,,1.69318181818182,Qin Ling Mountains deciduous forests,"329",,0,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"779",27198,,2.06976744186047,Qin Ling Mountains deciduous forests,"6304",,6.53606306771433,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"780",27199,,1.81395348837209,Qin Ling Mountains deciduous forests,"1685",,0.0934949743678045,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"781",27280,,0.686046511627907,Qin Ling Mountains deciduous forests,"17",,15.2863969991736,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"782",27281,,2.54651162790698,Qin Ling Mountains deciduous forests,"7360",,0.00242509545064266,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"783",27362,,1.44318181818182,Qin Ling Mountains deciduous forests,"3897",,17.7855137406063,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"784",27363,,1.23863636363636,Qin Ling Mountains deciduous forests,"6194",,0.0961385843987228,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"785",27444,,0.569767441860465,Qin Ling Mountains deciduous forests,"1786",,8.12709788012122,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"786",27445,,1.44186046511628,Qin Ling Mountains deciduous forests,"8926",,0.422377597006586,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"787",27446,,1.46511627906977,Qin Ling Mountains deciduous forests,"1251",,0.101538404701696,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"788",27526,,1.09302325581395,Qin Ling Mountains deciduous forests,"8410",,0.356587817698708,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"789",27527,,1.1046511627907,Qin Ling Mountains deciduous forests,"7043",,0.0864663741523076,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"790",27608,,0.443181818181818,Qin Ling Mountains deciduous forests,"3298",,1.45348320057583,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"791",27609,,1.04545454545455,Qin Ling Mountains deciduous forests,"8926",,0.301585157871018,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"792",27610,,0.886363636363636,Qin Ling Mountains deciduous forests,"3715",,13.2547467147457,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"793",27690,,0.418604651162791,Qin Ling Mountains deciduous forests,"7239",,8.00830719488511,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"794",27691,,0.290697674418605,Qin Ling Mountains deciduous forests,"2420",,27.5949678320192,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"795",27692,,0.418604651162791,Qin Ling Mountains deciduous forests,"110",,16.6614074511746,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"796",27773,,0.325581395348837,Qin Ling Mountains deciduous forests,"1196",,43.4977101968993,Qin_Ling_Mountains_deciduous_forest,4,Asia
+"797",26626,,0.965116279069767,Qionglai-Minshan conifer forests,"1377",,0.0451522913803205,Qionglai-Minshan_conifer_forest,5,Asia
+"798",26627,,1.23255813953488,Qionglai-Minshan conifer forests,"1755",,0.0736966508866157,Qionglai-Minshan_conifer_forest,5,Asia
+"799",26628,,1.53488372093023,Qionglai-Minshan conifer forests,"2",,1.51987224353245,Qionglai-Minshan_conifer_forest,5,Asia
+"800",26708,,1.94318181818182,Qionglai-Minshan conifer forests,"5708",,0.0119222997258956,Qionglai-Minshan_conifer_forest,5,Asia
+"801",26709,,2.375,Qionglai-Minshan conifer forests,"5965",,0.116206829254608,Qionglai-Minshan_conifer_forest,5,Asia
+"802",26710,,3.29545454545455,Qionglai-Minshan conifer forests,"4925",,0.441467482498754,Qionglai-Minshan_conifer_forest,5,Asia
+"803",26711,,3.11363636363636,Qionglai-Minshan conifer forests,"2254",,0.577939599723242,Qionglai-Minshan_conifer_forest,5,Asia
+"804",26790,,1.66279069767442,Qionglai-Minshan conifer forests,"698",,0.126532341228578,Qionglai-Minshan_conifer_forest,5,Asia
+"805",26791,,3.51162790697674,Qionglai-Minshan conifer forests,"4009",,0,Qionglai-Minshan_conifer_forest,5,Asia
+"806",26792,,4.66279069767442,Qionglai-Minshan conifer forests,"6264",,0,Qionglai-Minshan_conifer_forest,5,Asia
+"807",26793,,3.90697674418605,Qionglai-Minshan conifer forests,"8619",,0.219869342516913,Qionglai-Minshan_conifer_forest,5,Asia
+"808",26794,,2.48837209302326,Qionglai-Minshan conifer forests,"7314",,0.687057434577951,Qionglai-Minshan_conifer_forest,5,Asia
+"809",26795,,0.976744186046512,Qionglai-Minshan conifer forests,"2378",,0.782023246012365,Qionglai-Minshan_conifer_forest,5,Asia
+"810",26871,,2.51162790697674,Qionglai-Minshan conifer forests,"2458",,0.00961233008333522,Qionglai-Minshan_conifer_forest,5,Asia
+"811",26872,,4.45348837209302,Qionglai-Minshan conifer forests,"8362",,0,Qionglai-Minshan_conifer_forest,4,Asia
+"812",26872,,4.45348837209302,Qionglai-Minshan conifer forests,"8362",,0,Qionglai-Minshan_conifer_forest,5,Asia
+"813",26873,,2.74418604651163,Qionglai-Minshan conifer forests,"4282",,0.0196815402084648,Qionglai-Minshan_conifer_forest,5,Asia
+"814",26874,,1.09302325581395,Qionglai-Minshan conifer forests,"1",,0.0209623077859957,Qionglai-Minshan_conifer_forest,4,Asia
+"815",26874,,1.09302325581395,Qionglai-Minshan conifer forests,"1",,0.0209623077859957,Qionglai-Minshan_conifer_forest,5,Asia
+"816",26875,,2.02325581395349,Qionglai-Minshan conifer forests,"5592",,0.0740117017563233,Qionglai-Minshan_conifer_forest,4,Asia
+"817",26875,,2.02325581395349,Qionglai-Minshan conifer forests,"5592",,0.0740117017563233,Qionglai-Minshan_conifer_forest,5,Asia
+"818",26876,,2.08139534883721,Qionglai-Minshan conifer forests,"2498",,0.509036947629204,Qionglai-Minshan_conifer_forest,5,Asia
+"819",26953,,1.76136363636364,Qionglai-Minshan conifer forests,"2256",,0.00968912384744463,Qionglai-Minshan_conifer_forest,5,Asia
+"820",26954,,3.34090909090909,Qionglai-Minshan conifer forests,"1589",,0,Qionglai-Minshan_conifer_forest,5,Asia
+"821",26955,,1.35227272727273,Qionglai-Minshan conifer forests,"144",,0.0132839061799578,Qionglai-Minshan_conifer_forest,5,Asia
+"822",26958,,1.17045454545455,Qionglai-Minshan conifer forests,"176",,0.0753064349029497,Qionglai-Minshan_conifer_forest,4,Asia
+"823",26958,,1.17045454545455,Qionglai-Minshan conifer forests,"176",,0.0753064349029497,Qionglai-Minshan_conifer_forest,5,Asia
+"824",30547,,3.09090909090909,Sakhalin Island taiga,"2929",1.60973688093688,,Sakhalin_Island_taiga,4,Asia
+"825",22419,,2.46511627906977,Sarmatic mixed forests,"15",2.85146260835659,,Sarmatic_mixed_forest,4,Asia
+"826",22420,,1.95348837209302,Sarmatic mixed forests,"0",0.348402662432555,,Sarmatic_mixed_forest,4,Asia
+"827",22420,,1.95348837209302,Sarmatic mixed forests,"46",0.348402662432555,,Sarmatic_mixed_forest,4,Asia
+"828",22501,,2.13953488372093,Sarmatic mixed forests,"0",0.711077633246882,,Sarmatic_mixed_forest,4,Asia
+"829",22501,,2.13953488372093,Sarmatic mixed forests,"180",0.711077633246882,,Sarmatic_mixed_forest,4,Asia
+"830",22502,,2.04651162790698,Sarmatic mixed forests,"0",3.52724093292948,,Sarmatic_mixed_forest,4,Asia
+"831",22502,,2.04651162790698,Sarmatic mixed forests,"3109",3.52724093292948,,Sarmatic_mixed_forest,4,Asia
+"832",22583,,2.30681818181818,Sarmatic mixed forests,"621",0.472522382202833,,Sarmatic_mixed_forest,4,Asia
+"833",22584,,1.81818181818182,Sarmatic mixed forests,"389",2.28110191340896,,Sarmatic_mixed_forest,4,Asia
+"834",24964,,1.1046511627907,Sayan montane conifer forests,"90",17.8109838844908,,Sayan_montane_conifer_forest - NP,5,Asia
+"835",25045,,1.36046511627907,Sayan montane conifer forests,"594",23.1059821786017,,Sayan_montane_conifer_forest - NP,5,Asia
+"836",25046,,1.47674418604651,Sayan montane conifer forests,"1157",25.3698981168567,,Sayan_montane_conifer_forest - NP,5,Asia
+"837",25126,,2.32954545454545,Sayan montane conifer forests,"182",8.3070727439837,,Sayan_montane_conifer_forest - NP,5,Asia
+"838",25127,,1.79545454545455,Sayan montane conifer forests,"1248",24.1538200421965,,Sayan_montane_conifer_forest - NP,5,Asia
+"839",25128,,1.40909090909091,Sayan montane conifer forests,"1288",12.8111099806766,,Sayan_montane_conifer_forest - NP,5,Asia
+"840",25129,,1.13636363636364,Sayan montane conifer forests,"1832",15.2754530894566,,Sayan_montane_conifer_forest - NP,5,Asia
+"841",25131,,1.39772727272727,Sayan montane conifer forests,"67",4.4311091296927,,Sayan_montane_conifer_forest - NP,5,Asia
+"842",25208,,1.90697674418605,Sayan montane conifer forests,"3829",11.4491116825348,,Sayan_montane_conifer_forest - NP,5,Asia
+"843",25209,,1.68604651162791,Sayan montane conifer forests,"1374",14.8906148080493,,Sayan_montane_conifer_forest - NP,5,Asia
+"844",25210,,1.73255813953488,Sayan montane conifer forests,"633",13.8660332947485,,Sayan_montane_conifer_forest - NP,5,Asia
+"845",25211,,1.58139534883721,Sayan montane conifer forests,"3470",13.04813447227,,Sayan_montane_conifer_forest - NP,5,Asia
+"846",25212,,2.09302325581395,Sayan montane conifer forests,"4901",2.26079748006168,,Sayan_montane_conifer_forest - NP,5,Asia
+"847",25213,,0.86046511627907,Sayan montane conifer forests,"520",0.793643339982726,,Sayan_montane_conifer_forest - NP,5,Asia
+"848",25291,,1.7093023255814,Sayan montane conifer forests,"4913",3.47661379786849,,Sayan_montane_conifer_forest - NP,5,Asia
+"849",25292,,2.05813953488372,Sayan montane conifer forests,"4620",7.44819462266904,,Sayan_montane_conifer_forest - NP,5,Asia
+"850",25293,,2.23255813953488,Sayan montane conifer forests,"880",15.9803858996494,,Sayan_montane_conifer_forest - NP,5,Asia
+"851",25294,,2.77906976744186,Sayan montane conifer forests,"6544",0.0493520296049581,,Sayan_montane_conifer_forest - NP,5,Asia
+"852",25295,,1.41860465116279,Sayan montane conifer forests,"3074",0.0348517098290227,,Sayan_montane_conifer_forest - NP,5,Asia
+"853",25372,,2.45454545454545,Sayan montane conifer forests,"0",29.5375061382513,,Sayan_montane_conifer_forest - NP,5,Asia
+"854",25373,,1.82954545454545,Sayan montane conifer forests,"5769",1.02209679993046,,Sayan_montane_conifer_forest - NP,5,Asia
+"855",25374,,2.56818181818182,Sayan montane conifer forests,"5780",2.65066129630649,,Sayan_montane_conifer_forest - NP,5,Asia
+"856",25375,,2.14772727272727,Sayan montane conifer forests,"6465",0.307408167570619,,Sayan_montane_conifer_forest - NP,4,Asia
+"857",25375,,2.14772727272727,Sayan montane conifer forests,"6465",0.307408167570619,,Sayan_montane_conifer_forest - NP,5,Asia
+"858",25376,,1.84090909090909,Sayan montane conifer forests,"4772",0.660773919390255,,Sayan_montane_conifer_forest - NP,5,Asia
+"859",25377,,0.329545454545455,Sayan montane conifer forests,"2844",0.812435133216967,,Sayan_montane_conifer_forest - NP,5,Asia
+"860",25455,,1.77906976744186,Sayan montane conifer forests,"1869",37.8299924533382,,Sayan_montane_conifer_forest - NP,5,Asia
+"861",25456,,1.7906976744186,Sayan montane conifer forests,"6245",7.01955333404801,,Sayan_montane_conifer_forest - NP,5,Asia
+"862",25457,,1.36046511627907,Sayan montane conifer forests,"6396",1.41019140764992,,Sayan_montane_conifer_forest - NP,5,Asia
+"863",25458,,1.58139534883721,Sayan montane conifer forests,"5959",0.147863428765992,,Sayan_montane_conifer_forest - NP,5,Asia
+"864",25459,,0.104651162790698,Sayan montane conifer forests,"809",0.110008841397372,,Sayan_montane_conifer_forest - NP,5,Asia
+"865",25460,,0.0232558139534884,Sayan montane conifer forests,"631",0.613216204685477,,Sayan_montane_conifer_forest - NP,5,Asia
+"866",25537,,1.04651162790698,Sayan montane conifer forests,"1973",50.1249588532386,,Sayan_montane_conifer_forest - NP,5,Asia
+"867",25538,,1.23255813953488,Sayan montane conifer forests,"5840",15.9417738307722,,Sayan_montane_conifer_forest - NP,5,Asia
+"868",25539,,1.47674418604651,Sayan montane conifer forests,"4572",8.60426795211143,,Sayan_montane_conifer_forest - NP,5,Asia
+"869",25540,,0.558139534883721,Sayan montane conifer forests,"2670",0.289402458977225,,Sayan_montane_conifer_forest - NP,5,Asia
+"870",25541,,0.0116279069767442,Sayan montane conifer forests,"1894",1.21746162108452,,Sayan_montane_conifer_forest - NP,5,Asia
+"871",25620,,0.693181818181818,Sayan montane conifer forests,"1616",29.3424283226836,,Sayan_montane_conifer_forest - NP,5,Asia
+"872",25621,,0.840909090909091,Sayan montane conifer forests,"14",27.219742624338,,Sayan_montane_conifer_forest - NP,5,Asia
+"873",25622,,0.909090909090909,Sayan montane conifer forests,"3370",0.691661001594882,,Sayan_montane_conifer_forest - NP,5,Asia
+"874",25623,,0.0795454545454545,Sayan montane conifer forests,"4015",8.54768609229037,,Sayan_montane_conifer_forest - NP,5,Asia
+"875",25624,,0.0340909090909091,Sayan montane conifer forests,"136",2.38765821975488,,Sayan_montane_conifer_forest - NP,5,Asia
+"876",25703,,1.77906976744186,Sayan montane conifer forests,"3076",9.41064815997404,,Sayan_montane_conifer_forest - NP,5,Asia
+"877",25704,,0.453488372093023,Sayan montane conifer forests,"4794",3.15692279612756,,Sayan_montane_conifer_forest - NP,5,Asia
+"878",25705,,0.197674418604651,Sayan montane conifer forests,"2468",8.31775482326174,,Sayan_montane_conifer_forest - NP,5,Asia
+"879",25785,,2.09302325581395,Sayan montane conifer forests,"44",17.0255890944781,,Sayan_montane_conifer_forest - NP,5,Asia
+"880",25786,,1.16279069767442,Sayan montane conifer forests,"4155",0.924360834061484,,Sayan_montane_conifer_forest - NP,5,Asia
+"881",25787,,0.430232558139535,Sayan montane conifer forests,"2878",11.904369137267,,Sayan_montane_conifer_forest - NP,5,Asia
+"882",25867,,2.40909090909091,Sayan montane conifer forests,"410",1.92672907215433,,Sayan_montane_conifer_forest - NP,5,Asia
+"883",25868,,1.09090909090909,Sayan montane conifer forests,"2506",17.0232515218527,,Sayan_montane_conifer_forest - NP,5,Asia
+"884",25869,,0.318181818181818,Sayan montane conifer forests,"1495",16.8727428446357,,Sayan_montane_conifer_forest - NP,5,Asia
+"885",25949,,1.12790697674419,Sayan montane conifer forests,"1329",0.0950814552327652,,Sayan_montane_conifer_forest - NP,5,Asia
+"886",25950,,0.744186046511628,Sayan montane conifer forests,"3917",6.54675684088546,,Sayan_montane_conifer_forest - NP,5,Asia
+"887",25951,,0.313953488372093,Sayan montane conifer forests,"1142",12.8975296702028,,Sayan_montane_conifer_forest - NP,5,Asia
+"888",25952,,0.0581395348837209,Sayan montane conifer forests,"799",12.3314460575889,,Sayan_montane_conifer_forest - NP,5,Asia
+"889",26031,,1,Sayan montane conifer forests,"1023",2.54225702249741,,Sayan_montane_conifer_forest - NP,5,Asia
+"890",26032,,0.511627906976744,Sayan montane conifer forests,"25",13.810342571953,,Sayan_montane_conifer_forest - NP,5,Asia
+"891",26033,,0.465116279069767,Sayan montane conifer forests,"2358",31.2505155119268,,Sayan_montane_conifer_forest - NP,5,Asia
+"892",26112,,0.86046511627907,Sayan montane conifer forests,"30",0.0439712169226421,,Sayan_montane_conifer_forest - NP,5,Asia
+"893",26113,,0.523255813953488,Sayan montane conifer forests,"321",0.188210207585328,,Sayan_montane_conifer_forest - NP,5,Asia
+"894",26114,,0.988372093023256,Sayan montane conifer forests,"1905",3.57681582627437,,Sayan_montane_conifer_forest - NP,5,Asia
+"895",26115,,0.895348837209302,Sayan montane conifer forests,"1620",9.47854764405754,,Sayan_montane_conifer_forest - NP,5,Asia
+"896",26116,,0.418604651162791,Sayan montane conifer forests,"972",24.5610968077926,,Sayan_montane_conifer_forest - NP,5,Asia
+"897",26193,,0.875,Sayan montane conifer forests,"426",2.43248761966017,,Sayan_montane_conifer_forest - NP,5,Asia
+"898",26195,,0.602272727272727,Sayan montane conifer forests,"4126",4.46737507127123,,Sayan_montane_conifer_forest - NP,5,Asia
+"899",26196,,0.647727272727273,Sayan montane conifer forests,"895",7.39716806440417,,Sayan_montane_conifer_forest - NP,5,Asia
+"900",26197,,0.681818181818182,Sayan montane conifer forests,"597",8.73547025803174,,Sayan_montane_conifer_forest - NP,5,Asia
+"901",26198,,0.0113636363636364,Sayan montane conifer forests,"922",5.21143187397768,,Sayan_montane_conifer_forest - NP,5,Asia
+"902",26275,,1.47674418604651,Sayan montane conifer forests,"346",11.2117708561117,,Sayan_montane_conifer_forest - NP,5,Asia
+"903",26276,,0.790697674418605,Sayan montane conifer forests,"3429",1.44569833810418,,Sayan_montane_conifer_forest - NP,5,Asia
+"904",26277,,0.174418604651163,Sayan montane conifer forests,"1931",0.583827106395186,,Sayan_montane_conifer_forest - NP,5,Asia
+"905",26278,,0.616279069767442,Sayan montane conifer forests,"945",2.03937696044629,,Sayan_montane_conifer_forest - NP,5,Asia
+"906",26279,,0.267441860465116,Sayan montane conifer forests,"1044",4.84194110777798,,Sayan_montane_conifer_forest - NP,5,Asia
+"907",26280,,0.127906976744186,Sayan montane conifer forests,"91",4.19716362752826,,Sayan_montane_conifer_forest - NP,5,Asia
+"908",26281,,0.0813953488372093,Sayan montane conifer forests,"292",0.730037164556472,,Sayan_montane_conifer_forest - NP,5,Asia
+"909",26357,,1.1046511627907,Sayan montane conifer forests,"826",7.53384872383813,,Sayan_montane_conifer_forest - NP,5,Asia
+"910",26358,,0.674418604651163,Sayan montane conifer forests,"1012",3.79172526334665,,Sayan_montane_conifer_forest - NP,5,Asia
+"911",26359,,0.162790697674419,Sayan montane conifer forests,"2501",1.09663783977386,,Sayan_montane_conifer_forest - NP,5,Asia
+"912",26441,,0.295454545454545,Sayan montane conifer forests,"1002",0.42769288317368,,Sayan_montane_conifer_forest - NP,5,Asia
+"913",26522,,5.59302325581395,Sayan montane conifer forests,"7",11.9575887602166,,Sayan_montane_conifer_forest - NP,5,Asia
+"914",26526,,0.0348837209302326,Sayan montane conifer forests,"217",0,,Sayan_montane_conifer_forest - NP,5,Asia
+"915",26608,,0.244186046511628,Sayan montane conifer forests,"260",6.95114559762291,,Sayan_montane_conifer_forest - NP,5,Asia
+"916",26688,,0.318181818181818,Sayan montane conifer forests,"51",3.8641592362937,,Sayan_montane_conifer_forest - NP,5,Asia
+"917",26690,,0.386363636363636,Sayan montane conifer forests,"95",0,,Sayan_montane_conifer_forest - NP,5,Asia
+"918",26771,,0.593023255813954,Sayan montane conifer forests,"1",2.68914503166972,,Sayan_montane_conifer_forest - NP,5,Asia
+"919",26772,,0.441860465116279,Sayan montane conifer forests,"351",10.4436514535268,,Sayan_montane_conifer_forest - NP,5,Asia
+"920",26935,,0.727272727272727,Sayan montane conifer forests,"41",1.40618347503955,,Sayan_montane_conifer_forest - NP,5,Asia
+"921",26936,,0.920454545454545,Sayan montane conifer forests,"1508",14.2535494218526,,Sayan_montane_conifer_forest - NP,5,Asia
+"922",26937,,0.636363636363636,Sayan montane conifer forests,"114",0,,Sayan_montane_conifer_forest - NP,5,Asia
+"923",27016,,0.80952380952381,Sayan montane conifer forests,"284",7.18581946147426,,Sayan_montane_conifer_forest - NP,5,Asia
+"924",27018,,0.392857142857143,Sayan montane conifer forests,"46",1.42421806989954,,Sayan_montane_conifer_forest - NP,5,Asia
+"925",27098,,1.90909090909091,Sayan montane conifer forests,"835",9.61055607072488,,Sayan_montane_conifer_forest - NP,5,Asia
+"926",27099,,2.71590909090909,Sayan montane conifer forests,"120",9.15252634775351,,Sayan_montane_conifer_forest - NP,5,Asia
+"927",26792,,4.66279069767442,Sichuan Basin evergreen broadleaf forests,"344",,0,Sichuan_basin_evergreen_forest,4,Asia
+"928",26793,,3.90697674418605,Sichuan Basin evergreen broadleaf forests,"688",,0.219869342516913,Sichuan_basin_evergreen_forest,4,Asia
+"929",26793,,3.90697674418605,Sichuan Basin evergreen broadleaf forests,"688",,0.219869342516913,Sichuan_basin_evergreen_forest,5,Asia
+"930",26873,,2.74418604651163,Sichuan Basin evergreen broadleaf forests,"4199",,0.0196815402084648,Sichuan_basin_evergreen_forest,4,Asia
+"931",26874,,1.09302325581395,Sichuan Basin evergreen broadleaf forests,"9262",,0.0209623077859957,Sichuan_basin_evergreen_forest,4,Asia
+"932",26874,,1.09302325581395,Sichuan Basin evergreen broadleaf forests,"9262",,0.0209623077859957,Sichuan_basin_evergreen_forest,5,Asia
+"933",26875,,2.02325581395349,Sichuan Basin evergreen broadleaf forests,"3490",,0.0740117017563233,Sichuan_basin_evergreen_forest,4,Asia
+"934",26955,,1.35227272727273,Sichuan Basin evergreen broadleaf forests,"5160",,0.0132839061799578,Sichuan_basin_evergreen_forest,4,Asia
+"935",26956,,0.693181818181818,Sichuan Basin evergreen broadleaf forests,"9217",,0,Sichuan_basin_evergreen_forest,4,Asia
+"936",26957,,0.636363636363636,Sichuan Basin evergreen broadleaf forests,"9308",,0.00232336540045379,Sichuan_basin_evergreen_forest,4,Asia
+"937",26958,,1.17045454545455,Sichuan Basin evergreen broadleaf forests,"3916",,0.0753064349029497,Sichuan_basin_evergreen_forest,4,Asia
+"938",27036,,1.1547619047619,Sichuan Basin evergreen broadleaf forests,"1638",,0,Sichuan_basin_evergreen_forest,4,Asia
+"939",27037,,0.595238095238095,Sichuan Basin evergreen broadleaf forests,"9170",,0,Sichuan_basin_evergreen_forest,4,Asia
+"940",27038,,0.738095238095238,Sichuan Basin evergreen broadleaf forests,"9263",,0,Sichuan_basin_evergreen_forest,4,Asia
+"941",27039,,0.892857142857143,Sichuan Basin evergreen broadleaf forests,"8178",,0.620524370463602,Sichuan_basin_evergreen_forest,4,Asia
+"942",27119,,1.11363636363636,Sichuan Basin evergreen broadleaf forests,"3477",,0.00237142649734369,Sichuan_basin_evergreen_forest,4,Asia
+"943",27120,,0.511363636363636,Sichuan Basin evergreen broadleaf forests,"9182",,0.00469366065539053,Sichuan_basin_evergreen_forest,4,Asia
+"944",27121,,0.329545454545455,Sichuan Basin evergreen broadleaf forests,"4836",,0.917330121272243,Sichuan_basin_evergreen_forest,4,Asia
+"945",27122,,1.47727272727273,Sichuan Basin evergreen broadleaf forests,"362",,0.13287007168201,Sichuan_basin_evergreen_forest,4,Asia
+"946",27201,,0.779069767441861,Sichuan Basin evergreen broadleaf forests,"5764",,0.0234780487179455,Sichuan_basin_evergreen_forest,4,Asia
+"947",27202,,0.790697674418605,Sichuan Basin evergreen broadleaf forests,"552",,0.485189272681599,Sichuan_basin_evergreen_forest,4,Asia
+"948",29483,,2,Suiphun-Khanka meadows and forest meadows,"2549",24.589284535027,,Suiphun-Khanka_forest,4,Asia
+"949",29484,,2.15909090909091,Suiphun-Khanka meadows and forest meadows,"886",49.0018196682472,,Suiphun-Khanka_forest,4,Asia
+"950",29564,,1.63953488372093,Suiphun-Khanka meadows and forest meadows,"8",0,,Suiphun-Khanka_forest,4,Asia
+"951",29565,,2.06976744186047,Suiphun-Khanka meadows and forest meadows,"6977",0.783262715432019,,Suiphun-Khanka_forest,4,Asia
+"952",29646,,3.23255813953488,Suiphun-Khanka meadows and forest meadows,"5789",7.6695438003326,,Suiphun-Khanka_forest,4,Asia
+"953",29647,,3.17441860465116,Suiphun-Khanka meadows and forest meadows,"4632",47.9285352465165,,Suiphun-Khanka_forest,4,Asia
+"954",29330,,0.0348837209302326,Taiheiyo evergreen forests,"28",,0,Taiheiyo_evergreen_forest,4,Asia
+"955",29331,,1.13953488372093,Taiheiyo evergreen forests,"3097",,0.0311879640886453,Taiheiyo_evergreen_forest,4,Asia
+"956",29332,,0.0581395348837209,Taiheiyo evergreen forests,"294",,0,Taiheiyo_evergreen_forest,4,Asia
+"957",29412,,0.174418604651163,Taiheiyo evergreen forests,"465",,0,Taiheiyo_evergreen_forest,4,Asia
+"958",29413,,2.08139534883721,Taiheiyo evergreen forests,"18",,0.421937144811733,Taiheiyo_evergreen_forest,4,Asia
+"959",29413,,2.08139534883721,Taiheiyo evergreen forests,"6906",,0.421937144811733,Taiheiyo_evergreen_forest,4,Asia
+"960",29414,,2.86046511627907,Taiheiyo evergreen forests,"5424",,0.371028779581589,Taiheiyo_evergreen_forest,4,Asia
+"961",29415,,1.6046511627907,Taiheiyo evergreen forests,"5722",,0.189767202028726,Taiheiyo_evergreen_forest,4,Asia
+"962",29416,,0.372093023255814,Taiheiyo evergreen forests,"0",,0,Taiheiyo_evergreen_forest,4,Asia
+"963",29493,,0.352272727272727,Taiheiyo evergreen forests,"487",,0,Taiheiyo_evergreen_forest,4,Asia
+"964",29494,,1.89772727272727,Taiheiyo evergreen forests,"4096",,0.164722167391222,Taiheiyo_evergreen_forest,4,Asia
+"965",29494,,1.89772727272727,Taiheiyo evergreen forests,"645",,0.164722167391222,Taiheiyo_evergreen_forest,4,Asia
+"966",29495,,2.375,Taiheiyo evergreen forests,"7027",,2.90952047344675,Taiheiyo_evergreen_forest,4,Asia
+"967",29496,,1.31818181818182,Taiheiyo evergreen forests,"4876",,0,Taiheiyo_evergreen_forest,4,Asia
+"968",29497,,0.125,Taiheiyo evergreen forests,"236",,0,Taiheiyo_evergreen_forest,4,Asia
+"969",29576,,3.16279069767442,Taiheiyo evergreen forests,"5318",,0.0146901824349098,Taiheiyo_evergreen_forest,4,Asia
+"970",29577,,1.25581395348837,Taiheiyo evergreen forests,"198",,0.00242469854249462,Taiheiyo_evergreen_forest,4,Asia
+"971",29577,,1.25581395348837,Taiheiyo evergreen forests,"2523",,0.00242469854249462,Taiheiyo_evergreen_forest,4,Asia
+"972",29578,,0.0930232558139535,Taiheiyo evergreen forests,"250",,0,Taiheiyo_evergreen_forest,4,Asia
+"973",29578,,0.0930232558139535,Taiheiyo evergreen forests,"4",,0,Taiheiyo_evergreen_forest,4,Asia
+"974",29657,,3.59302325581395,Taiheiyo evergreen forests,"4539",,0.00493694468635877,Taiheiyo_evergreen_forest,4,Asia
+"975",29658,,2.41860465116279,Taiheiyo evergreen forests,"923",,0,Taiheiyo_evergreen_forest,4,Asia
+"976",29658,,2.41860465116279,Taiheiyo evergreen forests,"3536",,0,Taiheiyo_evergreen_forest,4,Asia
+"977",29659,,1.24418604651163,Taiheiyo evergreen forests,"2942",,0,Taiheiyo_evergreen_forest,4,Asia
+"978",29739,,2.19318181818182,Taiheiyo evergreen forests,"1158",,0.0198054453096392,Taiheiyo_evergreen_forest,4,Asia
+"979",29740,,1.64772727272727,Taiheiyo evergreen forests,"3403",,0,Taiheiyo_evergreen_forest,4,Asia
+"980",29740,,1.64772727272727,Taiheiyo evergreen forests,"2225",,0,Taiheiyo_evergreen_forest,4,Asia
+"981",29741,,1.98863636363636,Taiheiyo evergreen forests,"3545",,0,Taiheiyo_evergreen_forest,4,Asia
+"982",29821,,3.05813953488372,Taiheiyo evergreen forests,"5148",,0.00493712638695243,Taiheiyo_evergreen_forest,4,Asia
+"983",29822,,1.26744186046512,Taiheiyo evergreen forests,"1678",,0,Taiheiyo_evergreen_forest,4,Asia
+"984",29822,,1.26744186046512,Taiheiyo evergreen forests,"988",,0,Taiheiyo_evergreen_forest,4,Asia
+"985",29903,,2.62790697674419,Taiheiyo evergreen forests,"2420",,0.00248381874023706,Taiheiyo_evergreen_forest,4,Asia
+"986",29904,,3.34883720930233,Taiheiyo evergreen forests,"6557",,0,Taiheiyo_evergreen_forest,4,Asia
+"987",29905,,0.825581395348837,Taiheiyo evergreen forests,"3026",,0,Taiheiyo_evergreen_forest,4,Asia
+"988",29984,,4.78409090909091,Taiheiyo evergreen forests,"1139",,0.0996645245125798,Taiheiyo_evergreen_forest,4,Asia
+"989",29985,,2.20454545454545,Taiheiyo evergreen forests,"6236",,0,Taiheiyo_evergreen_forest,4,Asia
+"990",29986,,0.772727272727273,Taiheiyo evergreen forests,"1788",,0,Taiheiyo_evergreen_forest,4,Asia
+"991",30066,,5.7906976744186,Taiheiyo evergreen forests,"225",,0.187964647767755,Taiheiyo_evergreen_forest,4,Asia
+"992",30067,,5.74418604651163,Taiheiyo evergreen forests,"2837",,0.0552243758762412,Taiheiyo_evergreen_forest,4,Asia
+"993",30068,,0.767441860465116,Taiheiyo evergreen forests,"2616",,0,Taiheiyo_evergreen_forest,4,Asia
+"994",30148,,5.18604651162791,Taiheiyo evergreen forests,"42",,0.21854786540427,Taiheiyo_evergreen_forest,4,Asia
+"995",30149,,2.68604651162791,Taiheiyo evergreen forests,"2227",,0.104050000320635,Taiheiyo_evergreen_forest,4,Asia
+"996",30230,,3.94186046511628,Taiheiyo evergreen forests,"3463",,0.35522035430177,Taiheiyo_evergreen_forest,4,Asia
+"997",30231,,2.37209302325581,Taiheiyo evergreen forests,"4342",,0.707031630596129,Taiheiyo_evergreen_forest,4,Asia
+"998",30232,,0.36046511627907,Taiheiyo evergreen forests,"740",,0.00245372212030336,Taiheiyo_evergreen_forest,4,Asia
+"999",30311,,3.27272727272727,Taiheiyo evergreen forests,"1128",,0.423315120476186,Taiheiyo_evergreen_forest,4,Asia
+"1000",30312,,2.79545454545455,Taiheiyo evergreen forests,"8101",,1.35471764672644,Taiheiyo_evergreen_forest,4,Asia
+"1001",30313,,0.863636363636364,Taiheiyo evergreen forests,"2398",,0.014747870968226,Taiheiyo_evergreen_forest,4,Asia
+"1002",30392,,3.27906976744186,Taiheiyo evergreen forests,"2890",,0.295876530961922,Taiheiyo_evergreen_forest,4,Asia
+"1003",30393,,1.77906976744186,Taiheiyo evergreen forests,"815",,0,Taiheiyo_evergreen_forest,4,Asia
+"1004",30394,,0.558139534883721,Taiheiyo evergreen forests,"858",,0,Taiheiyo_evergreen_forest,4,Asia
+"1005",30395,,0.244186046511628,Taiheiyo evergreen forests,"558",,0.00137421753914811,Taiheiyo_evergreen_forest,4,Asia
+"1006",30473,,1.83720930232558,Taiheiyo evergreen forests,"444",,0.00520417152826433,Taiheiyo_evergreen_forest,4,Asia
+"1007",30474,,0,Taiheiyo evergreen forests,"39",,0,Taiheiyo_evergreen_forest,4,Asia
+"1008",30066,,5.7906976744186,Taiheiyo montane deciduous forests,"268",,0.187964647767755,Taiheiyo_montane_deciduous_forest,4,Asia
+"1009",30067,,5.74418604651163,Taiheiyo montane deciduous forests,"5706",,0.0552243758762412,Taiheiyo_montane_deciduous_forest,4,Asia
+"1010",30068,,0.767441860465116,Taiheiyo montane deciduous forests,"9",,0,Taiheiyo_montane_deciduous_forest,4,Asia
+"1011",30148,,5.18604651162791,Taiheiyo montane deciduous forests,"6091",,0.21854786540427,Taiheiyo_montane_deciduous_forest,4,Asia
+"1012",30149,,2.68604651162791,Taiheiyo montane deciduous forests,"3403",,0.104050000320635,Taiheiyo_montane_deciduous_forest,4,Asia
+"1013",30230,,3.94186046511628,Taiheiyo montane deciduous forests,"2465",,0.35522035430177,Taiheiyo_montane_deciduous_forest,4,Asia
+"1014",30231,,2.37209302325581,Taiheiyo montane deciduous forests,"2435",,0.707031630596129,Taiheiyo_montane_deciduous_forest,4,Asia
+"1015",30231,,2.37209302325581,Taiheiyo montane deciduous forests,"2435",,0.707031630596129,Taiheiyo_montane_deciduous_forest,5,Asia
+"1016",30310,,4.32954545454545,Taiheiyo montane deciduous forests,"476",,0.428860366639142,Taiheiyo_montane_deciduous_forest,4,Asia
+"1017",30311,,3.27272727272727,Taiheiyo montane deciduous forests,"4358",,0.423315120476186,Taiheiyo_montane_deciduous_forest,4,Asia
+"1018",30390,,4.38372093023256,Taiheiyo montane deciduous forests,"541",,0,Taiheiyo_montane_deciduous_forest,4,Asia
+"1019",30392,,3.27906976744186,Taiheiyo montane deciduous forests,"1900",,0.295876530961922,Taiheiyo_montane_deciduous_forest,4,Asia
+"1020",30393,,1.77906976744186,Taiheiyo montane deciduous forests,"3339",,0,Taiheiyo_montane_deciduous_forest,4,Asia
+"1021",30394,,0.558139534883721,Taiheiyo montane deciduous forests,"284",,0,Taiheiyo_montane_deciduous_forest,4,Asia
+"1022",30471,,0.22093023255814,Taiheiyo montane deciduous forests,"5",,0,Taiheiyo_montane_deciduous_forest,4,Asia
+"1023",30472,,2.22093023255814,Taiheiyo montane deciduous forests,"1258",,0.00263958023195855,Taiheiyo_montane_deciduous_forest,4,Asia
+"1024",30473,,1.83720930232558,Taiheiyo montane deciduous forests,"1627",,0.00520417152826433,Taiheiyo_montane_deciduous_forest,4,Asia
+"1025",22585,,2,Ural montane forests and tundra,"0",2.04564592899102,,Ural_montane_forest - NP,4,Asia
+"1026",22585,,2,Ural montane forests and tundra,"3730",2.04564592899102,,Ural_montane_forest - NP,4,Asia
+"1027",29479,,7.79545454545455,Ussuri broadleaf and mixed forests,"2346",18.5908505769862,,Ussuri_mixed_forest,4,Asia
+"1028",29480,,1.85227272727273,Ussuri broadleaf and mixed forests,"634",62.6578328928011,,Ussuri_mixed_forest,4,Asia
+"1029",29485,,1.95454545454545,Ussuri broadleaf and mixed forests,"116",12.3409577257188,,Ussuri_mixed_forest,4,Asia
+"1030",29561,,8.11627906976744,Ussuri broadleaf and mixed forests,"1717",12.624853323097,,Ussuri_mixed_forest,4,Asia
+"1031",29562,,3.25581395348837,Ussuri broadleaf and mixed forests,"4939",80.2818293873056,,Ussuri_mixed_forest,4,Asia
+"1032",29566,,4.03488372093023,Ussuri broadleaf and mixed forests,"557",47.7345833154147,,Ussuri_mixed_forest,4,Asia
+"1033",29567,,2.69767441860465,Ussuri broadleaf and mixed forests,"4901",17.4435314438584,,Ussuri_mixed_forest,4,Asia
+"1034",29568,,0.186046511627907,Ussuri broadleaf and mixed forests,"280",0.987225821141767,,Ussuri_mixed_forest,4,Asia
+"1035",29642,,4.05813953488372,Ussuri broadleaf and mixed forests,"1375",2.94944034178486,,Ussuri_mixed_forest,4,Asia
+"1036",29643,,19.6046511627907,Ussuri broadleaf and mixed forests,"7045",48.9286597031993,,Ussuri_mixed_forest,4,Asia
+"1037",29644,,8.61627906976744,Ussuri broadleaf and mixed forests,"208",36.9095680684372,,Ussuri_mixed_forest,4,Asia
+"1038",29647,,3.17441860465116,Ussuri broadleaf and mixed forests,"2956",47.9285352465165,,Ussuri_mixed_forest,4,Asia
+"1039",29648,,3.77906976744186,Ussuri broadleaf and mixed forests,"7718",12.624323639934,,Ussuri_mixed_forest,4,Asia
+"1040",29649,,2.46511627906977,Ussuri broadleaf and mixed forests,"5739",8.80649061981589,,Ussuri_mixed_forest,4,Asia
+"1041",29725,,5.84090909090909,Ussuri broadleaf and mixed forests,"3526",8.60143320699208,,Ussuri_mixed_forest,4,Asia
+"1042",29726,,24.1818181818182,Ussuri broadleaf and mixed forests,"2716",68.5461583360896,,Ussuri_mixed_forest,4,Asia
+"1043",29728,,4.375,Ussuri broadleaf and mixed forests,"351",36.7145030035273,,Ussuri_mixed_forest,4,Asia
+"1044",29729,,3.5,Ussuri broadleaf and mixed forests,"6474",32.1666267588269,,Ussuri_mixed_forest,4,Asia
+"1045",29730,,3.73863636363636,Ussuri broadleaf and mixed forests,"7653",15.5223239127628,,Ussuri_mixed_forest,4,Asia
+"1046",29731,,3.55681818181818,Ussuri broadleaf and mixed forests,"7507",4.57278376990225,,Ussuri_mixed_forest,4,Asia
+"1047",29732,,0.136363636363636,Ussuri broadleaf and mixed forests,"258",0,,Ussuri_mixed_forest,4,Asia
+"1048",29806,,10.8372093023256,Ussuri broadleaf and mixed forests,"4658",7.68454798381566,,Ussuri_mixed_forest,4,Asia
+"1049",29807,,20.8953488372093,Ussuri broadleaf and mixed forests,"4475",77.2910368652982,,Ussuri_mixed_forest,4,Asia
+"1050",29809,,4.94186046511628,Ussuri broadleaf and mixed forests,"4690",3.03280969924311,,Ussuri_mixed_forest,4,Asia
+"1051",29810,,4.45348837209302,Ussuri broadleaf and mixed forests,"7457",10.0602659838692,,Ussuri_mixed_forest,4,Asia
+"1052",29811,,3.95348837209302,Ussuri broadleaf and mixed forests,"7588",0.317865889361784,,Ussuri_mixed_forest,4,Asia
+"1053",29812,,3.30232558139535,Ussuri broadleaf and mixed forests,"7506",7.70642241121828,,Ussuri_mixed_forest,4,Asia
+"1054",29813,,0.302325581395349,Ussuri broadleaf and mixed forests,"564",1.42109879802998,,Ussuri_mixed_forest,4,Asia
+"1055",29888,,3.52325581395349,Ussuri broadleaf and mixed forests,"1339",8.81194507723955,,Ussuri_mixed_forest,4,Asia
+"1056",29889,,37.8837209302326,Ussuri broadleaf and mixed forests,"6170",72.6762335029237,,Ussuri_mixed_forest,4,Asia
+"1057",29890,,19.7209302325581,Ussuri broadleaf and mixed forests,"3442",70.9125899423639,,Ussuri_mixed_forest,4,Asia
+"1058",29891,,5.73255813953488,Ussuri broadleaf and mixed forests,"6865",6.24096766534058,,Ussuri_mixed_forest,4,Asia
+"1059",29892,,3.34883720930233,Ussuri broadleaf and mixed forests,"7009",0.18426812109961,,Ussuri_mixed_forest,4,Asia
+"1060",29893,,3.19767441860465,Ussuri broadleaf and mixed forests,"5897",0.582428700269027,,Ussuri_mixed_forest,4,Asia
+"1061",29894,,2.34883720930233,Ussuri broadleaf and mixed forests,"5313",12.7131854888547,,Ussuri_mixed_forest,4,Asia
+"1062",29895,,0.0348837209302326,Ussuri broadleaf and mixed forests,"52",0.379381656647483,,Ussuri_mixed_forest,4,Asia
+"1063",29970,,10.1590909090909,Ussuri broadleaf and mixed forests,"5582",36.8712166061263,,Ussuri_mixed_forest,4,Asia
+"1064",29971,,14.0227272727273,Ussuri broadleaf and mixed forests,"7047",28.1124116095154,,Ussuri_mixed_forest,4,Asia
+"1065",29972,,3.35227272727273,Ussuri broadleaf and mixed forests,"5607",3.34770465116015,,Ussuri_mixed_forest,4,Asia
+"1066",29973,,2.82954545454545,Ussuri broadleaf and mixed forests,"2207",1.38233903945141,,Ussuri_mixed_forest,4,Asia
+"1067",29974,,2.90909090909091,Ussuri broadleaf and mixed forests,"6456",2.36936125627847,,Ussuri_mixed_forest,4,Asia
+"1068",29975,,1.76136363636364,Ussuri broadleaf and mixed forests,"3393",3.00573533565067,,Ussuri_mixed_forest,4,Asia
+"1069",30052,,6.48837209302326,Ussuri broadleaf and mixed forests,"1715",9.06698719902359,,Ussuri_mixed_forest,4,Asia
+"1070",30053,,7.68604651162791,Ussuri broadleaf and mixed forests,"4248",4.97973442913091,,Ussuri_mixed_forest,4,Asia
+"1071",30054,,2.43023255813953,Ussuri broadleaf and mixed forests,"982",5.12544451961425,,Ussuri_mixed_forest,4,Asia
+"1072",30055,,2.53488372093023,Ussuri broadleaf and mixed forests,"288",3.43989542133918,,Ussuri_mixed_forest,4,Asia
+"1073",30056,,3.45348837209302,Ussuri broadleaf and mixed forests,"6026",7.05240141243044,,Ussuri_mixed_forest,4,Asia
+"1074",30057,,1.41860465116279,Ussuri broadleaf and mixed forests,"2028",0.84224686049298,,Ussuri_mixed_forest,4,Asia
+"1075",30134,,4.36046511627907,Ussuri broadleaf and mixed forests,"24",3.65881323175469,,Ussuri_mixed_forest,4,Asia
+"1076",30136,,2.8953488372093,Ussuri broadleaf and mixed forests,"1875",5.0323993108511,,Ussuri_mixed_forest,4,Asia
+"1077",30137,,2.54651162790698,Ussuri broadleaf and mixed forests,"4911",0.159981386178529,,Ussuri_mixed_forest,4,Asia
+"1078",30138,,0.337209302325581,Ussuri broadleaf and mixed forests,"277",0.127156921615073,,Ussuri_mixed_forest,4,Asia
+"1079",30218,,3.01162790697674,Ussuri broadleaf and mixed forests,"450",9.10222895701367,,Ussuri_mixed_forest,4,Asia
+"1080",30219,,1.46511627906977,Ussuri broadleaf and mixed forests,"2176",0.301948607923359,,Ussuri_mixed_forest,4,Asia
+"1081",30300,,0.909090909090909,Ussuri broadleaf and mixed forests,"1",1.22039583992337,,Ussuri_mixed_forest,4,Asia
+"1082",22830,,6.32558139534884,Western Siberian hemiboreal forests,"6",8.59325084533028,,Western_Siberian_hemiboreal_forest,4,Asia
+"1083",22831,,2.6046511627907,Western Siberian hemiboreal forests,"1374",14.6400999234907,,Western_Siberian_hemiboreal_forest,4,Asia
+"1084",22911,,5.43023255813953,Western Siberian hemiboreal forests,"45",7.02175607102856,,Western_Siberian_hemiboreal_forest,4,Asia
+"1085",22912,,2.63953488372093,Western Siberian hemiboreal forests,"5566",25.0501001191478,,Western_Siberian_hemiboreal_forest,4,Asia
+"1086",22913,,1.7906976744186,Western Siberian hemiboreal forests,"34",19.185668583987,,Western_Siberian_hemiboreal_forest,4,Asia
+"1087",22994,,3.46590909090909,Western Siberian hemiboreal forests,"4237",11.2128272797102,,Western_Siberian_hemiboreal_forest,4,Asia
+"1088",22995,,1.81818181818182,Western Siberian hemiboreal forests,"3784",18.0031152289386,,Western_Siberian_hemiboreal_forest,4,Asia
+"1089",23075,,4.81395348837209,Western Siberian hemiboreal forests,"1453",7.30646533016129,,Western_Siberian_hemiboreal_forest,4,Asia
+"1090",23076,,2.05813953488372,Western Siberian hemiboreal forests,"6016",12.6335377660959,,Western_Siberian_hemiboreal_forest,4,Asia
+"1091",23077,,1.51162790697674,Western Siberian hemiboreal forests,"239",15.332375049621,,Western_Siberian_hemiboreal_forest,4,Asia
+"1092",23158,,4.95348837209302,Western Siberian hemiboreal forests,"5591",11.7837790045309,,Western_Siberian_hemiboreal_forest,4,Asia
+"1093",23159,,2.25581395348837,Western Siberian hemiboreal forests,"1250",14.3740244604717,,Western_Siberian_hemiboreal_forest,4,Asia
+"1094",23239,,13.7159090909091,Western Siberian hemiboreal forests,"4730",27.7615979253933,,Western_Siberian_hemiboreal_forest,4,Asia
+"1095",23240,,3.14772727272727,Western Siberian hemiboreal forests,"1885",22.0992682092765,,Western_Siberian_hemiboreal_forest,4,Asia
+"1096",23321,,21.4418604651163,Western Siberian hemiboreal forests,"2255",25.2237643830773,,Western_Siberian_hemiboreal_forest,4,Asia
+"1097",23322,,4.98837209302326,Western Siberian hemiboreal forests,"3743",27.9069101922721,,Western_Siberian_hemiboreal_forest,4,Asia
+"1098",23403,,10.3720930232558,Western Siberian hemiboreal forests,"5168",11.2873770798562,,Western_Siberian_hemiboreal_forest,4,Asia
+"1099",23404,,4.74418604651163,Western Siberian hemiboreal forests,"3",33.7190863831269,,Western_Siberian_hemiboreal_forest,4,Asia
+"1100",23485,,29.7272727272727,Western Siberian hemiboreal forests,"1623",21.7707002433556,,Western_Siberian_hemiboreal_forest,4,Asia
+"1101",23486,,4.72727272727273,Western Siberian hemiboreal forests,"2691",38.0331714245963,,Western_Siberian_hemiboreal_forest,4,Asia
+"1102",23567,,11.1395348837209,Western Siberian hemiboreal forests,"4658",59.3675818966072,,Western_Siberian_hemiboreal_forest,4,Asia
+"1103",23568,,2.52325581395349,Western Siberian hemiboreal forests,"313",36.78122862376,,Western_Siberian_hemiboreal_forest,4,Asia
+"1104",23649,,37.5232558139535,Western Siberian hemiboreal forests,"401",14.1684967211147,,Western_Siberian_hemiboreal_forest,4,Asia
+"1105",23650,,3.23255813953488,Western Siberian hemiboreal forests,"5103",65.2764791564984,,Western_Siberian_hemiboreal_forest,4,Asia
+"1106",23731,,19.8837209302326,Western Siberian hemiboreal forests,"2816",45.9375547368208,,Western_Siberian_hemiboreal_forest,4,Asia
+"1107",23732,,4.58139534883721,Western Siberian hemiboreal forests,"3566",52.5470907699785,,Western_Siberian_hemiboreal_forest,4,Asia
+"1108",23814,,12.9431818181818,Western Siberian hemiboreal forests,"5547",44.7137157373632,,Western_Siberian_hemiboreal_forest,4,Asia
+"1109",23815,,2.61363636363636,Western Siberian hemiboreal forests,"915",42.1264288289487,,Western_Siberian_hemiboreal_forest,4,Asia
+"1110",23895,,17.9418604651163,Western Siberian hemiboreal forests,"2526",30.9455349584412,,Western_Siberian_hemiboreal_forest,4,Asia
+"1111",23896,,7.2906976744186,Western Siberian hemiboreal forests,"3577",34.8030285992167,,Western_Siberian_hemiboreal_forest,4,Asia
+"1112",23977,,8.58139534883721,Western Siberian hemiboreal forests,"54",7.91071091845561,,Western_Siberian_hemiboreal_forest,4,Asia
+"1113",23978,,13.7209302325581,Western Siberian hemiboreal forests,"5794",60.7580442324762,,Western_Siberian_hemiboreal_forest,4,Asia
+"1114",24059,,5.21590909090909,Western Siberian hemiboreal forests,"2945",16.8974838909468,,Western_Siberian_hemiboreal_forest,4,Asia
+"1115",24060,,2.44318181818182,Western Siberian hemiboreal forests,"2775",38.8165953849399,,Western_Siberian_hemiboreal_forest,4,Asia
+"1116",24142,,5.5,Western Siberian hemiboreal forests,"4812",38.8464562733233,,Western_Siberian_hemiboreal_forest,4,Asia
+"1117",24143,,2.52325581395349,Western Siberian hemiboreal forests,"131",50.0137465692788,,Western_Siberian_hemiboreal_forest,4,Asia
+"1118",24223,,26.4767441860465,Western Siberian hemiboreal forests,"386",28.8370184361636,,Western_Siberian_hemiboreal_forest,4,Asia
+"1119",24224,,4.65116279069767,Western Siberian hemiboreal forests,"2927",50.0937332046973,,Western_Siberian_hemiboreal_forest,4,Asia
+"1120",24306,,11.5568181818182,Western Siberian hemiboreal forests,"4044",55.4834775647648,,Western_Siberian_hemiboreal_forest,4,Asia
+"1121",24307,,3.61363636363636,Western Siberian hemiboreal forests,"306",25.7679030798651,,Western_Siberian_hemiboreal_forest,4,Asia
+"1122",24387,,39.1162790697674,Western Siberian hemiboreal forests,"921",7.49729667697199,,Western_Siberian_hemiboreal_forest,4,Asia
+"1123",24388,,14.3837209302326,Western Siberian hemiboreal forests,"4354",53.4837032932164,,Western_Siberian_hemiboreal_forest,4,Asia
+"1124",24470,,30.1279069767442,Western Siberian hemiboreal forests,"4056",26.6778599758436,,Western_Siberian_hemiboreal_forest,4,Asia
+"1125",24471,,3.37209302325581,Western Siberian hemiboreal forests,"842",39.9533863305071,,Western_Siberian_hemiboreal_forest,4,Asia
+"1126",24551,,42.2272727272727,Western Siberian hemiboreal forests,"598",0.859341484154274,,Western_Siberian_hemiboreal_forest,4,Asia
+"1127",24552,,20.7840909090909,Western Siberian hemiboreal forests,"3887",29.8211164109577,,Western_Siberian_hemiboreal_forest,4,Asia
+"1128",24634,,45.0581395348837,Western Siberian hemiboreal forests,"3426",0.214891464025293,,Western_Siberian_hemiboreal_forest,4,Asia
+"1129",24635,,5.72093023255814,Western Siberian hemiboreal forests,"905",48.2137255070994,,Western_Siberian_hemiboreal_forest,4,Asia
+"1130",24715,,27.5232558139535,Western Siberian hemiboreal forests,"412",2.71633371095154,,Western_Siberian_hemiboreal_forest,4,Asia
+"1131",24716,,31.093023255814,Western Siberian hemiboreal forests,"4544",4.82268753362272,,Western_Siberian_hemiboreal_forest,4,Asia
+"1132",24798,,35.3522727272727,Western Siberian hemiboreal forests,"4995",5.05697569651088,,Western_Siberian_hemiboreal_forest,4,Asia
+"1133",24799,,6.32954545454545,Western Siberian hemiboreal forests,"3224",34.2535165693962,,Western_Siberian_hemiboreal_forest,4,Asia
+"1134",24879,,33.8255813953488,Western Siberian hemiboreal forests,"3888",0.0461845081173781,,Western_Siberian_hemiboreal_forest,4,Asia
+"1135",24880,,11.9186046511628,Western Siberian hemiboreal forests,"5572",49.9762051738968,,Western_Siberian_hemiboreal_forest,4,Asia
+"1136",24881,,2.16279069767442,Western Siberian hemiboreal forests,"3178",25.227218129088,,Western_Siberian_hemiboreal_forest,4,Asia
+"1137",24961,,13.1511627906977,Western Siberian hemiboreal forests,"2659",15.4988862147535,,Western_Siberian_hemiboreal_forest,4,Asia
+"1138",24962,,6.2093023255814,Western Siberian hemiboreal forests,"5939",35.992844500281,,Western_Siberian_hemiboreal_forest,4,Asia
+"1139",24963,,5,Western Siberian hemiboreal forests,"4359",44.9969391773347,,Western_Siberian_hemiboreal_forest,4,Asia
+"1140",24964,,1.1046511627907,Western Siberian hemiboreal forests,"3722",17.8109838844908,,Western_Siberian_hemiboreal_forest,4,Asia
+"1141",25042,,15.6627906976744,Western Siberian hemiboreal forests,"345",6.31238291281271,,Western_Siberian_hemiboreal_forest,4,Asia
+"1142",25043,,11.6279069767442,Western Siberian hemiboreal forests,"5795",7.94004764267074,,Western_Siberian_hemiboreal_forest,4,Asia
+"1143",25044,,4.1046511627907,Western Siberian hemiboreal forests,"484",27.3334447670644,,Western_Siberian_hemiboreal_forest,4,Asia
+"1144",25045,,1.36046511627907,Western Siberian hemiboreal forests,"1775",23.1059821786017,,Western_Siberian_hemiboreal_forest,4,Asia
+"1145",25046,,1.47674418604651,Western Siberian hemiboreal forests,"3366",25.3698981168567,,Western_Siberian_hemiboreal_forest,4,Asia
+"1146",25047,,2.73255813953488,Western Siberian hemiboreal forests,"9",15.4080118620684,,Western_Siberian_hemiboreal_forest,4,Asia
+"1147",25125,,10.6818181818182,Western Siberian hemiboreal forests,"2095",9.56177614362641,,Western_Siberian_hemiboreal_forest,4,Asia
+"1148",25126,,2.32954545454545,Western Siberian hemiboreal forests,"1993",8.3070727439837,,Western_Siberian_hemiboreal_forest,4,Asia
+"1149",25127,,1.79545454545455,Western Siberian hemiboreal forests,"435",24.1538200421965,,Western_Siberian_hemiboreal_forest,4,Asia
+"1150",25128,,1.40909090909091,Western Siberian hemiboreal forests,"1730",12.8111099806766,,Western_Siberian_hemiboreal_forest,4,Asia
+"1151",25129,,1.13636363636364,Western Siberian hemiboreal forests,"3697",15.2754530894566,,Western_Siberian_hemiboreal_forest,4,Asia
+"1152",25130,,1.26136363636364,Western Siberian hemiboreal forests,"1615",22.6706034408577,,Western_Siberian_hemiboreal_forest,4,Asia
+"1153",25207,,2.43023255813953,Western Siberian hemiboreal forests,"1893",21.7826734691131,,Western_Siberian_hemiboreal_forest,4,Asia
+"1154",25208,,1.90697674418605,Western Siberian hemiboreal forests,"580",11.4491116825348,,Western_Siberian_hemiboreal_forest,4,Asia
+"1155",25209,,1.68604651162791,Western Siberian hemiboreal forests,"2468",14.8906148080493,,Western_Siberian_hemiboreal_forest,4,Asia
+"1156",25210,,1.73255813953488,Western Siberian hemiboreal forests,"2576",13.8660332947485,,Western_Siberian_hemiboreal_forest,4,Asia
+"1157",25210,,1.73255813953488,Western Siberian hemiboreal forests,"2576",13.8660332947485,,Western_Siberian_hemiboreal_forest,5,Asia
+"1158",25211,,1.58139534883721,Western Siberian hemiboreal forests,"2999",13.04813447227,,Western_Siberian_hemiboreal_forest,4,Asia
+"1159",25211,,1.58139534883721,Western Siberian hemiboreal forests,"2999",13.04813447227,,Western_Siberian_hemiboreal_forest,5,Asia
+"1160",25212,,2.09302325581395,Western Siberian hemiboreal forests,"475",2.26079748006168,,Western_Siberian_hemiboreal_forest,4,Asia
+"1161",25290,,2.18604651162791,Western Siberian hemiboreal forests,"3254",26.2671531766223,,Western_Siberian_hemiboreal_forest,4,Asia
+"1162",25292,,2.05813953488372,Western Siberian hemiboreal forests,"1625",7.44819462266904,,Western_Siberian_hemiboreal_forest,4,Asia
+"1163",25293,,2.23255813953488,Western Siberian hemiboreal forests,"5030",15.9803858996494,,Western_Siberian_hemiboreal_forest,4,Asia
+"1164",25371,,3.26136363636364,Western Siberian hemiboreal forests,"2394",2.0585502747805,,Western_Siberian_hemiboreal_forest,4,Asia
+"1165",25372,,2.45454545454545,Western Siberian hemiboreal forests,"871",29.5375061382513,,Western_Siberian_hemiboreal_forest,4,Asia
+"1166",25374,,2.56818181818182,Western Siberian hemiboreal forests,"542",2.65066129630649,,Western_Siberian_hemiboreal_forest,4,Asia
+"1167",25375,,2.14772727272727,Western Siberian hemiboreal forests,"5",0.307408167570619,,Western_Siberian_hemiboreal_forest,4,Asia
+"1168",25454,,2.19767441860465,Western Siberian hemiboreal forests,"2088",20.6539097750976,,Western_Siberian_hemiboreal_forest,4,Asia
+"1169",25535,,6.40697674418605,Western Siberian hemiboreal forests,"851",5.6496959346694,,Western_Siberian_hemiboreal_forest,4,Asia
+"1170",25536,,1.83720930232558,Western Siberian hemiboreal forests,"1976",51.4878901208116,,Western_Siberian_hemiboreal_forest,4,Asia
+"1171",25618,,2.90909090909091,Western Siberian hemiboreal forests,"1770",36.2737915721431,,Western_Siberian_hemiboreal_forest,4,Asia
+"1172",25619,,1.06818181818182,Western Siberian hemiboreal forests,"1105",48.8809844390939,,Western_Siberian_hemiboreal_forest,4,Asia
+"1173",25700,,1.19767441860465,Western Siberian hemiboreal forests,"1878",11.825749942076,,Western_Siberian_hemiboreal_forest,4,Asia
+"1174",22911,,5.43023255813953,West Siberian taiga,"5817",7.02175607102856,,Western_Siberian_taiga - NP,4,Asia
+"1175",22912,,2.63953488372093,West Siberian taiga,"352",25.0501001191478,,Western_Siberian_taiga - NP,4,Asia
+"1176",23567,,11.1395348837209,West Siberian taiga,"1200",59.3675818966072,,Western_Siberian_taiga - NP,4,Asia
+"1177",24470,,30.1279069767442,West Siberian taiga,"1880",26.6778599758436,,Western_Siberian_taiga - NP,4,Asia
+"1178",24798,,35.3522727272727,West Siberian taiga,"941",5.05697569651088,,Western_Siberian_taiga - NP,4,Asia
+"1179",25290,,2.18604651162791,West Siberian taiga,"1412",26.2671531766223,,Western_Siberian_taiga - NP,4,Asia

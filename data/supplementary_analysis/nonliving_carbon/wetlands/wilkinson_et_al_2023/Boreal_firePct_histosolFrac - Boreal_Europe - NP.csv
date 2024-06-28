@@ -1,0 +1,694 @@
+fid,id,fire_pct,_mean,ECO_NAME,area,fired_eurasia_4326_pc,fired_russia_china_japan_4326_pc,layer,BIOME,CONTINENT
+"1",22505,,1.8953488372093,East European forest steppe,"473",1.60610674157042,,Eastern_European_forest_steppe,6,Europe
+"2",17988,,6.09090909090909,Sarmatic mixed forests,"87",0,,Sarmatic_mixed_forest,6,Europe
+"3",18071,,5.59302325581395,Sarmatic mixed forests,"2428",0,,Sarmatic_mixed_forest,6,Europe
+"4",18152,,8.5,Sarmatic mixed forests,"1208",0,,Sarmatic_mixed_forest,6,Europe
+"5",18235,,7.45454545454545,Sarmatic mixed forests,"2001",0,,Sarmatic_mixed_forest,6,Europe
+"6",18562,,9.53571428571429,Sarmatic mixed forests,"1123",0,,Sarmatic_mixed_forest,6,Europe
+"7",19794,,8.72093023255814,Sarmatic mixed forests,"4706",4.09570567810659,,Sarmatic_mixed_forest,6,Europe
+"8",19875,,11.1162790697674,Sarmatic mixed forests,"2013",18.4569030919679,,Sarmatic_mixed_forest,6,Europe
+"9",19957,,17.9545454545455,Sarmatic mixed forests,"197",2.71008305811211,,Sarmatic_mixed_forest,6,Europe
+"10",20368,,13.3372093023256,Sarmatic mixed forests,"9",0.231676544514481,,Sarmatic_mixed_forest,6,Europe
+"11",20369,,9.81395348837209,Sarmatic mixed forests,"284",8.09714119922947,,Sarmatic_mixed_forest,6,Europe
+"12",20451,,17.1590909090909,Sarmatic mixed forests,"2421",16.523450026828,,Sarmatic_mixed_forest,6,Europe
+"13",20614,,8.6046511627907,Sarmatic mixed forests,"518",4.00854711555287,,Sarmatic_mixed_forest,6,Europe
+"14",21271,,6.36363636363636,Sarmatic mixed forests,"707",1.94186066792361,,Sarmatic_mixed_forest,6,Europe
+"15",17742,,2.78409090909091,Scandinavian and Russian taiga,"54",0,,Scandanavian_Russian_taiga,6,Europe
+"16",17743,,5.35227272727273,Scandinavian and Russian taiga,"887",0,,Scandanavian_Russian_taiga,6,Europe
+"17",17744,,8.19318181818182,Scandinavian and Russian taiga,"1583",0,,Scandanavian_Russian_taiga,6,Europe
+"18",17821,,5.75581395348837,Scandinavian and Russian taiga,"394",0,,Scandanavian_Russian_taiga,6,Europe
+"19",17822,,1.5,Scandinavian and Russian taiga,"581",0,,Scandanavian_Russian_taiga,6,Europe
+"20",17823,,4.18604651162791,Scandinavian and Russian taiga,"569",0,,Scandanavian_Russian_taiga,6,Europe
+"21",17824,,6.19767441860465,Scandinavian and Russian taiga,"861",0,,Scandanavian_Russian_taiga,6,Europe
+"22",17825,,8.3953488372093,Scandinavian and Russian taiga,"4346",0.428680967798307,,Scandanavian_Russian_taiga,6,Europe
+"23",17826,,1.96511627906977,Scandinavian and Russian taiga,"28",0,,Scandanavian_Russian_taiga,6,Europe
+"24",17903,,4.75581395348837,Scandinavian and Russian taiga,"1527",0,,Scandanavian_Russian_taiga,6,Europe
+"25",17904,,3.22093023255814,Scandinavian and Russian taiga,"348",0,,Scandanavian_Russian_taiga,6,Europe
+"26",17905,,5.65116279069767,Scandinavian and Russian taiga,"1399",0.0126769353745065,,Scandanavian_Russian_taiga,6,Europe
+"27",17906,,7.80232558139535,Scandinavian and Russian taiga,"3740",0,,Scandanavian_Russian_taiga,6,Europe
+"28",17907,,7.2906976744186,Scandinavian and Russian taiga,"5032",0,,Scandanavian_Russian_taiga,6,Europe
+"29",17908,,1.94186046511628,Scandinavian and Russian taiga,"241",0,,Scandanavian_Russian_taiga,6,Europe
+"30",17984,,4.59090909090909,Scandinavian and Russian taiga,"2730",0,,Scandanavian_Russian_taiga,6,Europe
+"31",17985,,7.31818181818182,Scandinavian and Russian taiga,"3015",0,,Scandanavian_Russian_taiga,6,Europe
+"32",17986,,4.625,Scandinavian and Russian taiga,"726",0,,Scandanavian_Russian_taiga,6,Europe
+"33",17987,,7.96590909090909,Scandinavian and Russian taiga,"4166",0.0183100744146903,,Scandanavian_Russian_taiga,6,Europe
+"34",17988,,6.09090909090909,Scandinavian and Russian taiga,"4967",0,,Scandanavian_Russian_taiga,6,Europe
+"35",17989,,1.92045454545455,Scandinavian and Russian taiga,"1684",0,,Scandanavian_Russian_taiga,6,Europe
+"36",18066,,5.93023255813953,Scandinavian and Russian taiga,"2211",0,,Scandanavian_Russian_taiga,6,Europe
+"37",18067,,7.44186046511628,Scandinavian and Russian taiga,"3382",0.00453207171941241,,Scandanavian_Russian_taiga,6,Europe
+"38",18068,,7.36046511627907,Scandinavian and Russian taiga,"1637",0,,Scandanavian_Russian_taiga,6,Europe
+"39",18069,,9.1046511627907,Scandinavian and Russian taiga,"2630",0.00423746268114138,,Scandanavian_Russian_taiga,6,Europe
+"40",18070,,6.54651162790698,Scandinavian and Russian taiga,"5256",0.521653567625507,,Scandanavian_Russian_taiga,6,Europe
+"41",18071,,5.59302325581395,Scandinavian and Russian taiga,"2307",0,,Scandanavian_Russian_taiga,6,Europe
+"42",18147,,5.95348837209302,Scandinavian and Russian taiga,"1505",0,,Scandanavian_Russian_taiga,6,Europe
+"43",18148,,8.93023255813953,Scandinavian and Russian taiga,"4706",0.00461297312711405,,Scandanavian_Russian_taiga,6,Europe
+"44",18149,,6.23255813953488,Scandinavian and Russian taiga,"1124",0,,Scandanavian_Russian_taiga,6,Europe
+"45",18150,,8.04651162790698,Scandinavian and Russian taiga,"3976",0,,Scandanavian_Russian_taiga,6,Europe
+"46",18151,,7.98837209302326,Scandinavian and Russian taiga,"5221",0.220200398215704,,Scandanavian_Russian_taiga,6,Europe
+"47",18152,,8.5,Scandinavian and Russian taiga,"4178",0,,Scandanavian_Russian_taiga,6,Europe
+"48",18153,,8.04651162790698,Scandinavian and Russian taiga,"112",0.00392619702644228,,Scandanavian_Russian_taiga,6,Europe
+"49",18230,,7.79545454545455,Scandinavian and Russian taiga,"3606",0.00937365681609253,,Scandanavian_Russian_taiga,6,Europe
+"50",18231,,5.77272727272727,Scandinavian and Russian taiga,"4363",0.0135761293789221,,Scandanavian_Russian_taiga,6,Europe
+"51",18232,,6.39772727272727,Scandinavian and Russian taiga,"3089",0,,Scandanavian_Russian_taiga,6,Europe
+"52",18233,,10.0795454545455,Scandinavian and Russian taiga,"5139",0,,Scandanavian_Russian_taiga,6,Europe
+"53",18234,,11.8977272727273,Scandinavian and Russian taiga,"5303",0,,Scandanavian_Russian_taiga,6,Europe
+"54",18235,,7.45454545454545,Scandinavian and Russian taiga,"3168",0,,Scandanavian_Russian_taiga,6,Europe
+"55",18311,,5.75,Scandinavian and Russian taiga,"1098",0.0143116415495075,,Scandanavian_Russian_taiga,6,Europe
+"56",18312,,7.59523809523809,Scandinavian and Russian taiga,"4724",0,,Scandanavian_Russian_taiga,6,Europe
+"57",18313,,9.16666666666667,Scandinavian and Russian taiga,"4276",0.00445438379501631,,Scandanavian_Russian_taiga,6,Europe
+"58",18314,,10.0833333333333,Scandinavian and Russian taiga,"5057",0.77818704422536,,Scandanavian_Russian_taiga,6,Europe
+"59",18315,,14.7261904761905,Scandinavian and Russian taiga,"5221",0.0663395066758215,,Scandanavian_Russian_taiga,6,Europe
+"60",18316,,11.5357142857143,Scandinavian and Russian taiga,"5384",0.00807151043100847,,Scandanavian_Russian_taiga,6,Europe
+"61",18317,,4.77380952380952,Scandinavian and Russian taiga,"89",0.015635279957101,,Scandanavian_Russian_taiga,6,Europe
+"62",18393,,6.18181818181818,Scandinavian and Russian taiga,"129",0,,Scandanavian_Russian_taiga,6,Europe
+"63",18394,,7.79545454545455,Scandinavian and Russian taiga,"4110",0.0234644580783203,,Scandanavian_Russian_taiga,6,Europe
+"64",18395,,12.4090909090909,Scandinavian and Russian taiga,"4808",0,,Scandanavian_Russian_taiga,6,Europe
+"65",18396,,12.9318181818182,Scandinavian and Russian taiga,"4974",0.00437949535713256,,Scandanavian_Russian_taiga,6,Europe
+"66",18397,,10.5340909090909,Scandinavian and Russian taiga,"5139",0.664563527610573,,Scandanavian_Russian_taiga,6,Europe
+"67",18398,,12.125,Scandinavian and Russian taiga,"5303",0.00410649768478129,,Scandanavian_Russian_taiga,6,Europe
+"68",18399,,9.93181818181818,Scandinavian and Russian taiga,"4294",0,,Scandanavian_Russian_taiga,6,Europe
+"69",18474,,7.95454545454545,Scandinavian and Russian taiga,"214",0,,Scandanavian_Russian_taiga,6,Europe
+"70",18475,,9.44318181818182,Scandinavian and Russian taiga,"2735",0.00956938474788229,,Scandanavian_Russian_taiga,6,Europe
+"71",18476,,11.4545454545455,Scandinavian and Russian taiga,"4724",0,,Scandanavian_Russian_taiga,6,Europe
+"72",18477,,11,Scandinavian and Russian taiga,"4891",0.0841074997967656,,Scandanavian_Russian_taiga,6,Europe
+"73",18478,,9.70454545454546,Scandinavian and Russian taiga,"5057",1.34265929337736,,Scandanavian_Russian_taiga,6,Europe
+"74",18479,,9.40909090909091,Scandinavian and Russian taiga,"5221",0,,Scandanavian_Russian_taiga,6,Europe
+"75",18480,,9.51136363636364,Scandinavian and Russian taiga,"5365",0,,Scandanavian_Russian_taiga,6,Europe
+"76",18481,,7.39772727272727,Scandinavian and Russian taiga,"331",0,,Scandanavian_Russian_taiga,6,Europe
+"77",18556,,8.82142857142857,Scandinavian and Russian taiga,"38",0,,Scandanavian_Russian_taiga,6,Europe
+"78",18557,,11.7738095238095,Scandinavian and Russian taiga,"3195",0.0194218320657089,,Scandanavian_Russian_taiga,6,Europe
+"79",18558,,9.23809523809524,Scandinavian and Russian taiga,"4640",0,,Scandanavian_Russian_taiga,6,Europe
+"80",18559,,9.84523809523809,Scandinavian and Russian taiga,"4808",0.00453181802134418,,Scandanavian_Russian_taiga,6,Europe
+"81",18560,,8.91666666666667,Scandinavian and Russian taiga,"4974",0,,Scandanavian_Russian_taiga,6,Europe
+"82",18561,,8.46428571428571,Scandinavian and Russian taiga,"5139",0.0168791455010865,,Scandanavian_Russian_taiga,6,Europe
+"83",18562,,9.53571428571429,Scandinavian and Russian taiga,"4181",0,,Scandanavian_Russian_taiga,6,Europe
+"84",18563,,7.01190476190476,Scandinavian and Russian taiga,"930",2.20590612285547,,Scandanavian_Russian_taiga,6,Europe
+"85",18637,,8.63636363636364,Scandinavian and Russian taiga,"16",0,,Scandanavian_Russian_taiga,6,Europe
+"86",18638,,11.9772727272727,Scandinavian and Russian taiga,"2746",0,,Scandanavian_Russian_taiga,6,Europe
+"87",18639,,11.5795454545455,Scandinavian and Russian taiga,"4555",0,,Scandanavian_Russian_taiga,6,Europe
+"88",18640,,9.30681818181818,Scandinavian and Russian taiga,"4724",0,,Scandanavian_Russian_taiga,6,Europe
+"89",18641,,9.84090909090909,Scandinavian and Russian taiga,"4870",0,,Scandanavian_Russian_taiga,6,Europe
+"90",18642,,7.05681818181818,Scandinavian and Russian taiga,"3575",0,,Scandanavian_Russian_taiga,6,Europe
+"91",18643,,6.05681818181818,Scandinavian and Russian taiga,"2485",0,,Scandanavian_Russian_taiga,6,Europe
+"92",18644,,7.90909090909091,Scandinavian and Russian taiga,"0",0.00807086316799572,,Scandanavian_Russian_taiga,6,Europe
+"93",18719,,8.12790697674419,Scandinavian and Russian taiga,"195",0,,Scandanavian_Russian_taiga,6,Europe
+"94",18720,,11.3837209302326,Scandinavian and Russian taiga,"2545",0,,Scandanavian_Russian_taiga,6,Europe
+"95",18721,,13.9651162790698,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"96",18722,,10.3953488372093,Scandinavian and Russian taiga,"4640",0,,Scandanavian_Russian_taiga,6,Europe
+"97",18723,,8.5,Scandinavian and Russian taiga,"4784",0.0135565536064592,,Scandanavian_Russian_taiga,6,Europe
+"98",18724,,3.13953488372093,Scandinavian and Russian taiga,"1316",0,,Scandanavian_Russian_taiga,6,Europe
+"99",18801,,10.8255813953488,Scandinavian and Russian taiga,"2343",0,,Scandanavian_Russian_taiga,6,Europe
+"100",18802,,14.1627906976744,Scandinavian and Russian taiga,"4341",0,,Scandanavian_Russian_taiga,6,Europe
+"101",18803,,13.8720930232558,Scandinavian and Russian taiga,"4555",0,,Scandanavian_Russian_taiga,6,Europe
+"102",18804,,8.65116279069767,Scandinavian and Russian taiga,"4724",0,,Scandanavian_Russian_taiga,6,Europe
+"103",18805,,3.38372093023256,Scandinavian and Russian taiga,"1168",0,,Scandanavian_Russian_taiga,6,Europe
+"104",18883,,10.7045454545455,Scandinavian and Russian taiga,"1169",0,,Scandanavian_Russian_taiga,6,Europe
+"105",18884,,13.3409090909091,Scandinavian and Russian taiga,"4299",0,,Scandanavian_Russian_taiga,6,Europe
+"106",18885,,14.0568181818182,Scandinavian and Russian taiga,"4470",0.0874092943220138,,Scandanavian_Russian_taiga,6,Europe
+"107",18886,,14.5113636363636,Scandinavian and Russian taiga,"4640",0,,Scandanavian_Russian_taiga,6,Europe
+"108",18887,,4.20454545454545,Scandinavian and Russian taiga,"2012",0,,Scandanavian_Russian_taiga,6,Europe
+"109",18963,,3.94186046511628,Scandinavian and Russian taiga,"8",0,,Scandanavian_Russian_taiga,6,Europe
+"110",18964,,10.2558139534884,Scandinavian and Russian taiga,"1915",0,,Scandanavian_Russian_taiga,6,Europe
+"111",18965,,11.9418604651163,Scandinavian and Russian taiga,"4101",0.154365764273958,,Scandanavian_Russian_taiga,6,Europe
+"112",18966,,13.9418604651163,Scandinavian and Russian taiga,"4385",0.355434685703658,,Scandanavian_Russian_taiga,6,Europe
+"113",18967,,14.6744186046512,Scandinavian and Russian taiga,"4539",0.00956946079781275,,Scandanavian_Russian_taiga,6,Europe
+"114",18968,,9.6046511627907,Scandinavian and Russian taiga,"2999",0.00920594977742496,,Scandanavian_Russian_taiga,6,Europe
+"115",19045,,1.05813953488372,Scandinavian and Russian taiga,"283",0,,Scandanavian_Russian_taiga,6,Europe
+"116",19046,,7.54651162790698,Scandinavian and Russian taiga,"2814",0,,Scandanavian_Russian_taiga,6,Europe
+"117",19047,,13.3488372093023,Scandinavian and Russian taiga,"4126",0.215482075418828,,Scandanavian_Russian_taiga,6,Europe
+"118",19048,,12.953488372093,Scandinavian and Russian taiga,"4299",0,,Scandanavian_Russian_taiga,6,Europe
+"119",19049,,10.6976744186047,Scandinavian and Russian taiga,"3440",0,,Scandanavian_Russian_taiga,6,Europe
+"120",19050,,3.7906976744186,Scandinavian and Russian taiga,"1064",0,,Scandanavian_Russian_taiga,6,Europe
+"121",19051,,1.80232558139535,Scandinavian and Russian taiga,"351",0,,Scandanavian_Russian_taiga,6,Europe
+"122",19052,,9.86046511627907,Scandinavian and Russian taiga,"3701",0.0174413264989376,,Scandanavian_Russian_taiga,6,Europe
+"123",19053,,5.47674418604651,Scandinavian and Russian taiga,"2428",0.00845697010779173,,Scandanavian_Russian_taiga,6,Europe
+"124",19054,,3.88372093023256,Scandinavian and Russian taiga,"427",0.0112527588762447,,Scandanavian_Russian_taiga,6,Europe
+"125",19127,,7.03409090909091,Scandinavian and Russian taiga,"2078",0,,Scandanavian_Russian_taiga,6,Europe
+"126",19128,,12.9886363636364,Scandinavian and Russian taiga,"4040",0,,Scandanavian_Russian_taiga,6,Europe
+"127",19129,,16.4772727272727,Scandinavian and Russian taiga,"4213",0,,Scandanavian_Russian_taiga,6,Europe
+"128",19130,,12.1704545454545,Scandinavian and Russian taiga,"3429",0,,Scandanavian_Russian_taiga,6,Europe
+"129",19132,,0.5,Scandinavian and Russian taiga,"173",0,,Scandanavian_Russian_taiga,6,Europe
+"130",19133,,15.3522727272727,Scandinavian and Russian taiga,"4345",0.228143708270381,,Scandanavian_Russian_taiga,6,Europe
+"131",19134,,15.1931818181818,Scandinavian and Russian taiga,"5057",0.0343840319181748,,Scandanavian_Russian_taiga,6,Europe
+"132",19135,,10.2272727272727,Scandinavian and Russian taiga,"4604",0.143774442545338,,Scandanavian_Russian_taiga,6,Europe
+"133",19209,,5.84883720930233,Scandinavian and Russian taiga,"965",0,,Scandanavian_Russian_taiga,6,Europe
+"134",19210,,12.2790697674419,Scandinavian and Russian taiga,"3953",0,,Scandanavian_Russian_taiga,6,Europe
+"135",19211,,17.2790697674419,Scandinavian and Russian taiga,"4126",0,,Scandanavian_Russian_taiga,6,Europe
+"136",19212,,15.1046511627907,Scandinavian and Russian taiga,"4299",0,,Scandanavian_Russian_taiga,6,Europe
+"137",19213,,2.18604651162791,Scandinavian and Russian taiga,"730",0,,Scandanavian_Russian_taiga,6,Europe
+"138",19214,,0,Scandinavian and Russian taiga,"32",0,,Scandanavian_Russian_taiga,6,Europe
+"139",19215,,12.1860465116279,Scandinavian and Russian taiga,"4209",0.0542040576892538,,Scandanavian_Russian_taiga,6,Europe
+"140",19216,,21.6279069767442,Scandinavian and Russian taiga,"4974",0.1765234498546,,Scandanavian_Russian_taiga,6,Europe
+"141",19217,,7.81395348837209,Scandinavian and Russian taiga,"5139",0.37224317183471,,Scandanavian_Russian_taiga,6,Europe
+"142",19218,,7.34883720930233,Scandinavian and Russian taiga,"4693",0.536620321705007,,Scandanavian_Russian_taiga,6,Europe
+"143",19219,,0.988372093023256,Scandinavian and Russian taiga,"147",0,,Scandanavian_Russian_taiga,6,Europe
+"144",19290,,2.27906976744186,Scandinavian and Russian taiga,"452",0,,Scandanavian_Russian_taiga,6,Europe
+"145",19291,,8.40697674418605,Scandinavian and Russian taiga,"3762",0,,Scandanavian_Russian_taiga,6,Europe
+"146",19292,,19.8488372093023,Scandinavian and Russian taiga,"4040",0,,Scandanavian_Russian_taiga,6,Europe
+"147",19293,,25,Scandinavian and Russian taiga,"4213",0,,Scandanavian_Russian_taiga,6,Europe
+"148",19294,,15.406976744186,Scandinavian and Russian taiga,"3139",0,,Scandanavian_Russian_taiga,6,Europe
+"149",19295,,0.348837209302326,Scandinavian and Russian taiga,"45",0,,Scandanavian_Russian_taiga,6,Europe
+"150",19296,,15.4767441860465,Scandinavian and Russian taiga,"4184",0.112410138247504,,Scandanavian_Russian_taiga,6,Europe
+"151",19297,,19.8255813953488,Scandinavian and Russian taiga,"4891",0.0266471796015917,,Scandanavian_Russian_taiga,6,Europe
+"152",19298,,11.4186046511628,Scandinavian and Russian taiga,"5057",0,,Scandanavian_Russian_taiga,6,Europe
+"153",19299,,8.04651162790698,Scandinavian and Russian taiga,"5221",0.358477139194025,,Scandanavian_Russian_taiga,6,Europe
+"154",19300,,3.75581395348837,Scandinavian and Russian taiga,"2508",0.3335833658121,,Scandanavian_Russian_taiga,6,Europe
+"155",19373,,7.93181818181818,Scandinavian and Russian taiga,"2352",0,,Scandanavian_Russian_taiga,6,Europe
+"156",19374,,16.1931818181818,Scandinavian and Russian taiga,"3953",0,,Scandanavian_Russian_taiga,6,Europe
+"157",19375,,29.1136363636364,Scandinavian and Russian taiga,"4126",0.00528389824094556,,Scandanavian_Russian_taiga,6,Europe
+"158",19376,,22.1590909090909,Scandinavian and Russian taiga,"4299",0,,Scandanavian_Russian_taiga,6,Europe
+"159",19377,,8.56818181818182,Scandinavian and Russian taiga,"1764",0,,Scandanavian_Russian_taiga,6,Europe
+"160",19378,,18.2727272727273,Scandinavian and Russian taiga,"4151",0.118444299697029,,Scandanavian_Russian_taiga,6,Europe
+"161",19379,,20.1590909090909,Scandinavian and Russian taiga,"4808",0,,Scandanavian_Russian_taiga,6,Europe
+"162",19380,,17.0113636363636,Scandinavian and Russian taiga,"4974",0.0262388856685643,,Scandanavian_Russian_taiga,6,Europe
+"163",19381,,5.82954545454545,Scandinavian and Russian taiga,"5139",0.016914141929489,,Scandanavian_Russian_taiga,6,Europe
+"164",19382,,7.04545454545455,Scandinavian and Russian taiga,"4515",0.136857414141472,,Scandanavian_Russian_taiga,6,Europe
+"165",19454,,4.40697674418605,Scandinavian and Russian taiga,"516",0,,Scandanavian_Russian_taiga,6,Europe
+"166",19455,,10.7209302325581,Scandinavian and Russian taiga,"3865",0,,Scandanavian_Russian_taiga,6,Europe
+"167",19456,,25.3139534883721,Scandinavian and Russian taiga,"4040",0,,Scandanavian_Russian_taiga,6,Europe
+"168",19457,,25.9302325581395,Scandinavian and Russian taiga,"4213",0.0103281673883078,,Scandanavian_Russian_taiga,6,Europe
+"169",19458,,34.0116279069767,Scandinavian and Russian taiga,"4385",0,,Scandanavian_Russian_taiga,6,Europe
+"170",19459,,20.0116279069767,Scandinavian and Russian taiga,"4430",0.0156181206360279,,Scandanavian_Russian_taiga,6,Europe
+"171",19460,,21.3023255813953,Scandinavian and Russian taiga,"4724",0.0918994256232716,,Scandanavian_Russian_taiga,6,Europe
+"172",19461,,14.5697674418605,Scandinavian and Russian taiga,"4891",0.00888932212090372,,Scandanavian_Russian_taiga,6,Europe
+"173",19462,,6.90697674418605,Scandinavian and Russian taiga,"5057",0.128502377192096,,Scandanavian_Russian_taiga,6,Europe
+"174",19463,,7.08139534883721,Scandinavian and Russian taiga,"5221",0.243242538069524,,Scandanavian_Russian_taiga,6,Europe
+"175",19464,,2.33720930232558,Scandinavian and Russian taiga,"721",0.00404377516096728,,Scandanavian_Russian_taiga,6,Europe
+"176",19537,,11.6860465116279,Scandinavian and Russian taiga,"2529",0,,Scandanavian_Russian_taiga,6,Europe
+"177",19538,,17.7790697674419,Scandinavian and Russian taiga,"3953",0,,Scandanavian_Russian_taiga,6,Europe
+"178",19539,,25.593023255814,Scandinavian and Russian taiga,"4126",0.0631296779176858,,Scandanavian_Russian_taiga,6,Europe
+"179",19540,,27.2325581395349,Scandinavian and Russian taiga,"4299",0.0202414892418738,,Scandanavian_Russian_taiga,6,Europe
+"180",19541,,31.1162790697674,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"181",19542,,25.7674418604651,Scandinavian and Russian taiga,"4640",0.107458354262896,,Scandanavian_Russian_taiga,6,Europe
+"182",19543,,13.1627906976744,Scandinavian and Russian taiga,"4808",0.18965410983733,,Scandanavian_Russian_taiga,6,Europe
+"183",19544,,16.4883720930233,Scandinavian and Russian taiga,"4974",0.0436969333454846,,Scandanavian_Russian_taiga,6,Europe
+"184",19545,,12.4418604651163,Scandinavian and Russian taiga,"5139",0.0211515444102473,,Scandanavian_Russian_taiga,6,Europe
+"185",19546,,4.62790697674419,Scandinavian and Russian taiga,"2808",2.38661116207929,,Scandanavian_Russian_taiga,6,Europe
+"186",19618,,8.65116279069767,Scandinavian and Russian taiga,"1031",0,,Scandanavian_Russian_taiga,6,Europe
+"187",19619,,11.5,Scandinavian and Russian taiga,"3865",0.0112843499970774,,Scandanavian_Russian_taiga,6,Europe
+"188",19620,,19.546511627907,Scandinavian and Russian taiga,"4040",0.0537902885004491,,Scandanavian_Russian_taiga,6,Europe
+"189",19621,,28.1162790697674,Scandinavian and Russian taiga,"4213",0.0258541748724531,,Scandanavian_Russian_taiga,6,Europe
+"190",19622,,22.8604651162791,Scandinavian and Russian taiga,"4385",0,,Scandanavian_Russian_taiga,6,Europe
+"191",19623,,26.7209302325581,Scandinavian and Russian taiga,"4555",0,,Scandanavian_Russian_taiga,6,Europe
+"192",19624,,17.5232558139535,Scandinavian and Russian taiga,"4724",0.0184103004643011,,Scandanavian_Russian_taiga,6,Europe
+"193",19625,,9.30232558139535,Scandinavian and Russian taiga,"4891",0.416902779386986,,Scandanavian_Russian_taiga,6,Europe
+"194",19626,,18.9883720930233,Scandinavian and Russian taiga,"5057",0.2402907118687,,Scandanavian_Russian_taiga,6,Europe
+"195",19627,,10.8372093023256,Scandinavian and Russian taiga,"5145",0.155774638415051,,Scandanavian_Russian_taiga,6,Europe
+"196",19628,,0.209302325581395,Scandinavian and Russian taiga,"9",0,,Scandanavian_Russian_taiga,6,Europe
+"197",19629,,11.5813953488372,Scandinavian and Russian taiga,"140",2.70761389754785,,Scandanavian_Russian_taiga,6,Europe
+"198",19701,,13.0681818181818,Scandinavian and Russian taiga,"2951",0,,Scandanavian_Russian_taiga,6,Europe
+"199",19702,,13.3636363636364,Scandinavian and Russian taiga,"3953",0.969938633960906,,Scandanavian_Russian_taiga,6,Europe
+"200",19703,,27.7386363636364,Scandinavian and Russian taiga,"4126",0,,Scandanavian_Russian_taiga,6,Europe
+"201",19704,,23.6704545454545,Scandinavian and Russian taiga,"4299",0.0101209251089627,,Scandanavian_Russian_taiga,6,Europe
+"202",19705,,23.3295454545455,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"203",19706,,23.4318181818182,Scandinavian and Russian taiga,"4640",0,,Scandanavian_Russian_taiga,6,Europe
+"204",19707,,17.9204545454545,Scandinavian and Russian taiga,"4808",0.0416017169158196,,Scandanavian_Russian_taiga,6,Europe
+"205",19708,,12.2727272727273,Scandinavian and Russian taiga,"4974",0.0262189403770548,,Scandanavian_Russian_taiga,6,Europe
+"206",19709,,8.625,Scandinavian and Russian taiga,"5139",0.302030344465415,,Scandanavian_Russian_taiga,6,Europe
+"207",19710,,2.94318181818182,Scandinavian and Russian taiga,"2375",1.1808532597274,,Scandanavian_Russian_taiga,6,Europe
+"208",19711,,7.97727272727273,Scandinavian and Russian taiga,"1601",7.57667365412886,,Scandanavian_Russian_taiga,6,Europe
+"209",19712,,8.42045454545454,Scandinavian and Russian taiga,"785",2.37611651068671,,Scandanavian_Russian_taiga,6,Europe
+"210",19712,,8.42045454545454,Scandinavian and Russian taiga,"966",2.37611651068671,,Scandanavian_Russian_taiga,6,Europe
+"211",19713,,10.875,Scandinavian and Russian taiga,"348",22.3375513981357,,Scandanavian_Russian_taiga,6,Europe
+"212",19782,,5.03488372093023,Scandinavian and Russian taiga,"178",0,,Scandanavian_Russian_taiga,6,Europe
+"213",19783,,15.1162790697674,Scandinavian and Russian taiga,"3704",0.0423038271714364,,Scandanavian_Russian_taiga,6,Europe
+"214",19784,,14.3372093023256,Scandinavian and Russian taiga,"4040",0.0484187284716218,,Scandanavian_Russian_taiga,6,Europe
+"215",19785,,16.546511627907,Scandinavian and Russian taiga,"4213",0.211023083132459,,Scandanavian_Russian_taiga,6,Europe
+"216",19786,,18.9883720930233,Scandinavian and Russian taiga,"4385",0.00992135144580176,,Scandanavian_Russian_taiga,6,Europe
+"217",19787,,22.6511627906977,Scandinavian and Russian taiga,"4555",0,,Scandanavian_Russian_taiga,6,Europe
+"218",19788,,19.7093023255814,Scandinavian and Russian taiga,"4724",0.00657731338449398,,Scandanavian_Russian_taiga,6,Europe
+"219",19789,,9.41860465116279,Scandinavian and Russian taiga,"4891",0.0194543042020416,,Scandanavian_Russian_taiga,6,Europe
+"220",19790,,9.6046511627907,Scandinavian and Russian taiga,"5057",0,,Scandanavian_Russian_taiga,6,Europe
+"221",19791,,4.38372093023256,Scandinavian and Russian taiga,"5221",4.56612628841874,,Scandanavian_Russian_taiga,6,Europe
+"222",19792,,5.88372093023256,Scandinavian and Russian taiga,"1438",9.76724584099887,,Scandanavian_Russian_taiga,6,Europe
+"223",19793,,9.32558139534884,Scandinavian and Russian taiga,"3246",9.91443390500077,,Scandanavian_Russian_taiga,6,Europe
+"224",19793,,9.32558139534884,Scandinavian and Russian taiga,"456",9.91443390500077,,Scandanavian_Russian_taiga,6,Europe
+"225",19794,,8.72093023255814,Scandinavian and Russian taiga,"999",4.09570567810659,,Scandanavian_Russian_taiga,6,Europe
+"226",19865,,11.953488372093,Scandinavian and Russian taiga,"774",0.571511091151684,,Scandanavian_Russian_taiga,6,Europe
+"227",19866,,6.72093023255814,Scandinavian and Russian taiga,"3917",0.596428346354721,,Scandanavian_Russian_taiga,6,Europe
+"228",19867,,12.7674418604651,Scandinavian and Russian taiga,"4126",0.371963889998945,,Scandanavian_Russian_taiga,6,Europe
+"229",19868,,5.88372093023256,Scandinavian and Russian taiga,"4299",0.449470682059981,,Scandanavian_Russian_taiga,6,Europe
+"230",19869,,8.96511627906977,Scandinavian and Russian taiga,"4470",0.121209852689398,,Scandanavian_Russian_taiga,6,Europe
+"231",19870,,16.9418604651163,Scandinavian and Russian taiga,"4640",0.0895201535232977,,Scandanavian_Russian_taiga,6,Europe
+"232",19871,,15.7209302325581,Scandinavian and Russian taiga,"4808",0.00904449542603895,,Scandanavian_Russian_taiga,6,Europe
+"233",19872,,7.61627906976744,Scandinavian and Russian taiga,"4974",0.0479613383080604,,Scandanavian_Russian_taiga,6,Europe
+"234",19873,,3.46511627906977,Scandinavian and Russian taiga,"3632",2.31577343901031,,Scandanavian_Russian_taiga,6,Europe
+"235",19874,,6.15116279069767,Scandinavian and Russian taiga,"4966",4.08164012147841,,Scandanavian_Russian_taiga,6,Europe
+"236",19875,,11.1162790697674,Scandinavian and Russian taiga,"3095",18.4569030919679,,Scandanavian_Russian_taiga,6,Europe
+"237",19876,,11.0697674418605,Scandinavian and Russian taiga,"1486",8.47654961724676,,Scandanavian_Russian_taiga,6,Europe
+"238",19876,,11.0697674418605,Scandinavian and Russian taiga,"14",8.47654961724676,,Scandanavian_Russian_taiga,6,Europe
+"239",19877,,14.5348837209302,Scandinavian and Russian taiga,"1924",11.5548460089023,,Scandanavian_Russian_taiga,6,Europe
+"240",19947,,11.1931818181818,Scandinavian and Russian taiga,"2330",0.054369956464046,,Scandanavian_Russian_taiga,6,Europe
+"241",19948,,7.07954545454545,Scandinavian and Russian taiga,"4040",0.450456832847277,,Scandanavian_Russian_taiga,6,Europe
+"242",19949,,4.53409090909091,Scandinavian and Russian taiga,"4213",0.465046570055669,,Scandanavian_Russian_taiga,6,Europe
+"243",19950,,3.39772727272727,Scandinavian and Russian taiga,"4385",0,,Scandanavian_Russian_taiga,6,Europe
+"244",19951,,6.375,Scandinavian and Russian taiga,"4555",0.251914349286461,,Scandanavian_Russian_taiga,6,Europe
+"245",19952,,8.94318181818182,Scandinavian and Russian taiga,"4724",0.102057221902771,,Scandanavian_Russian_taiga,6,Europe
+"246",19953,,22.1136363636364,Scandinavian and Russian taiga,"4891",0,,Scandanavian_Russian_taiga,6,Europe
+"247",19954,,5.97727272727273,Scandinavian and Russian taiga,"4349",0.653938505806893,,Scandanavian_Russian_taiga,6,Europe
+"248",19955,,0.193181818181818,Scandinavian and Russian taiga,"9",0,,Scandanavian_Russian_taiga,6,Europe
+"249",19956,,10.9318181818182,Scandinavian and Russian taiga,"3467",5.02233807611246,,Scandanavian_Russian_taiga,6,Europe
+"250",19957,,17.9545454545455,Scandinavian and Russian taiga,"5351",2.71008305811211,,Scandanavian_Russian_taiga,6,Europe
+"251",19958,,12.0795454545455,Scandinavian and Russian taiga,"206",13.6633522397281,,Scandanavian_Russian_taiga,6,Europe
+"252",19958,,12.0795454545455,Scandinavian and Russian taiga,"1661",13.6633522397281,,Scandanavian_Russian_taiga,6,Europe
+"253",19959,,17.6477272727273,Scandinavian and Russian taiga,"907",2.58220329342521,,Scandanavian_Russian_taiga,6,Europe
+"254",20029,,6.83720930232558,Scandinavian and Russian taiga,"39",0.00773134810652081,,Scandanavian_Russian_taiga,6,Europe
+"255",20030,,11.2325581395349,Scandinavian and Russian taiga,"3838",0,,Scandanavian_Russian_taiga,6,Europe
+"256",20031,,4.67441860465116,Scandinavian and Russian taiga,"3978",0.215199319273718,,Scandanavian_Russian_taiga,6,Europe
+"257",20032,,3.34883720930233,Scandinavian and Russian taiga,"4296",0.0859696056676279,,Scandanavian_Russian_taiga,6,Europe
+"258",20033,,6.36046511627907,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"259",20034,,7.58139534883721,Scandinavian and Russian taiga,"4640",0.0187282447539214,,Scandanavian_Russian_taiga,6,Europe
+"260",20035,,10.9651162790698,Scandinavian and Russian taiga,"4808",0.664233699210192,,Scandanavian_Russian_taiga,6,Europe
+"261",20036,,15.6046511627907,Scandinavian and Russian taiga,"4974",0.0283567598076154,,Scandanavian_Russian_taiga,6,Europe
+"262",20037,,7.55813953488372,Scandinavian and Russian taiga,"3415",0.858307031534269,,Scandanavian_Russian_taiga,6,Europe
+"263",20038,,4.18604651162791,Scandinavian and Russian taiga,"870",0.716197955706689,,Scandanavian_Russian_taiga,6,Europe
+"264",20039,,16.8953488372093,Scandinavian and Russian taiga,"5464",6.33353763815904,,Scandanavian_Russian_taiga,6,Europe
+"265",20040,,14.3488372093023,Scandinavian and Russian taiga,"1744",2.41151998003056,,Scandanavian_Russian_taiga,6,Europe
+"266",20041,,12.0697674418605,Scandinavian and Russian taiga,"1623",2.66791364013543,,Scandanavian_Russian_taiga,6,Europe
+"267",20111,,7.17441860465116,Scandinavian and Russian taiga,"1601",0.218509105298539,,Scandanavian_Russian_taiga,6,Europe
+"268",20112,,5.36046511627907,Scandinavian and Russian taiga,"4040",0.64496890158126,,Scandanavian_Russian_taiga,6,Europe
+"269",20113,,4.81395348837209,Scandinavian and Russian taiga,"2806",0.267982702925591,,Scandanavian_Russian_taiga,6,Europe
+"270",20114,,8.13953488372093,Scandinavian and Russian taiga,"4357",0.0399446335597614,,Scandanavian_Russian_taiga,6,Europe
+"271",20115,,14,Scandinavian and Russian taiga,"4555",0.0191168358562153,,Scandanavian_Russian_taiga,6,Europe
+"272",20116,,15.2209302325581,Scandinavian and Russian taiga,"4724",0.202313412748239,,Scandanavian_Russian_taiga,6,Europe
+"273",20117,,11.1976744186047,Scandinavian and Russian taiga,"4891",0.268381513638982,,Scandanavian_Russian_taiga,6,Europe
+"274",20118,,14.4883720930233,Scandinavian and Russian taiga,"5057",1.86378162067555,,Scandanavian_Russian_taiga,6,Europe
+"275",20119,,7.86046511627907,Scandinavian and Russian taiga,"3427",1.80552254860891,,Scandanavian_Russian_taiga,6,Europe
+"276",20120,,17.3953488372093,Scandinavian and Russian taiga,"4821",5.87123042300057,,Scandanavian_Russian_taiga,6,Europe
+"277",20121,,19.5232558139535,Scandinavian and Russian taiga,"5497",2.48789100879871,,Scandanavian_Russian_taiga,6,Europe
+"278",20122,,9.2906976744186,Scandinavian and Russian taiga,"151",0.847582874008133,,Scandanavian_Russian_taiga,6,Europe
+"279",20194,,6.10227272727273,Scandinavian and Russian taiga,"2344",0.544721213065755,,Scandanavian_Russian_taiga,6,Europe
+"280",20195,,9.94318181818182,Scandinavian and Russian taiga,"4126",0.0632952135260781,,Scandanavian_Russian_taiga,6,Europe
+"281",20196,,5.98863636363636,Scandinavian and Russian taiga,"1888",0.120900415092048,,Scandanavian_Russian_taiga,6,Europe
+"282",20197,,17.2386363636364,Scandinavian and Russian taiga,"4470",0.155306445567627,,Scandanavian_Russian_taiga,6,Europe
+"283",20198,,15.8636363636364,Scandinavian and Russian taiga,"4640",0.0889099927233736,,Scandanavian_Russian_taiga,6,Europe
+"284",20199,,14.9545454545455,Scandinavian and Russian taiga,"4808",0.174443910199381,,Scandanavian_Russian_taiga,6,Europe
+"285",20200,,14.7045454545455,Scandinavian and Russian taiga,"4863",0.0729401203102414,,Scandanavian_Russian_taiga,6,Europe
+"286",20201,,14.0795454545455,Scandinavian and Russian taiga,"5139",0.123247478244767,,Scandanavian_Russian_taiga,6,Europe
+"287",20202,,10.3068181818182,Scandinavian and Russian taiga,"5303",0.831777184926354,,Scandanavian_Russian_taiga,6,Europe
+"288",20203,,12.1818181818182,Scandinavian and Russian taiga,"5464",1.97973249763955,,Scandanavian_Russian_taiga,6,Europe
+"289",20204,,9.20454545454546,Scandinavian and Russian taiga,"2651",2.39980698236679,,Scandanavian_Russian_taiga,6,Europe
+"290",20276,,11.7674418604651,Scandinavian and Russian taiga,"1632",0.0484875840267578,,Scandanavian_Russian_taiga,6,Europe
+"291",20277,,16.2674418604651,Scandinavian and Russian taiga,"3862",0.159723511862986,,Scandanavian_Russian_taiga,6,Europe
+"292",20278,,8.37209302325581,Scandinavian and Russian taiga,"1521",0.603210643462171,,Scandanavian_Russian_taiga,6,Europe
+"293",20279,,17.3372093023256,Scandinavian and Russian taiga,"3066",0.0810106915103753,,Scandanavian_Russian_taiga,6,Europe
+"294",20280,,15.8023255813953,Scandinavian and Russian taiga,"4724",0.464596982609621,,Scandanavian_Russian_taiga,6,Europe
+"295",20281,,13.0697674418605,Scandinavian and Russian taiga,"4488",0.323765459980608,,Scandanavian_Russian_taiga,6,Europe
+"296",20282,,5.94186046511628,Scandinavian and Russian taiga,"3293",1.14628884733602,,Scandanavian_Russian_taiga,6,Europe
+"297",20283,,10.6976744186047,Scandinavian and Russian taiga,"5041",0.444270200296303,,Scandanavian_Russian_taiga,6,Europe
+"298",20284,,9.22093023255814,Scandinavian and Russian taiga,"5384",0.0445070005597006,,Scandanavian_Russian_taiga,6,Europe
+"299",20285,,17.3604651162791,Scandinavian and Russian taiga,"5545",0.486462619821887,,Scandanavian_Russian_taiga,6,Europe
+"300",20286,,16.9651162790698,Scandinavian and Russian taiga,"463",1.70051977680529,,Scandanavian_Russian_taiga,6,Europe
+"301",20287,,7.12790697674419,Scandinavian and Russian taiga,"315",6.57164746118649,,Scandanavian_Russian_taiga,6,Europe
+"302",20358,,10.2674418604651,Scandinavian and Russian taiga,"210",0.109871621946481,,Scandanavian_Russian_taiga,6,Europe
+"303",20359,,22.2790697674419,Scandinavian and Russian taiga,"3931",0,,Scandanavian_Russian_taiga,6,Europe
+"304",20360,,10.6976744186047,Scandinavian and Russian taiga,"2397",0,,Scandanavian_Russian_taiga,6,Europe
+"305",20362,,7.44186046511628,Scandinavian and Russian taiga,"1472",0.303797410004098,,Scandanavian_Russian_taiga,6,Europe
+"306",20363,,13.0813953488372,Scandinavian and Russian taiga,"4808",0.0180887154217074,,Scandanavian_Russian_taiga,6,Europe
+"307",20364,,4.11627906976744,Scandinavian and Russian taiga,"3267",0.0218383597710803,,Scandanavian_Russian_taiga,6,Europe
+"308",20365,,4.66279069767442,Scandinavian and Russian taiga,"1674",0.0844967982661045,,Scandanavian_Russian_taiga,6,Europe
+"309",20366,,13.2209302325581,Scandinavian and Russian taiga,"5197",0.0900629120364257,,Scandanavian_Russian_taiga,6,Europe
+"310",20367,,22.1860465116279,Scandinavian and Russian taiga,"5464",0.0184789871006013,,Scandanavian_Russian_taiga,6,Europe
+"311",20368,,13.3372093023256,Scandinavian and Russian taiga,"4964",0.231676544514481,,Scandanavian_Russian_taiga,6,Europe
+"312",20369,,9.81395348837209,Scandinavian and Russian taiga,"5059",8.09714119922947,,Scandanavian_Russian_taiga,6,Europe
+"313",20440,,5.85227272727273,Scandinavian and Russian taiga,"931",0,,Scandanavian_Russian_taiga,6,Europe
+"314",20441,,30.3409090909091,Scandinavian and Russian taiga,"4213",0.0412228936150853,,Scandanavian_Russian_taiga,6,Europe
+"315",20442,,2.88636363636364,Scandinavian and Russian taiga,"613",0,,Scandanavian_Russian_taiga,6,Europe
+"316",20443,,0.761363636363636,Scandinavian and Russian taiga,"162",0,,Scandanavian_Russian_taiga,6,Europe
+"317",20444,,11.2159090909091,Scandinavian and Russian taiga,"2877",0,,Scandanavian_Russian_taiga,6,Europe
+"318",20445,,22.7840909090909,Scandinavian and Russian taiga,"4891",0.0932135688000336,,Scandanavian_Russian_taiga,6,Europe
+"319",20446,,8.60227272727273,Scandinavian and Russian taiga,"4433",0.819994432601182,,Scandanavian_Russian_taiga,6,Europe
+"320",20447,,10.4545454545455,Scandinavian and Russian taiga,"3409",0.0955707548090201,,Scandanavian_Russian_taiga,6,Europe
+"321",20448,,21.7840909090909,Scandinavian and Russian taiga,"5384",0.219045833556478,,Scandanavian_Russian_taiga,6,Europe
+"322",20449,,22.9431818181818,Scandinavian and Russian taiga,"5158",0.855331957720806,,Scandanavian_Russian_taiga,6,Europe
+"323",20450,,8.90909090909091,Scandinavian and Russian taiga,"3002",2.62721681862726,,Scandanavian_Russian_taiga,6,Europe
+"324",20451,,17.1590909090909,Scandinavian and Russian taiga,"3440",16.523450026828,,Scandanavian_Russian_taiga,6,Europe
+"325",20523,,20.0232558139535,Scandinavian and Russian taiga,"2365",0,,Scandanavian_Russian_taiga,6,Europe
+"326",20524,,20.046511627907,Scandinavian and Russian taiga,"3392",0.0101422299752146,,Scandanavian_Russian_taiga,6,Europe
+"327",20525,,2.56976744186047,Scandinavian and Russian taiga,"488",0,,Scandanavian_Russian_taiga,6,Europe
+"328",20526,,7.27906976744186,Scandinavian and Russian taiga,"2292",0,,Scandanavian_Russian_taiga,6,Europe
+"329",20527,,15.0581395348837,Scandinavian and Russian taiga,"4296",0.0452207982621345,,Scandanavian_Russian_taiga,6,Europe
+"330",20528,,18.8953488372093,Scandinavian and Russian taiga,"4974",0.165840537812875,,Scandanavian_Russian_taiga,6,Europe
+"331",20529,,11.7093023255814,Scandinavian and Russian taiga,"5139",0.0286114013500037,,Scandanavian_Russian_taiga,6,Europe
+"332",20530,,22.7325581395349,Scandinavian and Russian taiga,"5303",0.188047994112802,,Scandanavian_Russian_taiga,6,Europe
+"333",20531,,18.0813953488372,Scandinavian and Russian taiga,"5464",0.743832716418667,,Scandanavian_Russian_taiga,6,Europe
+"334",20532,,11.1046511627907,Scandinavian and Russian taiga,"5624",1.50467411052458,,Scandanavian_Russian_taiga,6,Europe
+"335",20533,,11.6046511627907,Scandinavian and Russian taiga,"5224",7.16495997925177,,Scandanavian_Russian_taiga,6,Europe
+"336",20534,,9.26744186046512,Scandinavian and Russian taiga,"645",12.3961904595892,,Scandanavian_Russian_taiga,6,Europe
+"337",20605,,24.1976744186047,Scandinavian and Russian taiga,"3748",0.0154808572334457,,Scandanavian_Russian_taiga,6,Europe
+"338",20606,,10.2209302325581,Scandinavian and Russian taiga,"1655",0,,Scandanavian_Russian_taiga,6,Europe
+"339",20607,,3.11627906976744,Scandinavian and Russian taiga,"1647",0.215043817867931,,Scandanavian_Russian_taiga,6,Europe
+"340",20608,,11.1279069767442,Scandinavian and Russian taiga,"3109",0.110246826342631,,Scandanavian_Russian_taiga,6,Europe
+"341",20609,,14.3139534883721,Scandinavian and Russian taiga,"4891",0.230543093469708,,Scandanavian_Russian_taiga,6,Europe
+"342",20610,,12.8488372093023,Scandinavian and Russian taiga,"5057",0.0472465477481278,,Scandanavian_Russian_taiga,6,Europe
+"343",20611,,14.7906976744186,Scandinavian and Russian taiga,"5221",0.00832311623943329,,Scandanavian_Russian_taiga,6,Europe
+"344",20612,,11.1860465116279,Scandinavian and Russian taiga,"5384",0.692048973282058,,Scandanavian_Russian_taiga,6,Europe
+"345",20613,,12.8720930232558,Scandinavian and Russian taiga,"5545",7.06655156935126,,Scandanavian_Russian_taiga,6,Europe
+"346",20614,,8.6046511627907,Scandinavian and Russian taiga,"5186",4.00854711555287,,Scandanavian_Russian_taiga,6,Europe
+"347",20615,,12.2906976744186,Scandinavian and Russian taiga,"576",8.92718498728338,,Scandanavian_Russian_taiga,6,Europe
+"348",20687,,3.74418604651163,Scandinavian and Russian taiga,"366",0,,Scandanavian_Russian_taiga,6,Europe
+"349",20688,,20.1511627906977,Scandinavian and Russian taiga,"4052",0,,Scandanavian_Russian_taiga,6,Europe
+"350",20690,,12.1511627906977,Scandinavian and Russian taiga,"3559",0.234714920780583,,Scandanavian_Russian_taiga,6,Europe
+"351",20691,,15.046511627907,Scandinavian and Russian taiga,"4808",0.135210938326668,,Scandanavian_Russian_taiga,6,Europe
+"352",20692,,13.4767441860465,Scandinavian and Russian taiga,"4974",1.18731761564196,,Scandanavian_Russian_taiga,6,Europe
+"353",20693,,22.9651162790698,Scandinavian and Russian taiga,"5139",1.75476607611384,,Scandanavian_Russian_taiga,6,Europe
+"354",20694,,25.5813953488372,Scandinavian and Russian taiga,"5303",0.275705887722128,,Scandanavian_Russian_taiga,6,Europe
+"355",20695,,13.2325581395349,Scandinavian and Russian taiga,"5464",2.00335135228143,,Scandanavian_Russian_taiga,6,Europe
+"356",20696,,5.97674418604651,Scandinavian and Russian taiga,"5397",0.520565504857021,,Scandanavian_Russian_taiga,6,Europe
+"357",20697,,9.95348837209302,Scandinavian and Russian taiga,"3195",3.89912069534581,,Scandanavian_Russian_taiga,6,Europe
+"358",20769,,14.7840909090909,Scandinavian and Russian taiga,"1938",0,,Scandanavian_Russian_taiga,6,Europe
+"359",20770,,5.20454545454545,Scandinavian and Russian taiga,"1210",0,,Scandanavian_Russian_taiga,6,Europe
+"360",20771,,1.85227272727273,Scandinavian and Russian taiga,"794",0.234937256663971,,Scandanavian_Russian_taiga,6,Europe
+"361",20772,,22.1818181818182,Scandinavian and Russian taiga,"4724",2.19057637907074,,Scandanavian_Russian_taiga,6,Europe
+"362",20773,,13.1022727272727,Scandinavian and Russian taiga,"4891",0.266331753018111,,Scandanavian_Russian_taiga,6,Europe
+"363",20774,,12.3863636363636,Scandinavian and Russian taiga,"5057",0.997347700580007,,Scandanavian_Russian_taiga,6,Europe
+"364",20775,,8.38636363636364,Scandinavian and Russian taiga,"5221",0.0539511520923741,,Scandanavian_Russian_taiga,6,Europe
+"365",20776,,7.69318181818182,Scandinavian and Russian taiga,"5384",1.13488967332529,,Scandanavian_Russian_taiga,6,Europe
+"366",20777,,10.3068181818182,Scandinavian and Russian taiga,"5545",4.12536619386041,,Scandanavian_Russian_taiga,6,Europe
+"367",20778,,13.5568181818182,Scandinavian and Russian taiga,"5704",10.4386552928971,,Scandanavian_Russian_taiga,6,Europe
+"368",20779,,8.29545454545454,Scandinavian and Russian taiga,"2560",20.0811031213267,,Scandanavian_Russian_taiga,6,Europe
+"369",20852,,5.68604651162791,Scandinavian and Russian taiga,"312",0,,Scandanavian_Russian_taiga,6,Europe
+"370",20853,,16.4186046511628,Scandinavian and Russian taiga,"3929",0.0340691625378484,,Scandanavian_Russian_taiga,6,Europe
+"371",20854,,17.9302325581395,Scandinavian and Russian taiga,"4083",4.36453718488445,,Scandanavian_Russian_taiga,6,Europe
+"372",20855,,23,Scandinavian and Russian taiga,"4808",1.41203778848477,,Scandanavian_Russian_taiga,6,Europe
+"373",20856,,11.453488372093,Scandinavian and Russian taiga,"4974",0.279166856262588,,Scandanavian_Russian_taiga,6,Europe
+"374",20857,,8.75581395348837,Scandinavian and Russian taiga,"5139",0.902624279268642,,Scandanavian_Russian_taiga,6,Europe
+"375",20858,,4.06976744186047,Scandinavian and Russian taiga,"5303",0.25212136952708,,Scandanavian_Russian_taiga,6,Europe
+"376",20859,,10.2325581395349,Scandinavian and Russian taiga,"5464",2.04899296442918,,Scandanavian_Russian_taiga,6,Europe
+"377",20860,,9.38372093023256,Scandinavian and Russian taiga,"5624",1.29372078382242,,Scandanavian_Russian_taiga,6,Europe
+"378",20861,,9.94186046511628,Scandinavian and Russian taiga,"5655",22.378480562074,,Scandanavian_Russian_taiga,6,Europe
+"379",20862,,8.17441860465116,Scandinavian and Russian taiga,"621",11.0063483338246,,Scandanavian_Russian_taiga,6,Europe
+"380",20934,,10.8255813953488,Scandinavian and Russian taiga,"2768",0.00992065212832059,,Scandanavian_Russian_taiga,6,Europe
+"381",20935,,14.3953488372093,Scandinavian and Russian taiga,"4555",0.33141794802226,,Scandanavian_Russian_taiga,6,Europe
+"382",20936,,10.6395348837209,Scandinavian and Russian taiga,"4724",0.594189829031919,,Scandanavian_Russian_taiga,6,Europe
+"383",20937,,16,Scandinavian and Russian taiga,"4891",0.256891272500342,,Scandanavian_Russian_taiga,6,Europe
+"384",20938,,8,Scandinavian and Russian taiga,"5057",0.0815265769973165,,Scandanavian_Russian_taiga,6,Europe
+"385",20939,,4.03488372093023,Scandinavian and Russian taiga,"5221",1.77820700638801,,Scandanavian_Russian_taiga,6,Europe
+"386",20940,,4.97674418604651,Scandinavian and Russian taiga,"5384",0.746418344338522,,Scandanavian_Russian_taiga,6,Europe
+"387",20941,,10.6395348837209,Scandinavian and Russian taiga,"5545",0.279628569702368,,Scandanavian_Russian_taiga,6,Europe
+"388",20942,,8.22093023255814,Scandinavian and Russian taiga,"5704",3.47071525902204,,Scandanavian_Russian_taiga,6,Europe
+"389",20943,,6.30232558139535,Scandinavian and Russian taiga,"3077",7.37991395277169,,Scandanavian_Russian_taiga,6,Europe
+"390",21016,,5.04545454545455,Scandinavian and Russian taiga,"591",0,,Scandanavian_Russian_taiga,6,Europe
+"391",21017,,10.7045454545455,Scandinavian and Russian taiga,"4470",0.106940337479723,,Scandanavian_Russian_taiga,6,Europe
+"392",21018,,15.5568181818182,Scandinavian and Russian taiga,"4640",0.537704987326357,,Scandanavian_Russian_taiga,6,Europe
+"393",21019,,8.84090909090909,Scandinavian and Russian taiga,"4808",0.898755383701382,,Scandanavian_Russian_taiga,6,Europe
+"394",21020,,9.97727272727273,Scandinavian and Russian taiga,"4974",0.344239582908762,,Scandanavian_Russian_taiga,6,Europe
+"395",21021,,7.38636363636364,Scandinavian and Russian taiga,"5139",2.10614955651888,,Scandanavian_Russian_taiga,6,Europe
+"396",21022,,5.63636363636364,Scandinavian and Russian taiga,"5303",0.736989265953487,,Scandanavian_Russian_taiga,6,Europe
+"397",21023,,11.3068181818182,Scandinavian and Russian taiga,"5464",0.0119528396778271,,Scandanavian_Russian_taiga,6,Europe
+"398",21024,,5.05681818181818,Scandinavian and Russian taiga,"5624",0.578790370628564,,Scandanavian_Russian_taiga,6,Europe
+"399",21025,,6.32954545454545,Scandinavian and Russian taiga,"5782",3.16821722353106,,Scandanavian_Russian_taiga,6,Europe
+"400",21026,,6.09090909090909,Scandinavian and Russian taiga,"1643",14.3281451764331,,Scandanavian_Russian_taiga,6,Europe
+"401",21098,,16.546511627907,Scandinavian and Russian taiga,"1877",0.00497124329964371,,Scandanavian_Russian_taiga,6,Europe
+"402",21099,,11.2325581395349,Scandinavian and Russian taiga,"4555",1.84417702895957,,Scandanavian_Russian_taiga,6,Europe
+"403",21100,,9.31395348837209,Scandinavian and Russian taiga,"4724",1.21527933255307,,Scandanavian_Russian_taiga,6,Europe
+"404",21101,,10.2906976744186,Scandinavian and Russian taiga,"4891",0.703574961435597,,Scandanavian_Russian_taiga,6,Europe
+"405",21102,,18.3720930232558,Scandinavian and Russian taiga,"5057",1.46526680661497,,Scandanavian_Russian_taiga,6,Europe
+"406",21103,,7.15116279069767,Scandinavian and Russian taiga,"5221",2.65426233160532,,Scandanavian_Russian_taiga,6,Europe
+"407",21104,,6.65116279069767,Scandinavian and Russian taiga,"5384",1.13004125745521,,Scandanavian_Russian_taiga,6,Europe
+"408",21105,,5.31395348837209,Scandinavian and Russian taiga,"5545",0.113405295954773,,Scandanavian_Russian_taiga,6,Europe
+"409",21106,,14.3953488372093,Scandinavian and Russian taiga,"5704",1.23886994026005,,Scandanavian_Russian_taiga,6,Europe
+"410",21107,,5.88372093023256,Scandinavian and Russian taiga,"4451",1.71942103656571,,Scandanavian_Russian_taiga,6,Europe
+"411",21180,,3.65116279069767,Scandinavian and Russian taiga,"747",0.131170418598536,,Scandanavian_Russian_taiga,6,Europe
+"412",21181,,20.6860465116279,Scandinavian and Russian taiga,"4236",0.0801226528568025,,Scandanavian_Russian_taiga,6,Europe
+"413",21182,,17.8488372093023,Scandinavian and Russian taiga,"4640",0.0891866307033784,,Scandanavian_Russian_taiga,6,Europe
+"414",21183,,8.32558139534884,Scandinavian and Russian taiga,"4808",0.112948021123192,,Scandanavian_Russian_taiga,6,Europe
+"415",21184,,12.5,Scandinavian and Russian taiga,"4974",0.485918260528536,,Scandanavian_Russian_taiga,6,Europe
+"416",21185,,7.11627906976744,Scandinavian and Russian taiga,"5139",0.49724029207669,,Scandanavian_Russian_taiga,6,Europe
+"417",21186,,7.01162790697674,Scandinavian and Russian taiga,"5303",1.24554739465626,,Scandanavian_Russian_taiga,6,Europe
+"418",21187,,5.88372093023256,Scandinavian and Russian taiga,"5464",0.194424291274658,,Scandanavian_Russian_taiga,6,Europe
+"419",21188,,6.82558139534884,Scandinavian and Russian taiga,"5624",0.216990332102861,,Scandanavian_Russian_taiga,6,Europe
+"420",21189,,9.09302325581395,Scandinavian and Russian taiga,"5778",0.359704663025317,,Scandanavian_Russian_taiga,6,Europe
+"421",21190,,7.22093023255814,Scandinavian and Russian taiga,"219",5.78722495580856,,Scandanavian_Russian_taiga,6,Europe
+"422",21261,,4.80681818181818,Scandinavian and Russian taiga,"98",0,,Scandanavian_Russian_taiga,6,Europe
+"423",21262,,20.9090909090909,Scandinavian and Russian taiga,"4368",0.0163858694239921,,Scandanavian_Russian_taiga,6,Europe
+"424",21263,,16.7159090909091,Scandinavian and Russian taiga,"4555",0.0238813325921277,,Scandanavian_Russian_taiga,6,Europe
+"425",21264,,9.5,Scandinavian and Russian taiga,"4724",0.822583079286549,,Scandanavian_Russian_taiga,6,Europe
+"426",21265,,7.55681818181818,Scandinavian and Russian taiga,"4891",0.00888833684337754,,Scandanavian_Russian_taiga,6,Europe
+"427",21266,,12.5340909090909,Scandinavian and Russian taiga,"5057",2.09605463723231,,Scandanavian_Russian_taiga,6,Europe
+"428",21267,,10.3068181818182,Scandinavian and Russian taiga,"5221",0.170312189895898,,Scandanavian_Russian_taiga,6,Europe
+"429",21268,,4.25,Scandinavian and Russian taiga,"5384",0.607215529831422,,Scandanavian_Russian_taiga,6,Europe
+"430",21269,,4.21590909090909,Scandinavian and Russian taiga,"5545",0.375361888153692,,Scandanavian_Russian_taiga,6,Europe
+"431",21270,,5.82954545454545,Scandinavian and Russian taiga,"5119",0.383280672894283,,Scandanavian_Russian_taiga,6,Europe
+"432",21271,,6.36363636363636,Scandinavian and Russian taiga,"5157",1.94186066792361,,Scandanavian_Russian_taiga,6,Europe
+"433",21272,,6.63636363636364,Scandinavian and Russian taiga,"230",19.7667159394902,,Scandanavian_Russian_taiga,6,Europe
+"434",21344,,14.6744186046512,Scandinavian and Russian taiga,"1892",0.0101194154734664,,Scandanavian_Russian_taiga,6,Europe
+"435",21345,,16.9883720930233,Scandinavian and Russian taiga,"4470",0.0907214461332879,,Scandanavian_Russian_taiga,6,Europe
+"436",21346,,10.9651162790698,Scandinavian and Russian taiga,"4640",0.402031359454052,,Scandanavian_Russian_taiga,6,Europe
+"437",21347,,6.75581395348837,Scandinavian and Russian taiga,"4808",0.00906340701606251,,Scandanavian_Russian_taiga,6,Europe
+"438",21348,,7.41860465116279,Scandinavian and Russian taiga,"4974",0.00437925818469471,,Scandanavian_Russian_taiga,6,Europe
+"439",21349,,11.5116279069767,Scandinavian and Russian taiga,"5139",5.0933634185483,,Scandanavian_Russian_taiga,6,Europe
+"440",21350,,7.16279069767442,Scandinavian and Russian taiga,"5303",2.02387303945306,,Scandanavian_Russian_taiga,6,Europe
+"441",21351,,3.91860465116279,Scandinavian and Russian taiga,"5464",0.503587453901057,,Scandanavian_Russian_taiga,6,Europe
+"442",21352,,5.13953488372093,Scandinavian and Russian taiga,"5624",0.20412814678232,,Scandanavian_Russian_taiga,6,Europe
+"443",21353,,5.95348837209302,Scandinavian and Russian taiga,"4998",0.209331255602976,,Scandanavian_Russian_taiga,6,Europe
+"444",21354,,11.7209302325581,Scandinavian and Russian taiga,"1536",16.0012422046467,,Scandanavian_Russian_taiga,6,Europe
+"445",21425,,2.40697674418605,Scandinavian and Russian taiga,"174",0,,Scandanavian_Russian_taiga,6,Europe
+"446",21426,,18.1627906976744,Scandinavian and Russian taiga,"4233",0.0198424231282993,,Scandanavian_Russian_taiga,6,Europe
+"447",21427,,11.6627906976744,Scandinavian and Russian taiga,"4555",0.570914831426539,,Scandanavian_Russian_taiga,6,Europe
+"448",21428,,7.45348837209302,Scandinavian and Russian taiga,"4724",0.110170017238535,,Scandanavian_Russian_taiga,6,Europe
+"449",21429,,5.56976744186047,Scandinavian and Russian taiga,"4891",0.116145289744559,,Scandanavian_Russian_taiga,6,Europe
+"450",21430,,10.046511627907,Scandinavian and Russian taiga,"5057",0.515842783574904,,Scandanavian_Russian_taiga,6,Europe
+"451",21431,,9.25581395348837,Scandinavian and Russian taiga,"5221",8.55565520230234,,Scandanavian_Russian_taiga,6,Europe
+"452",21432,,5.18604651162791,Scandinavian and Russian taiga,"5384",1.50499685641468,,Scandanavian_Russian_taiga,6,Europe
+"453",21433,,4.76744186046512,Scandinavian and Russian taiga,"5545",0.25411773444447,,Scandanavian_Russian_taiga,6,Europe
+"454",21434,,10.1279069767442,Scandinavian and Russian taiga,"4272",0.415752680129011,,Scandanavian_Russian_taiga,6,Europe
+"455",21435,,8.31395348837209,Scandinavian and Russian taiga,"4109",6.11998483661383,,Scandanavian_Russian_taiga,6,Europe
+"456",21436,,5.8953488372093,Scandinavian and Russian taiga,"412",1.83563246765438,,Scandanavian_Russian_taiga,6,Europe
+"457",21508,,9.64772727272727,Scandinavian and Russian taiga,"2265",0,,Scandanavian_Russian_taiga,6,Europe
+"458",21509,,17.9886363636364,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"459",21510,,5.86363636363636,Scandinavian and Russian taiga,"4640",0.580116193195289,,Scandanavian_Russian_taiga,6,Europe
+"460",21511,,6.05681818181818,Scandinavian and Russian taiga,"4808",0.0135571676701137,,Scandanavian_Russian_taiga,6,Europe
+"461",21512,,7.17045454545455,Scandinavian and Russian taiga,"4974",2.17791511872397,,Scandanavian_Russian_taiga,6,Europe
+"462",21513,,10.625,Scandinavian and Russian taiga,"5139",1.1626348390782,,Scandanavian_Russian_taiga,6,Europe
+"463",21514,,5.67045454545455,Scandinavian and Russian taiga,"5303",0.197141438693711,,Scandanavian_Russian_taiga,6,Europe
+"464",21515,,4.11363636363636,Scandinavian and Russian taiga,"5464",0.19833129930784,,Scandanavian_Russian_taiga,6,Europe
+"465",21516,,7.75,Scandinavian and Russian taiga,"5624",1.08650935505975,,Scandanavian_Russian_taiga,6,Europe
+"466",21517,,4.72727272727273,Scandinavian and Russian taiga,"4695",2.19571785469301,,Scandanavian_Russian_taiga,6,Europe
+"467",21518,,10.3181818181818,Scandinavian and Russian taiga,"2085",8.60604158371093,,Scandanavian_Russian_taiga,6,Europe
+"468",21589,,3.68604651162791,Scandinavian and Russian taiga,"673",0,,Scandanavian_Russian_taiga,6,Europe
+"469",21590,,21.6744186046512,Scandinavian and Russian taiga,"4385",0.00992166906713112,,Scandanavian_Russian_taiga,6,Europe
+"470",21591,,8.90697674418605,Scandinavian and Russian taiga,"4555",0.50286753896737,,Scandanavian_Russian_taiga,6,Europe
+"471",21592,,5.46511627906977,Scandinavian and Russian taiga,"4724",0.623726573123099,,Scandanavian_Russian_taiga,6,Europe
+"472",21593,,5.82558139534884,Scandinavian and Russian taiga,"4891",1.42091150070699,,Scandanavian_Russian_taiga,6,Europe
+"473",21594,,8.18604651162791,Scandinavian and Russian taiga,"5057",3.00326370187964,,Scandanavian_Russian_taiga,6,Europe
+"474",21595,,6.52325581395349,Scandinavian and Russian taiga,"5221",1.9594953032267,,Scandanavian_Russian_taiga,6,Europe
+"475",21596,,6.51162790697674,Scandinavian and Russian taiga,"5384",0.00808906063557213,,Scandanavian_Russian_taiga,6,Europe
+"476",21597,,5.24418604651163,Scandinavian and Russian taiga,"5545",1.41480372428523,,Scandanavian_Russian_taiga,6,Europe
+"477",21598,,6.37209302325581,Scandinavian and Russian taiga,"5704",2.31212234263212,,Scandanavian_Russian_taiga,6,Europe
+"478",21599,,3.52325581395349,Scandinavian and Russian taiga,"4763",3.15352854140066,,Scandanavian_Russian_taiga,6,Europe
+"479",21671,,2.5,Scandinavian and Russian taiga,"53",0,,Scandanavian_Russian_taiga,6,Europe
+"480",21672,,19.5232558139535,Scandinavian and Russian taiga,"4065",0.0101206020600766,,Scandanavian_Russian_taiga,6,Europe
+"481",21673,,15.3023255813953,Scandinavian and Russian taiga,"4470",0,,Scandanavian_Russian_taiga,6,Europe
+"482",21674,,7.74418604651163,Scandinavian and Russian taiga,"4640",0.453364136233263,,Scandanavian_Russian_taiga,6,Europe
+"483",21675,,6.93023255813953,Scandinavian and Russian taiga,"4808",1.72440120615038,,Scandanavian_Russian_taiga,6,Europe
+"484",21676,,5.87209302325581,Scandinavian and Russian taiga,"4974",0.793073703181248,,Scandanavian_Russian_taiga,6,Europe
+"485",21677,,4.04651162790698,Scandinavian and Russian taiga,"5139",0.0934683080526409,,Scandanavian_Russian_taiga,6,Europe
+"486",21678,,5.05813953488372,Scandinavian and Russian taiga,"5303",1.09503831740398,,Scandanavian_Russian_taiga,6,Europe
+"487",21679,,5.8953488372093,Scandinavian and Russian taiga,"5464",0.649944242552858,,Scandanavian_Russian_taiga,6,Europe
+"488",21680,,4.31395348837209,Scandinavian and Russian taiga,"5624",2.06657702420564,,Scandanavian_Russian_taiga,6,Europe
+"489",21681,,3,Scandinavian and Russian taiga,"5781",3.73625947569473,,Scandanavian_Russian_taiga,6,Europe
+"490",21682,,3.82558139534884,Scandinavian and Russian taiga,"538",4.29370903958457,,Scandanavian_Russian_taiga,6,Europe
+"491",21753,,14.9651162790698,Scandinavian and Russian taiga,"2884",0.169947186800535,,Scandanavian_Russian_taiga,6,Europe
+"492",21754,,16.3837209302326,Scandinavian and Russian taiga,"4385",0,,Scandanavian_Russian_taiga,6,Europe
+"493",21755,,13.1627906976744,Scandinavian and Russian taiga,"4555",0.00478441414878194,,Scandanavian_Russian_taiga,6,Europe
+"494",21756,,7.33720930232558,Scandinavian and Russian taiga,"4724",1.70020954480692,,Scandanavian_Russian_taiga,6,Europe
+"495",21757,,5.95348837209302,Scandinavian and Russian taiga,"4891",0.0797160338825808,,Scandanavian_Russian_taiga,6,Europe
+"496",21758,,4.22093023255814,Scandinavian and Russian taiga,"5057",0.903365243632004,,Scandanavian_Russian_taiga,6,Europe
+"497",21759,,3.51162790697674,Scandinavian and Russian taiga,"5221",0.506080325537602,,Scandanavian_Russian_taiga,6,Europe
+"498",21760,,6.08139534883721,Scandinavian and Russian taiga,"5384",0.248871608276758,,Scandanavian_Russian_taiga,6,Europe
+"499",21761,,5.33720930232558,Scandinavian and Russian taiga,"5545",1.54675887161882,,Scandanavian_Russian_taiga,6,Europe
+"500",21762,,3.43023255813953,Scandinavian and Russian taiga,"5644",2.7903441444611,,Scandanavian_Russian_taiga,6,Europe
+"501",21763,,3.88372093023256,Scandinavian and Russian taiga,"1004",3.9360306028739,,Scandanavian_Russian_taiga,6,Europe
+"502",21835,,1.35227272727273,Scandinavian and Russian taiga,"368",0,,Scandanavian_Russian_taiga,6,Europe
+"503",21836,,19.6818181818182,Scandinavian and Russian taiga,"4242",0.00507126076877735,,Scandanavian_Russian_taiga,6,Europe
+"504",21837,,9.54545454545454,Scandinavian and Russian taiga,"4470",0.000218388952873512,,Scandanavian_Russian_taiga,6,Europe
+"505",21838,,5.90909090909091,Scandinavian and Russian taiga,"4640",0.0468901792681012,,Scandanavian_Russian_taiga,6,Europe
+"506",21839,,9.29545454545454,Scandinavian and Russian taiga,"4808",0.512875884393833,,Scandanavian_Russian_taiga,6,Europe
+"507",21840,,9.38636363636364,Scandinavian and Russian taiga,"4974",0.0531254323182171,,Scandanavian_Russian_taiga,6,Europe
+"508",21841,,6.13636363636364,Scandinavian and Russian taiga,"5139",1.5219386660315,,Scandanavian_Russian_taiga,6,Europe
+"509",21842,,4.05681818181818,Scandinavian and Russian taiga,"5303",0.249052707482506,,Scandanavian_Russian_taiga,6,Europe
+"510",21843,,5.73863636363636,Scandinavian and Russian taiga,"5464",0.699082934921021,,Scandanavian_Russian_taiga,6,Europe
+"511",21844,,6.21590909090909,Scandinavian and Russian taiga,"4430",1.82678235522394,,Scandanavian_Russian_taiga,6,Europe
+"512",21845,,4.21590909090909,Scandinavian and Russian taiga,"4269",1.16540093377174,,Scandanavian_Russian_taiga,6,Europe
+"513",21917,,8.51162790697674,Scandinavian and Russian taiga,"1601",0.0206561027764168,,Scandanavian_Russian_taiga,6,Europe
+"514",21918,,14.6162790697674,Scandinavian and Russian taiga,"4116",0.0124164819411867,,Scandanavian_Russian_taiga,6,Europe
+"515",21919,,5.55813953488372,Scandinavian and Russian taiga,"4555",0.102462594333434,,Scandanavian_Russian_taiga,6,Europe
+"516",21920,,10.1046511627907,Scandinavian and Russian taiga,"4724",0.0184509635115105,,Scandanavian_Russian_taiga,6,Europe
+"517",21921,,18.3139534883721,Scandinavian and Russian taiga,"4891",0,,Scandanavian_Russian_taiga,6,Europe
+"518",21922,,9.16279069767442,Scandinavian and Russian taiga,"5057",0.119907092449734,,Scandanavian_Russian_taiga,6,Europe
+"519",21923,,4.38372093023256,Scandinavian and Russian taiga,"5221",0.697048052368431,,Scandanavian_Russian_taiga,6,Europe
+"520",21924,,5.94186046511628,Scandinavian and Russian taiga,"5384",0.0330452116077878,,Scandanavian_Russian_taiga,6,Europe
+"521",21925,,10.2558139534884,Scandinavian and Russian taiga,"5487",0.421736895988614,,Scandanavian_Russian_taiga,6,Europe
+"522",21926,,3.88372093023256,Scandinavian and Russian taiga,"5643",1.5144664919638,,Scandanavian_Russian_taiga,6,Europe
+"523",21927,,5.82558139534884,Scandinavian and Russian taiga,"637",0.365729147988282,,Scandanavian_Russian_taiga,6,Europe
+"524",22000,,19.7093023255814,Scandinavian and Russian taiga,"905",0.413949638525899,,Scandanavian_Russian_taiga,6,Europe
+"525",22001,,8.41860465116279,Scandinavian and Russian taiga,"4469",0.053616782818338,,Scandanavian_Russian_taiga,6,Europe
+"526",22002,,6.91860465116279,Scandinavian and Russian taiga,"4640",0.00436677213369549,,Scandanavian_Russian_taiga,6,Europe
+"527",22003,,8.38372093023256,Scandinavian and Russian taiga,"4808",0.040667581447426,,Scandanavian_Russian_taiga,6,Europe
+"528",22004,,7.66279069767442,Scandinavian and Russian taiga,"4974",0.104843417940687,,Scandanavian_Russian_taiga,6,Europe
+"529",22005,,3.33720930232558,Scandinavian and Russian taiga,"5139",1.06822518246568,,Scandanavian_Russian_taiga,6,Europe
+"530",22006,,7.34883720930233,Scandinavian and Russian taiga,"5303",2.73203878135642,,Scandanavian_Russian_taiga,6,Europe
+"531",22007,,9.83720930232558,Scandinavian and Russian taiga,"5464",0.309814789217517,,Scandanavian_Russian_taiga,6,Europe
+"532",22008,,4.69767441860465,Scandinavian and Russian taiga,"5135",0.519690686400591,,Scandanavian_Russian_taiga,6,Europe
+"533",22009,,4.2093023255814,Scandinavian and Russian taiga,"2561",0.322745804585274,,Scandanavian_Russian_taiga,6,Europe
+"534",22081,,6.31818181818182,Scandinavian and Russian taiga,"1282",0.179905583850365,,Scandanavian_Russian_taiga,6,Europe
+"535",22082,,21.7272727272727,Scandinavian and Russian taiga,"3598",0,,Scandanavian_Russian_taiga,6,Europe
+"536",22083,,12.2045454545455,Scandinavian and Russian taiga,"4555",0.0480389999939055,,Scandanavian_Russian_taiga,6,Europe
+"537",22084,,4.25,Scandinavian and Russian taiga,"4724",0.137726332395944,,Scandanavian_Russian_taiga,6,Europe
+"538",22085,,4.84090909090909,Scandinavian and Russian taiga,"4891",0.317926638694437,,Scandanavian_Russian_taiga,6,Europe
+"539",22086,,6.52272727272727,Scandinavian and Russian taiga,"5057",0.124474621386905,,Scandanavian_Russian_taiga,6,Europe
+"540",22087,,3.45454545454545,Scandinavian and Russian taiga,"5121",2.93668055100188,,Scandanavian_Russian_taiga,6,Europe
+"541",22088,,8.67045454545454,Scandinavian and Russian taiga,"5384",0.583077151679352,,Scandanavian_Russian_taiga,6,Europe
+"542",22089,,3.93181818181818,Scandinavian and Russian taiga,"5545",0.319895510271965,,Scandanavian_Russian_taiga,6,Europe
+"543",22090,,3.48863636363636,Scandinavian and Russian taiga,"4721",0.118059117314184,,Scandanavian_Russian_taiga,6,Europe
+"544",22163,,0.593023255813954,Scandinavian and Russian taiga,"1004",0.0211125201436428,,Scandanavian_Russian_taiga,6,Europe
+"545",22164,,11.3837209302326,Scandinavian and Russian taiga,"3207",0.0253103434330928,,Scandanavian_Russian_taiga,6,Europe
+"546",22165,,15.093023255814,Scandinavian and Russian taiga,"4470",0.13115122325852,,Scandanavian_Russian_taiga,6,Europe
+"547",22166,,7.83720930232558,Scandinavian and Russian taiga,"4640",0.172874179697889,,Scandanavian_Russian_taiga,6,Europe
+"548",22167,,9.23255813953488,Scandinavian and Russian taiga,"4808",1.09687143456472,,Scandanavian_Russian_taiga,6,Europe
+"549",22168,,3.75581395348837,Scandinavian and Russian taiga,"4974",0.0261607154382426,,Scandanavian_Russian_taiga,6,Europe
+"550",22169,,11.593023255814,Scandinavian and Russian taiga,"4699",0,,Scandanavian_Russian_taiga,6,Europe
+"551",22170,,11.1511627906977,Scandinavian and Russian taiga,"3791",0.138989362231795,,Scandanavian_Russian_taiga,6,Europe
+"552",22171,,5.23255813953488,Scandinavian and Russian taiga,"5464",0.243607107987768,,Scandanavian_Russian_taiga,6,Europe
+"553",22172,,2.76744186046512,Scandinavian and Russian taiga,"5624",1.03009915006673,,Scandanavian_Russian_taiga,6,Europe
+"554",22173,,3.09302325581395,Scandinavian and Russian taiga,"2338",0.664390812469046,,Scandanavian_Russian_taiga,6,Europe
+"555",22245,,1.62790697674419,Scandinavian and Russian taiga,"1135",0.0979898564236879,,Scandanavian_Russian_taiga,6,Europe
+"556",22246,,10.7906976744186,Scandinavian and Russian taiga,"3723",0.133929474503861,,Scandanavian_Russian_taiga,6,Europe
+"557",22247,,10.3372093023256,Scandinavian and Russian taiga,"4555",0.0191175111820485,,Scandanavian_Russian_taiga,6,Europe
+"558",22248,,9.19767441860465,Scandinavian and Russian taiga,"4724",0.927247743644867,,Scandanavian_Russian_taiga,6,Europe
+"559",22249,,11.7558139534884,Scandinavian and Russian taiga,"4891",0.253593754496836,,Scandanavian_Russian_taiga,6,Europe
+"560",22250,,4.32558139534884,Scandinavian and Russian taiga,"5057",0.0129212094041652,,Scandanavian_Russian_taiga,6,Europe
+"561",22251,,9.48837209302326,Scandinavian and Russian taiga,"2057",0,,Scandanavian_Russian_taiga,6,Europe
+"562",22252,,16.3720930232558,Scandinavian and Russian taiga,"5384",0.0799266175643677,,Scandanavian_Russian_taiga,6,Europe
+"563",22253,,2.69767441860465,Scandinavian and Russian taiga,"5545",0.545394518183685,,Scandanavian_Russian_taiga,6,Europe
+"564",22254,,3.12790697674419,Scandinavian and Russian taiga,"4664",1.87434423046191,,Scandanavian_Russian_taiga,6,Europe
+"565",22328,,11.3181818181818,Scandinavian and Russian taiga,"2493",0.0606974155287355,,Scandanavian_Russian_taiga,6,Europe
+"566",22329,,17.2159090909091,Scandinavian and Russian taiga,"4288",0.0584297068517726,,Scandanavian_Russian_taiga,6,Europe
+"567",22330,,7.44318181818182,Scandinavian and Russian taiga,"4640",2.86274061162827,,Scandanavian_Russian_taiga,6,Europe
+"568",22331,,8.75,Scandinavian and Russian taiga,"4808",1.153538417338,,Scandanavian_Russian_taiga,6,Europe
+"569",22332,,7.43181818181818,Scandinavian and Russian taiga,"4974",0.13941460530732,,Scandanavian_Russian_taiga,6,Europe
+"570",22333,,6.78409090909091,Scandinavian and Russian taiga,"3128",0.264702701207905,,Scandanavian_Russian_taiga,6,Europe
+"571",22334,,6.19318181818182,Scandinavian and Russian taiga,"2589",0.15645069323343,,Scandanavian_Russian_taiga,6,Europe
+"572",22335,,8.90909090909091,Scandinavian and Russian taiga,"5435",0.417820802630306,,Scandanavian_Russian_taiga,6,Europe
+"573",22336,,4.97727272727273,Scandinavian and Russian taiga,"4566",0.600054651767506,,Scandanavian_Russian_taiga,6,Europe
+"574",22409,,4.3953488372093,Scandinavian and Russian taiga,"327",0.0568331808940012,,Scandanavian_Russian_taiga,6,Europe
+"575",22410,,21.2674418604651,Scandinavian and Russian taiga,"2662",0.277090551661569,,Scandanavian_Russian_taiga,6,Europe
+"576",22411,,9.01162790697674,Scandinavian and Russian taiga,"3665",0.109635298289216,,Scandanavian_Russian_taiga,6,Europe
+"577",22412,,10.3604651162791,Scandinavian and Russian taiga,"4724",0.0735271181159679,,Scandanavian_Russian_taiga,6,Europe
+"578",22413,,17.2325581395349,Scandinavian and Russian taiga,"4647",0.0399700129606144,,Scandanavian_Russian_taiga,6,Europe
+"579",22414,,7.02325581395349,Scandinavian and Russian taiga,"4557",0.598807800553354,,Scandanavian_Russian_taiga,6,Europe
+"580",22415,,4.12790697674419,Scandinavian and Russian taiga,"81",0.386210063237113,,Scandanavian_Russian_taiga,6,Europe
+"581",22416,,8.73255813953488,Scandinavian and Russian taiga,"1803",1.18230805569784,,Scandanavian_Russian_taiga,6,Europe
+"582",22417,,2.8953488372093,Scandinavian and Russian taiga,"4334",0.467052097077551,,Scandanavian_Russian_taiga,6,Europe
+"583",22418,,2.84883720930233,Scandinavian and Russian taiga,"2660",1.55606004417526,,Scandanavian_Russian_taiga,6,Europe
+"584",22492,,15.4651162790698,Scandinavian and Russian taiga,"2242",0.0657913104156696,,Scandanavian_Russian_taiga,6,Europe
+"585",22493,,18.6627906976744,Scandinavian and Russian taiga,"4470",0.0243387652971693,,Scandanavian_Russian_taiga,6,Europe
+"586",22494,,7.73255813953488,Scandinavian and Russian taiga,"4441",0.0842019116249522,,Scandanavian_Russian_taiga,6,Europe
+"587",22495,,6.47674418604651,Scandinavian and Russian taiga,"937",0.0090638496678232,,Scandanavian_Russian_taiga,6,Europe
+"588",22496,,7.40697674418605,Scandinavian and Russian taiga,"847",0,,Scandanavian_Russian_taiga,6,Europe
+"589",22497,,2.76744186046512,Scandinavian and Russian taiga,"122",0.088774052237894,,Scandanavian_Russian_taiga,6,Europe
+"590",22499,,2.12790697674419,Scandinavian and Russian taiga,"200",0.2295321843505,,Scandanavian_Russian_taiga,6,Europe
+"591",22500,,2.59302325581395,Scandinavian and Russian taiga,"532",2.07298467597051,,Scandanavian_Russian_taiga,6,Europe
+"592",22501,,2.13953488372093,Scandinavian and Russian taiga,"286",0.711077633246882,,Scandanavian_Russian_taiga,6,Europe
+"593",22573,,7.64772727272727,Scandinavian and Russian taiga,"807",0,,Scandanavian_Russian_taiga,6,Europe
+"594",22574,,12.5454545454545,Scandinavian and Russian taiga,"3733",0.0141009128293061,,Scandanavian_Russian_taiga,6,Europe
+"595",22575,,16.9318181818182,Scandinavian and Russian taiga,"812",0.0238614563723571,,Scandanavian_Russian_taiga,6,Europe
+"596",22576,,10.8863636363636,Scandinavian and Russian taiga,"213",0.00461292018714801,,Scandanavian_Russian_taiga,6,Europe
+"597",22656,,8.30952380952381,Scandinavian and Russian taiga,"3093",0.228046378255453,,Scandanavian_Russian_taiga,6,Europe
+"598",22657,,13.0238095238095,Scandinavian and Russian taiga,"1957",0.1701774150344,,Scandanavian_Russian_taiga,6,Europe
+"599",22737,,6.61363636363636,Scandinavian and Russian taiga,"2115",0.273044905588543,,Scandanavian_Russian_taiga,6,Europe
+"600",22738,,21.3295454545455,Scandinavian and Russian taiga,"3432",0.0644977623023171,,Scandanavian_Russian_taiga,6,Europe
+"601",22739,,1.88636363636364,Scandinavian and Russian taiga,"170",0.687577530694691,,Scandanavian_Russian_taiga,6,Europe
+"602",22820,,15.6162790697674,Scandinavian and Russian taiga,"2601",0.0707318428317641,,Scandanavian_Russian_taiga,6,Europe
+"603",22821,,2.66279069767442,Scandinavian and Russian taiga,"122",0.491034265157902,,Scandanavian_Russian_taiga,6,Europe
+"604",22901,,3.08139534883721,Scandinavian and Russian taiga,"487",0.00517468900755891,,Scandanavian_Russian_taiga,6,Europe
+"605",22902,,5.55813953488372,Scandinavian and Russian taiga,"24",0.124086348429712,,Scandanavian_Russian_taiga,6,Europe
+"606",22087,,3.45454545454545,Ural montane forests and tundra,"102",2.93668055100188,,Ural_montane_forest - NP,6,Europe
+"607",22169,,11.593023255814,Ural montane forests and tundra,"442",0,,Ural_montane_forest - NP,6,Europe
+"608",22170,,11.1511627906977,Ural montane forests and tundra,"1510",0.138989362231795,,Ural_montane_forest - NP,6,Europe
+"609",22251,,9.48837209302326,Ural montane forests and tundra,"3164",0,,Ural_montane_forest - NP,6,Europe
+"610",22333,,6.78409090909091,Ural montane forests and tundra,"2013",0.264702701207905,,Ural_montane_forest - NP,6,Europe
+"611",22334,,6.19318181818182,Ural montane forests and tundra,"2711",0.15645069323343,,Ural_montane_forest - NP,6,Europe
+"612",22335,,8.90909090909091,Ural montane forests and tundra,"28",0.417820802630306,,Ural_montane_forest - NP,6,Europe
+"613",22413,,17.2325581395349,Ural montane forests and tundra,"246",0.0399700129606144,,Ural_montane_forest - NP,6,Europe
+"614",22414,,7.02325581395349,Ural montane forests and tundra,"502",0.598807800553354,,Ural_montane_forest - NP,6,Europe
+"615",22415,,4.12790697674419,Ural montane forests and tundra,"5142",0.386210063237113,,Ural_montane_forest - NP,6,Europe
+"616",22416,,8.73255813953488,Ural montane forests and tundra,"3583",1.18230805569784,,Ural_montane_forest - NP,6,Europe
+"617",22417,,2.8953488372093,Ural montane forests and tundra,"1208",0.467052097077551,,Ural_montane_forest - NP,6,Europe
+"618",22418,,2.84883720930233,Ural montane forests and tundra,"215",1.55606004417526,,Ural_montane_forest - NP,6,Europe
+"619",22420,,1.95348837209302,Ural montane forests and tundra,"1286",0.348402662432555,,Ural_montane_forest - NP,6,Europe
+"620",22421,,2.55813953488372,Ural montane forests and tundra,"0",0.582273906098647,,Ural_montane_forest - NP,6,Europe
+"621",22421,,2.55813953488372,Ural montane forests and tundra,"928",0.582273906098647,,Ural_montane_forest - NP,6,Europe
+"622",22422,,2.34883720930233,Ural montane forests and tundra,"1211",0.0776264578009498,,Ural_montane_forest - NP,6,Europe
+"623",22423,,1.94186046511628,Ural montane forests and tundra,"616",0.54159455910891,,Ural_montane_forest - NP,6,Europe
+"624",22424,,1.33720930232558,Ural montane forests and tundra,"108",9.41322622079494,,Ural_montane_forest - NP,6,Europe
+"625",22494,,7.73255813953488,Ural montane forests and tundra,"198",0.0842019116249522,,Ural_montane_forest - NP,6,Europe
+"626",22495,,6.47674418604651,Ural montane forests and tundra,"3870",0.0090638496678232,,Ural_montane_forest - NP,6,Europe
+"627",22496,,7.40697674418605,Ural montane forests and tundra,"4126",0,,Ural_montane_forest - NP,6,Europe
+"628",22497,,2.76744186046512,Ural montane forests and tundra,"5015",0.088774052237894,,Ural_montane_forest - NP,6,Europe
+"629",22498,,2.1046511627907,Ural montane forests and tundra,"5303",0.191934940373557,,Ural_montane_forest - NP,6,Europe
+"630",22499,,2.12790697674419,Ural montane forests and tundra,"0",0.2295321843505,,Ural_montane_forest - NP,6,Europe
+"631",22499,,2.12790697674419,Ural montane forests and tundra,"5213",0.2295321843505,,Ural_montane_forest - NP,6,Europe
+"632",22499,,2.12790697674419,Ural montane forests and tundra,"54",0.2295321843505,,Ural_montane_forest - NP,6,Europe
+"633",22500,,2.59302325581395,Ural montane forests and tundra,"5095",2.07298467597051,,Ural_montane_forest - NP,6,Europe
+"634",22501,,2.13953488372093,Ural montane forests and tundra,"0",0.711077633246882,,Ural_montane_forest - NP,6,Europe
+"635",22501,,2.13953488372093,Ural montane forests and tundra,"1249",0.711077633246882,,Ural_montane_forest - NP,6,Europe
+"636",22501,,2.13953488372093,Ural montane forests and tundra,"1253",0.711077633246882,,Ural_montane_forest - NP,6,Europe
+"637",22502,,2.04651162790698,Ural montane forests and tundra,"11",3.52724093292948,,Ural_montane_forest - NP,6,Europe
+"638",22503,,1.81395348837209,Ural montane forests and tundra,"0",2.70358690664428,,Ural_montane_forest - NP,6,Europe
+"639",22503,,1.81395348837209,Ural montane forests and tundra,"2027",2.70358690664428,,Ural_montane_forest - NP,6,Europe
+"640",22503,,1.81395348837209,Ural montane forests and tundra,"1158",2.70358690664428,,Ural_montane_forest - NP,6,Europe
+"641",22504,,1.86046511627907,Ural montane forests and tundra,"0",0.223983088009446,,Ural_montane_forest - NP,6,Europe
+"642",22504,,1.86046511627907,Ural montane forests and tundra,"2822",0.223983088009446,,Ural_montane_forest - NP,6,Europe
+"643",22504,,1.86046511627907,Ural montane forests and tundra,"2657",0.223983088009446,,Ural_montane_forest - NP,6,Europe
+"644",22505,,1.8953488372093,Ural montane forests and tundra,"5204",1.60610674157042,,Ural_montane_forest - NP,6,Europe
+"645",22506,,1.30232558139535,Ural montane forests and tundra,"4331",2.80787822503098,,Ural_montane_forest - NP,6,Europe
+"646",22507,,0.36046511627907,Ural montane forests and tundra,"227",36.9052996429785,,Ural_montane_forest - NP,6,Europe
+"647",22574,,12.5454545454545,Ural montane forests and tundra,"3",0.0141009128293061,,Ural_montane_forest - NP,6,Europe
+"648",22575,,16.9318181818182,Ural montane forests and tundra,"1978",0.0238614563723571,,Ural_montane_forest - NP,6,Europe
+"649",22576,,10.8863636363636,Ural montane forests and tundra,"3081",0.00461292018714801,,Ural_montane_forest - NP,6,Europe
+"650",22577,,4.32954545454545,Ural montane forests and tundra,"0",0.0532724505623495,,Ural_montane_forest - NP,6,Europe
+"651",22577,,4.32954545454545,Ural montane forests and tundra,"4856",0.0532724505623495,,Ural_montane_forest - NP,6,Europe
+"652",22577,,4.32954545454545,Ural montane forests and tundra,"34",0.0532724505623495,,Ural_montane_forest - NP,6,Europe
+"653",22578,,2.28409090909091,Ural montane forests and tundra,"5057",0.0172284605121729,,Ural_montane_forest - NP,6,Europe
+"654",22579,,1.84090909090909,Ural montane forests and tundra,"5221",0.0664306135327533,,Ural_montane_forest - NP,6,Europe
+"655",22580,,2.5,Ural montane forests and tundra,"0",0.152722256492585,,Ural_montane_forest - NP,6,Europe
+"656",22580,,2.5,Ural montane forests and tundra,"3434",0.152722256492585,,Ural_montane_forest - NP,6,Europe
+"657",22580,,2.5,Ural montane forests and tundra,"1949",0.152722256492585,,Ural_montane_forest - NP,6,Europe
+"658",22581,,1.60227272727273,Ural montane forests and tundra,"0",0.0274669875871974,,Ural_montane_forest - NP,6,Europe
+"659",22581,,1.60227272727273,Ural montane forests and tundra,"4315",0.0274669875871974,,Ural_montane_forest - NP,6,Europe
+"660",22582,,1.90909090909091,Ural montane forests and tundra,"0",0.0799017647356289,,Ural_montane_forest - NP,6,Europe
+"661",22582,,1.90909090909091,Ural montane forests and tundra,"3274",0.0799017647356289,,Ural_montane_forest - NP,6,Europe
+"662",22582,,1.90909090909091,Ural montane forests and tundra,"2429",0.0799017647356289,,Ural_montane_forest - NP,6,Europe
+"663",22584,,1.81818181818182,Ural montane forests and tundra,"0",2.28110191340896,,Ural_montane_forest - NP,6,Europe
+"664",22584,,1.81818181818182,Ural montane forests and tundra,"1824",2.28110191340896,,Ural_montane_forest - NP,6,Europe
+"665",22584,,1.81818181818182,Ural montane forests and tundra,"958",2.28110191340896,,Ural_montane_forest - NP,6,Europe
+"666",22585,,2,Ural montane forests and tundra,"1033",2.04564592899102,,Ural_montane_forest - NP,6,Europe
+"667",22585,,2,Ural montane forests and tundra,"3730",2.04564592899102,,Ural_montane_forest - NP,6,Europe
+"668",22586,,1.54545454545455,Ural montane forests and tundra,"0",6.47522721038521,,Ural_montane_forest - NP,6,Europe
+"669",22586,,1.54545454545455,Ural montane forests and tundra,"2429",6.47522721038521,,Ural_montane_forest - NP,6,Europe
+"670",22657,,13.0238095238095,Ural montane forests and tundra,"469",0.1701774150344,,Ural_montane_forest - NP,6,Europe
+"671",22658,,2.51190476190476,Ural montane forests and tundra,"34",0.163850888232698,,Ural_montane_forest - NP,6,Europe
+"672",22659,,2.72619047619048,Ural montane forests and tundra,"0",0.923524243475199,,Ural_montane_forest - NP,6,Europe
+"673",22659,,2.72619047619048,Ural montane forests and tundra,"565",0.923524243475199,,Ural_montane_forest - NP,6,Europe
+"674",22660,,3.77380952380952,Ural montane forests and tundra,"1777",0.29907797484641,,Ural_montane_forest - NP,6,Europe
+"675",22661,,1.92857142857143,Ural montane forests and tundra,"0",3.58122694716482,,Ural_montane_forest - NP,6,Europe
+"676",22661,,1.92857142857143,Ural montane forests and tundra,"1157",3.58122694716482,,Ural_montane_forest - NP,6,Europe
+"677",22662,,2.33333333333333,Ural montane forests and tundra,"925",1.74575947770676,,Ural_montane_forest - NP,6,Europe
+"678",22664,,2.19047619047619,Ural montane forests and tundra,"0",0.909228702832054,,Ural_montane_forest - NP,6,Europe
+"679",22664,,2.19047619047619,Ural montane forests and tundra,"773",0.909228702832054,,Ural_montane_forest - NP,6,Europe
+"680",22666,,2.19047619047619,Ural montane forests and tundra,"20",1.07933630278187,,Ural_montane_forest - NP,6,Europe
+"681",22666,,2.19047619047619,Ural montane forests and tundra,"5920",1.07933630278187,,Ural_montane_forest - NP,6,Europe
+"682",22667,,2.03571428571429,Ural montane forests and tundra,"794",2.25896114170008,,Ural_montane_forest - NP,6,Europe
+"683",22667,,2.03571428571429,Ural montane forests and tundra,"4791",2.25896114170008,,Ural_montane_forest - NP,6,Europe
+"684",22668,,1.41666666666667,Ural montane forests and tundra,"77",8.12713478789664,,Ural_montane_forest - NP,6,Europe
+"685",22739,,1.88636363636364,Ural montane forests and tundra,"0",0.687577530694691,,Ural_montane_forest - NP,6,Europe
+"686",22586,,1.54545454545455,West Siberian taiga,"21",6.47522721038521,,Western_Siberian_taiga - NP,6,Europe
+"687",22660,,3.77380952380952,West Siberian taiga,"0",0.29907797484641,,Western_Siberian_taiga - NP,6,Europe
+"688",22662,,2.33333333333333,West Siberian taiga,"0",1.74575947770676,,Western_Siberian_taiga - NP,6,Europe
+"689",22662,,2.33333333333333,West Siberian taiga,"19",1.74575947770676,,Western_Siberian_taiga - NP,6,Europe
+"690",22662,,2.33333333333333,West Siberian taiga,"3591",1.74575947770676,,Western_Siberian_taiga - NP,6,Europe
+"691",22668,,1.41666666666667,West Siberian taiga,"0",8.12713478789664,,Western_Siberian_taiga - NP,6,Europe
+"692",22668,,1.41666666666667,West Siberian taiga,"1126",8.12713478789664,,Western_Siberian_taiga - NP,6,Europe
+"693",22668,,1.41666666666667,West Siberian taiga,"504",8.12713478789664,,Western_Siberian_taiga - NP,6,Europe

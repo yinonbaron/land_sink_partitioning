@@ -1,0 +1,956 @@
+fid,id,fire_pct,_mean,ECO_NAME,area,fired_eurasia_4326_pc,fired_russia_china_japan_4326_pc,layer,BIOME,CONTINENT
+"1",28409,,1.04545454545455,Da Hinggan-Dzhagdy Mountains conifer forests,"2090",,21.9006486161046,Dzhagdy_mountains_conifer_forest - NP,6,Asia
+"2",29146,,6.25581395348837,Da Hinggan-Dzhagdy Mountains conifer forests,"2682",,27.0142678821438,Dzhagdy_mountains_conifer_forest - NP,6,Asia
+"3",29475,,3.375,Da Hinggan-Dzhagdy Mountains conifer forests,"1182",,9.31913215649543,Dzhagdy_mountains_conifer_forest - NP,6,Asia
+"4",25282,,6.68604651162791,East Siberian taiga,"606",3.52064317534842,,East_Siberian_taiga - NP,6,Asia
+"5",25283,,14.2325581395349,East Siberian taiga,"1816",2.65275053101044,,East_Siberian_taiga - NP,6,Asia
+"6",25362,,2.73863636363636,East Siberian taiga,"1234",0.68790975478838,,East_Siberian_taiga - NP,6,Asia
+"7",25363,,7.11363636363636,East Siberian taiga,"4100",3.84416180971883,,East_Siberian_taiga - NP,6,Asia
+"8",25364,,8.69318181818182,East Siberian taiga,"4721",2.1900618316515,,East_Siberian_taiga - NP,6,Asia
+"9",25365,,10.8068181818182,East Siberian taiga,"2763",2.39057234285888,,East_Siberian_taiga - NP,6,Asia
+"10",25444,,1.06976744186047,East Siberian taiga,"2",0.792967405417939,,East_Siberian_taiga - NP,6,Asia
+"11",25445,,2.75581395348837,East Siberian taiga,"2900",0.447432734471469,,East_Siberian_taiga - NP,6,Asia
+"12",25446,,3.86046511627907,East Siberian taiga,"2752",2.07222732942509,,East_Siberian_taiga - NP,6,Asia
+"13",25447,,10.7093023255814,East Siberian taiga,"4808",1.21194452210832,,East_Siberian_taiga - NP,6,Asia
+"14",25448,,6.11627906976744,East Siberian taiga,"3636",0.710302707896311,,East_Siberian_taiga - NP,6,Asia
+"15",25449,,1.65116279069767,East Siberian taiga,"171",8.7523146753224,,East_Siberian_taiga - NP,6,Asia
+"16",25526,,0.895348837209302,East Siberian taiga,"102",8.32386069943646,,East_Siberian_taiga - NP,6,Asia
+"17",25528,,4.17441860465116,East Siberian taiga,"3295",5.25961408100824,,East_Siberian_taiga - NP,6,Asia
+"18",25529,,9.62790697674419,East Siberian taiga,"4891",1.68257130722557,,East_Siberian_taiga - NP,6,Asia
+"19",25530,,6.26744186046512,East Siberian taiga,"4690",0.0594129189965093,,East_Siberian_taiga - NP,6,Asia
+"20",25531,,7.8953488372093,East Siberian taiga,"3170",0.791330156441496,,East_Siberian_taiga - NP,6,Asia
+"21",25532,,4.65116279069767,East Siberian taiga,"463",6.22744443350032,,East_Siberian_taiga - NP,6,Asia
+"22",25610,,0.579545454545455,East Siberian taiga,"678",4.82437784933655,,East_Siberian_taiga - NP,6,Asia
+"23",25611,,5.65909090909091,East Siberian taiga,"4808",1.11650578945971,,East_Siberian_taiga - NP,6,Asia
+"24",25612,,9.34090909090909,East Siberian taiga,"4974",0.916474618120246,,East_Siberian_taiga - NP,6,Asia
+"25",25613,,1.70454545454545,East Siberian taiga,"5139",1.7448188461298,,East_Siberian_taiga - NP,6,Asia
+"26",25614,,2.67045454545455,East Siberian taiga,"5209",0.858849088966005,,East_Siberian_taiga - NP,6,Asia
+"27",25615,,2.09090909090909,East Siberian taiga,"1535",7.53874448545181,,East_Siberian_taiga - NP,6,Asia
+"28",25692,,8.93023255813953,East Siberian taiga,"3111",2.11844847440499,,East_Siberian_taiga - NP,6,Asia
+"29",25693,,9.41860465116279,East Siberian taiga,"4891",0.754487496537858,,East_Siberian_taiga - NP,6,Asia
+"30",25694,,2.38372093023256,East Siberian taiga,"5057",0.300834519931428,,East_Siberian_taiga - NP,6,Asia
+"31",25695,,1.94186046511628,East Siberian taiga,"5221",15.2581128547732,,East_Siberian_taiga - NP,6,Asia
+"32",25696,,2.66279069767442,East Siberian taiga,"5384",1.29297607588781,,East_Siberian_taiga - NP,6,Asia
+"33",25697,,2.16279069767442,East Siberian taiga,"2688",2.38283525976512,,East_Siberian_taiga - NP,6,Asia
+"34",25701,,1.18604651162791,East Siberian taiga,"319",20.1844941148189,,East_Siberian_taiga - NP,6,Asia
+"35",25775,,7.32558139534884,East Siberian taiga,"4715",2.68001074096346,,East_Siberian_taiga - NP,6,Asia
+"36",25776,,8.87209302325581,East Siberian taiga,"4974",4.2739908576539,,East_Siberian_taiga - NP,6,Asia
+"37",25777,,2.76744186046512,East Siberian taiga,"5139",6.49349640556206,,East_Siberian_taiga - NP,6,Asia
+"38",25778,,4.81395348837209,East Siberian taiga,"5303",8.0377847733068,,East_Siberian_taiga - NP,6,Asia
+"39",25779,,2,East Siberian taiga,"5464",0.781976172878902,,East_Siberian_taiga - NP,6,Asia
+"40",25780,,2.7906976744186,East Siberian taiga,"3998",8.1196509093648,,East_Siberian_taiga - NP,6,Asia
+"41",25783,,1.11627906976744,East Siberian taiga,"4577",0.632545806651744,,East_Siberian_taiga - NP,6,Asia
+"42",25784,,0.906976744186046,East Siberian taiga,"1539",13.7896790079054,,East_Siberian_taiga - NP,6,Asia
+"43",25785,,2.09302325581395,East Siberian taiga,"115",17.0255890944781,,East_Siberian_taiga - NP,6,Asia
+"44",25856,,1.31818181818182,East Siberian taiga,"1275",3.80739429131299,,East_Siberian_taiga - NP,6,Asia
+"45",25857,,8.40909090909091,East Siberian taiga,"4891",4.63964372858452,,East_Siberian_taiga - NP,6,Asia
+"46",25858,,4.92045454545455,East Siberian taiga,"5057",2.72496536477912,,East_Siberian_taiga - NP,6,Asia
+"47",25859,,6.03409090909091,East Siberian taiga,"5221",5.95877454364619,,East_Siberian_taiga - NP,6,Asia
+"48",25860,,1.30681818181818,East Siberian taiga,"5384",7.15978787895779,,East_Siberian_taiga - NP,6,Asia
+"49",25861,,1.25,East Siberian taiga,"5545",1.94437376797667,,East_Siberian_taiga - NP,6,Asia
+"50",25862,,2.59090909090909,East Siberian taiga,"4487",12.660847771216,,East_Siberian_taiga - NP,6,Asia
+"51",25863,,1.77272727272727,East Siberian taiga,"1485",29.7027703312115,,East_Siberian_taiga - NP,6,Asia
+"52",25864,,1.63636363636364,East Siberian taiga,"2184",18.406290534674,,East_Siberian_taiga - NP,6,Asia
+"53",25865,,1.07954545454545,East Siberian taiga,"4613",2.06102746601568,,East_Siberian_taiga - NP,6,Asia
+"54",25866,,1.20454545454545,East Siberian taiga,"5589",3.77838113117424,,East_Siberian_taiga - NP,6,Asia
+"55",25867,,2.40909090909091,East Siberian taiga,"1354",1.92672907215433,,East_Siberian_taiga - NP,6,Asia
+"56",25939,,5.67441860465116,East Siberian taiga,"3177",2.36644649024873,,East_Siberian_taiga - NP,6,Asia
+"57",25940,,7.6046511627907,East Siberian taiga,"4974",2.97881788932702,,East_Siberian_taiga - NP,6,Asia
+"58",25941,,4.1046511627907,East Siberian taiga,"5139",12.6914047149964,,East_Siberian_taiga - NP,6,Asia
+"59",25942,,1.69767441860465,East Siberian taiga,"5303",11.530640379027,,East_Siberian_taiga - NP,6,Asia
+"60",25943,,0.941860465116279,East Siberian taiga,"5464",12.8754157702144,,East_Siberian_taiga - NP,6,Asia
+"61",25944,,1.38372093023256,East Siberian taiga,"5624",1.35640202029609,,East_Siberian_taiga - NP,6,Asia
+"62",25945,,1.54651162790698,East Siberian taiga,"5782",12.4429332998456,,East_Siberian_taiga - NP,6,Asia
+"63",25946,,1.11627906976744,East Siberian taiga,"4060",2.73389531928517,,East_Siberian_taiga - NP,6,Asia
+"64",25947,,1.26744186046512,East Siberian taiga,"2422",29.6486226907839,,East_Siberian_taiga - NP,6,Asia
+"65",25948,,0.988372093023256,East Siberian taiga,"2971",1.09177770938541,,East_Siberian_taiga - NP,6,Asia
+"66",25949,,1.12790697674419,East Siberian taiga,"2597",0.0950814552327652,,East_Siberian_taiga - NP,6,Asia
+"67",26021,,3.1046511627907,East Siberian taiga,"3416",0.778500970084199,,East_Siberian_taiga - NP,6,Asia
+"68",26022,,2.01162790697674,East Siberian taiga,"4259",3.39539366250405,,East_Siberian_taiga - NP,6,Asia
+"69",26023,,0.825581395348837,East Siberian taiga,"5221",7.07972112841746,,East_Siberian_taiga - NP,6,Asia
+"70",26024,,0.813953488372093,East Siberian taiga,"5384",17.3427588735947,,East_Siberian_taiga - NP,6,Asia
+"71",26025,,0.779069767441861,East Siberian taiga,"5545",20.7254305857834,,East_Siberian_taiga - NP,6,Asia
+"72",26026,,1.31395348837209,East Siberian taiga,"5704",8.82248143630031,,East_Siberian_taiga - NP,6,Asia
+"73",26027,,2.15116279069767,East Siberian taiga,"4493",30.8729539957389,,East_Siberian_taiga - NP,6,Asia
+"74",26028,,1.43023255813953,East Siberian taiga,"36",34.2866680112407,,East_Siberian_taiga - NP,6,Asia
+"75",26029,,1.45348837209302,East Siberian taiga,"3757",13.8647727092827,,East_Siberian_taiga - NP,6,Asia
+"76",26030,,0.941860465116279,East Siberian taiga,"508",1.92007240191617,,East_Siberian_taiga - NP,6,Asia
+"77",26104,,1.17441860465116,East Siberian taiga,"1007",0.528999297367385,,East_Siberian_taiga - NP,6,Asia
+"78",26105,,0.941860465116279,East Siberian taiga,"5139",2.58047353624329,,East_Siberian_taiga - NP,6,Asia
+"79",26106,,1.66279069767442,East Siberian taiga,"5303",4.32019912439232,,East_Siberian_taiga - NP,6,Asia
+"80",26107,,0.837209302325581,East Siberian taiga,"5464",20.2561717532381,,East_Siberian_taiga - NP,6,Asia
+"81",26108,,1.17441860465116,East Siberian taiga,"5624",6.79015191301688,,East_Siberian_taiga - NP,6,Asia
+"82",26109,,1.15116279069767,East Siberian taiga,"5782",16.5685576723129,,East_Siberian_taiga - NP,6,Asia
+"83",26110,,1.6046511627907,East Siberian taiga,"1301",45.6994843547118,,East_Siberian_taiga - NP,6,Asia
+"84",26111,,1.48837209302326,East Siberian taiga,"2785",12.5832067902663,,East_Siberian_taiga - NP,6,Asia
+"85",26112,,0.86046511627907,East Siberian taiga,"2162",0.0439712169226421,,East_Siberian_taiga - NP,6,Asia
+"86",26186,,3.27272727272727,East Siberian taiga,"3717",5.72435659976831,,East_Siberian_taiga - NP,6,Asia
+"87",26187,,0.409090909090909,East Siberian taiga,"5221",10.074649384865,,East_Siberian_taiga - NP,6,Asia
+"88",26188,,0.806818181818182,East Siberian taiga,"5384",7.43344468517809,,East_Siberian_taiga - NP,6,Asia
+"89",26189,,0.772727272727273,East Siberian taiga,"5545",16.0987491283547,,East_Siberian_taiga - NP,6,Asia
+"90",26190,,1.05681818181818,East Siberian taiga,"5704",8.01105558086737,,East_Siberian_taiga - NP,6,Asia
+"91",26191,,1.45454545454545,East Siberian taiga,"5861",18.9109952078415,,East_Siberian_taiga - NP,6,Asia
+"92",26192,,1.94318181818182,East Siberian taiga,"6002",17.9662168921174,,East_Siberian_taiga - NP,6,Asia
+"93",26193,,0.875,East Siberian taiga,"5005",2.43248761966017,,East_Siberian_taiga - NP,6,Asia
+"94",26268,,0,East Siberian taiga,"8",7.40214144255226,,East_Siberian_taiga - NP,6,Asia
+"95",26269,,0.290697674418605,East Siberian taiga,"4603",21.2765015631595,,East_Siberian_taiga - NP,6,Asia
+"96",26270,,0.5,East Siberian taiga,"5303",12.4899849079936,,East_Siberian_taiga - NP,6,Asia
+"97",26271,,0.825581395348837,East Siberian taiga,"5464",20.1612521222527,,East_Siberian_taiga - NP,6,Asia
+"98",26272,,0.86046511627907,East Siberian taiga,"5624",17.2126091633945,,East_Siberian_taiga - NP,6,Asia
+"99",26273,,1.31395348837209,East Siberian taiga,"5782",16.5469575999467,,East_Siberian_taiga - NP,6,Asia
+"100",26274,,1.62790697674419,East Siberian taiga,"5939",32.1440497009684,,East_Siberian_taiga - NP,6,Asia
+"101",26275,,1.47674418604651,East Siberian taiga,"5748",11.2117708561117,,East_Siberian_taiga - NP,6,Asia
+"102",26350,,0,East Siberian taiga,"1",31.1952677693106,,East_Siberian_taiga - NP,6,Asia
+"103",26351,,0.534883720930233,East Siberian taiga,"3543",51.3261640917116,,East_Siberian_taiga - NP,6,Asia
+"104",26352,,0.337209302325581,East Siberian taiga,"5384",33.5963791813056,,East_Siberian_taiga - NP,6,Asia
+"105",26353,,0.779069767441861,East Siberian taiga,"5545",17.3371093627621,,East_Siberian_taiga - NP,6,Asia
+"106",26354,,1.67441860465116,East Siberian taiga,"5704",6.60874474095061,,East_Siberian_taiga - NP,6,Asia
+"107",26355,,2.58139534883721,East Siberian taiga,"5861",10.6462914720629,,East_Siberian_taiga - NP,6,Asia
+"108",26356,,1.68604651162791,East Siberian taiga,"6016",9.28852512583008,,East_Siberian_taiga - NP,6,Asia
+"109",26357,,1.1046511627907,East Siberian taiga,"4662",7.53384872383813,,East_Siberian_taiga - NP,6,Asia
+"110",26358,,0.674418604651163,East Siberian taiga,"482",3.79172526334665,,East_Siberian_taiga - NP,6,Asia
+"111",26433,,0.0454545454545455,East Siberian taiga,"202",6.25774662000441,,East_Siberian_taiga - NP,6,Asia
+"112",26434,,3.05681818181818,East Siberian taiga,"5115",30.0754795388834,,East_Siberian_taiga - NP,6,Asia
+"113",26435,,0.965909090909091,East Siberian taiga,"5464",25.663039729748,,East_Siberian_taiga - NP,6,Asia
+"114",26436,,1,East Siberian taiga,"5624",11.791390339885,,East_Siberian_taiga - NP,6,Asia
+"115",26437,,1.48863636363636,East Siberian taiga,"5782",7.7867233808474,,East_Siberian_taiga - NP,6,Asia
+"116",26438,,1.78409090909091,East Siberian taiga,"5939",7.32319031369472,,East_Siberian_taiga - NP,6,Asia
+"117",26439,,1.625,East Siberian taiga,"5795",6.88797090108424,,East_Siberian_taiga - NP,6,Asia
+"118",26440,,2.92045454545455,East Siberian taiga,"4726",19.3699228768622,,East_Siberian_taiga - NP,6,Asia
+"119",26441,,0.295454545454545,East Siberian taiga,"178",0.42769288317368,,East_Siberian_taiga - NP,6,Asia
+"120",26515,,2.17441860465116,East Siberian taiga,"2168",25.3041159466172,,East_Siberian_taiga - NP,6,Asia
+"121",26516,,1.45348837209302,East Siberian taiga,"5384",11.1075373294276,,East_Siberian_taiga - NP,6,Asia
+"122",26517,,1.45348837209302,East Siberian taiga,"5545",13.9079445052848,,East_Siberian_taiga - NP,6,Asia
+"123",26518,,0.895348837209302,East Siberian taiga,"5704",8.14351050145331,,East_Siberian_taiga - NP,6,Asia
+"124",26519,,2.13953488372093,East Siberian taiga,"5861",7.86459279353501,,East_Siberian_taiga - NP,6,Asia
+"125",26520,,1.30232558139535,East Siberian taiga,"6016",1.92498175383517,,East_Siberian_taiga - NP,6,Asia
+"126",26521,,2.27906976744186,East Siberian taiga,"3636",28.5407034884798,,East_Siberian_taiga - NP,6,Asia
+"127",26522,,5.59302325581395,East Siberian taiga,"3111",11.9575887602166,,East_Siberian_taiga - NP,6,Asia
+"128",26598,,3.54651162790698,East Siberian taiga,"4968",25.5873983363172,,East_Siberian_taiga - NP,6,Asia
+"129",26599,,0.965116279069767,East Siberian taiga,"5464",9.86004886555849,,East_Siberian_taiga - NP,6,Asia
+"130",26600,,0.941860465116279,East Siberian taiga,"5624",13.9524665318407,,East_Siberian_taiga - NP,6,Asia
+"131",26601,,1.1046511627907,East Siberian taiga,"5782",3.83024223490948,,East_Siberian_taiga - NP,6,Asia
+"132",26602,,1.51162790697674,East Siberian taiga,"5939",15.1286052489757,,East_Siberian_taiga - NP,6,Asia
+"133",26603,,1.91860465116279,East Siberian taiga,"6093",14.2861402914858,,East_Siberian_taiga - NP,6,Asia
+"134",26604,,2.53488372093023,East Siberian taiga,"5943",33.6137483276308,,East_Siberian_taiga - NP,6,Asia
+"135",26605,,4.36046511627907,East Siberian taiga,"2937",7.82769424422539,,East_Siberian_taiga - NP,6,Asia
+"136",26679,,0.477272727272727,East Siberian taiga,"1499",16.5257472047552,,East_Siberian_taiga - NP,6,Asia
+"137",26680,,0.556818181818182,East Siberian taiga,"5384",21.896946294956,,East_Siberian_taiga - NP,6,Asia
+"138",26681,,0.829545454545455,East Siberian taiga,"5545",9.51608937272824,,East_Siberian_taiga - NP,6,Asia
+"139",26682,,0.840909090909091,East Siberian taiga,"5704",5.20134156183576,,East_Siberian_taiga - NP,6,Asia
+"140",26683,,1.34090909090909,East Siberian taiga,"5861",3.29944677397439,,East_Siberian_taiga - NP,6,Asia
+"141",26684,,1.63636363636364,East Siberian taiga,"6016",2.6629933675424,,East_Siberian_taiga - NP,6,Asia
+"142",26685,,1.75,East Siberian taiga,"6146",6.3722539412998,,East_Siberian_taiga - NP,6,Asia
+"143",26686,,3.59090909090909,East Siberian taiga,"3450",31.4269957392049,,East_Siberian_taiga - NP,6,Asia
+"144",26687,,3.52272727272727,East Siberian taiga,"4842",13.4410503744567,,East_Siberian_taiga - NP,6,Asia
+"145",26762,,0.0930232558139535,East Siberian taiga,"2617",20.2034993918133,,East_Siberian_taiga - NP,6,Asia
+"146",26763,,0.790697674418605,East Siberian taiga,"5464",17.9728890011288,,East_Siberian_taiga - NP,6,Asia
+"147",26764,,2.61627906976744,East Siberian taiga,"5624",4.07716167318942,,East_Siberian_taiga - NP,6,Asia
+"148",26765,,1.27906976744186,East Siberian taiga,"5782",5.30410209191079,,East_Siberian_taiga - NP,6,Asia
+"149",26766,,1.26744186046512,East Siberian taiga,"5939",2.22419483834393,,East_Siberian_taiga - NP,6,Asia
+"150",26767,,2.34883720930233,East Siberian taiga,"6093",2.91015623072878,,East_Siberian_taiga - NP,6,Asia
+"151",26768,,1.6046511627907,East Siberian taiga,"5210",2.83328544251978,,East_Siberian_taiga - NP,6,Asia
+"152",26769,,2.24418604651163,East Siberian taiga,"1244",18.7557574118268,,East_Siberian_taiga - NP,6,Asia
+"153",26770,,8.05813953488372,East Siberian taiga,"3536",15.1185739340062,,East_Siberian_taiga - NP,6,Asia
+"154",26771,,0.593023255813954,East Siberian taiga,"4",2.68914503166972,,East_Siberian_taiga - NP,6,Asia
+"155",26844,,2.69767441860465,East Siberian taiga,"4678",17.6655168621621,,East_Siberian_taiga - NP,6,Asia
+"156",26845,,4.63953488372093,East Siberian taiga,"5545",21.4865103095624,,East_Siberian_taiga - NP,6,Asia
+"157",26846,,4.2906976744186,East Siberian taiga,"5704",12.135722373003,,East_Siberian_taiga - NP,6,Asia
+"158",26847,,1.01162790697674,East Siberian taiga,"5861",5.49686530491837,,East_Siberian_taiga - NP,6,Asia
+"159",26848,,1.40697674418605,East Siberian taiga,"6016",9.68109961969083,,East_Siberian_taiga - NP,6,Asia
+"160",26849,,1.47674418604651,East Siberian taiga,"6170",9.12316470021053,,East_Siberian_taiga - NP,6,Asia
+"161",26850,,1.69767441860465,East Siberian taiga,"3097",5.13298348648552,,East_Siberian_taiga - NP,6,Asia
+"162",26851,,3.45348837209302,East Siberian taiga,"364",24.2166599777006,,East_Siberian_taiga - NP,6,Asia
+"163",26852,,2.58139534883721,East Siberian taiga,"4038",14.1237300733961,,East_Siberian_taiga - NP,6,Asia
+"164",26926,,0.465909090909091,East Siberian taiga,"1082",18.7565975810976,,East_Siberian_taiga - NP,6,Asia
+"165",26927,,8.52272727272727,East Siberian taiga,"5464",17.753810446982,,East_Siberian_taiga - NP,6,Asia
+"166",26928,,6.64772727272727,East Siberian taiga,"5624",18.0459040947671,,East_Siberian_taiga - NP,6,Asia
+"167",26929,,3.625,East Siberian taiga,"5782",22.2041942411535,,East_Siberian_taiga - NP,6,Asia
+"168",26930,,0.954545454545455,East Siberian taiga,"5939",5.09509694281923,,East_Siberian_taiga - NP,6,Asia
+"169",26931,,1.61363636363636,East Siberian taiga,"6093",11.583941659523,,East_Siberian_taiga - NP,6,Asia
+"170",26932,,4.73863636363636,East Siberian taiga,"6245",1.52194324724146,,East_Siberian_taiga - NP,6,Asia
+"171",26933,,1.35227272727273,East Siberian taiga,"4267",9.60743222006841,,East_Siberian_taiga - NP,6,Asia
+"172",26934,,6.39772727272727,East Siberian taiga,"3699",21.97691558044,,East_Siberian_taiga - NP,6,Asia
+"173",26935,,0.727272727272727,East Siberian taiga,"688",1.40618347503955,,East_Siberian_taiga - NP,6,Asia
+"174",27008,,1.96428571428571,East Siberian taiga,"3478",10.2126018453459,,East_Siberian_taiga - NP,6,Asia
+"175",27009,,7.67857142857143,East Siberian taiga,"5545",26.894660122087,,East_Siberian_taiga - NP,6,Asia
+"176",27010,,6.15476190476191,East Siberian taiga,"5704",35.3595951764421,,East_Siberian_taiga - NP,6,Asia
+"177",27011,,1.82142857142857,East Siberian taiga,"5861",13.4332535476897,,East_Siberian_taiga - NP,6,Asia
+"178",27012,,1.46428571428571,East Siberian taiga,"4656",11.2929125353936,,East_Siberian_taiga - NP,6,Asia
+"179",27013,,5.09523809523809,East Siberian taiga,"6170",7.95734754009744,,East_Siberian_taiga - NP,6,Asia
+"180",27014,,1.85714285714286,East Siberian taiga,"6321",14.7097080503211,,East_Siberian_taiga - NP,6,Asia
+"181",27015,,1.61904761904762,East Siberian taiga,"5552",25.6173738017718,,East_Siberian_taiga - NP,6,Asia
+"182",27016,,0.80952380952381,East Siberian taiga,"2029",7.18581946147426,,East_Siberian_taiga - NP,6,Asia
+"183",27091,,5.19318181818182,East Siberian taiga,"4803",30.0165323026276,,East_Siberian_taiga - NP,6,Asia
+"184",27092,,14.1136363636364,East Siberian taiga,"5624",41.6948682348251,,East_Siberian_taiga - NP,6,Asia
+"185",27093,,2.96590909090909,East Siberian taiga,"5782",21.8829381148108,,East_Siberian_taiga - NP,6,Asia
+"186",27094,,1.14772727272727,East Siberian taiga,"4453",11.1186093892985,,East_Siberian_taiga - NP,6,Asia
+"187",27095,,1.55681818181818,East Siberian taiga,"2460",9.03326825008993,,East_Siberian_taiga - NP,6,Asia
+"188",27096,,3.26136363636364,East Siberian taiga,"3191",20.4282214788077,,East_Siberian_taiga - NP,6,Asia
+"189",27097,,5.70454545454545,East Siberian taiga,"6396",31.2855297893139,,East_Siberian_taiga - NP,6,Asia
+"190",27098,,1.90909090909091,East Siberian taiga,"1748",9.61055607072488,,East_Siberian_taiga - NP,6,Asia
+"191",27172,,0.813953488372093,East Siberian taiga,"745",13.2978953385872,,East_Siberian_taiga - NP,6,Asia
+"192",27173,,8.2093023255814,East Siberian taiga,"5545",24.6587568014127,,East_Siberian_taiga - NP,6,Asia
+"193",27174,,5.5,East Siberian taiga,"5704",31.4304568269194,,East_Siberian_taiga - NP,6,Asia
+"194",27175,,1.01162790697674,East Siberian taiga,"5861",9.1652221663455,,East_Siberian_taiga - NP,6,Asia
+"195",27176,,5.63953488372093,East Siberian taiga,"4202",17.9715533397947,,East_Siberian_taiga - NP,6,Asia
+"196",27177,,2.58139534883721,East Siberian taiga,"1724",24.2575366750672,,East_Siberian_taiga - NP,6,Asia
+"197",27178,,8.2906976744186,East Siberian taiga,"5964",38.9413932943542,,East_Siberian_taiga - NP,6,Asia
+"198",27179,,0.395348837209302,East Siberian taiga,"1146",14.0432918239312,,East_Siberian_taiga - NP,6,Asia
+"199",27255,,0.569767441860465,East Siberian taiga,"3537",19.1774663852047,,East_Siberian_taiga - NP,6,Asia
+"200",27256,,2.18604651162791,East Siberian taiga,"5624",22.0333875672528,,East_Siberian_taiga - NP,6,Asia
+"201",27257,,1.52325581395349,East Siberian taiga,"5782",5.53066948367013,,East_Siberian_taiga - NP,6,Asia
+"202",27258,,1.34883720930233,East Siberian taiga,"5897",5.04755499381966,,East_Siberian_taiga - NP,6,Asia
+"203",27259,,3.06976744186047,East Siberian taiga,"4349",3.97003372904303,,East_Siberian_taiga - NP,6,Asia
+"204",27260,,2.96511627906977,East Siberian taiga,"4669",3.25634831484157,,East_Siberian_taiga - NP,6,Asia
+"205",27261,,0.302325581395349,East Siberian taiga,"606",5.02577492537812,,East_Siberian_taiga - NP,6,Asia
+"206",27337,,1.23863636363636,East Siberian taiga,"5150",20.1539131464872,,East_Siberian_taiga - NP,6,Asia
+"207",27338,,2.11363636363636,East Siberian taiga,"5704",10.9046387985582,,East_Siberian_taiga - NP,6,Asia
+"208",27339,,1.04545454545455,East Siberian taiga,"1941",4.37575240135172,,East_Siberian_taiga - NP,6,Asia
+"209",27340,,1.125,East Siberian taiga,"454",4.53771944480985,,East_Siberian_taiga - NP,6,Asia
+"210",27341,,0.806818181818182,East Siberian taiga,"12",2.57603075693561,,East_Siberian_taiga - NP,6,Asia
+"211",27342,,0.488636363636364,East Siberian taiga,"770",4.38410841521594,,East_Siberian_taiga - NP,6,Asia
+"212",27419,,1.22093023255814,East Siberian taiga,"1834",8.50419510043491,,East_Siberian_taiga - NP,6,Asia
+"213",27420,,2.13953488372093,East Siberian taiga,"5624",7.58831301322363,,East_Siberian_taiga - NP,6,Asia
+"214",27421,,2.30232558139535,East Siberian taiga,"2391",4.80272098028778,,East_Siberian_taiga - NP,6,Asia
+"215",27422,,0.430232558139535,East Siberian taiga,"190",11.8882507734279,,East_Siberian_taiga - NP,6,Asia
+"216",27423,,2.83720930232558,East Siberian taiga,"2906",5.27683734753044,,East_Siberian_taiga - NP,6,Asia
+"217",27424,,0.767441860465116,East Siberian taiga,"1640",7.49579770780521,,East_Siberian_taiga - NP,6,Asia
+"218",27425,,1.40697674418605,East Siberian taiga,"267",27.025949712591,,East_Siberian_taiga - NP,6,Asia
+"219",27500,,0.604651162790698,East Siberian taiga,"332",2.5214314565155,,East_Siberian_taiga - NP,6,Asia
+"220",27501,,1.73255813953488,East Siberian taiga,"3978",6.36121308712081,,East_Siberian_taiga - NP,6,Asia
+"221",27502,,4.58139534883721,East Siberian taiga,"3573",13.699765248122,,East_Siberian_taiga - NP,6,Asia
+"222",27504,,0.883720930232558,East Siberian taiga,"2364",3.47466278750321,,East_Siberian_taiga - NP,6,Asia
+"223",27505,,0.686046511627907,East Siberian taiga,"161",5.7073624773802,,East_Siberian_taiga - NP,6,Asia
+"224",27506,,0.709302325581395,East Siberian taiga,"1761",27.6917164488892,,East_Siberian_taiga - NP,6,Asia
+"225",27507,,0.790697674418605,East Siberian taiga,"466",60.6181830420363,,East_Siberian_taiga - NP,6,Asia
+"226",27582,,0.681818181818182,East Siberian taiga,"607",7.08593248624517,,East_Siberian_taiga - NP,6,Asia
+"227",27583,,4.63636363636364,East Siberian taiga,"4234",2.08089202461084,,East_Siberian_taiga - NP,6,Asia
+"228",27584,,3.01136363636364,East Siberian taiga,"3744",4.5962762148038,,East_Siberian_taiga - NP,6,Asia
+"229",27586,,0.454545454545455,East Siberian taiga,"1281",3.39080231384495,,East_Siberian_taiga - NP,6,Asia
+"230",27587,,0.613636363636364,East Siberian taiga,"16",11.3737671492221,,East_Siberian_taiga - NP,6,Asia
+"231",27588,,0.488636363636364,East Siberian taiga,"173",33.1834151935181,,East_Siberian_taiga - NP,6,Asia
+"232",27590,,1.05681818181818,East Siberian taiga,"1255",78.1404440823953,,East_Siberian_taiga - NP,6,Asia
+"233",27664,,1.25581395348837,East Siberian taiga,"3734",8.68593979189314,,East_Siberian_taiga - NP,6,Asia
+"234",27665,,1.15116279069767,East Siberian taiga,"3175",4.56188475790735,,East_Siberian_taiga - NP,6,Asia
+"235",27668,,0.895348837209302,East Siberian taiga,"109",5.78386681886702,,East_Siberian_taiga - NP,6,Asia
+"236",27671,,0.872093023255814,East Siberian taiga,"2706",75.6383322931512,,East_Siberian_taiga - NP,6,Asia
+"237",27746,,0.0697674418604651,East Siberian taiga,"2937",2.22690605402403,,East_Siberian_taiga - NP,6,Asia
+"238",27747,,0.581395348837209,East Siberian taiga,"3915",4.9061477112847,,East_Siberian_taiga - NP,6,Asia
+"239",27748,,0.593023255813954,East Siberian taiga,"2922",0.77327403496272,,East_Siberian_taiga - NP,6,Asia
+"240",27750,,0.13953488372093,East Siberian taiga,"2",3.52244432591754,,East_Siberian_taiga - NP,6,Asia
+"241",27751,,0.511627906976744,East Siberian taiga,"244",19.2132928610728,,East_Siberian_taiga - NP,6,Asia
+"242",27753,,0.732558139534884,East Siberian taiga,"2616",55.4539201969646,,East_Siberian_taiga - NP,6,Asia
+"243",27754,,1.03488372093023,East Siberian taiga,"2829",62.9788562636121,,East_Siberian_taiga - NP,6,Asia
+"244",27827,,0,East Siberian taiga,"1324",2.71385989340983,,East_Siberian_taiga - NP,6,Asia
+"245",27828,,0.477272727272727,East Siberian taiga,"2165",2.05474095118373,,East_Siberian_taiga - NP,6,Asia
+"246",27829,,0.261363636363636,East Siberian taiga,"1591",6.70422786999957,,East_Siberian_taiga - NP,6,Asia
+"247",27830,,0.5,East Siberian taiga,"2192",4.13502936523261,,East_Siberian_taiga - NP,6,Asia
+"248",27832,,0.261363636363636,East Siberian taiga,"1258",9.41714094713626,,East_Siberian_taiga - NP,6,Asia
+"249",27834,,0.647727272727273,East Siberian taiga,"864",43.8561734685913,,East_Siberian_taiga - NP,6,Asia
+"250",27835,,0.238636363636364,East Siberian taiga,"3278",45.6625215003222,,East_Siberian_taiga - NP,6,Asia
+"251",27836,,1.56818181818182,East Siberian taiga,"131",71.4917754738167,,East_Siberian_taiga - NP,6,Asia
+"252",27910,,0.162790697674419,East Siberian taiga,"1325",1.3070419965806,,East_Siberian_taiga - NP,6,Asia
+"253",27914,,0.651162790697674,East Siberian taiga,"1759",6.82740174536184,,East_Siberian_taiga - NP,6,Asia
+"254",27917,,0.151162790697674,East Siberian taiga,"131",43.6345590410129,,East_Siberian_taiga - NP,6,Asia
+"255",27991,,0.0581395348837209,East Siberian taiga,"1308",0.824670432125235,,East_Siberian_taiga - NP,6,Asia
+"256",27995,,0.313953488372093,East Siberian taiga,"597",3.7362601466218,,East_Siberian_taiga - NP,6,Asia
+"257",27996,,0.790697674418605,East Siberian taiga,"1159",20.5411497199256,,East_Siberian_taiga - NP,6,Asia
+"258",28000,,1.04651162790698,East Siberian taiga,"1008",47.6538275735468,,East_Siberian_taiga - NP,6,Asia
+"259",28001,,0.0697674418604651,East Siberian taiga,"43",34.6997290745915,,East_Siberian_taiga - NP,6,Asia
+"260",28074,,0.13953488372093,East Siberian taiga,"282",3.96817452154846,,East_Siberian_taiga - NP,6,Asia
+"261",28078,,0.104651162790698,East Siberian taiga,"307",9.30190625476407,,East_Siberian_taiga - NP,6,Asia
+"262",28082,,0.534883720930233,East Siberian taiga,"2169",61.1361566784661,,East_Siberian_taiga - NP,6,Asia
+"263",28083,,1.15116279069767,East Siberian taiga,"3619",53.5997597535359,,East_Siberian_taiga - NP,6,Asia
+"264",28163,,0.829545454545455,East Siberian taiga,"196",66.8966926235904,,East_Siberian_taiga - NP,6,Asia
+"265",28164,,1.05681818181818,East Siberian taiga,"6445",66.5140516916686,,East_Siberian_taiga - NP,6,Asia
+"266",28238,,0.0813953488372093,East Siberian taiga,"51",10.2548331491335,,East_Siberian_taiga - NP,6,Asia
+"267",28239,,0.523255813953488,East Siberian taiga,"492",4.05913788393507,,East_Siberian_taiga - NP,6,Asia
+"268",28246,,1.25581395348837,East Siberian taiga,"4692",32.5452395513713,,East_Siberian_taiga - NP,6,Asia
+"269",28247,,0.965116279069767,East Siberian taiga,"1562",71.4241175953944,,East_Siberian_taiga - NP,6,Asia
+"270",28320,,0.837209302325581,East Siberian taiga,"1962",3.19316393567761,,East_Siberian_taiga - NP,6,Asia
+"271",28327,,1.46511627906977,East Siberian taiga,"3610",22.5717235458893,,East_Siberian_taiga - NP,6,Asia
+"272",28328,,1.06976744186047,East Siberian taiga,"3907",45.5234284545404,,East_Siberian_taiga - NP,6,Asia
+"273",28402,,0.25,East Siberian taiga,"2183",11.8196050115239,,East_Siberian_taiga - NP,6,Asia
+"274",28409,,1.04545454545455,East Siberian taiga,"2681",21.9006486161046,,East_Siberian_taiga - NP,6,Asia
+"275",28410,,2.19318181818182,East Siberian taiga,"2138",11.7518721562817,,East_Siberian_taiga - NP,6,Asia
+"276",28483,,0.0348837209302326,East Siberian taiga,"873",7.30151355317038,,East_Siberian_taiga - NP,6,Asia
+"277",28484,,0.104651162790698,East Siberian taiga,"148",3.12179919694356,,East_Siberian_taiga - NP,6,Asia
+"278",28490,,1.37209302325581,East Siberian taiga,"20",15.4212074424018,,East_Siberian_taiga - NP,6,Asia
+"279",28566,,0.0232558139534884,East Siberian taiga,"1002",1.32244193699307,,East_Siberian_taiga - NP,6,Asia
+"280",28647,,0.852272727272727,East Siberian taiga,"779",11.642096207718,,East_Siberian_taiga - NP,6,Asia
+"281",28730,,0.0813953488372093,East Siberian taiga,"1446",13.3657112950544,,East_Siberian_taiga - NP,6,Asia
+"282",28736,,4.09302325581395,East Siberian taiga,"4",15.7081833359987,,East_Siberian_taiga - NP,6,Asia
+"283",28811,,0.0465116279069767,East Siberian taiga,"1351",10.3931652495636,,East_Siberian_taiga - NP,6,Asia
+"284",28815,,0.418604651162791,East Siberian taiga,"1640",4.42710656144529,,East_Siberian_taiga - NP,6,Asia
+"285",28816,,0.627906976744186,East Siberian taiga,"7",3.82797558068512,,East_Siberian_taiga - NP,6,Asia
+"286",28818,,13.7441860465116,East Siberian taiga,"216",31.0951388788859,,East_Siberian_taiga - NP,6,Asia
+"287",28894,,0.0454545454545455,East Siberian taiga,"1265",3.54308230289844,,East_Siberian_taiga - NP,6,Asia
+"288",28895,,0.0340909090909091,East Siberian taiga,"568",4.64400976707788,,East_Siberian_taiga - NP,6,Asia
+"289",28896,,0.443181818181818,East Siberian taiga,"1000",3.17083205024066,,East_Siberian_taiga - NP,6,Asia
+"290",28897,,2.04545454545455,East Siberian taiga,"374",11.4722343867303,,East_Siberian_taiga - NP,6,Asia
+"291",28898,,0.420454545454545,East Siberian taiga,"1225",7.18651598811633,,East_Siberian_taiga - NP,6,Asia
+"292",28900,,3.42045454545455,East Siberian taiga,"99",27.497750953863,,East_Siberian_taiga - NP,6,Asia
+"293",28975,,0.0581395348837209,East Siberian taiga,"1670",15.187916227566,,East_Siberian_taiga - NP,6,Asia
+"294",28977,,0.13953488372093,East Siberian taiga,"2062",4.4130254727532,,East_Siberian_taiga - NP,6,Asia
+"295",29057,,0,East Siberian taiga,"1292",55.5595621768645,,East_Siberian_taiga - NP,6,Asia
+"296",29058,,0.0116279069767442,East Siberian taiga,"76",16.4884416954943,,East_Siberian_taiga - NP,6,Asia
+"297",29064,,1.72093023255814,East Siberian taiga,"1071",23.7867385008245,,East_Siberian_taiga - NP,6,Asia
+"298",29065,,10.4651162790698,East Siberian taiga,"75",59.519740564442,,East_Siberian_taiga - NP,6,Asia
+"299",29139,,0.0465116279069767,East Siberian taiga,"1043",37.9083809288694,,East_Siberian_taiga - NP,6,Asia
+"300",29146,,6.25581395348837,East Siberian taiga,"857",27.0142678821438,,East_Siberian_taiga - NP,6,Asia
+"301",29221,,0.136363636363636,East Siberian taiga,"75",25.087876301611,,East_Siberian_taiga - NP,6,Asia
+"302",29229,,4.11363636363636,East Siberian taiga,"46",57.9440658315475,,East_Siberian_taiga - NP,6,Asia
+"303",29393,,3.82558139534884,East Siberian taiga,"142",20.1717601127712,,East_Siberian_taiga - NP,6,Asia
+"304",29475,,3.375,East Siberian taiga,"6",9.31913215649543,,East_Siberian_taiga - NP,6,Asia
+"305",29558,,1.73255813953488,East Siberian taiga,"46",9.20939689822452,,East_Siberian_taiga - NP,6,Asia
+"306",30290,,1.01136363636364,East Siberian taiga,"1",15.574514688681,,East_Siberian_taiga - NP,6,Asia
+"307",30372,,1.15116279069767,East Siberian taiga,"1515",2.86537841099265,,East_Siberian_taiga - NP,6,Asia
+"308",30453,,1.75581395348837,East Siberian taiga,"645",0.0642442148600425,,East_Siberian_taiga - NP,6,Asia
+"309",31204,,0,Kamchatka-Kurile meadows and sparse forests,"3",0,,Kamchatka_forest,6,Asia
+"310",31205,,0.409090909090909,Kamchatka-Kurile meadows and sparse forests,"713",0,,Kamchatka_forest,6,Asia
+"311",31286,,0.386363636363636,Kamchatka-Kurile meadows and sparse forests,"634",0,,Kamchatka_forest,6,Asia
+"312",31368,,0.0357142857142857,Kamchatka-Kurile meadows and sparse forests,"16",0,,Kamchatka_forest,6,Asia
+"313",31449,,0.431818181818182,Kamchatka-Kurile meadows and sparse forests,"262",0,,Kamchatka_forest,6,Asia
+"314",31611,,0.0465116279069767,Kamchatka-Kurile meadows and sparse forests,"139",0,,Kamchatka_forest,6,Asia
+"315",31692,,0,Kamchatka-Kurile meadows and sparse forests,"4",0,,Kamchatka_forest,6,Asia
+"316",31693,,0.443181818181818,Kamchatka-Kurile meadows and sparse forests,"400",0,,Kamchatka_forest,6,Asia
+"317",31767,,1.44186046511628,Kamchatka-Kurile meadows and sparse forests,"288",0.0222260346928159,,Kamchatka_forest,6,Asia
+"318",31768,,18.6627906976744,Kamchatka-Kurile meadows and sparse forests,"3158",0.136140295877993,,Kamchatka_forest,6,Asia
+"319",31769,,26.2441860465116,Kamchatka-Kurile meadows and sparse forests,"3987",0.164926875447031,,Kamchatka_forest,6,Asia
+"320",31770,,12.5348837209302,Kamchatka-Kurile meadows and sparse forests,"2150",0,,Kamchatka_forest,6,Asia
+"321",31771,,3.62790697674419,Kamchatka-Kurile meadows and sparse forests,"575",0,,Kamchatka_forest,6,Asia
+"322",31773,,0.244186046511628,Kamchatka-Kurile meadows and sparse forests,"400",0,,Kamchatka_forest,6,Asia
+"323",31773,,0.244186046511628,Kamchatka-Kurile meadows and sparse forests,"121",0,,Kamchatka_forest,6,Asia
+"324",31774,,1.55813953488372,Kamchatka-Kurile meadows and sparse forests,"1264",0,,Kamchatka_forest,6,Asia
+"325",31849,,3.81395348837209,Kamchatka-Kurile meadows and sparse forests,"1122",0.170294239843009,,Kamchatka_forest,6,Asia
+"326",31850,,10.3720930232558,Kamchatka-Kurile meadows and sparse forests,"5822",28.1275235826203,,Kamchatka_forest,6,Asia
+"327",31851,,8.59302325581395,Kamchatka-Kurile meadows and sparse forests,"6093",0.0910163316648362,,Kamchatka_forest,6,Asia
+"328",31852,,6.33720930232558,Kamchatka-Kurile meadows and sparse forests,"6245",0.00696344560844581,,Kamchatka_forest,6,Asia
+"329",31853,,12.3488372093023,Kamchatka-Kurile meadows and sparse forests,"6396",0.0101831158477509,,Kamchatka_forest,6,Asia
+"330",31854,,24.6395348837209,Kamchatka-Kurile meadows and sparse forests,"5177",0,,Kamchatka_forest,6,Asia
+"331",31855,,6.34883720930233,Kamchatka-Kurile meadows and sparse forests,"1121",0.0291513514691472,,Kamchatka_forest,6,Asia
+"332",31856,,0.581395348837209,Kamchatka-Kurile meadows and sparse forests,"128",0,,Kamchatka_forest,6,Asia
+"333",31856,,0.581395348837209,Kamchatka-Kurile meadows and sparse forests,"362",0,,Kamchatka_forest,6,Asia
+"334",31930,,4.77272727272727,Kamchatka-Kurile meadows and sparse forests,"1853",0,,Kamchatka_forest,6,Asia
+"335",31931,,3.80681818181818,Kamchatka-Kurile meadows and sparse forests,"5519",3.46861462891287,,Kamchatka_forest,6,Asia
+"336",31932,,2.88636363636364,Kamchatka-Kurile meadows and sparse forests,"2904",0.0577436921670996,,Kamchatka_forest,6,Asia
+"337",31933,,1.92045454545455,Kamchatka-Kurile meadows and sparse forests,"2024",0.0265316580256877,,Kamchatka_forest,6,Asia
+"338",31934,,1.46590909090909,Kamchatka-Kurile meadows and sparse forests,"3713",0.0480241979954366,,Kamchatka_forest,6,Asia
+"339",31935,,2.89772727272727,Kamchatka-Kurile meadows and sparse forests,"3251",0.00335967419825789,,Kamchatka_forest,6,Asia
+"340",31936,,1.76136363636364,Kamchatka-Kurile meadows and sparse forests,"807",0.0229618214953734,,Kamchatka_forest,6,Asia
+"341",31936,,1.76136363636364,Kamchatka-Kurile meadows and sparse forests,"632",0.0229618214953734,,Kamchatka_forest,6,Asia
+"342",32012,,0.593023255813954,Kamchatka-Kurile meadows and sparse forests,"490",0.150119438721729,,Kamchatka_forest,6,Asia
+"343",32013,,14.8255813953488,Kamchatka-Kurile meadows and sparse forests,"4949",3.70956327372232,,Kamchatka_forest,6,Asia
+"344",32014,,1.65116279069767,Kamchatka-Kurile meadows and sparse forests,"20",0.705992206422399,,Kamchatka_forest,6,Asia
+"345",32015,,1.19767441860465,Kamchatka-Kurile meadows and sparse forests,"14",0.863575832753936,,Kamchatka_forest,6,Asia
+"346",32016,,1.95348837209302,Kamchatka-Kurile meadows and sparse forests,"2887",0.472338966966599,,Kamchatka_forest,6,Asia
+"347",32017,,1.30232558139535,Kamchatka-Kurile meadows and sparse forests,"5179",0.700068642386546,,Kamchatka_forest,6,Asia
+"348",32018,,1.18604651162791,Kamchatka-Kurile meadows and sparse forests,"306",0.0331181952381203,,Kamchatka_forest,6,Asia
+"349",32018,,1.18604651162791,Kamchatka-Kurile meadows and sparse forests,"1778",0.0331181952381203,,Kamchatka_forest,6,Asia
+"350",32019,,0.186046511627907,Kamchatka-Kurile meadows and sparse forests,"315",0,,Kamchatka_forest,6,Asia
+"351",32093,,0.790697674418605,Kamchatka-Kurile meadows and sparse forests,"366",0,,Kamchatka_forest,6,Asia
+"352",32094,,5.43023255813953,Kamchatka-Kurile meadows and sparse forests,"5015",0.950187082996341,,Kamchatka_forest,6,Asia
+"353",32095,,2,Kamchatka-Kurile meadows and sparse forests,"37",0.271314038136361,,Kamchatka_forest,6,Asia
+"354",32096,,3.68604651162791,Kamchatka-Kurile meadows and sparse forests,"2456",4.73832957880834,,Kamchatka_forest,6,Asia
+"355",32097,,6.66279069767442,Kamchatka-Kurile meadows and sparse forests,"3521",1.81375836298189,,Kamchatka_forest,6,Asia
+"356",32098,,1.96511627906977,Kamchatka-Kurile meadows and sparse forests,"3648",0.106179355108229,,Kamchatka_forest,6,Asia
+"357",32099,,1.74418604651163,Kamchatka-Kurile meadows and sparse forests,"2116",0,,Kamchatka_forest,6,Asia
+"358",32175,,0.431818181818182,Kamchatka-Kurile meadows and sparse forests,"667",0.62135265852364,,Kamchatka_forest,6,Asia
+"359",32176,,4.02272727272727,Kamchatka-Kurile meadows and sparse forests,"2992",0.565310123647746,,Kamchatka_forest,6,Asia
+"360",32177,,1.63636363636364,Kamchatka-Kurile meadows and sparse forests,"4",0.228625024301236,,Kamchatka_forest,6,Asia
+"361",32177,,1.63636363636364,Kamchatka-Kurile meadows and sparse forests,"2",0.228625024301236,,Kamchatka_forest,6,Asia
+"362",32178,,7.76136363636364,Kamchatka-Kurile meadows and sparse forests,"1409",0.434043530368485,,Kamchatka_forest,6,Asia
+"363",32179,,6.04545454545455,Kamchatka-Kurile meadows and sparse forests,"2386",4.54435503858563,,Kamchatka_forest,6,Asia
+"364",32180,,5.44318181818182,Kamchatka-Kurile meadows and sparse forests,"3393",0.090159975488885,,Kamchatka_forest,6,Asia
+"365",32181,,3.70454545454545,Kamchatka-Kurile meadows and sparse forests,"1390",0,,Kamchatka_forest,6,Asia
+"366",32258,,1.11627906976744,Kamchatka-Kurile meadows and sparse forests,"1073",0.0343112317161216,,Kamchatka_forest,6,Asia
+"367",32259,,8.47674418604651,Kamchatka-Kurile meadows and sparse forests,"1707",1.79085076268279,,Kamchatka_forest,6,Asia
+"368",32260,,8.3953488372093,Kamchatka-Kurile meadows and sparse forests,"969",0.481019402123721,,Kamchatka_forest,6,Asia
+"369",32261,,2.19767441860465,Kamchatka-Kurile meadows and sparse forests,"2273",0.0211373902660441,,Kamchatka_forest,6,Asia
+"370",32262,,0.104651162790698,Kamchatka-Kurile meadows and sparse forests,"1",0,,Kamchatka_forest,6,Asia
+"371",32340,,2.87209302325581,Kamchatka-Kurile meadows and sparse forests,"2891",0.200931433880407,,Kamchatka_forest,6,Asia
+"372",32341,,3.8953488372093,Kamchatka-Kurile meadows and sparse forests,"4511",0.0386548843106121,,Kamchatka_forest,6,Asia
+"373",32342,,7.12790697674419,Kamchatka-Kurile meadows and sparse forests,"2110",0.546300975714989,,Kamchatka_forest,6,Asia
+"374",32344,,0.488372093023256,Kamchatka-Kurile meadows and sparse forests,"1652",0,,Kamchatka_forest,6,Asia
+"375",32421,,2.12790697674419,Kamchatka-Kurile meadows and sparse forests,"1899",0.17523518584005,,Kamchatka_forest,6,Asia
+"376",32422,,0.837209302325581,Kamchatka-Kurile meadows and sparse forests,"1751",0.0457203135413093,,Kamchatka_forest,6,Asia
+"377",32423,,5.32558139534884,Kamchatka-Kurile meadows and sparse forests,"1100",0.00371255334578899,,Kamchatka_forest,6,Asia
+"378",32424,,7.25581395348837,Kamchatka-Kurile meadows and sparse forests,"1151",0,,Kamchatka_forest,6,Asia
+"379",32502,,1.86363636363636,Kamchatka-Kurile meadows and sparse forests,"129",0.599617117394887,,Kamchatka_forest,6,Asia
+"380",32503,,0.897727272727273,Kamchatka-Kurile meadows and sparse forests,"323",0.00492218769111672,,Kamchatka_forest,6,Asia
+"381",32503,,0.897727272727273,Kamchatka-Kurile meadows and sparse forests,"8",0.00492218769111672,,Kamchatka_forest,6,Asia
+"382",32504,,0.159090909090909,Kamchatka-Kurile meadows and sparse forests,"479",0,,Kamchatka_forest,6,Asia
+"383",32505,,0.125,Kamchatka-Kurile meadows and sparse forests,"235",0,,Kamchatka_forest,6,Asia
+"384",32506,,1.13636363636364,Kamchatka-Kurile meadows and sparse forests,"779",0.00732724606329214,,Kamchatka_forest,6,Asia
+"385",32584,,1.17441860465116,Kamchatka-Kurile meadows and sparse forests,"1452",0,,Kamchatka_forest,6,Asia
+"386",32585,,0.569767441860465,Kamchatka-Kurile meadows and sparse forests,"1371",0.0939858347580683,,Kamchatka_forest,6,Asia
+"387",32096,,3.68604651162791,Kamchatka-Kurile taiga,"323",4.73832957880834,,Kamchatka_taiga,6,Asia
+"388",32097,,6.66279069767442,Kamchatka-Kurile taiga,"2117",1.81375836298189,,Kamchatka_taiga,6,Asia
+"389",32177,,1.63636363636364,Kamchatka-Kurile taiga,"62",0.228625024301236,,Kamchatka_taiga,6,Asia
+"390",32178,,7.76136363636364,Kamchatka-Kurile taiga,"2253",0.434043530368485,,Kamchatka_taiga,6,Asia
+"391",32179,,6.04545454545455,Kamchatka-Kurile taiga,"3705",4.54435503858563,,Kamchatka_taiga,6,Asia
+"392",32180,,5.44318181818182,Kamchatka-Kurile taiga,"6",0.090159975488885,,Kamchatka_taiga,6,Asia
+"393",32259,,8.47674418604651,Kamchatka-Kurile taiga,"3838",1.79085076268279,,Kamchatka_taiga,6,Asia
+"394",32260,,8.3953488372093,Kamchatka-Kurile taiga,"2133",0.481019402123721,,Kamchatka_taiga,6,Asia
+"395",32341,,3.8953488372093,Kamchatka-Kurile taiga,"42",0.0386548843106121,,Kamchatka_taiga,6,Asia
+"396",32342,,7.12790697674419,Kamchatka-Kurile taiga,"816",0.546300975714989,,Kamchatka_taiga,6,Asia
+"397",29477,,4.84090909090909,Manchurian mixed forests,"2755",,2.71993724250173,Manchurian_mixed_forest,6,Asia
+"398",29560,,2.53488372093023,Manchurian mixed forests,"17",,8.65326876723942,Manchurian_mixed_forest,6,Asia
+"399",30453,,1.75581395348837,Northeast Siberian taiga,"737",0.0642442148600425,,Northeastern_Siberian_taiga - NP,6,Asia
+"400",30534,,1.97727272727273,Northeast Siberian taiga,"185",4.52445565196192,,Northeastern_Siberian_taiga - NP,6,Asia
+"401",30535,,2.51136363636364,Northeast Siberian taiga,"2481",4.53755488999874,,Northeastern_Siberian_taiga - NP,6,Asia
+"402",30616,,1.97674418604651,Northeast Siberian taiga,"2351",3.42168264402262,,Northeastern_Siberian_taiga - NP,6,Asia
+"403",30617,,0.488372093023256,Northeast Siberian taiga,"524",0.0431060127881613,,Northeastern_Siberian_taiga - NP,6,Asia
+"404",30699,,1.34883720930233,Northeast Siberian taiga,"2122",1.96180283580733,,Northeastern_Siberian_taiga - NP,6,Asia
+"405",30780,,2.19318181818182,Northeast Siberian taiga,"240",2.50483874548934,,Northeastern_Siberian_taiga - NP,6,Asia
+"406",30781,,0.261363636363636,Northeast Siberian taiga,"376",0.616277078292743,,Northeastern_Siberian_taiga - NP,6,Asia
+"407",30863,,1.82558139534884,Northeast Siberian taiga,"46",1.66556265577068,,Northeastern_Siberian_taiga - NP,6,Asia
+"408",29475,,3.375,Okhotsk-Manchurian taiga,"115",9.31913215649543,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"409",29476,,13.5227272727273,Okhotsk-Manchurian taiga,"1193",30.2119832950423,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"410",29477,,4.84090909090909,Okhotsk-Manchurian taiga,"3094",2.71993724250173,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"411",29478,,7.06818181818182,Okhotsk-Manchurian taiga,"2385",6.49346229692754,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"412",29479,,7.79545454545455,Okhotsk-Manchurian taiga,"1603",18.5908505769862,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"413",29558,,1.73255813953488,Okhotsk-Manchurian taiga,"809",9.20939689822452,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"414",29560,,2.53488372093023,Okhotsk-Manchurian taiga,"4605",8.65326876723942,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"415",29561,,8.11627906976744,Okhotsk-Manchurian taiga,"5261",12.624853323097,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"416",29637,,1.04651162790698,Okhotsk-Manchurian taiga,"38",6.32241095728743,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"417",29638,,9.84883720930233,Okhotsk-Manchurian taiga,"2334",17.2034876865774,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"418",29642,,4.05813953488372,Okhotsk-Manchurian taiga,"3836",2.94944034178486,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"419",29720,,7.72727272727273,Okhotsk-Manchurian taiga,"4148",8.13427737446583,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"420",29723,,1.43181818181818,Okhotsk-Manchurian taiga,"251",4.95349879609049,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"421",29724,,3.95454545454545,Okhotsk-Manchurian taiga,"2468",2.27025406920052,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"422",29725,,5.84090909090909,Okhotsk-Manchurian taiga,"3394",8.60143320699208,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"423",29801,,5.68604651162791,Okhotsk-Manchurian taiga,"3265",3.93331077777022,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"424",29802,,1.97674418604651,Okhotsk-Manchurian taiga,"168",3.58871146728728,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"425",29805,,3.04651162790698,Okhotsk-Manchurian taiga,"2241",4.8017285449081,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"426",29806,,10.8372093023256,Okhotsk-Manchurian taiga,"970",7.68454798381566,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"427",29883,,1.97674418604651,Okhotsk-Manchurian taiga,"1599",6.98992258775873,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"428",29884,,5.37209302325581,Okhotsk-Manchurian taiga,"2209",2.04039351209425,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"429",29885,,7.2093023255814,Okhotsk-Manchurian taiga,"2979",1.7308506077529,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"430",29886,,5.31395348837209,Okhotsk-Manchurian taiga,"867",10.0832378434549,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"431",29887,,7.88372093023256,Okhotsk-Manchurian taiga,"4784",13.3787003377875,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"432",29888,,3.52325581395349,Okhotsk-Manchurian taiga,"4224",8.81194507723955,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"433",29889,,37.8837209302326,Okhotsk-Manchurian taiga,"684",72.6762335029237,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"434",29892,,3.34883720930233,Okhotsk-Manchurian taiga,"381",0.18426812109961,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"435",29893,,3.19767441860465,Okhotsk-Manchurian taiga,"1624",0.582428700269027,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"436",29964,,1.35227272727273,Okhotsk-Manchurian taiga,"1043",3.03437292827652,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"437",29965,,0.352272727272727,Okhotsk-Manchurian taiga,"362",0.038700550807124,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"438",29966,,6.48863636363636,Okhotsk-Manchurian taiga,"4378",1.39732421515072,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"439",29967,,16.0454545454545,Okhotsk-Manchurian taiga,"6470",8.79146167243925,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"440",29968,,26.5454545454545,Okhotsk-Manchurian taiga,"6602",9.57678597301478,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"441",29969,,13.7840909090909,Okhotsk-Manchurian taiga,"6763",8.97756720406848,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"442",29970,,10.1590909090909,Okhotsk-Manchurian taiga,"1324",36.8712166061263,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"443",29972,,3.35227272727273,Okhotsk-Manchurian taiga,"1579",3.34770465116015,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"444",29973,,2.82954545454545,Okhotsk-Manchurian taiga,"3160",1.38233903945141,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"445",29974,,2.90909090909091,Okhotsk-Manchurian taiga,"999",2.36936125627847,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"446",30046,,1.5,Okhotsk-Manchurian taiga,"1308",3.15428077932919,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"447",30047,,0.709302325581395,Okhotsk-Manchurian taiga,"37",0.453078003745039,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"448",30048,,2.24418604651163,Okhotsk-Manchurian taiga,"542",0.065999377135841,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"449",30049,,11.6744186046512,Okhotsk-Manchurian taiga,"4943",4.13560498855071,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"450",30050,,6.53488372093023,Okhotsk-Manchurian taiga,"6544",16.1596212182427,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"451",30051,,11.6744186046512,Okhotsk-Manchurian taiga,"6691",3.91643845148034,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"452",30052,,6.48837209302326,Okhotsk-Manchurian taiga,"5121",9.06698719902359,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"453",30053,,7.68604651162791,Okhotsk-Manchurian taiga,"2720",4.97973442913091,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"454",30054,,2.43023255813953,Okhotsk-Manchurian taiga,"5588",5.12544451961425,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"455",30055,,2.53488372093023,Okhotsk-Manchurian taiga,"4650",3.43989542133918,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"456",30056,,3.45348837209302,Okhotsk-Manchurian taiga,"96",7.05240141243044,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"457",30127,,1.43023255813953,Okhotsk-Manchurian taiga,"1235",5.49352487169611,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"458",30128,,0.0465116279069767,Okhotsk-Manchurian taiga,"12",0,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"459",30130,,2.58139534883721,Okhotsk-Manchurian taiga,"1694",2.41169479203295,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"460",30131,,5.56976744186047,Okhotsk-Manchurian taiga,"6470",14.9996509997677,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"461",30132,,3.2093023255814,Okhotsk-Manchurian taiga,"6618",7.3115130612656,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"462",30133,,2.56976744186047,Okhotsk-Manchurian taiga,"6763",2.10808073379362,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"463",30134,,4.36046511627907,Okhotsk-Manchurian taiga,"6797",3.65881323175469,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"464",30135,,2.25581395348837,Okhotsk-Manchurian taiga,"1677",19.3416678542477,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"465",30136,,2.8953488372093,Okhotsk-Manchurian taiga,"4521",5.0323993108511,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"466",30209,,1.19767441860465,Okhotsk-Manchurian taiga,"2417",3.83715615262921,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"467",30212,,1.68604651162791,Okhotsk-Manchurian taiga,"1099",0.452900238503289,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"468",30213,,10.9186046511628,Okhotsk-Manchurian taiga,"6396",11.1848723755044,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"469",30214,,9.2093023255814,Okhotsk-Manchurian taiga,"6544",10.3243356094226,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"470",30215,,14.453488372093,Okhotsk-Manchurian taiga,"6691",13.688258032126,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"471",30216,,2.56976744186047,Okhotsk-Manchurian taiga,"6835",4.956572827617,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"472",30217,,10.3255813953488,Okhotsk-Manchurian taiga,"5804",4.04739321112775,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"473",30218,,3.01162790697674,Okhotsk-Manchurian taiga,"5857",9.10222895701367,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"474",30290,,1.01136363636364,Okhotsk-Manchurian taiga,"2473",15.574514688681,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"475",30294,,6.97727272727273,Okhotsk-Manchurian taiga,"3215",1.0908441948757,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"476",30295,,5.05681818181818,Okhotsk-Manchurian taiga,"6470",14.8287603582835,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"477",30296,,16,Okhotsk-Manchurian taiga,"6618",15.5225176989178,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"478",30297,,2.89772727272727,Okhotsk-Manchurian taiga,"6500",14.7377917710481,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"479",30298,,2.875,Okhotsk-Manchurian taiga,"6327",9.47229146247674,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"480",30299,,8.79545454545454,Okhotsk-Manchurian taiga,"4851",5.84105256418528,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"481",30300,,0.909090909090909,Okhotsk-Manchurian taiga,"607",1.22039583992337,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"482",30372,,1.15116279069767,Okhotsk-Manchurian taiga,"80",2.86537841099265,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"483",30377,,4.40697674418605,Okhotsk-Manchurian taiga,"2412",0.20790736987795,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"484",30378,,7.31395348837209,Okhotsk-Manchurian taiga,"4877",1.33773897220809,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"485",30379,,2.1046511627907,Okhotsk-Manchurian taiga,"2445",0.1263498672321,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"486",30380,,0,Okhotsk-Manchurian taiga,"45",0.0578177910749887,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"487",30381,,0.0348837209302326,Okhotsk-Manchurian taiga,"115",0,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"488",30459,,8.2093023255814,Okhotsk-Manchurian taiga,"18",0.395780602957206,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"489",30460,,14.5697674418605,Okhotsk-Manchurian taiga,"69",0.297848034680667,,Okhotsk-Manchurian_taiga - NP,6,Asia
+"490",30458,,0,Sakhalin Island taiga,"1",0,,Sakhalin_Island_taiga,6,Asia
+"491",30459,,8.2093023255814,Sakhalin Island taiga,"3204",0.395780602957206,,Sakhalin_Island_taiga,6,Asia
+"492",30460,,14.5697674418605,Sakhalin Island taiga,"4127",0.297848034680667,,Sakhalin_Island_taiga,6,Asia
+"493",30461,,0.593023255813954,Sakhalin Island taiga,"971",0.0385165279613673,,Sakhalin_Island_taiga,6,Asia
+"494",30462,,0.488372093023256,Sakhalin Island taiga,"1161",0.390008157000927,,Sakhalin_Island_taiga,6,Asia
+"495",30463,,1.7093023255814,Sakhalin Island taiga,"2329",1.13759341389488,,Sakhalin_Island_taiga,6,Asia
+"496",30464,,0.709302325581395,Sakhalin Island taiga,"1040",0.104342574316912,,Sakhalin_Island_taiga,6,Asia
+"497",30540,,0.977272727272727,Sakhalin Island taiga,"996",0.118006656545015,,Sakhalin_Island_taiga,6,Asia
+"498",30541,,10.6818181818182,Sakhalin Island taiga,"3567",1.62809065314549,,Sakhalin_Island_taiga,6,Asia
+"499",30542,,6.625,Sakhalin Island taiga,"6384",1.96833092758547,,Sakhalin_Island_taiga,6,Asia
+"500",30543,,4.56818181818182,Sakhalin Island taiga,"6646",3.86005033438122,,Sakhalin_Island_taiga,6,Asia
+"501",30544,,9.64772727272727,Sakhalin Island taiga,"6835",3.58335498757906,,Sakhalin_Island_taiga,6,Asia
+"502",30545,,12.1590909090909,Sakhalin Island taiga,"6839",2.42021052135593,,Sakhalin_Island_taiga,6,Asia
+"503",30546,,6.54545454545455,Sakhalin Island taiga,"3756",0.112773713746204,,Sakhalin_Island_taiga,6,Asia
+"504",30547,,3.09090909090909,Sakhalin Island taiga,"2929",1.60973688093688,,Sakhalin_Island_taiga,6,Asia
+"505",30548,,3.96590909090909,Sakhalin Island taiga,"1516",1.33218037646231,,Sakhalin_Island_taiga,6,Asia
+"506",30623,,2.30232558139535,Sakhalin Island taiga,"658",0,,Sakhalin_Island_taiga,6,Asia
+"507",30624,,0.767441860465116,Sakhalin Island taiga,"389",0,,Sakhalin_Island_taiga,6,Asia
+"508",30625,,2.36046511627907,Sakhalin Island taiga,"3203",0.149057490315261,,Sakhalin_Island_taiga,6,Asia
+"509",30626,,6.81395348837209,Sakhalin Island taiga,"6018",2.69586856734454,,Sakhalin_Island_taiga,6,Asia
+"510",30627,,7.81395348837209,Sakhalin Island taiga,"747",0.909500671226974,,Sakhalin_Island_taiga,6,Asia
+"511",30629,,0.604651162790698,Sakhalin Island taiga,"564",0.186325587781392,,Sakhalin_Island_taiga,6,Asia
+"512",30630,,0.348837209302326,Sakhalin Island taiga,"534",0.0956775566338358,,Sakhalin_Island_taiga,6,Asia
+"513",30709,,1.2093023255814,Sakhalin Island taiga,"983",0.31507526522992,,Sakhalin_Island_taiga,6,Asia
+"514",30710,,0.604651162790698,Sakhalin Island taiga,"63",0.0182981459438609,,Sakhalin_Island_taiga,6,Asia
+"515",22502,,2.04651162790698,Sarmatic mixed forests,"3109",3.52724093292948,,Sarmatic_mixed_forest,6,Asia
+"516",26441,,0.295454545454545,Sayan montane conifer forests,"1002",0.42769288317368,,Sayan_montane_conifer_forest - NP,6,Asia
+"517",26936,,0.920454545454545,Sayan montane conifer forests,"1508",14.2535494218526,,Sayan_montane_conifer_forest - NP,6,Asia
+"518",26936,,0.920454545454545,Trans-Baikal conifer forests,"163",14.2535494218526,,Trans-Baikal_conifer_forest - NP,6,Asia
+"519",27017,,0.702380952380952,Trans-Baikal conifer forests,"269",13.7540866087467,,Trans-Baikal_conifer_forest - NP,6,Asia
+"520",27018,,0.392857142857143,Trans-Baikal conifer forests,"0",1.42421806989954,,Trans-Baikal_conifer_forest - NP,6,Asia
+"521",27098,,1.90909090909091,Trans-Baikal conifer forests,"318",9.61055607072488,,Trans-Baikal_conifer_forest - NP,6,Asia
+"522",27099,,2.71590909090909,Trans-Baikal conifer forests,"514",9.15252634775351,,Trans-Baikal_conifer_forest - NP,6,Asia
+"523",27101,,0.272727272727273,Trans-Baikal conifer forests,"1946",0,,Trans-Baikal_conifer_forest - NP,6,Asia
+"524",27102,,0.215909090909091,Trans-Baikal conifer forests,"7",0,,Trans-Baikal_conifer_forest - NP,6,Asia
+"525",27179,,0.395348837209302,Trans-Baikal conifer forests,"807",14.0432918239312,,Trans-Baikal_conifer_forest - NP,6,Asia
+"526",27180,,1.12790697674419,Trans-Baikal conifer forests,"1853",16.3211629565606,,Trans-Baikal_conifer_forest - NP,6,Asia
+"527",27181,,1.15116279069767,Trans-Baikal conifer forests,"831",14.7327071200436,,Trans-Baikal_conifer_forest - NP,6,Asia
+"528",27182,,0.906976744186046,Trans-Baikal conifer forests,"1310",10.9245532573827,,Trans-Baikal_conifer_forest - NP,6,Asia
+"529",27183,,0.86046511627907,Trans-Baikal conifer forests,"5422",0,,Trans-Baikal_conifer_forest - NP,6,Asia
+"530",27184,,0.13953488372093,Trans-Baikal conifer forests,"449",0,,Trans-Baikal_conifer_forest - NP,6,Asia
+"531",27261,,0.302325581395349,Trans-Baikal conifer forests,"483",5.02577492537812,,Trans-Baikal_conifer_forest - NP,6,Asia
+"532",27262,,2.12790697674419,Trans-Baikal conifer forests,"2233",20.3129551907982,,Trans-Baikal_conifer_forest - NP,6,Asia
+"533",27263,,1.17441860465116,Trans-Baikal conifer forests,"4654",26.3108006258897,,Trans-Baikal_conifer_forest - NP,6,Asia
+"534",27264,,1.08139534883721,Trans-Baikal conifer forests,"2690",14.4691077704822,,Trans-Baikal_conifer_forest - NP,6,Asia
+"535",27265,,0.686046511627907,Trans-Baikal conifer forests,"3436",1.71485252694455,,Trans-Baikal_conifer_forest - NP,6,Asia
+"536",27342,,0.488636363636364,Trans-Baikal conifer forests,"1211",4.38410841521594,,Trans-Baikal_conifer_forest - NP,6,Asia
+"537",27343,,1.23863636363636,Trans-Baikal conifer forests,"2492",15.2854375254404,,Trans-Baikal_conifer_forest - NP,6,Asia
+"538",27344,,1.43181818181818,Trans-Baikal conifer forests,"4064",24.4510838921361,,Trans-Baikal_conifer_forest - NP,6,Asia
+"539",27345,,1.31818181818182,Trans-Baikal conifer forests,"2183",30.6696664132064,,Trans-Baikal_conifer_forest - NP,6,Asia
+"540",27346,,1.15909090909091,Trans-Baikal conifer forests,"562",4.31017738753041,,Trans-Baikal_conifer_forest - NP,6,Asia
+"541",27348,,0.0340909090909091,Trans-Baikal conifer forests,"97",0,,Trans-Baikal_conifer_forest - NP,6,Asia
+"542",27424,,0.767441860465116,Trans-Baikal conifer forests,"592",7.49579770780521,,Trans-Baikal_conifer_forest - NP,6,Asia
+"543",27425,,1.40697674418605,Trans-Baikal conifer forests,"2803",27.025949712591,,Trans-Baikal_conifer_forest - NP,6,Asia
+"544",27426,,1.11627906976744,Trans-Baikal conifer forests,"1933",24.1043297813663,,Trans-Baikal_conifer_forest - NP,6,Asia
+"545",27427,,1.25581395348837,Trans-Baikal conifer forests,"4132",23.079322581313,,Trans-Baikal_conifer_forest - NP,6,Asia
+"546",27428,,0.872093023255814,Trans-Baikal conifer forests,"1946",11.1807473442861,,Trans-Baikal_conifer_forest - NP,6,Asia
+"547",27430,,0.302325581395349,Trans-Baikal conifer forests,"382",0.397623181249776,,Trans-Baikal_conifer_forest - NP,6,Asia
+"548",27505,,0.686046511627907,Trans-Baikal conifer forests,"1022",5.7073624773802,,Trans-Baikal_conifer_forest - NP,6,Asia
+"549",27506,,0.709302325581395,Trans-Baikal conifer forests,"1192",27.6917164488892,,Trans-Baikal_conifer_forest - NP,6,Asia
+"550",27507,,0.790697674418605,Trans-Baikal conifer forests,"499",60.6181830420363,,Trans-Baikal_conifer_forest - NP,6,Asia
+"551",27508,,1.27906976744186,Trans-Baikal conifer forests,"5204",51.1590854300811,,Trans-Baikal_conifer_forest - NP,6,Asia
+"552",27509,,1.41860465116279,Trans-Baikal conifer forests,"435",33.8829585387607,,Trans-Baikal_conifer_forest - NP,6,Asia
+"553",27510,,0.709302325581395,Trans-Baikal conifer forests,"75",3.01729560916233,,Trans-Baikal_conifer_forest - NP,6,Asia
+"554",27511,,0.465116279069767,Trans-Baikal conifer forests,"802",35.9767287983048,,Trans-Baikal_conifer_forest - NP,6,Asia
+"555",27587,,0.613636363636364,Trans-Baikal conifer forests,"95",11.3737671492221,,Trans-Baikal_conifer_forest - NP,6,Asia
+"556",27588,,0.488636363636364,Trans-Baikal conifer forests,"116",33.1834151935181,,Trans-Baikal_conifer_forest - NP,6,Asia
+"557",27590,,1.05681818181818,Trans-Baikal conifer forests,"1503",78.1404440823953,,Trans-Baikal_conifer_forest - NP,6,Asia
+"558",27591,,1.44318181818182,Trans-Baikal conifer forests,"3197",64.6194706269266,,Trans-Baikal_conifer_forest - NP,6,Asia
+"559",27592,,1.20454545454545,Trans-Baikal conifer forests,"19",10.6608197067095,,Trans-Baikal_conifer_forest - NP,6,Asia
+"560",27593,,0.602272727272727,Trans-Baikal conifer forests,"2319",53.9163039153331,,Trans-Baikal_conifer_forest - NP,6,Asia
+"561",27594,,0.0227272727272727,Trans-Baikal conifer forests,"490",9.3343538827667,,Trans-Baikal_conifer_forest - NP,6,Asia
+"562",27672,,1.24418604651163,Trans-Baikal conifer forests,"2209",85.7977301154469,,Trans-Baikal_conifer_forest - NP,6,Asia
+"563",27673,,1.32558139534884,Trans-Baikal conifer forests,"1373",37.5563252982404,,Trans-Baikal_conifer_forest - NP,6,Asia
+"564",27674,,0.883720930232558,Trans-Baikal conifer forests,"1017",27.886576169081,,Trans-Baikal_conifer_forest - NP,6,Asia
+"565",27754,,1.03488372093023,Trans-Baikal conifer forests,"525",62.9788562636121,,Trans-Baikal_conifer_forest - NP,6,Asia
+"566",27755,,1.63953488372093,Trans-Baikal conifer forests,"1978",62.3356247641234,,Trans-Baikal_conifer_forest - NP,6,Asia
+"567",27756,,1.01162790697674,Trans-Baikal conifer forests,"999",48.0089034919262,,Trans-Baikal_conifer_forest - NP,6,Asia
+"568",27836,,1.56818181818182,Trans-Baikal conifer forests,"2396",71.4917754738167,,Trans-Baikal_conifer_forest - NP,6,Asia
+"569",27837,,1.46590909090909,Trans-Baikal conifer forests,"1733",61.8530709176518,,Trans-Baikal_conifer_forest - NP,6,Asia
+"570",22421,,2.55813953488372,Ural montane forests and tundra,"0",0.582273906098647,,Ural_montane_forest - NP,6,Asia
+"571",22421,,2.55813953488372,Ural montane forests and tundra,"608",0.582273906098647,,Ural_montane_forest - NP,6,Asia
+"572",22499,,2.12790697674419,Ural montane forests and tundra,"0",0.2295321843505,,Ural_montane_forest - NP,6,Asia
+"573",22499,,2.12790697674419,Ural montane forests and tundra,"54",0.2295321843505,,Ural_montane_forest - NP,6,Asia
+"574",22501,,2.13953488372093,Ural montane forests and tundra,"0",0.711077633246882,,Ural_montane_forest - NP,6,Asia
+"575",22501,,2.13953488372093,Ural montane forests and tundra,"1253",0.711077633246882,,Ural_montane_forest - NP,6,Asia
+"576",22502,,2.04651162790698,Ural montane forests and tundra,"102",3.52724093292948,,Ural_montane_forest - NP,6,Asia
+"577",22503,,1.81395348837209,Ural montane forests and tundra,"1158",2.70358690664428,,Ural_montane_forest - NP,6,Asia
+"578",22504,,1.86046511627907,Ural montane forests and tundra,"0",0.223983088009446,,Ural_montane_forest - NP,6,Asia
+"579",22504,,1.86046511627907,Ural montane forests and tundra,"2822",0.223983088009446,,Ural_montane_forest - NP,6,Asia
+"580",22504,,1.86046511627907,Ural montane forests and tundra,"2657",0.223983088009446,,Ural_montane_forest - NP,6,Asia
+"581",22577,,4.32954545454545,Ural montane forests and tundra,"0",0.0532724505623495,,Ural_montane_forest - NP,6,Asia
+"582",22577,,4.32954545454545,Ural montane forests and tundra,"34",0.0532724505623495,,Ural_montane_forest - NP,6,Asia
+"583",22580,,2.5,Ural montane forests and tundra,"0",0.152722256492585,,Ural_montane_forest - NP,6,Asia
+"584",22580,,2.5,Ural montane forests and tundra,"3434",0.152722256492585,,Ural_montane_forest - NP,6,Asia
+"585",22580,,2.5,Ural montane forests and tundra,"1949",0.152722256492585,,Ural_montane_forest - NP,6,Asia
+"586",22581,,1.60227272727273,Ural montane forests and tundra,"0",0.0274669875871974,,Ural_montane_forest - NP,6,Asia
+"587",22581,,1.60227272727273,Ural montane forests and tundra,"4315",0.0274669875871974,,Ural_montane_forest - NP,6,Asia
+"588",22581,,1.60227272727273,Ural montane forests and tundra,"1230",0.0274669875871974,,Ural_montane_forest - NP,6,Asia
+"589",22582,,1.90909090909091,Ural montane forests and tundra,"0",0.0799017647356289,,Ural_montane_forest - NP,6,Asia
+"590",22582,,1.90909090909091,Ural montane forests and tundra,"3274",0.0799017647356289,,Ural_montane_forest - NP,6,Asia
+"591",22582,,1.90909090909091,Ural montane forests and tundra,"2429",0.0799017647356289,,Ural_montane_forest - NP,6,Asia
+"592",22583,,2.30681818181818,Ural montane forests and tundra,"5242",0.472522382202833,,Ural_montane_forest - NP,6,Asia
+"593",22584,,1.81818181818182,Ural montane forests and tundra,"0",2.28110191340896,,Ural_montane_forest - NP,6,Asia
+"594",22584,,1.81818181818182,Ural montane forests and tundra,"1824",2.28110191340896,,Ural_montane_forest - NP,6,Asia
+"595",22584,,1.81818181818182,Ural montane forests and tundra,"958",2.28110191340896,,Ural_montane_forest - NP,6,Asia
+"596",22585,,2,Ural montane forests and tundra,"0",2.04564592899102,,Ural_montane_forest - NP,6,Asia
+"597",22585,,2,Ural montane forests and tundra,"1033",2.04564592899102,,Ural_montane_forest - NP,6,Asia
+"598",22585,,2,Ural montane forests and tundra,"3730",2.04564592899102,,Ural_montane_forest - NP,6,Asia
+"599",22586,,1.54545454545455,Ural montane forests and tundra,"0",6.47522721038521,,Ural_montane_forest - NP,6,Asia
+"600",22586,,1.54545454545455,Ural montane forests and tundra,"19",6.47522721038521,,Ural_montane_forest - NP,6,Asia
+"601",22659,,2.72619047619048,Ural montane forests and tundra,"308",0.923524243475199,,Ural_montane_forest - NP,6,Asia
+"602",22660,,3.77380952380952,Ural montane forests and tundra,"1777",0.29907797484641,,Ural_montane_forest - NP,6,Asia
+"603",22660,,3.77380952380952,Ural montane forests and tundra,"898",0.29907797484641,,Ural_montane_forest - NP,6,Asia
+"604",22661,,1.92857142857143,Ural montane forests and tundra,"0",3.58122694716482,,Ural_montane_forest - NP,6,Asia
+"605",22661,,1.92857142857143,Ural montane forests and tundra,"2084",3.58122694716482,,Ural_montane_forest - NP,6,Asia
+"606",22662,,2.33333333333333,Ural montane forests and tundra,"0",1.74575947770676,,Ural_montane_forest - NP,6,Asia
+"607",22662,,2.33333333333333,Ural montane forests and tundra,"925",1.74575947770676,,Ural_montane_forest - NP,6,Asia
+"608",22662,,2.33333333333333,Ural montane forests and tundra,"769",1.74575947770676,,Ural_montane_forest - NP,6,Asia
+"609",22663,,2.64285714285714,Ural montane forests and tundra,"1684",0.0928717144072325,,Ural_montane_forest - NP,6,Asia
+"610",22664,,2.19047619047619,Ural montane forests and tundra,"0",0.909228702832054,,Ural_montane_forest - NP,6,Asia
+"611",22664,,2.19047619047619,Ural montane forests and tundra,"773",0.909228702832054,,Ural_montane_forest - NP,6,Asia
+"612",22664,,2.19047619047619,Ural montane forests and tundra,"3830",0.909228702832054,,Ural_montane_forest - NP,6,Asia
+"613",22665,,2.75,Ural montane forests and tundra,"5768",1.07898044031056,,Ural_montane_forest - NP,6,Asia
+"614",22666,,2.19047619047619,Ural montane forests and tundra,"0",1.07933630278187,,Ural_montane_forest - NP,6,Asia
+"615",22666,,2.19047619047619,Ural montane forests and tundra,"20",1.07933630278187,,Ural_montane_forest - NP,6,Asia
+"616",22666,,2.19047619047619,Ural montane forests and tundra,"5920",1.07933630278187,,Ural_montane_forest - NP,6,Asia
+"617",22667,,2.03571428571429,Ural montane forests and tundra,"0",2.25896114170008,,Ural_montane_forest - NP,6,Asia
+"618",22667,,2.03571428571429,Ural montane forests and tundra,"794",2.25896114170008,,Ural_montane_forest - NP,6,Asia
+"619",22667,,2.03571428571429,Ural montane forests and tundra,"4791",2.25896114170008,,Ural_montane_forest - NP,6,Asia
+"620",22668,,1.41666666666667,Ural montane forests and tundra,"607",8.12713478789664,,Ural_montane_forest - NP,6,Asia
+"621",22746,,5.97727272727273,Ural montane forests and tundra,"297",3.67758519489653,,Ural_montane_forest - NP,6,Asia
+"622",22747,,4.39772727272727,Ural montane forests and tundra,"1139",9.85746468886446,,Ural_montane_forest - NP,6,Asia
+"623",22748,,4.625,Ural montane forests and tundra,"1689",1.81370329920706,,Ural_montane_forest - NP,6,Asia
+"624",29642,,4.05813953488372,Ussuri broadleaf and mixed forests,"1375",2.94944034178486,,Ussuri_mixed_forest,6,Asia
+"625",29725,,5.84090909090909,Ussuri broadleaf and mixed forests,"3526",8.60143320699208,,Ussuri_mixed_forest,6,Asia
+"626",29889,,37.8837209302326,Ussuri broadleaf and mixed forests,"6170",72.6762335029237,,Ussuri_mixed_forest,6,Asia
+"627",29892,,3.34883720930233,Ussuri broadleaf and mixed forests,"7009",0.18426812109961,,Ussuri_mixed_forest,6,Asia
+"628",29893,,3.19767441860465,Ussuri broadleaf and mixed forests,"5897",0.582428700269027,,Ussuri_mixed_forest,6,Asia
+"629",29972,,3.35227272727273,Ussuri broadleaf and mixed forests,"5607",3.34770465116015,,Ussuri_mixed_forest,6,Asia
+"630",29973,,2.82954545454545,Ussuri broadleaf and mixed forests,"2207",1.38233903945141,,Ussuri_mixed_forest,6,Asia
+"631",30052,,6.48837209302326,Ussuri broadleaf and mixed forests,"1715",9.06698719902359,,Ussuri_mixed_forest,6,Asia
+"632",30055,,2.53488372093023,Ussuri broadleaf and mixed forests,"288",3.43989542133918,,Ussuri_mixed_forest,6,Asia
+"633",30056,,3.45348837209302,Ussuri broadleaf and mixed forests,"6026",7.05240141243044,,Ussuri_mixed_forest,6,Asia
+"634",30134,,4.36046511627907,Ussuri broadleaf and mixed forests,"24",3.65881323175469,,Ussuri_mixed_forest,6,Asia
+"635",30136,,2.8953488372093,Ussuri broadleaf and mixed forests,"1875",5.0323993108511,,Ussuri_mixed_forest,6,Asia
+"636",30218,,3.01162790697674,Ussuri broadleaf and mixed forests,"450",9.10222895701367,,Ussuri_mixed_forest,6,Asia
+"637",22994,,3.46590909090909,Western Siberian hemiboreal forests,"4237",11.2128272797102,,Western_Siberian_hemiboreal_forest,6,Asia
+"638",23485,,29.7272727272727,Western Siberian hemiboreal forests,"1623",21.7707002433556,,Western_Siberian_hemiboreal_forest,6,Asia
+"639",22659,,2.72619047619048,West Siberian taiga,"183",0.923524243475199,,Western_Siberian_taiga - NP,6,Asia
+"640",22660,,3.77380952380952,West Siberian taiga,"1052",0.29907797484641,,Western_Siberian_taiga - NP,6,Asia
+"641",22661,,1.92857142857143,West Siberian taiga,"1022",3.58122694716482,,Western_Siberian_taiga - NP,6,Asia
+"642",22662,,2.33333333333333,West Siberian taiga,"0",1.74575947770676,,Western_Siberian_taiga - NP,6,Asia
+"643",22662,,2.33333333333333,West Siberian taiga,"3591",1.74575947770676,,Western_Siberian_taiga - NP,6,Asia
+"644",22663,,2.64285714285714,West Siberian taiga,"3781",0.0928717144072325,,Western_Siberian_taiga - NP,6,Asia
+"645",22664,,2.19047619047619,West Siberian taiga,"1023",0.909228702832054,,Western_Siberian_taiga - NP,6,Asia
+"646",22665,,2.75,West Siberian taiga,"15",1.07898044031056,,Western_Siberian_taiga - NP,6,Asia
+"647",22667,,2.03571428571429,West Siberian taiga,"508",2.25896114170008,,Western_Siberian_taiga - NP,6,Asia
+"648",22668,,1.41666666666667,West Siberian taiga,"0",8.12713478789664,,Western_Siberian_taiga - NP,6,Asia
+"649",22668,,1.41666666666667,West Siberian taiga,"504",8.12713478789664,,Western_Siberian_taiga - NP,6,Asia
+"650",22740,,2.98863636363636,West Siberian taiga,"1446",0.521537196836636,,Western_Siberian_taiga - NP,6,Asia
+"651",22741,,3.67045454545455,West Siberian taiga,"4541",1.46862045441407,,Western_Siberian_taiga - NP,6,Asia
+"652",22742,,11.3522727272727,West Siberian taiga,"4377",2.85902837161861,,Western_Siberian_taiga - NP,6,Asia
+"653",22743,,5.54545454545455,West Siberian taiga,"5215",5.97421204211754,,Western_Siberian_taiga - NP,6,Asia
+"654",22744,,9.31818181818182,West Siberian taiga,"5384",3.49191825671533,,Western_Siberian_taiga - NP,6,Asia
+"655",22745,,9.82954545454546,West Siberian taiga,"5545",0.339852468029501,,Western_Siberian_taiga - NP,6,Asia
+"656",22746,,5.97727272727273,West Siberian taiga,"5406",3.67758519489653,,Western_Siberian_taiga - NP,6,Asia
+"657",22747,,4.39772727272727,West Siberian taiga,"4722",9.85746468886446,,Western_Siberian_taiga - NP,6,Asia
+"658",22748,,4.625,West Siberian taiga,"4327",1.81370329920706,,Western_Siberian_taiga - NP,6,Asia
+"659",22749,,2.61363636363636,West Siberian taiga,"2873",12.8884599071006,,Western_Siberian_taiga - NP,6,Asia
+"660",22822,,7.16279069767442,West Siberian taiga,"486",1.35871637067165,,Western_Siberian_taiga - NP,6,Asia
+"661",22823,,11.8720930232558,West Siberian taiga,"4808",0.921598275765488,,Western_Siberian_taiga - NP,6,Asia
+"662",22824,,13.7558139534884,West Siberian taiga,"4974",1.82757211331079,,Western_Siberian_taiga - NP,6,Asia
+"663",22825,,12.5348837209302,West Siberian taiga,"5139",0.71878318171396,,Western_Siberian_taiga - NP,6,Asia
+"664",22826,,14.6511627906977,West Siberian taiga,"5303",16.5782022830109,,Western_Siberian_taiga - NP,6,Asia
+"665",22827,,12.6976744186047,West Siberian taiga,"5464",6.04583795791295,,Western_Siberian_taiga - NP,6,Asia
+"666",22828,,12.8488372093023,West Siberian taiga,"5624",2.62111038281862,,Western_Siberian_taiga - NP,6,Asia
+"667",22829,,3.7906976744186,West Siberian taiga,"5782",4.08715236768378,,Western_Siberian_taiga - NP,6,Asia
+"668",22830,,6.32558139534884,West Siberian taiga,"5934",8.59325084533028,,Western_Siberian_taiga - NP,6,Asia
+"669",22831,,2.6046511627907,West Siberian taiga,"2118",14.6400999234907,,Western_Siberian_taiga - NP,6,Asia
+"670",22904,,13.5581395348837,West Siberian taiga,"4249",2.16064296803342,,Western_Siberian_taiga - NP,6,Asia
+"671",22905,,23.046511627907,West Siberian taiga,"4891",0.29702908013684,,Western_Siberian_taiga - NP,6,Asia
+"672",22906,,15.1976744186047,West Siberian taiga,"5057",1.84943542085684,,Western_Siberian_taiga - NP,6,Asia
+"673",22907,,16.2325581395349,West Siberian taiga,"5221",4.55118331998796,,Western_Siberian_taiga - NP,6,Asia
+"674",22908,,21.4883720930233,West Siberian taiga,"5384",6.28432680040373,,Western_Siberian_taiga - NP,6,Asia
+"675",22909,,19.453488372093,West Siberian taiga,"5545",7.66498608693192,,Western_Siberian_taiga - NP,6,Asia
+"676",22910,,6.03488372093023,West Siberian taiga,"5704",5.20085218212777,,Western_Siberian_taiga - NP,6,Asia
+"677",22911,,5.43023255813953,West Siberian taiga,"5817",7.02175607102856,,Western_Siberian_taiga - NP,6,Asia
+"678",22912,,2.63953488372093,West Siberian taiga,"352",25.0501001191478,,Western_Siberian_taiga - NP,6,Asia
+"679",22986,,12.8068181818182,West Siberian taiga,"2911",6.94948875264393,,Western_Siberian_taiga - NP,6,Asia
+"680",22987,,14.2159090909091,West Siberian taiga,"4808",2.5658736304889,,Western_Siberian_taiga - NP,6,Asia
+"681",22988,,17.9318181818182,West Siberian taiga,"4974",1.49724512345112,,Western_Siberian_taiga - NP,6,Asia
+"682",22989,,8.52272727272727,West Siberian taiga,"5139",2.21372662842684,,Western_Siberian_taiga - NP,6,Asia
+"683",22990,,23.2159090909091,West Siberian taiga,"5303",2.49240806195494,,Western_Siberian_taiga - NP,6,Asia
+"684",22991,,18.3295454545455,West Siberian taiga,"5464",1.00687963519478,,Western_Siberian_taiga - NP,6,Asia
+"685",22992,,14.5568181818182,West Siberian taiga,"5624",4.46693769493314,,Western_Siberian_taiga - NP,6,Asia
+"686",22993,,3.65909090909091,West Siberian taiga,"5782",4.87611805122313,,Western_Siberian_taiga - NP,6,Asia
+"687",22994,,3.46590909090909,West Siberian taiga,"1699",11.2128272797102,,Western_Siberian_taiga - NP,6,Asia
+"688",23067,,6.2093023255814,West Siberian taiga,"1378",5.93883888656556,,Western_Siberian_taiga - NP,6,Asia
+"689",23068,,18,West Siberian taiga,"4724",8.78622824705775,,Western_Siberian_taiga - NP,6,Asia
+"690",23069,,16.5348837209302,West Siberian taiga,"4891",1.11950422116034,,Western_Siberian_taiga - NP,6,Asia
+"691",23070,,13.2093023255814,West Siberian taiga,"5057",1.24266541371274,,Western_Siberian_taiga - NP,6,Asia
+"692",23071,,16.2558139534884,West Siberian taiga,"5221",7.39142368006867,,Western_Siberian_taiga - NP,6,Asia
+"693",23072,,24.2093023255814,West Siberian taiga,"5384",0.282176555673502,,Western_Siberian_taiga - NP,6,Asia
+"694",23073,,19.3023255813953,West Siberian taiga,"5545",1.18928198501008,,Western_Siberian_taiga - NP,6,Asia
+"695",23074,,9.61627906976744,West Siberian taiga,"5704",12.228383389543,,Western_Siberian_taiga - NP,6,Asia
+"696",23075,,4.81395348837209,West Siberian taiga,"4411",7.30646533016129,,Western_Siberian_taiga - NP,6,Asia
+"697",23149,,2.59302325581395,West Siberian taiga,"98",1.03441198760581,,Western_Siberian_taiga - NP,6,Asia
+"698",23150,,14.1046511627907,West Siberian taiga,"4620",7.77460081174362,,Western_Siberian_taiga - NP,6,Asia
+"699",23151,,17.1511627906977,West Siberian taiga,"4808",1.63615531056992,,Western_Siberian_taiga - NP,6,Asia
+"700",23152,,19.0348837209302,West Siberian taiga,"4974",0.378071264205251,,Western_Siberian_taiga - NP,6,Asia
+"701",23153,,9.25581395348837,West Siberian taiga,"5139",2.07758327796646,,Western_Siberian_taiga - NP,6,Asia
+"702",23154,,28.4883720930233,West Siberian taiga,"5303",2.03984709194905,,Western_Siberian_taiga - NP,6,Asia
+"703",23155,,18.593023255814,West Siberian taiga,"5464",1.16962273609966,,Western_Siberian_taiga - NP,6,Asia
+"704",23156,,20.453488372093,West Siberian taiga,"5624",5.29327281255453,,Western_Siberian_taiga - NP,6,Asia
+"705",23157,,11.6162790697674,West Siberian taiga,"5782",26.8941868663853,,Western_Siberian_taiga - NP,6,Asia
+"706",23158,,4.95348837209302,West Siberian taiga,"346",11.7837790045309,,Western_Siberian_taiga - NP,6,Asia
+"707",23230,,1.85227272727273,West Siberian taiga,"19",4.92531291809463,,Western_Siberian_taiga - NP,6,Asia
+"708",23231,,7.55681818181818,West Siberian taiga,"3878",5.26366526330505,,Western_Siberian_taiga - NP,6,Asia
+"709",23232,,6.75,West Siberian taiga,"4724",0.899702352461283,,Western_Siberian_taiga - NP,6,Asia
+"710",23233,,4.71590909090909,West Siberian taiga,"4891",1.25009601370927,,Western_Siberian_taiga - NP,6,Asia
+"711",23234,,14.4318181818182,West Siberian taiga,"5057",0.585170195497739,,Western_Siberian_taiga - NP,6,Asia
+"712",23235,,32.0568181818182,West Siberian taiga,"5221",0.423065280670804,,Western_Siberian_taiga - NP,6,Asia
+"713",23236,,28.4090909090909,West Siberian taiga,"5384",3.46720503358635,,Western_Siberian_taiga - NP,6,Asia
+"714",23237,,33.875,West Siberian taiga,"5545",0.534325790358368,,Western_Siberian_taiga - NP,6,Asia
+"715",23238,,23.0227272727273,West Siberian taiga,"5704",25.7366714995834,,Western_Siberian_taiga - NP,6,Asia
+"716",23239,,13.7159090909091,West Siberian taiga,"1130",27.7615979253933,,Western_Siberian_taiga - NP,6,Asia
+"717",23314,,16.3372093023256,West Siberian taiga,"3802",12.6926387574724,,Western_Siberian_taiga - NP,6,Asia
+"718",23315,,8.46511627906977,West Siberian taiga,"4808",2.24099965583144,,Western_Siberian_taiga - NP,6,Asia
+"719",23316,,5.2906976744186,West Siberian taiga,"4974",1.03424550040857,,Western_Siberian_taiga - NP,6,Asia
+"720",23317,,29,West Siberian taiga,"5139",1.18167062773565,,Western_Siberian_taiga - NP,6,Asia
+"721",23318,,39.1744186046512,West Siberian taiga,"5303",2.5021709701541,,Western_Siberian_taiga - NP,6,Asia
+"722",23319,,29.5697674418605,West Siberian taiga,"5464",2.14426462882645,,Western_Siberian_taiga - NP,6,Asia
+"723",23320,,36.9651162790698,West Siberian taiga,"5624",0.273852809930243,,Western_Siberian_taiga - NP,6,Asia
+"724",23321,,21.4418604651163,West Siberian taiga,"3530",25.2237643830773,,Western_Siberian_taiga - NP,6,Asia
+"725",23396,,13.2906976744186,West Siberian taiga,"4551",4.33708549579023,,Western_Siberian_taiga - NP,6,Asia
+"726",23397,,12.3023255813953,West Siberian taiga,"4891",2.31225879101597,,Western_Siberian_taiga - NP,6,Asia
+"727",23398,,8.94186046511628,West Siberian taiga,"5057",0.450171967965199,,Western_Siberian_taiga - NP,6,Asia
+"728",23399,,30.8488372093023,West Siberian taiga,"5221",2.03283561462813,,Western_Siberian_taiga - NP,6,Asia
+"729",23400,,30.1744186046512,West Siberian taiga,"5384",8.11498280194751,,Western_Siberian_taiga - NP,6,Asia
+"730",23401,,40.046511627907,West Siberian taiga,"5545",0.115237363715022,,Western_Siberian_taiga - NP,6,Asia
+"731",23402,,32.8255813953488,West Siberian taiga,"5704",6.34677101110704,,Western_Siberian_taiga - NP,6,Asia
+"732",23403,,10.3720930232558,West Siberian taiga,"566",11.2873770798562,,Western_Siberian_taiga - NP,6,Asia
+"733",23478,,3.02272727272727,West Siberian taiga,"655",4.4703039268111,,Western_Siberian_taiga - NP,6,Asia
+"734",23479,,15.3295454545455,West Siberian taiga,"4786",3.05037428695921,,Western_Siberian_taiga - NP,6,Asia
+"735",23480,,17.9090909090909,West Siberian taiga,"4974",3.03452765245339,,Western_Siberian_taiga - NP,6,Asia
+"736",23481,,8.14772727272727,West Siberian taiga,"5139",1.05836729523876,,Western_Siberian_taiga - NP,6,Asia
+"737",23482,,42.9090909090909,West Siberian taiga,"5303",1.12400300889235,,Western_Siberian_taiga - NP,6,Asia
+"738",23483,,33.3977272727273,West Siberian taiga,"5464",1.02458874564255,,Western_Siberian_taiga - NP,6,Asia
+"739",23484,,24.3409090909091,West Siberian taiga,"5624",14.4625410712261,,Western_Siberian_taiga - NP,6,Asia
+"740",23485,,29.7272727272727,West Siberian taiga,"4163",21.7707002433556,,Western_Siberian_taiga - NP,6,Asia
+"741",23560,,8.80232558139535,West Siberian taiga,"1644",1.38301192303583,,Western_Siberian_taiga - NP,6,Asia
+"742",23561,,23.1627906976744,West Siberian taiga,"4891",3.78998261722158,,Western_Siberian_taiga - NP,6,Asia
+"743",23562,,24.953488372093,West Siberian taiga,"5057",0.6918274260535,,Western_Siberian_taiga - NP,6,Asia
+"744",23563,,16.6627906976744,West Siberian taiga,"5221",0.42996803165605,,Western_Siberian_taiga - NP,6,Asia
+"745",23564,,30.4651162790698,West Siberian taiga,"5384",6.23856955946628,,Western_Siberian_taiga - NP,6,Asia
+"746",23565,,11.1627906976744,West Siberian taiga,"5545",5.42444931307544,,Western_Siberian_taiga - NP,6,Asia
+"747",23566,,25.8720930232558,West Siberian taiga,"5704",9.15201035665657,,Western_Siberian_taiga - NP,6,Asia
+"748",23567,,11.1395348837209,West Siberian taiga,"1200",59.3675818966072,,Western_Siberian_taiga - NP,6,Asia
+"749",23643,,31.1976744186047,West Siberian taiga,"4303",2.61526676868767,,Western_Siberian_taiga - NP,6,Asia
+"750",23644,,29.9418604651163,West Siberian taiga,"4974",4.02834178787251,,Western_Siberian_taiga - NP,6,Asia
+"751",23645,,26.9651162790698,West Siberian taiga,"5139",3.23600631636052,,Western_Siberian_taiga - NP,6,Asia
+"752",23646,,22.6627906976744,West Siberian taiga,"5303",4.09063941789759,,Western_Siberian_taiga - NP,6,Asia
+"753",23647,,20.5813953488372,West Siberian taiga,"5464",1.06660537299873,,Western_Siberian_taiga - NP,6,Asia
+"754",23648,,28.906976744186,West Siberian taiga,"5624",0.0962476213822228,,Western_Siberian_taiga - NP,6,Asia
+"755",23649,,37.5232558139535,West Siberian taiga,"5384",14.1684967211147,,Western_Siberian_taiga - NP,6,Asia
+"756",23724,,18.0581395348837,West Siberian taiga,"965",0.188202381230473,,Western_Siberian_taiga - NP,6,Asia
+"757",23725,,37.953488372093,West Siberian taiga,"4891",0.665355276192445,,Western_Siberian_taiga - NP,6,Asia
+"758",23726,,34.6627906976744,West Siberian taiga,"5057",3.79748372714292,,Western_Siberian_taiga - NP,6,Asia
+"759",23727,,20.0116279069767,West Siberian taiga,"5221",1.57426801029897,,Western_Siberian_taiga - NP,6,Asia
+"760",23728,,27.8720930232558,West Siberian taiga,"5384",0.17271372306499,,Western_Siberian_taiga - NP,6,Asia
+"761",23729,,32.5813953488372,West Siberian taiga,"5545",0.0117787185909731,,Western_Siberian_taiga - NP,6,Asia
+"762",23730,,31.1046511627907,West Siberian taiga,"5704",5.19890473740498,,Western_Siberian_taiga - NP,6,Asia
+"763",23731,,19.8837209302326,West Siberian taiga,"3045",45.9375547368208,,Western_Siberian_taiga - NP,6,Asia
+"764",23807,,29.0681818181818,West Siberian taiga,"3194",0.786591315498918,,Western_Siberian_taiga - NP,6,Asia
+"765",23808,,37.5,West Siberian taiga,"4974",0.396034695112939,,Western_Siberian_taiga - NP,6,Asia
+"766",23809,,27.0340909090909,West Siberian taiga,"5139",2.01965918947251,,Western_Siberian_taiga - NP,6,Asia
+"767",23810,,26.1136363636364,West Siberian taiga,"5303",1.64421475568546,,Western_Siberian_taiga - NP,6,Asia
+"768",23811,,33.5681818181818,West Siberian taiga,"5464",0.00796875661751108,,Western_Siberian_taiga - NP,6,Asia
+"769",23812,,36.2045454545455,West Siberian taiga,"5624",0.162376627577502,,Western_Siberian_taiga - NP,6,Asia
+"770",23813,,27.3295454545455,West Siberian taiga,"5782",5.80339097694884,,Western_Siberian_taiga - NP,6,Asia
+"771",23814,,12.9431818181818,West Siberian taiga,"390",44.7137157373632,,Western_Siberian_taiga - NP,6,Asia
+"772",23888,,2.98837209302326,West Siberian taiga,"257",2.96198978327245,,Western_Siberian_taiga - NP,6,Asia
+"773",23889,,22.1162790697674,West Siberian taiga,"4891",0.119758982616182,,Western_Siberian_taiga - NP,6,Asia
+"774",23890,,40.5348837209302,West Siberian taiga,"5057",0.104504832252907,,Western_Siberian_taiga - NP,6,Asia
+"775",23891,,15.3604651162791,West Siberian taiga,"5221",2.12278481601787,,Western_Siberian_taiga - NP,6,Asia
+"776",23892,,35.8255813953488,West Siberian taiga,"5384",0.539171199549867,,Western_Siberian_taiga - NP,6,Asia
+"777",23893,,33.4302325581395,West Siberian taiga,"5545",0.175155109244491,,Western_Siberian_taiga - NP,6,Asia
+"778",23894,,33.5813953488372,West Siberian taiga,"5704",1.09815148233206,,Western_Siberian_taiga - NP,6,Asia
+"779",23895,,17.9418604651163,West Siberian taiga,"3336",30.9455349584412,,Western_Siberian_taiga - NP,6,Asia
+"780",23971,,2.27906976744186,West Siberian taiga,"2895",0.402773365258014,,Western_Siberian_taiga - NP,6,Asia
+"781",23972,,30.6395348837209,West Siberian taiga,"4974",0.561650160533481,,Western_Siberian_taiga - NP,6,Asia
+"782",23973,,27.2790697674419,West Siberian taiga,"5139",1.16156896511661,,Western_Siberian_taiga - NP,6,Asia
+"783",23974,,23.093023255814,West Siberian taiga,"5303",0.639757200920491,,Western_Siberian_taiga - NP,6,Asia
+"784",23975,,18.7558139534884,West Siberian taiga,"5464",0.191506614094363,,Western_Siberian_taiga - NP,6,Asia
+"785",23976,,36.9651162790698,West Siberian taiga,"5624",0.134843530199881,,Western_Siberian_taiga - NP,6,Asia
+"786",23977,,8.58139534883721,West Siberian taiga,"5729",7.91071091845561,,Western_Siberian_taiga - NP,6,Asia
+"787",23978,,13.7209302325581,West Siberian taiga,"8",60.7580442324762,,Western_Siberian_taiga - NP,6,Asia
+"788",24052,,0.204545454545455,West Siberian taiga,"111",0.484472813909112,,Western_Siberian_taiga - NP,6,Asia
+"789",24053,,24.5681818181818,West Siberian taiga,"4891",0.287748785529494,,Western_Siberian_taiga - NP,6,Asia
+"790",24054,,33.2386363636364,West Siberian taiga,"5057",4.28623259051127,,Western_Siberian_taiga - NP,6,Asia
+"791",24055,,19.1022727272727,West Siberian taiga,"5221",1.75121359360774,,Western_Siberian_taiga - NP,6,Asia
+"792",24056,,23.0340909090909,West Siberian taiga,"5384",1.13465814115893,,Western_Siberian_taiga - NP,6,Asia
+"793",24057,,22.7727272727273,West Siberian taiga,"5545",0.0200583639694589,,Western_Siberian_taiga - NP,6,Asia
+"794",24058,,21.5795454545455,West Siberian taiga,"5704",0.0254532443535072,,Western_Siberian_taiga - NP,6,Asia
+"795",24059,,5.21590909090909,West Siberian taiga,"2916",16.8974838909468,,Western_Siberian_taiga - NP,6,Asia
+"796",24135,,2.80232558139535,West Siberian taiga,"1886",1.06045557467152,,Western_Siberian_taiga - NP,6,Asia
+"797",24136,,34.0348837209302,West Siberian taiga,"4974",0.988963053083676,,Western_Siberian_taiga - NP,6,Asia
+"798",24137,,24.7558139534884,West Siberian taiga,"5139",1.48702120910012,,Western_Siberian_taiga - NP,6,Asia
+"799",24138,,19.0116279069767,West Siberian taiga,"5303",0.528278912243907,,Western_Siberian_taiga - NP,6,Asia
+"800",24139,,24.5232558139535,West Siberian taiga,"5464",0.920891775556704,,Western_Siberian_taiga - NP,6,Asia
+"801",24140,,31.2558139534884,West Siberian taiga,"5624",0.97335721792502,,Western_Siberian_taiga - NP,6,Asia
+"802",24141,,22.6162790697674,West Siberian taiga,"5782",0.903609599030895,,Western_Siberian_taiga - NP,6,Asia
+"803",24142,,5.5,West Siberian taiga,"1124",38.8464562733233,,Western_Siberian_taiga - NP,6,Asia
+"804",24217,,8.11627906976744,West Siberian taiga,"3984",2.42625900103248,,Western_Siberian_taiga - NP,6,Asia
+"805",24218,,30.3023255813953,West Siberian taiga,"5057",1.03997211392693,,Western_Siberian_taiga - NP,6,Asia
+"806",24219,,16.8720930232558,West Siberian taiga,"5221",7.35697451005916,,Western_Siberian_taiga - NP,6,Asia
+"807",24220,,17.1395348837209,West Siberian taiga,"5384",1.71122559814601,,Western_Siberian_taiga - NP,6,Asia
+"808",24221,,36.4651162790698,West Siberian taiga,"5545",0.32654055786957,,Western_Siberian_taiga - NP,6,Asia
+"809",24222,,23.6860465116279,West Siberian taiga,"5704",2.68071825670472,,Western_Siberian_taiga - NP,6,Asia
+"810",24223,,26.4767441860465,West Siberian taiga,"5477",28.8370184361636,,Western_Siberian_taiga - NP,6,Asia
+"811",24299,,1.63636363636364,West Siberian taiga,"777",0.866622781256956,,Western_Siberian_taiga - NP,6,Asia
+"812",24300,,20.8522727272727,West Siberian taiga,"4974",4.91855437348157,,Western_Siberian_taiga - NP,6,Asia
+"813",24301,,17.1136363636364,West Siberian taiga,"5139",3.64771105059136,,Western_Siberian_taiga - NP,6,Asia
+"814",24302,,12.1931818181818,West Siberian taiga,"5303",7.83175029203154,,Western_Siberian_taiga - NP,6,Asia
+"815",24303,,25.2613636363636,West Siberian taiga,"5464",1.56623144028302,,Western_Siberian_taiga - NP,6,Asia
+"816",24304,,23.3636363636364,West Siberian taiga,"5624",10.6646620510132,,Western_Siberian_taiga - NP,6,Asia
+"817",24305,,39.2613636363636,West Siberian taiga,"5782",4.80131325794317,,Western_Siberian_taiga - NP,6,Asia
+"818",24306,,11.5568181818182,West Siberian taiga,"1892",55.4834775647648,,Western_Siberian_taiga - NP,6,Asia
+"819",24381,,13.3604651162791,West Siberian taiga,"3018",1.75575941970642,,Western_Siberian_taiga - NP,6,Asia
+"820",24382,,25.7906976744186,West Siberian taiga,"5057",1.39476490728121,,Western_Siberian_taiga - NP,6,Asia
+"821",24383,,24.9767441860465,West Siberian taiga,"5221",4.87120318717377,,Western_Siberian_taiga - NP,6,Asia
+"822",24384,,11.6976744186047,West Siberian taiga,"5384",12.4960005789168,,Western_Siberian_taiga - NP,6,Asia
+"823",24385,,16.5232558139535,West Siberian taiga,"5545",1.68477133420908,,Western_Siberian_taiga - NP,6,Asia
+"824",24386,,27.6976744186047,West Siberian taiga,"5704",3.12379571257582,,Western_Siberian_taiga - NP,6,Asia
+"825",24387,,39.1162790697674,West Siberian taiga,"4943",7.49729667697199,,Western_Siberian_taiga - NP,6,Asia
+"826",24463,,7.67441860465116,West Siberian taiga,"2314",0.286612262226966,,Western_Siberian_taiga - NP,6,Asia
+"827",24464,,28.5581395348837,West Siberian taiga,"4974",2.59342300203707,,Western_Siberian_taiga - NP,6,Asia
+"828",24465,,21.8604651162791,West Siberian taiga,"5139",0.883825457638006,,Western_Siberian_taiga - NP,6,Asia
+"829",24466,,26.6627906976744,West Siberian taiga,"5303",6.53048483230649,,Western_Siberian_taiga - NP,6,Asia
+"830",24467,,16.2674418604651,West Siberian taiga,"5464",6.52532025409769,,Western_Siberian_taiga - NP,6,Asia
+"831",24468,,23.5,West Siberian taiga,"5624",5.64401302224875,,Western_Siberian_taiga - NP,6,Asia
+"832",24469,,31.1511627906977,West Siberian taiga,"5782",2.54652669315107,,Western_Siberian_taiga - NP,6,Asia
+"833",24470,,30.1279069767442,West Siberian taiga,"1880",26.6778599758436,,Western_Siberian_taiga - NP,6,Asia
+"834",24544,,6.97727272727273,West Siberian taiga,"1793",0.289654772429662,,Western_Siberian_taiga - NP,6,Asia
+"835",24545,,12.5568181818182,West Siberian taiga,"4891",6.50956468387579,,Western_Siberian_taiga - NP,6,Asia
+"836",24546,,19.6022727272727,West Siberian taiga,"5057",5.66404034564318,,Western_Siberian_taiga - NP,6,Asia
+"837",24547,,27.7840909090909,West Siberian taiga,"5221",1.23136470813021,,Western_Siberian_taiga - NP,6,Asia
+"838",24548,,25.6704545454545,West Siberian taiga,"5384",7.85300022650613,,Western_Siberian_taiga - NP,6,Asia
+"839",24549,,19.7045454545455,West Siberian taiga,"5545",1.79687184605517,,Western_Siberian_taiga - NP,6,Asia
+"840",24550,,26.1704545454545,West Siberian taiga,"5704",0.921811229941062,,Western_Siberian_taiga - NP,6,Asia
+"841",24551,,42.2272727272727,West Siberian taiga,"5265",0.859341484154274,,Western_Siberian_taiga - NP,6,Asia
+"842",24626,,19.4186046511628,West Siberian taiga,"121",0,,Western_Siberian_taiga - NP,6,Asia
+"843",24627,,17.1627906976744,West Siberian taiga,"4649",1.24159222753845,,Western_Siberian_taiga - NP,6,Asia
+"844",24628,,19.9767441860465,West Siberian taiga,"4974",6.45009807926905,,Western_Siberian_taiga - NP,6,Asia
+"845",24629,,27.8372093023256,West Siberian taiga,"5139",7.14737965082585,,Western_Siberian_taiga - NP,6,Asia
+"846",24630,,18.0116279069767,West Siberian taiga,"5303",3.73939094681596,,Western_Siberian_taiga - NP,6,Asia
+"847",24631,,24.3488372093023,West Siberian taiga,"5464",10.2168065383222,,Western_Siberian_taiga - NP,6,Asia
+"848",24632,,19.3604651162791,West Siberian taiga,"5624",0.768462274481733,,Western_Siberian_taiga - NP,6,Asia
+"849",24633,,13.7325581395349,West Siberian taiga,"5782",3.18597036956068,,Western_Siberian_taiga - NP,6,Asia
+"850",24634,,45.0581395348837,West Siberian taiga,"2511",0.214891464025293,,Western_Siberian_taiga - NP,6,Asia
+"851",24708,,11.4186046511628,West Siberian taiga,"887",3.74495037129736,,Western_Siberian_taiga - NP,6,Asia
+"852",24709,,4.56976744186047,West Siberian taiga,"4891",11.6380633518143,,Western_Siberian_taiga - NP,6,Asia
+"853",24710,,19.4651162790698,West Siberian taiga,"5057",8.37675095908167,,Western_Siberian_taiga - NP,6,Asia
+"854",24711,,16.4186046511628,West Siberian taiga,"5221",8.44251877958391,,Western_Siberian_taiga - NP,6,Asia
+"855",24712,,24.2906976744186,West Siberian taiga,"5384",1.76327430721196,,Western_Siberian_taiga - NP,6,Asia
+"856",24713,,16.546511627907,West Siberian taiga,"5545",9.03894432116384,,Western_Siberian_taiga - NP,6,Asia
+"857",24714,,24.8604651162791,West Siberian taiga,"5704",2.84443506724022,,Western_Siberian_taiga - NP,6,Asia
+"858",24715,,27.5232558139535,West Siberian taiga,"5451",2.71633371095154,,Western_Siberian_taiga - NP,6,Asia
+"859",24791,,10.4204545454545,West Siberian taiga,"3857",7.78766536411693,,Western_Siberian_taiga - NP,6,Asia
+"860",24792,,20.8977272727273,West Siberian taiga,"4974",7.64620076083812,,Western_Siberian_taiga - NP,6,Asia
+"861",24793,,25.4886363636364,West Siberian taiga,"5139",6.57755902735401,,Western_Siberian_taiga - NP,6,Asia
+"862",24794,,21.8409090909091,West Siberian taiga,"5303",2.8036519516024,,Western_Siberian_taiga - NP,6,Asia
+"863",24795,,25.7045454545455,West Siberian taiga,"5464",2.27977073375627,,Western_Siberian_taiga - NP,6,Asia
+"864",24796,,21.4090909090909,West Siberian taiga,"5624",7.82378971141302,,Western_Siberian_taiga - NP,6,Asia
+"865",24797,,22.2840909090909,West Siberian taiga,"5782",4.50095619242363,,Western_Siberian_taiga - NP,6,Asia
+"866",24798,,35.3522727272727,West Siberian taiga,"941",5.05697569651088,,Western_Siberian_taiga - NP,6,Asia
+"867",24872,,8.94186046511628,West Siberian taiga,"1832",2.15391992429645,,Western_Siberian_taiga - NP,6,Asia
+"868",24873,,6.69767441860465,West Siberian taiga,"4891",5.24646264903773,,Western_Siberian_taiga - NP,6,Asia
+"869",24874,,32.093023255814,West Siberian taiga,"5057",3.74630762499224,,Western_Siberian_taiga - NP,6,Asia
+"870",24875,,11.2325581395349,West Siberian taiga,"5221",11.7707798031821,,Western_Siberian_taiga - NP,6,Asia
+"871",24876,,19.7093023255814,West Siberian taiga,"5384",6.38241086593051,,Western_Siberian_taiga - NP,6,Asia
+"872",24877,,30.0813953488372,West Siberian taiga,"5545",5.78666201982729,,Western_Siberian_taiga - NP,6,Asia
+"873",24878,,12.2209302325581,West Siberian taiga,"5704",7.67240169888063,,Western_Siberian_taiga - NP,6,Asia
+"874",24879,,33.8255813953488,West Siberian taiga,"1972",0.0461845081173781,,Western_Siberian_taiga - NP,6,Asia
+"875",24954,,1.98837209302326,West Siberian taiga,"554",12.9465672590799,,Western_Siberian_taiga - NP,6,Asia
+"876",24955,,9.08139534883721,West Siberian taiga,"4808",4.30947531404386,,Western_Siberian_taiga - NP,6,Asia
+"877",24956,,15.7441860465116,West Siberian taiga,"4974",10.9092110085221,,Western_Siberian_taiga - NP,6,Asia
+"878",24957,,20.2906976744186,West Siberian taiga,"5139",3.24093311244658,,Western_Siberian_taiga - NP,6,Asia
+"879",24958,,15.6279069767442,West Siberian taiga,"5303",1.34263384803271,,Western_Siberian_taiga - NP,6,Asia
+"880",24959,,34.593023255814,West Siberian taiga,"5464",4.35180358008008,,Western_Siberian_taiga - NP,6,Asia
+"881",24960,,25.5348837209302,West Siberian taiga,"5624",3.4553052820506,,Western_Siberian_taiga - NP,6,Asia
+"882",24961,,13.1511627906977,West Siberian taiga,"3125",15.4988862147535,,Western_Siberian_taiga - NP,6,Asia
+"883",25035,,1.02325581395349,West Siberian taiga,"45",7.90203225671614,,Western_Siberian_taiga - NP,6,Asia
+"884",25036,,12.8488372093023,West Siberian taiga,"4505",1.32681387071166,,Western_Siberian_taiga - NP,6,Asia
+"885",25037,,4.67441860465116,West Siberian taiga,"4891",5.1121894213929,,Western_Siberian_taiga - NP,6,Asia
+"886",25038,,19.3023255813953,West Siberian taiga,"5057",6.99878492788897,,Western_Siberian_taiga - NP,6,Asia
+"887",25039,,18.0116279069767,West Siberian taiga,"5221",1.11316006724994,,Western_Siberian_taiga - NP,6,Asia
+"888",25040,,24.0813953488372,West Siberian taiga,"5384",2.48343905770842,,Western_Siberian_taiga - NP,6,Asia
+"889",25041,,27.9767441860465,West Siberian taiga,"5545",5.04972832593895,,Western_Siberian_taiga - NP,6,Asia
+"890",25042,,15.6627906976744,West Siberian taiga,"5360",6.31238291281271,,Western_Siberian_taiga - NP,6,Asia
+"891",25118,,9.10227272727273,West Siberian taiga,"3827",2.87847740318911,,Western_Siberian_taiga - NP,6,Asia
+"892",25119,,12.3977272727273,West Siberian taiga,"4808",7.4063409499737,,Western_Siberian_taiga - NP,6,Asia
+"893",25120,,3.94318181818182,West Siberian taiga,"4974",8.57364047252581,,Western_Siberian_taiga - NP,6,Asia
+"894",25121,,7.92045454545455,West Siberian taiga,"5139",2.49460878495045,,Western_Siberian_taiga - NP,6,Asia
+"895",25122,,20.8863636363636,West Siberian taiga,"5303",3.03704457984305,,Western_Siberian_taiga - NP,6,Asia
+"896",25123,,24.6590909090909,West Siberian taiga,"5464",5.51218919533244,,Western_Siberian_taiga - NP,6,Asia
+"897",25124,,19.2386363636364,West Siberian taiga,"5624",8.14230899677906,,Western_Siberian_taiga - NP,6,Asia
+"898",25125,,10.6818181818182,West Siberian taiga,"3688",9.56177614362641,,Western_Siberian_taiga - NP,6,Asia
+"899",25199,,4.17441860465116,West Siberian taiga,"2926",0.763768599228256,,Western_Siberian_taiga - NP,6,Asia
+"900",25200,,13.8372093023256,West Siberian taiga,"4724",5.76930302911058,,Western_Siberian_taiga - NP,6,Asia
+"901",25201,,10.4302325581395,West Siberian taiga,"4891",2.19966212151325,,Western_Siberian_taiga - NP,6,Asia
+"902",25202,,5.2093023255814,West Siberian taiga,"5057",6.15697659227593,,Western_Siberian_taiga - NP,6,Asia
+"903",25203,,8.32558139534884,West Siberian taiga,"5221",4.4919028873838,,Western_Siberian_taiga - NP,6,Asia
+"904",25204,,20.8488372093023,West Siberian taiga,"5384",2.63639486057119,,Western_Siberian_taiga - NP,6,Asia
+"905",25205,,24.6046511627907,West Siberian taiga,"5545",4.13527687056576,,Western_Siberian_taiga - NP,6,Asia
+"906",25206,,6.63953488372093,West Siberian taiga,"5704",2.30006589630356,,Western_Siberian_taiga - NP,6,Asia
+"907",25207,,2.43023255813953,West Siberian taiga,"3968",21.7826734691131,,Western_Siberian_taiga - NP,6,Asia
+"908",25281,,2.1046511627907,West Siberian taiga,"1942",9.25912816803302,,Western_Siberian_taiga - NP,6,Asia
+"909",25282,,6.68604651162791,West Siberian taiga,"4032",3.52064317534842,,Western_Siberian_taiga - NP,6,Asia
+"910",25283,,14.2325581395349,West Siberian taiga,"2993",2.65275053101044,,Western_Siberian_taiga - NP,6,Asia
+"911",25284,,5.56976744186047,West Siberian taiga,"4974",1.32411332291318,,Western_Siberian_taiga - NP,6,Asia
+"912",25285,,2.8953488372093,West Siberian taiga,"5139",2.59869831565736,,Western_Siberian_taiga - NP,6,Asia
+"913",25286,,5.09302325581395,West Siberian taiga,"5303",5.8379158569305,,Western_Siberian_taiga - NP,6,Asia
+"914",25287,,26.6627906976744,West Siberian taiga,"5464",1.42222023947706,,Western_Siberian_taiga - NP,6,Asia
+"915",25288,,16.0581395348837,West Siberian taiga,"5624",4.79570196300496,,Western_Siberian_taiga - NP,6,Asia
+"916",25289,,4.05813953488372,West Siberian taiga,"5782",4.77186551390847,,Western_Siberian_taiga - NP,6,Asia
+"917",25290,,2.18604651162791,West Siberian taiga,"1412",26.2671531766223,,Western_Siberian_taiga - NP,6,Asia
+"918",25362,,2.73863636363636,West Siberian taiga,"389",0.68790975478838,,Western_Siberian_taiga - NP,6,Asia
+"919",25363,,7.11363636363636,West Siberian taiga,"457",3.84416180971883,,Western_Siberian_taiga - NP,6,Asia
+"920",25364,,8.69318181818182,West Siberian taiga,"3",2.1900618316515,,Western_Siberian_taiga - NP,6,Asia
+"921",25365,,10.8068181818182,West Siberian taiga,"2129",2.39057234285888,,Western_Siberian_taiga - NP,6,Asia
+"922",25366,,2.13636363636364,West Siberian taiga,"5057",3.60993992168111,,Western_Siberian_taiga - NP,6,Asia
+"923",25367,,3.5,West Siberian taiga,"5221",12.1110972673738,,Western_Siberian_taiga - NP,6,Asia
+"924",25368,,9.59090909090909,West Siberian taiga,"5384",15.370655649287,,Western_Siberian_taiga - NP,6,Asia
+"925",25369,,13.75,West Siberian taiga,"5545",1.82006309099092,,Western_Siberian_taiga - NP,6,Asia
+"926",25370,,8.70454545454546,West Siberian taiga,"5704",0.693044978013718,,Western_Siberian_taiga - NP,6,Asia
+"927",25371,,3.26136363636364,West Siberian taiga,"3469",2.0585502747805,,Western_Siberian_taiga - NP,6,Asia
+"928",25448,,6.11627906976744,West Siberian taiga,"1338",0.710302707896311,,Western_Siberian_taiga - NP,6,Asia
+"929",25449,,1.65116279069767,West Siberian taiga,"4966",8.7523146753224,,Western_Siberian_taiga - NP,6,Asia
+"930",25450,,13.453488372093,West Siberian taiga,"5303",17.9795964159501,,Western_Siberian_taiga - NP,6,Asia
+"931",25451,,11.8488372093023,West Siberian taiga,"5464",7.03184970692611,,Western_Siberian_taiga - NP,6,Asia
+"932",25452,,6.83720930232558,West Siberian taiga,"5624",4.06268757100624,,Western_Siberian_taiga - NP,6,Asia
+"933",25453,,4.7906976744186,West Siberian taiga,"5782",3.38847487156968,,Western_Siberian_taiga - NP,6,Asia
+"934",25454,,2.19767441860465,West Siberian taiga,"367",20.6539097750976,,Western_Siberian_taiga - NP,6,Asia
+"935",25530,,6.26744186046512,West Siberian taiga,"370",0.0594129189965093,,Western_Siberian_taiga - NP,6,Asia
+"936",25531,,7.8953488372093,West Siberian taiga,"2051",0.791330156441496,,Western_Siberian_taiga - NP,6,Asia
+"937",25532,,4.65116279069767,West Siberian taiga,"4919",6.22744443350032,,Western_Siberian_taiga - NP,6,Asia
+"938",25533,,6.7906976744186,West Siberian taiga,"5545",11.7138253987906,,Western_Siberian_taiga - NP,6,Asia
+"939",25534,,9.22093023255814,West Siberian taiga,"5704",0.705912146253612,,Western_Siberian_taiga - NP,6,Asia
+"940",25535,,6.40697674418605,West Siberian taiga,"5008",5.6496959346694,,Western_Siberian_taiga - NP,6,Asia
+"941",25536,,1.83720930232558,West Siberian taiga,"30",51.4878901208116,,Western_Siberian_taiga - NP,6,Asia
+"942",25614,,2.67045454545455,West Siberian taiga,"96",0.858849088966005,,Western_Siberian_taiga - NP,6,Asia
+"943",25615,,2.09090909090909,West Siberian taiga,"3930",7.53874448545181,,Western_Siberian_taiga - NP,6,Asia
+"944",25616,,6.05681818181818,West Siberian taiga,"5624",0.0463412349461699,,Western_Siberian_taiga - NP,6,Asia
+"945",25617,,8.60227272727273,West Siberian taiga,"5782",8.58833156198927,,Western_Siberian_taiga - NP,6,Asia
+"946",25618,,2.90909090909091,West Siberian taiga,"4171",36.2737915721431,,Western_Siberian_taiga - NP,6,Asia
+"947",25697,,2.16279069767442,West Siberian taiga,"2856",2.38283525976512,,Western_Siberian_taiga - NP,6,Asia
+"948",25698,,2.76744186046512,West Siberian taiga,"5704",8.05685714769091,,Western_Siberian_taiga - NP,6,Asia
+"949",25699,,3.53488372093023,West Siberian taiga,"5861",3.00527696951998,,Western_Siberian_taiga - NP,6,Asia
+"950",25700,,1.19767441860465,West Siberian taiga,"1919",11.825749942076,,Western_Siberian_taiga - NP,6,Asia
+"951",25780,,2.7906976744186,West Siberian taiga,"1627",8.1196509093648,,Western_Siberian_taiga - NP,6,Asia
+"952",25781,,2.24418604651163,West Siberian taiga,"5782",15.7878025611033,,Western_Siberian_taiga - NP,6,Asia
+"953",25782,,1.47674418604651,West Siberian taiga,"3488",11.0975207143126,,Western_Siberian_taiga - NP,6,Asia
+"954",25862,,2.59090909090909,West Siberian taiga,"1216",12.660847771216,,Western_Siberian_taiga - NP,6,Asia
+"955",25863,,1.77272727272727,West Siberian taiga,"2110",29.7027703312115,,Western_Siberian_taiga - NP,6,Asia

@@ -1,0 +1,1370 @@
+fid,id,fire_pct,_mean,ECO_NAME,area,fired_eurasia_4326_pc,fired_russia_china_japan_4326_pc,layer,BIOME,CONTINENT
+"1",17511,,0.779069767441861,Alps conifer and mixed forests,"1055",0.241509344515098,,Alps_conifer_forest,5,Europe
+"2",17592,,1.98837209302326,Alps conifer and mixed forests,"118",0.0936676159495874,,Alps_conifer_forest,5,Europe
+"3",17593,,1.98837209302326,Alps conifer and mixed forests,"3109",0.1608655929038,,Alps_conifer_forest,4,Europe
+"4",17593,,1.98837209302326,Alps conifer and mixed forests,"3109",0.1608655929038,,Alps_conifer_forest,5,Europe
+"5",17594,,0.837209302325581,Alps conifer and mixed forests,"2732",0.124259230173066,,Alps_conifer_forest,5,Europe
+"6",17673,,2.06976744186047,Alps conifer and mixed forests,"208",0.242356873031935,,Alps_conifer_forest,5,Europe
+"7",17674,,1.90697674418605,Alps conifer and mixed forests,"6559",0.0377798639678962,,Alps_conifer_forest,5,Europe
+"8",17675,,1.06976744186047,Alps conifer and mixed forests,"7496",0.470670515244297,,Alps_conifer_forest,4,Europe
+"9",17675,,1.06976744186047,Alps conifer and mixed forests,"7496",0.470670515244297,,Alps_conifer_forest,5,Europe
+"10",17676,,0.825581395348837,Alps conifer and mixed forests,"2236",0.54355636474628,,Alps_conifer_forest,5,Europe
+"11",17756,,2.44318181818182,Alps conifer and mixed forests,"5935",0.0962557598246956,,Alps_conifer_forest,5,Europe
+"12",17757,,1.27272727272727,Alps conifer and mixed forests,"6007",0.661772714532677,,Alps_conifer_forest,5,Europe
+"13",17758,,1.30681818181818,Alps conifer and mixed forests,"3290",0.197090506502244,,Alps_conifer_forest,5,Europe
+"14",17837,,1.97674418604651,Alps conifer and mixed forests,"4170",0.0742632581529135,,Alps_conifer_forest,4,Europe
+"15",17837,,1.97674418604651,Alps conifer and mixed forests,"4170",0.0742632581529135,,Alps_conifer_forest,5,Europe
+"16",17838,,1.62790697674419,Alps conifer and mixed forests,"6850",0.824100556299791,,Alps_conifer_forest,4,Europe
+"17",17838,,1.62790697674419,Alps conifer and mixed forests,"6850",0.824100556299791,,Alps_conifer_forest,5,Europe
+"18",17840,,0.430232558139535,Alps conifer and mixed forests,"189",0.608900768355197,,Alps_conifer_forest,5,Europe
+"19",17919,,1.83720930232558,Alps conifer and mixed forests,"1662",0.00598555810818762,,Alps_conifer_forest,5,Europe
+"20",17920,,2.19767441860465,Alps conifer and mixed forests,"7390",0.0964919680276006,,Alps_conifer_forest,5,Europe
+"21",17921,,1.04651162790698,Alps conifer and mixed forests,"2605",0.827630985091149,,Alps_conifer_forest,5,Europe
+"22",18000,,3.29545454545455,Alps conifer and mixed forests,"92",0.0030215964276635,,Alps_conifer_forest,4,Europe
+"23",18000,,3.29545454545455,Alps conifer and mixed forests,"92",0.0030215964276635,,Alps_conifer_forest,5,Europe
+"24",18001,,2.21590909090909,Alps conifer and mixed forests,"7260",0.00296496265762753,,Alps_conifer_forest,5,Europe
+"25",18002,,1.71590909090909,Alps conifer and mixed forests,"7208",0.427679035289594,,Alps_conifer_forest,5,Europe
+"26",18003,,1.09090909090909,Alps conifer and mixed forests,"92",1.45638408213204,,Alps_conifer_forest,4,Europe
+"27",18003,,1.09090909090909,Alps conifer and mixed forests,"92",1.45638408213204,,Alps_conifer_forest,5,Europe
+"28",18083,,4.61627906976744,Alps conifer and mixed forests,"4579",0.0358526068685896,,Alps_conifer_forest,5,Europe
+"29",18084,,1.68604651162791,Alps conifer and mixed forests,"7390",0.0234744450532591,,Alps_conifer_forest,5,Europe
+"30",18085,,1.3953488372093,Alps conifer and mixed forests,"3906",0.637557387695539,,Alps_conifer_forest,5,Europe
+"31",18164,,3.27906976744186,Alps conifer and mixed forests,"1540",0.0301675809433399,,Alps_conifer_forest,4,Europe
+"32",18164,,3.27906976744186,Alps conifer and mixed forests,"1540",0.0301675809433399,,Alps_conifer_forest,5,Europe
+"33",18165,,2.17441860465116,Alps conifer and mixed forests,"7322",0.0118475250648235,,Alps_conifer_forest,5,Europe
+"34",18166,,1.54651162790698,Alps conifer and mixed forests,"5376",0.404721796075064,,Alps_conifer_forest,5,Europe
+"35",18247,,2.70454545454545,Alps conifer and mixed forests,"5902",0.0926138326530411,,Alps_conifer_forest,5,Europe
+"36",18248,,2.23863636363636,Alps conifer and mixed forests,"5618",0.270594897710661,,Alps_conifer_forest,5,Europe
+"37",18328,,1.9047619047619,Alps conifer and mixed forests,"2185",0.0303552247780661,,Alps_conifer_forest,5,Europe
+"38",18329,,3.0952380952381,Alps conifer and mixed forests,"7322",0.0769967794210296,,Alps_conifer_forest,5,Europe
+"39",18330,,1.70238095238095,Alps conifer and mixed forests,"392",0.603393728195245,,Alps_conifer_forest,5,Europe
+"40",18411,,2.65909090909091,Alps conifer and mixed forests,"6521",0.0177339839101329,,Alps_conifer_forest,5,Europe
+"41",18412,,1.95454545454545,Alps conifer and mixed forests,"5764",0.127125647830211,,Alps_conifer_forest,5,Europe
+"42",18492,,1.97727272727273,Alps conifer and mixed forests,"3795",0.00603034045608277,,Alps_conifer_forest,5,Europe
+"43",18493,,2.125,Alps conifer and mixed forests,"3610",0.0355292242822574,,Alps_conifer_forest,5,Europe
+"44",18494,,1.21590909090909,Alps conifer and mixed forests,"1007",0,,Alps_conifer_forest,5,Europe
+"45",18574,,0.630952380952381,Alps conifer and mixed forests,"216",1.41962075449263,,Alps_conifer_forest,5,Europe
+"46",18575,,1.85714285714286,Alps conifer and mixed forests,"1159",0.354260138282308,,Alps_conifer_forest,5,Europe
+"47",17922,,2.16279069767442,Appenine deciduous montane forests,"2039",0.267573563841678,,Appenine_deciduous_montane_forest,4,Europe
+"48",18003,,1.09090909090909,Appenine deciduous montane forests,"0",1.45638408213204,,Appenine_deciduous_montane_forest,4,Europe
+"49",18004,,1.53409090909091,Appenine deciduous montane forests,"1248",0.29327932584753,,Appenine_deciduous_montane_forest,4,Europe
+"50",18086,,1.06976744186047,Appenine deciduous montane forests,"124",0.303495305806574,,Appenine_deciduous_montane_forest,4,Europe
+"51",18086,,1.06976744186047,Appenine deciduous montane forests,"581",0.303495305806574,,Appenine_deciduous_montane_forest,4,Europe
+"52",18168,,1.08139534883721,Appenine deciduous montane forests,"1022",0.164904012075893,,Appenine_deciduous_montane_forest,4,Europe
+"53",18168,,1.08139534883721,Appenine deciduous montane forests,"4",0.164904012075893,,Appenine_deciduous_montane_forest,4,Europe
+"54",18251,,0.818181818181818,Appenine deciduous montane forests,"477",0.088746589120692,,Appenine_deciduous_montane_forest,4,Europe
+"55",18251,,0.818181818181818,Appenine deciduous montane forests,"306",0.088746589120692,,Appenine_deciduous_montane_forest,4,Europe
+"56",18252,,1.53409090909091,Appenine deciduous montane forests,"1742",0.421574777604048,,Appenine_deciduous_montane_forest,4,Europe
+"57",18252,,1.53409090909091,Appenine deciduous montane forests,"243",0.421574777604048,,Appenine_deciduous_montane_forest,4,Europe
+"58",18253,,0.431818181818182,Appenine deciduous montane forests,"75",0.284830861410882,,Appenine_deciduous_montane_forest,4,Europe
+"59",18333,,0.535714285714286,Appenine deciduous montane forests,"913",0.397974323529445,,Appenine_deciduous_montane_forest,4,Europe
+"60",18334,,1.78571428571429,Appenine deciduous montane forests,"5266",2.26199077286917,,Appenine_deciduous_montane_forest,4,Europe
+"61",18416,,0.0568181818181818,Appenine deciduous montane forests,"214",0.384077355659605,,Appenine_deciduous_montane_forest,4,Europe
+"62",18417,,1.26136363636364,Appenine deciduous montane forests,"1894",2.49670305352976,,Appenine_deciduous_montane_forest,4,Europe
+"63",16606,,1.08139534883721,Atlantic mixed forests,"2871",0.024280287313634,,Atlantic_mixed_forest,4,Europe
+"64",16607,,0.0813953488372093,Atlantic mixed forests,"368",0,,Atlantic_mixed_forest,4,Europe
+"65",16687,,0.522727272727273,Atlantic mixed forests,"1450",0,,Atlantic_mixed_forest,4,Europe
+"66",16688,,1.57954545454545,Atlantic mixed forests,"5458",0,,Atlantic_mixed_forest,4,Europe
+"67",16770,,1.11627906976744,Atlantic mixed forests,"4941",0.012179050294923,,Atlantic_mixed_forest,4,Europe
+"68",16771,,1.13953488372093,Atlantic mixed forests,"3484",0.00598602159350291,,Atlantic_mixed_forest,4,Europe
+"69",16850,,0.0581395348837209,Atlantic mixed forests,"409",0,,Atlantic_mixed_forest,4,Europe
+"70",16851,,0.581395348837209,Atlantic mixed forests,"1889",0,,Atlantic_mixed_forest,4,Europe
+"71",16852,,1.03488372093023,Atlantic mixed forests,"7164",0.0481030945121292,,Atlantic_mixed_forest,4,Europe
+"72",16853,,1.63953488372093,Atlantic mixed forests,"5082",0.00296494532009934,,Atlantic_mixed_forest,4,Europe
+"73",16854,,0.0465116279069767,Atlantic mixed forests,"82",0,,Atlantic_mixed_forest,4,Europe
+"74",16856,,0.0581395348837209,Atlantic mixed forests,"40",0.0112074901329469,,Atlantic_mixed_forest,4,Europe
+"75",16933,,0.75,Atlantic mixed forests,"3143",0.0124400714101047,,Atlantic_mixed_forest,4,Europe
+"76",16934,,1.14772727272727,Atlantic mixed forests,"7070",0.00610289834622312,,Atlantic_mixed_forest,4,Europe
+"77",16935,,0.954545454545455,Atlantic mixed forests,"7254",0.172740554123545,,Atlantic_mixed_forest,4,Europe
+"78",16936,,1.46590909090909,Atlantic mixed forests,"6497",0.117151591475364,,Atlantic_mixed_forest,4,Europe
+"79",16937,,1.05681818181818,Atlantic mixed forests,"4291",0.66570451587202,,Atlantic_mixed_forest,4,Europe
+"80",16938,,1.32954545454545,Atlantic mixed forests,"5779",2.57960930505651,,Atlantic_mixed_forest,4,Europe
+"81",16939,,0.568181818181818,Atlantic mixed forests,"4648",6.37198512509675,,Atlantic_mixed_forest,4,Europe
+"82",17014,,0.0232558139534884,Atlantic mixed forests,"123",0,,Atlantic_mixed_forest,4,Europe
+"83",17015,,2.15116279069767,Atlantic mixed forests,"6114",2.45567426522445,,Atlantic_mixed_forest,4,Europe
+"84",17016,,4.81395348837209,Atlantic mixed forests,"7186",0.135474461007729,,Atlantic_mixed_forest,4,Europe
+"85",17017,,1.27906976744186,Atlantic mixed forests,"7322",0.265365275907616,,Atlantic_mixed_forest,4,Europe
+"86",17018,,0.802325581395349,Atlantic mixed forests,"7319",0.222996105457397,,Atlantic_mixed_forest,4,Europe
+"87",17019,,1.75581395348837,Atlantic mixed forests,"7492",0.00409899697818169,,Atlantic_mixed_forest,4,Europe
+"88",17020,,0.709302325581395,Atlantic mixed forests,"7718",1.5887418666391,,Atlantic_mixed_forest,4,Europe
+"89",17021,,1.47674418604651,Atlantic mixed forests,"1880",5.00004599122294,,Atlantic_mixed_forest,4,Europe
+"90",17097,,1.13953488372093,Atlantic mixed forests,"6128",1.37254782897104,,Atlantic_mixed_forest,4,Europe
+"91",17098,,1.58139534883721,Atlantic mixed forests,"7117",0.514214796149431,,Atlantic_mixed_forest,4,Europe
+"92",17099,,1.55813953488372,Atlantic mixed forests,"7254",0.365054369632072,,Atlantic_mixed_forest,4,Europe
+"93",17100,,0.720930232558139,Atlantic mixed forests,"5591",0.101795874498098,,Atlantic_mixed_forest,4,Europe
+"94",17101,,1.1046511627907,Atlantic mixed forests,"3743",0.0402393940329347,,Atlantic_mixed_forest,4,Europe
+"95",17102,,0.186046511627907,Atlantic mixed forests,"6937",0,,Atlantic_mixed_forest,4,Europe
+"96",17103,,0.267441860465116,Atlantic mixed forests,"874",0.0721688128542104,,Atlantic_mixed_forest,4,Europe
+"97",17177,,0.886363636363636,Atlantic mixed forests,"1487",0,,Atlantic_mixed_forest,4,Europe
+"98",17178,,2.70454545454545,Atlantic mixed forests,"5372",0.184636471783704,,Atlantic_mixed_forest,4,Europe
+"99",17179,,1.44318181818182,Atlantic mixed forests,"7047",2.58680159656953,,Atlantic_mixed_forest,4,Europe
+"100",17180,,1.59090909090909,Atlantic mixed forests,"7186",12.6177342866018,,Atlantic_mixed_forest,4,Europe
+"101",17181,,0.920454545454545,Atlantic mixed forests,"4914",2.6911767332143,,Atlantic_mixed_forest,4,Europe
+"102",17182,,2.21590909090909,Atlantic mixed forests,"8",0.0203126390802719,,Atlantic_mixed_forest,4,Europe
+"103",17183,,0.806818181818182,Atlantic mixed forests,"3847",0,,Atlantic_mixed_forest,4,Europe
+"104",17184,,0.0795454545454545,Atlantic mixed forests,"4912",0,,Atlantic_mixed_forest,4,Europe
+"105",17259,,0.476744186046512,Atlantic mixed forests,"396",0,,Atlantic_mixed_forest,4,Europe
+"106",17260,,2.72093023255814,Atlantic mixed forests,"6835",0.0410847515728194,,Atlantic_mixed_forest,4,Europe
+"107",17261,,4.22093023255814,Atlantic mixed forests,"6977",1.14584928999934,,Atlantic_mixed_forest,4,Europe
+"108",17262,,1.77906976744186,Atlantic mixed forests,"7117",3.03900129360025,,Atlantic_mixed_forest,4,Europe
+"109",17263,,1.84883720930233,Atlantic mixed forests,"5206",0.630441137042159,,Atlantic_mixed_forest,4,Europe
+"110",17266,,1.06976744186047,Atlantic mixed forests,"630",0.0128790401107017,,Atlantic_mixed_forest,4,Europe
+"111",17267,,1.02325581395349,Atlantic mixed forests,"632",0.282602513597735,,Atlantic_mixed_forest,4,Europe
+"112",17340,,0.0465116279069767,Atlantic mixed forests,"99",0,,Atlantic_mixed_forest,4,Europe
+"113",17341,,2.15116279069767,Atlantic mixed forests,"5991",0.21757196518687,,Atlantic_mixed_forest,4,Europe
+"114",17342,,2.09302325581395,Atlantic mixed forests,"6906",0.319323553797428,,Atlantic_mixed_forest,4,Europe
+"115",17343,,2.36046511627907,Atlantic mixed forests,"7047",1.58542825625007,,Atlantic_mixed_forest,4,Europe
+"116",17344,,1.18604651162791,Atlantic mixed forests,"3244",1.73200011502236,,Atlantic_mixed_forest,4,Europe
+"117",17422,,1.23863636363636,Atlantic mixed forests,"837",0,,Atlantic_mixed_forest,4,Europe
+"118",17423,,2.69318181818182,Atlantic mixed forests,"4460",0.319795261427373,,Atlantic_mixed_forest,4,Europe
+"119",17424,,1.88636363636364,Atlantic mixed forests,"6402",0,,Atlantic_mixed_forest,4,Europe
+"120",17425,,1.32954545454545,Atlantic mixed forests,"5517",0.612399587749587,,Atlantic_mixed_forest,4,Europe
+"121",17426,,1.52272727272727,Atlantic mixed forests,"5320",0.985702692617578,,Atlantic_mixed_forest,4,Europe
+"122",17427,,0.681818181818182,Atlantic mixed forests,"236",3.284626062104,,Atlantic_mixed_forest,4,Europe
+"123",17503,,3.63953488372093,Atlantic mixed forests,"1932",0,,Atlantic_mixed_forest,4,Europe
+"124",17504,,11.7209302325581,Atlantic mixed forests,"6303",0.00328464324345821,,Atlantic_mixed_forest,4,Europe
+"125",17505,,2.13953488372093,Atlantic mixed forests,"6763",0.070344174103898,,Atlantic_mixed_forest,4,Europe
+"126",17506,,1.3953488372093,Atlantic mixed forests,"1452",0.0156880867019839,,Atlantic_mixed_forest,4,Europe
+"127",17507,,1.36046511627907,Atlantic mixed forests,"1640",0.793851510601412,,Atlantic_mixed_forest,4,Europe
+"128",17585,,3.18604651162791,Atlantic mixed forests,"2112",0,,Atlantic_mixed_forest,4,Europe
+"129",17586,,10.2674418604651,Atlantic mixed forests,"5992",0.0463189410735887,,Atlantic_mixed_forest,4,Europe
+"130",17587,,2.88372093023256,Atlantic mixed forests,"6691",0.00974447774361543,,Atlantic_mixed_forest,4,Europe
+"131",17588,,1.90697674418605,Atlantic mixed forests,"2801",0.126380593496669,,Atlantic_mixed_forest,4,Europe
+"132",17666,,0.0465116279069767,Atlantic mixed forests,"13",0,,Atlantic_mixed_forest,4,Europe
+"133",17667,,16.3023255813953,Atlantic mixed forests,"6013",0,,Atlantic_mixed_forest,4,Europe
+"134",17668,,4.08139534883721,Atlantic mixed forests,"6618",0.0408216718676508,,Atlantic_mixed_forest,4,Europe
+"135",17669,,1.15116279069767,Atlantic mixed forests,"4114",0.247387162692206,,Atlantic_mixed_forest,4,Europe
+"136",17746,,0.0340909090909091,Atlantic mixed forests,"80",0,,Atlantic_mixed_forest,4,Europe
+"137",17747,,0.136363636363636,Atlantic mixed forests,"38",0.0472894067569966,,Atlantic_mixed_forest,4,Europe
+"138",17749,,12.5681818181818,Atlantic mixed forests,"4442",0.0084983885409051,,Atlantic_mixed_forest,4,Europe
+"139",17750,,8.76136363636364,Atlantic mixed forests,"6044",0.127063077006203,,Atlantic_mixed_forest,4,Europe
+"140",17751,,2.04545454545455,Atlantic mixed forests,"3358",0.122739519558809,,Atlantic_mixed_forest,4,Europe
+"141",17752,,1.11363636363636,Atlantic mixed forests,"3",0,,Atlantic_mixed_forest,4,Europe
+"142",17827,,1.1046511627907,Atlantic mixed forests,"195",0.00742528289166532,,Atlantic_mixed_forest,4,Europe
+"143",17828,,3.73255813953488,Atlantic mixed forests,"4914",0.153619265794071,,Atlantic_mixed_forest,4,Europe
+"144",17829,,2.75581395348837,Atlantic mixed forests,"1854",0,,Atlantic_mixed_forest,4,Europe
+"145",17830,,2.86046511627907,Atlantic mixed forests,"1660",0,,Atlantic_mixed_forest,4,Europe
+"146",17831,,12.3837209302326,Atlantic mixed forests,"6310",0.0707421395802865,,Atlantic_mixed_forest,4,Europe
+"147",17832,,4.54651162790698,Atlantic mixed forests,"3330",0.161120632354312,,Atlantic_mixed_forest,4,Europe
+"148",17910,,3.8953488372093,Atlantic mixed forests,"1506",0.400944178832906,,Atlantic_mixed_forest,4,Europe
+"149",17911,,3.13953488372093,Atlantic mixed forests,"1704",0.575390474371471,,Atlantic_mixed_forest,4,Europe
+"150",17912,,9.52325581395349,Atlantic mixed forests,"4349",0.103982152745867,,Atlantic_mixed_forest,4,Europe
+"151",17913,,12.1395348837209,Atlantic mixed forests,"6133",0.0903581043302788,,Atlantic_mixed_forest,4,Europe
+"152",17914,,5.61627906976744,Atlantic mixed forests,"4544",0.167622958439103,,Atlantic_mixed_forest,4,Europe
+"153",17915,,1.38372093023256,Atlantic mixed forests,"35",0,,Atlantic_mixed_forest,4,Europe
+"154",17994,,6.19318181818182,Atlantic mixed forests,"2879",0.00343997886071508,,Atlantic_mixed_forest,4,Europe
+"155",17995,,6.46590909090909,Atlantic mixed forests,"6470",0.0500732190543095,,Atlantic_mixed_forest,4,Europe
+"156",17996,,2.27272727272727,Atlantic mixed forests,"1216",0.0458839865528057,,Atlantic_mixed_forest,4,Europe
+"157",17997,,1,Atlantic mixed forests,"2",0,,Atlantic_mixed_forest,4,Europe
+"158",18077,,6.27906976744186,Atlantic mixed forests,"4229",0.0542614577201011,,Atlantic_mixed_forest,4,Europe
+"159",18078,,5.24418604651163,Atlantic mixed forests,"4541",0.231321830282933,,Atlantic_mixed_forest,4,Europe
+"160",18158,,5.09302325581395,Atlantic mixed forests,"251",0.225729148073479,,Atlantic_mixed_forest,4,Europe
+"161",18159,,5.34883720930233,Atlantic mixed forests,"5852",0.594439807378607,,Atlantic_mixed_forest,4,Europe
+"162",18160,,3.02325581395349,Atlantic mixed forests,"167",0.369282764756552,,Atlantic_mixed_forest,4,Europe
+"163",18241,,6.42045454545455,Atlantic mixed forests,"140",0.763754953387921,,Atlantic_mixed_forest,4,Europe
+"164",18242,,9.23863636363636,Atlantic mixed forests,"8",0.0529466610765629,,Atlantic_mixed_forest,4,Europe
+"165",17827,,1.1046511627907,Baltic mixed forests,"975",0.00742528289166532,,Baltic_mixed_forest,4,Europe
+"166",17827,,1.1046511627907,Baltic mixed forests,"198",0.00742528289166532,,Baltic_mixed_forest,4,Europe
+"167",17827,,1.1046511627907,Baltic mixed forests,"315",0.00742528289166532,,Baltic_mixed_forest,4,Europe
+"168",17828,,3.73255813953488,Baltic mixed forests,"68",0.153619265794071,,Baltic_mixed_forest,4,Europe
+"169",17909,,0.802325581395349,Baltic mixed forests,"970",0.047302636103953,,Baltic_mixed_forest,4,Europe
+"170",17909,,0.802325581395349,Baltic mixed forests,"27",0.047302636103953,,Baltic_mixed_forest,4,Europe
+"171",17910,,3.8953488372093,Baltic mixed forests,"0",0.400944178832906,,Baltic_mixed_forest,4,Europe
+"172",17910,,3.8953488372093,Baltic mixed forests,"3874",0.400944178832906,,Baltic_mixed_forest,4,Europe
+"173",17911,,3.13953488372093,Baltic mixed forests,"3226",0.575390474371471,,Baltic_mixed_forest,4,Europe
+"174",17911,,3.13953488372093,Baltic mixed forests,"145",0.575390474371471,,Baltic_mixed_forest,4,Europe
+"175",17911,,3.13953488372093,Baltic mixed forests,"12",0.575390474371471,,Baltic_mixed_forest,4,Europe
+"176",17912,,9.52325581395349,Baltic mixed forests,"1438",0.103982152745867,,Baltic_mixed_forest,4,Europe
+"177",17990,,0.363636363636364,Baltic mixed forests,"387",0,,Baltic_mixed_forest,4,Europe
+"178",17991,,4.625,Baltic mixed forests,"1915",0.174918595293967,,Baltic_mixed_forest,4,Europe
+"179",17991,,4.625,Baltic mixed forests,"1646",0.174918595293967,,Baltic_mixed_forest,4,Europe
+"180",17992,,1.65909090909091,Baltic mixed forests,"2806",1.24211573171433,,Baltic_mixed_forest,4,Europe
+"181",17992,,1.65909090909091,Baltic mixed forests,"254",1.24211573171433,,Baltic_mixed_forest,4,Europe
+"182",17993,,1.85227272727273,Baltic mixed forests,"92",0.658909599477693,,Baltic_mixed_forest,4,Europe
+"183",17993,,1.85227272727273,Baltic mixed forests,"183",0.658909599477693,,Baltic_mixed_forest,4,Europe
+"184",17993,,1.85227272727273,Baltic mixed forests,"2010",0.658909599477693,,Baltic_mixed_forest,4,Europe
+"185",17993,,1.85227272727273,Baltic mixed forests,"229",0.658909599477693,,Baltic_mixed_forest,4,Europe
+"186",17994,,6.19318181818182,Baltic mixed forests,"3063",0.00343997886071508,,Baltic_mixed_forest,4,Europe
+"187",18073,,0.174418604651163,Baltic mixed forests,"99",0,,Baltic_mixed_forest,4,Europe
+"188",18074,,0.36046511627907,Baltic mixed forests,"519",0,,Baltic_mixed_forest,4,Europe
+"189",18075,,2.23255813953488,Baltic mixed forests,"13",1.90108781670195,,Baltic_mixed_forest,4,Europe
+"190",18075,,2.23255813953488,Baltic mixed forests,"1716",1.90108781670195,,Baltic_mixed_forest,4,Europe
+"191",18075,,2.23255813953488,Baltic mixed forests,"215",1.90108781670195,,Baltic_mixed_forest,4,Europe
+"192",18076,,1.72093023255814,Baltic mixed forests,"28",0.462168293547626,,Baltic_mixed_forest,4,Europe
+"193",18076,,1.72093023255814,Baltic mixed forests,"556",0.462168293547626,,Baltic_mixed_forest,4,Europe
+"194",18076,,1.72093023255814,Baltic mixed forests,"784",0.462168293547626,,Baltic_mixed_forest,4,Europe
+"195",18076,,1.72093023255814,Baltic mixed forests,"160",0.462168293547626,,Baltic_mixed_forest,4,Europe
+"196",18077,,6.27906976744186,Baltic mixed forests,"1967",0.0542614577201011,,Baltic_mixed_forest,4,Europe
+"197",18156,,1.77906976744186,Baltic mixed forests,"2551",1.03692574013858,,Baltic_mixed_forest,4,Europe
+"198",18157,,1.84883720930233,Baltic mixed forests,"1850",1.99848186752153,,Baltic_mixed_forest,4,Europe
+"199",18157,,1.84883720930233,Baltic mixed forests,"425",1.99848186752153,,Baltic_mixed_forest,4,Europe
+"200",18157,,1.84883720930233,Baltic mixed forests,"330",1.99848186752153,,Baltic_mixed_forest,4,Europe
+"201",18158,,5.09302325581395,Baltic mixed forests,"4132",0.225729148073479,,Baltic_mixed_forest,4,Europe
+"202",18159,,5.34883720930233,Baltic mixed forests,"168",0.594439807378607,,Baltic_mixed_forest,4,Europe
+"203",18238,,5.75,Baltic mixed forests,"1421",0.0109901494162685,,Baltic_mixed_forest,4,Europe
+"204",18238,,5.75,Baltic mixed forests,"4",0.0109901494162685,,Baltic_mixed_forest,4,Europe
+"205",18239,,1.78409090909091,Baltic mixed forests,"1551",0.0963014747300749,,Baltic_mixed_forest,4,Europe
+"206",18239,,1.78409090909091,Baltic mixed forests,"339",0.0963014747300749,,Baltic_mixed_forest,4,Europe
+"207",18240,,3.97727272727273,Baltic mixed forests,"1966",0.13875636068129,,Baltic_mixed_forest,4,Europe
+"208",18240,,3.97727272727273,Baltic mixed forests,"375",0.13875636068129,,Baltic_mixed_forest,4,Europe
+"209",18241,,6.42045454545455,Baltic mixed forests,"6258",0.763754953387921,,Baltic_mixed_forest,4,Europe
+"210",18242,,9.23863636363636,Baltic mixed forests,"1023",0.0529466610765629,,Baltic_mixed_forest,4,Europe
+"211",18320,,7.84523809523809,Baltic mixed forests,"3965",0.0108325656718586,,Baltic_mixed_forest,4,Europe
+"212",18321,,0.547619047619048,Baltic mixed forests,"427",0,,Baltic_mixed_forest,4,Europe
+"213",18321,,0.547619047619048,Baltic mixed forests,"114",0,,Baltic_mixed_forest,4,Europe
+"214",18322,,11.4642857142857,Baltic mixed forests,"3173",0.133583536973106,,Baltic_mixed_forest,4,Europe
+"215",18322,,11.4642857142857,Baltic mixed forests,"331",0.133583536973106,,Baltic_mixed_forest,4,Europe
+"216",18322,,11.4642857142857,Baltic mixed forests,"308",0.133583536973106,,Baltic_mixed_forest,4,Europe
+"217",18323,,5.08333333333333,Baltic mixed forests,"5090",1.07323765785214,,Baltic_mixed_forest,4,Europe
+"218",18323,,5.08333333333333,Baltic mixed forests,"60",1.07323765785214,,Baltic_mixed_forest,4,Europe
+"219",18402,,10.7159090909091,Baltic mixed forests,"466",0,,Baltic_mixed_forest,4,Europe
+"220",18403,,0.920454545454545,Baltic mixed forests,"705",0,,Baltic_mixed_forest,4,Europe
+"221",18403,,0.920454545454545,Baltic mixed forests,"325",0,,Baltic_mixed_forest,4,Europe
+"222",18404,,0.465909090909091,Baltic mixed forests,"12",0,,Baltic_mixed_forest,4,Europe
+"223",18404,,0.465909090909091,Baltic mixed forests,"26",0,,Baltic_mixed_forest,4,Europe
+"224",18405,,8.31818181818182,Baltic mixed forests,"198",0.111957679797217,,Baltic_mixed_forest,4,Europe
+"225",18405,,8.31818181818182,Baltic mixed forests,"1726",0.111957679797217,,Baltic_mixed_forest,4,Europe
+"226",18405,,8.31818181818182,Baltic mixed forests,"3051",0.111957679797217,,Baltic_mixed_forest,4,Europe
+"227",18405,,8.31818181818182,Baltic mixed forests,"26",0.111957679797217,,Baltic_mixed_forest,4,Europe
+"228",18406,,4.48863636363636,Baltic mixed forests,"5",0.0541740424029844,,Baltic_mixed_forest,4,Europe
+"229",18406,,4.48863636363636,Baltic mixed forests,"1719",0.0541740424029844,,Baltic_mixed_forest,4,Europe
+"230",18485,,0.215909090909091,Baltic mixed forests,"249",0,,Baltic_mixed_forest,4,Europe
+"231",18486,,4.73863636363636,Baltic mixed forests,"4172",0,,Baltic_mixed_forest,4,Europe
+"232",18487,,5.02272727272727,Baltic mixed forests,"3638",0,,Baltic_mixed_forest,4,Europe
+"233",18568,,3.03571428571429,Baltic mixed forests,"2327",0,,Baltic_mixed_forest,4,Europe
+"234",18569,,5.78571428571429,Baltic mixed forests,"5542",0,,Baltic_mixed_forest,4,Europe
+"235",18570,,5.26190476190476,Baltic mixed forests,"278",0,,Baltic_mixed_forest,4,Europe
+"236",18649,,1.61363636363636,Baltic mixed forests,"940",0,,Baltic_mixed_forest,4,Europe
+"237",18650,,5.52272727272727,Baltic mixed forests,"6321",0,,Baltic_mixed_forest,4,Europe
+"238",18651,,5.72727272727273,Baltic mixed forests,"2281",0,,Baltic_mixed_forest,4,Europe
+"239",18732,,5.95348837209302,Baltic mixed forests,"5254",0,,Baltic_mixed_forest,4,Europe
+"240",18733,,5.34883720930233,Baltic mixed forests,"5383",0,,Baltic_mixed_forest,4,Europe
+"241",18813,,0.348837209302326,Baltic mixed forests,"34",0,,Baltic_mixed_forest,4,Europe
+"242",18814,,4.7906976744186,Baltic mixed forests,"1990",0,,Baltic_mixed_forest,4,Europe
+"243",18815,,4,Baltic mixed forests,"11",0,,Baltic_mixed_forest,4,Europe
+"244",16514,,15.3372093023256,Caledon conifer forests,"1462",1.35375611413662,,Caledon_conifer_forest,5,Europe
+"245",16515,,21.9767441860465,Caledon conifer forests,"2666",0.742816967323251,,Caledon_conifer_forest,5,Europe
+"246",16516,,20.1279069767442,Caledon conifer forests,"107",0.521159243768814,,Caledon_conifer_forest,5,Europe
+"247",16596,,17.8023255813953,Caledon conifer forests,"140",2.08226195729765,,Caledon_conifer_forest,5,Europe
+"248",16597,,20.0813953488372,Caledon conifer forests,"5116",0.740090309447536,,Caledon_conifer_forest,5,Europe
+"249",16598,,16.3488372093023,Caledon conifer forests,"3700",0.331579290525478,,Caledon_conifer_forest,5,Europe
+"250",16678,,14.2386363636364,Caledon conifer forests,"646",0.682961206144648,,Caledon_conifer_forest,5,Europe
+"251",16679,,14.2613636363636,Caledon conifer forests,"5236",1.1050895283959,,Caledon_conifer_forest,5,Europe
+"252",16761,,3.01162790697674,Caledon conifer forests,"1994",0.104820771206529,,Caledon_conifer_forest,5,Europe
+"253",16762,,4.36046511627907,Caledon conifer forests,"612",0.295579606599859,,Caledon_conifer_forest,5,Europe
+"254",16843,,0.976744186046512,Caledon conifer forests,"14",0.022198015438886,,Caledon_conifer_forest,5,Europe
+"255",16201,,1.81395348837209,Cantabrian mixed forests,"5159",8.86173634184366,,Cantabrian_mixed_forest,4,Europe
+"256",16202,,0.755813953488372,Cantabrian mixed forests,"4068",13.9095614032822,,Cantabrian_mixed_forest,4,Europe
+"257",16203,,0.162790697674419,Cantabrian mixed forests,"2430",6.33038028251443,,Cantabrian_mixed_forest,4,Europe
+"258",16283,,2.36046511627907,Cantabrian mixed forests,"5052",0.634896019126148,,Cantabrian_mixed_forest,4,Europe
+"259",16284,,2.41860465116279,Cantabrian mixed forests,"7049",9.47774247651044,,Cantabrian_mixed_forest,4,Europe
+"260",16285,,0.255813953488372,Cantabrian mixed forests,"5899",30.9087668834722,,Cantabrian_mixed_forest,4,Europe
+"261",16286,,0.0232558139534884,Cantabrian mixed forests,"4468",53.3562007541429,,Cantabrian_mixed_forest,4,Europe
+"262",16364,,0.186046511627907,Cantabrian mixed forests,"483",0,,Cantabrian_mixed_forest,4,Europe
+"263",16365,,2.34883720930233,Cantabrian mixed forests,"7166",8.97029030600021,,Cantabrian_mixed_forest,4,Europe
+"264",16366,,1.03488372093023,Cantabrian mixed forests,"807",24.1910509420532,,Cantabrian_mixed_forest,4,Europe
+"265",16367,,0,Cantabrian mixed forests,"9",24.1235729669634,,Cantabrian_mixed_forest,4,Europe
+"266",16447,,1.07954545454545,Cantabrian mixed forests,"4621",3.08177808119898,,Cantabrian_mixed_forest,4,Europe
+"267",16448,,0.681818181818182,Cantabrian mixed forests,"1535",10.8600167428474,,Cantabrian_mixed_forest,4,Europe
+"268",16528,,0.116279069767442,Cantabrian mixed forests,"146",0,,Cantabrian_mixed_forest,4,Europe
+"269",16529,,1.46511627906977,Cantabrian mixed forests,"5659",3.68165117757901,,Cantabrian_mixed_forest,4,Europe
+"270",16611,,0.604651162790698,Cantabrian mixed forests,"3039",2.06001254253344,,Cantabrian_mixed_forest,4,Europe
+"271",16612,,0.27906976744186,Cantabrian mixed forests,"1085",0.720749403436572,,Cantabrian_mixed_forest,4,Europe
+"272",16693,,1.53409090909091,Cantabrian mixed forests,"5991",2.21810859350081,,Cantabrian_mixed_forest,4,Europe
+"273",16775,,0.558139534883721,Cantabrian mixed forests,"2669",0.0389039860209142,,Cantabrian_mixed_forest,4,Europe
+"274",16776,,8.08139534883721,Cantabrian mixed forests,"2958",1.46600192665823,,Cantabrian_mixed_forest,4,Europe
+"275",16857,,5.61627906976744,Cantabrian mixed forests,"5991",2.4379749108719,,Cantabrian_mixed_forest,4,Europe
+"276",16939,,0.568181818181818,Cantabrian mixed forests,"2329",6.37198512509675,,Cantabrian_mixed_forest,4,Europe
+"277",16940,,12.0113636363636,Cantabrian mixed forests,"182",3.67151247162819,,Cantabrian_mixed_forest,4,Europe
+"278",17021,,1.47674418604651,Cantabrian mixed forests,"583",5.00004599122294,,Cantabrian_mixed_forest,4,Europe
+"279",18737,,1.91860465116279,Carpathian montane forests,"1473",0.374148178852769,,Carpathian_montane_forest,5,Europe
+"280",18738,,0.627906976744186,Carpathian montane forests,"86",1.1697683349146,,Carpathian_montane_forest,5,Europe
+"281",18818,,2.75581395348837,Carpathian montane forests,"1990",0.334384074825332,,Carpathian_montane_forest,5,Europe
+"282",18819,,2.30232558139535,Carpathian montane forests,"5156",0.04609739656437,,Carpathian_montane_forest,5,Europe
+"283",18901,,2.96590909090909,Carpathian montane forests,"6620",0.0124533238117187,,Carpathian_montane_forest,4,Europe
+"284",18901,,2.96590909090909,Carpathian montane forests,"6620",0.0124533238117187,,Carpathian_montane_forest,5,Europe
+"285",18902,,1.64772727272727,Carpathian montane forests,"2376",0.32849643299176,,Carpathian_montane_forest,5,Europe
+"286",18982,,2.47674418604651,Carpathian montane forests,"3264",0,,Carpathian_montane_forest,5,Europe
+"287",18983,,2.09302325581395,Carpathian montane forests,"5345",0.155059668752184,,Carpathian_montane_forest,5,Europe
+"288",19064,,3.63953488372093,Carpathian montane forests,"410",0,,Carpathian_montane_forest,5,Europe
+"289",19065,,1.94186046511628,Carpathian montane forests,"5561",0.0248385350321496,,Carpathian_montane_forest,5,Europe
+"290",19066,,1.76744186046512,Carpathian montane forests,"27",3.31220502873903,,Carpathian_montane_forest,5,Europe
+"291",19146,,3.20454545454545,Carpathian montane forests,"2744",0.00159412837048332,,Carpathian_montane_forest,5,Europe
+"292",19147,,1.93181818181818,Carpathian montane forests,"4531",0.736314313255072,,Carpathian_montane_forest,5,Europe
+"293",19150,,0.534090909090909,Carpathian montane forests,"909",4.00937533720264,,Carpathian_montane_forest,4,Europe
+"294",19150,,0.534090909090909,Carpathian montane forests,"909",4.00937533720264,,Carpathian_montane_forest,5,Europe
+"295",19151,,0.920454545454545,Carpathian montane forests,"843",3.68141561754214,,Carpathian_montane_forest,5,Europe
+"296",19229,,2.53488372093023,Carpathian montane forests,"5914",18.0969426748836,,Carpathian_montane_forest,5,Europe
+"297",19230,,2.06976744186047,Carpathian montane forests,"4324",1.74513503072728,,Carpathian_montane_forest,5,Europe
+"298",19231,,0.558139534883721,Carpathian montane forests,"370",1.80010217299049,,Carpathian_montane_forest,4,Europe
+"299",19231,,0.558139534883721,Carpathian montane forests,"370",1.80010217299049,,Carpathian_montane_forest,5,Europe
+"300",19233,,1.40697674418605,Carpathian montane forests,"4385",1.07915060886035,,Carpathian_montane_forest,4,Europe
+"301",19233,,1.40697674418605,Carpathian montane forests,"4385",1.07915060886035,,Carpathian_montane_forest,5,Europe
+"302",19310,,2.2093023255814,Carpathian montane forests,"126",14.8631530877702,,Carpathian_montane_forest,4,Europe
+"303",19310,,2.2093023255814,Carpathian montane forests,"126",14.8631530877702,,Carpathian_montane_forest,5,Europe
+"304",19311,,2.93023255813953,Carpathian montane forests,"6429",13.8306976334252,,Carpathian_montane_forest,5,Europe
+"305",19312,,2.7093023255814,Carpathian montane forests,"7115",1.02732700295647,,Carpathian_montane_forest,4,Europe
+"306",19312,,2.7093023255814,Carpathian montane forests,"7115",1.02732700295647,,Carpathian_montane_forest,5,Europe
+"307",19313,,0.697674418604651,Carpathian montane forests,"1104",2.70438039516533,,Carpathian_montane_forest,5,Europe
+"308",19314,,0.593023255813954,Carpathian montane forests,"2321",5.07256435837977,,Carpathian_montane_forest,5,Europe
+"309",19315,,0.686046511627907,Carpathian montane forests,"2074",0.235522894740952,,Carpathian_montane_forest,5,Europe
+"310",19393,,2,Carpathian montane forests,"154",23.3627627404991,,Carpathian_montane_forest,5,Europe
+"311",19394,,2.01136363636364,Carpathian montane forests,"6780",6.36554024526436,,Carpathian_montane_forest,5,Europe
+"312",19395,,2.55681818181818,Carpathian montane forests,"6636",0.0834485138315414,,Carpathian_montane_forest,5,Europe
+"313",19396,,1.13636363636364,Carpathian montane forests,"2590",1.1971036970055,,Carpathian_montane_forest,5,Europe
+"314",19397,,1.19318181818182,Carpathian montane forests,"5249",2.39399436303887,,Carpathian_montane_forest,5,Europe
+"315",19475,,1.51162790697674,Carpathian montane forests,"423",30.0277415998627,,Carpathian_montane_forest,5,Europe
+"316",19476,,1.34883720930233,Carpathian montane forests,"4991",5.77413826204153,,Carpathian_montane_forest,5,Europe
+"317",19477,,1.82558139534884,Carpathian montane forests,"7171",0.791566226666421,,Carpathian_montane_forest,4,Europe
+"318",19477,,1.82558139534884,Carpathian montane forests,"7171",0.791566226666421,,Carpathian_montane_forest,5,Europe
+"319",19478,,1.23255813953488,Carpathian montane forests,"4504",0.818765767196647,,Carpathian_montane_forest,5,Europe
+"320",19479,,0.546511627906977,Carpathian montane forests,"1791",3.51882737423679,,Carpathian_montane_forest,5,Europe
+"321",19558,,1.06976744186047,Carpathian montane forests,"17",12.0511575564264,,Carpathian_montane_forest,5,Europe
+"322",19559,,0.430232558139535,Carpathian montane forests,"57",1.21770706169608,,Carpathian_montane_forest,4,Europe
+"323",19559,,0.430232558139535,Carpathian montane forests,"57",1.21770706169608,,Carpathian_montane_forest,5,Europe
+"324",19560,,0.720930232558139,Carpathian montane forests,"2146",1.12230761471571,,Carpathian_montane_forest,5,Europe
+"325",19561,,0.697674418604651,Carpathian montane forests,"2407",2.71172537112421,,Carpathian_montane_forest,5,Europe
+"326",20710,,0.872093023255814,Caucasus mixed forests,"2",10.564001213516,,Caucasus_mixed_forest,4,Europe
+"327",20792,,1.28409090909091,Caucasus mixed forests,"3985",3.56874448345291,,Caucasus_mixed_forest,4,Europe
+"328",20793,,0.0340909090909091,Caucasus mixed forests,"0",0,,Caucasus_mixed_forest,4,Europe
+"329",20793,,0.0340909090909091,Caucasus mixed forests,"94",0,,Caucasus_mixed_forest,4,Europe
+"330",20793,,0.0340909090909091,Caucasus mixed forests,"9",0,,Caucasus_mixed_forest,4,Europe
+"331",20874,,0.755813953488372,Caucasus mixed forests,"511",39.1953111298742,,Caucasus_mixed_forest,4,Europe
+"332",20875,,3.51162790697674,Caucasus mixed forests,"0",0.299198068095968,,Caucasus_mixed_forest,4,Europe
+"333",20875,,3.51162790697674,Caucasus mixed forests,"3793",0.299198068095968,,Caucasus_mixed_forest,4,Europe
+"334",20875,,3.51162790697674,Caucasus mixed forests,"3015",0.299198068095968,,Caucasus_mixed_forest,4,Europe
+"335",20956,,1.24418604651163,Caucasus mixed forests,"2547",32.1518746647835,,Caucasus_mixed_forest,4,Europe
+"336",20957,,3.13953488372093,Caucasus mixed forests,"0",0.214908583910338,,Caucasus_mixed_forest,4,Europe
+"337",20957,,3.13953488372093,Caucasus mixed forests,"1303",0.214908583910338,,Caucasus_mixed_forest,4,Europe
+"338",21038,,0.238636363636364,Caucasus mixed forests,"183",44.9179341292552,,Caucasus_mixed_forest,4,Europe
+"339",21039,,1.75,Caucasus mixed forests,"0",6.73648544900888,,Caucasus_mixed_forest,4,Europe
+"340",21039,,1.75,Caucasus mixed forests,"6090",6.73648544900888,,Caucasus_mixed_forest,4,Europe
+"341",21120,,0.290697674418605,Caucasus mixed forests,"1423",43.7700648278555,,Caucasus_mixed_forest,4,Europe
+"342",21121,,2.27906976744186,Caucasus mixed forests,"0",2.45100909247914,,Caucasus_mixed_forest,4,Europe
+"343",21121,,2.27906976744186,Caucasus mixed forests,"3851",2.45100909247914,,Caucasus_mixed_forest,4,Europe
+"344",21121,,2.27906976744186,Caucasus mixed forests,"3994",2.45100909247914,,Caucasus_mixed_forest,4,Europe
+"345",21203,,0.476744186046512,Caucasus mixed forests,"2126",37.165640627344,,Caucasus_mixed_forest,4,Europe
+"346",21204,,2.2093023255814,Caucasus mixed forests,"0",0.745265268266251,,Caucasus_mixed_forest,4,Europe
+"347",21204,,2.2093023255814,Caucasus mixed forests,"2269",0.745265268266251,,Caucasus_mixed_forest,4,Europe
+"348",21204,,2.2093023255814,Caucasus mixed forests,"5636",0.745265268266251,,Caucasus_mixed_forest,4,Europe
+"349",21285,,1.23863636363636,Caucasus mixed forests,"0",17.5300682299394,,Caucasus_mixed_forest,4,Europe
+"350",21285,,1.23863636363636,Caucasus mixed forests,"3953",17.5300682299394,,Caucasus_mixed_forest,4,Europe
+"351",21285,,1.23863636363636,Caucasus mixed forests,"1407",17.5300682299394,,Caucasus_mixed_forest,4,Europe
+"352",21367,,0.0697674418604651,Caucasus mixed forests,"897",15.0937964261738,,Caucasus_mixed_forest,4,Europe
+"353",21368,,1.73255813953488,Caucasus mixed forests,"5538",3.75926294087149,,Caucasus_mixed_forest,4,Europe
+"354",21449,,0.162790697674419,Caucasus mixed forests,"4140",3.38038420152148,,Caucasus_mixed_forest,4,Europe
+"355",21450,,1.09302325581395,Caucasus mixed forests,"0",1.18975648423733,,Caucasus_mixed_forest,4,Europe
+"356",21450,,1.09302325581395,Caucasus mixed forests,"4833",1.18975648423733,,Caucasus_mixed_forest,4,Europe
+"357",21532,,0.0909090909090909,Caucasus mixed forests,"2412",2.52638806404278,,Caucasus_mixed_forest,4,Europe
+"358",21533,,0.863636363636364,Caucasus mixed forests,"0",5.86238906824413,,Caucasus_mixed_forest,4,Europe
+"359",21533,,0.863636363636364,Caucasus mixed forests,"5538",5.86238906824413,,Caucasus_mixed_forest,4,Europe
+"360",21533,,0.863636363636364,Caucasus mixed forests,"2088",5.86238906824413,,Caucasus_mixed_forest,4,Europe
+"361",21614,,0.290697674418605,Caucasus mixed forests,"2203",1.54709502289048,,Caucasus_mixed_forest,4,Europe
+"362",21615,,0.813953488372093,Caucasus mixed forests,"49",0.115876792309501,,Caucasus_mixed_forest,4,Europe
+"363",21615,,0.813953488372093,Caucasus mixed forests,"5397",0.115876792309501,,Caucasus_mixed_forest,4,Europe
+"364",16028,,2.41860465116279,Celtic broadleaf forests,"794",0,,Celtic_broadleaf_forest,4,Europe
+"365",16109,,13.0227272727273,Celtic broadleaf forests,"2283",0.973110103433815,,Celtic_broadleaf_forest,4,Europe
+"366",16110,,7.63636363636364,Celtic broadleaf forests,"1354",0.138739527064883,,Celtic_broadleaf_forest,4,Europe
+"367",16111,,6.375,Celtic broadleaf forests,"2341",0.412323242582365,,Celtic_broadleaf_forest,4,Europe
+"368",16190,,15.4883720930233,Celtic broadleaf forests,"1527",0.225824364511758,,Celtic_broadleaf_forest,4,Europe
+"369",16191,,9.69767441860465,Celtic broadleaf forests,"5693",0.0200881665992238,,Celtic_broadleaf_forest,4,Europe
+"370",16192,,6.76744186046512,Celtic broadleaf forests,"4813",0.076229608248428,,Celtic_broadleaf_forest,4,Europe
+"371",16272,,18.8023255813953,Celtic broadleaf forests,"1385",0.675847405425893,,Celtic_broadleaf_forest,4,Europe
+"372",16273,,15.9883720930233,Celtic broadleaf forests,"5914",0.22353814141987,,Celtic_broadleaf_forest,4,Europe
+"373",16274,,7.84883720930233,Celtic broadleaf forests,"6542",0.14531846108331,,Celtic_broadleaf_forest,4,Europe
+"374",16275,,0.36046511627907,Celtic broadleaf forests,"570",0,,Celtic_broadleaf_forest,4,Europe
+"375",16353,,8.87209302325581,Celtic broadleaf forests,"1760",0.364154867377982,,Celtic_broadleaf_forest,4,Europe
+"376",16354,,5.67441860465116,Celtic broadleaf forests,"6321",0.130235185750135,,Celtic_broadleaf_forest,4,Europe
+"377",16355,,8.43023255813953,Celtic broadleaf forests,"6470",0.382876408150416,,Celtic_broadleaf_forest,4,Europe
+"378",16356,,0.755813953488372,Celtic broadleaf forests,"1980",0.0440907155637691,,Celtic_broadleaf_forest,4,Europe
+"379",16434,,6.65909090909091,Celtic broadleaf forests,"13",0.33821719937963,,Celtic_broadleaf_forest,4,Europe
+"380",16435,,6.98863636363636,Celtic broadleaf forests,"826",0.195178828616743,,Celtic_broadleaf_forest,4,Europe
+"381",16435,,6.98863636363636,Celtic broadleaf forests,"545",0.195178828616743,,Celtic_broadleaf_forest,4,Europe
+"382",16435,,6.98863636363636,Celtic broadleaf forests,"111",0.195178828616743,,Celtic_broadleaf_forest,4,Europe
+"383",16435,,6.98863636363636,Celtic broadleaf forests,"191",0.195178828616743,,Celtic_broadleaf_forest,4,Europe
+"384",16436,,6.40909090909091,Celtic broadleaf forests,"5910",0.0208309531712433,,Celtic_broadleaf_forest,4,Europe
+"385",16437,,2.84090909090909,Celtic broadleaf forests,"3469",0.62517968120048,,Celtic_broadleaf_forest,4,Europe
+"386",16438,,1.34090909090909,Celtic broadleaf forests,"2577",0.0299581717811313,,Celtic_broadleaf_forest,4,Europe
+"387",16516,,20.1279069767442,Celtic broadleaf forests,"2794",0.521159243768814,,Celtic_broadleaf_forest,4,Europe
+"388",16516,,20.1279069767442,Celtic broadleaf forests,"139",0.521159243768814,,Celtic_broadleaf_forest,4,Europe
+"389",16516,,20.1279069767442,Celtic broadleaf forests,"293",0.521159243768814,,Celtic_broadleaf_forest,4,Europe
+"390",16517,,4.59302325581395,Celtic broadleaf forests,"247",0,,Celtic_broadleaf_forest,4,Europe
+"391",16517,,4.59302325581395,Celtic broadleaf forests,"907",0,,Celtic_broadleaf_forest,4,Europe
+"392",16517,,4.59302325581395,Celtic broadleaf forests,"100",0,,Celtic_broadleaf_forest,4,Europe
+"393",16518,,0.36046511627907,Celtic broadleaf forests,"246",0.00686611277230981,,Celtic_broadleaf_forest,4,Europe
+"394",16520,,0.267441860465116,Celtic broadleaf forests,"723",0,,Celtic_broadleaf_forest,4,Europe
+"395",16522,,0.488372093023256,Celtic broadleaf forests,"1164",0.00627804405525247,,Celtic_broadleaf_forest,4,Europe
+"396",16597,,20.0813953488372,Celtic broadleaf forests,"268",0.740090309447536,,Celtic_broadleaf_forest,4,Europe
+"397",16598,,16.3488372093023,Celtic broadleaf forests,"2224",0.331579290525478,,Celtic_broadleaf_forest,4,Europe
+"398",16598,,16.3488372093023,Celtic broadleaf forests,"2224",0.331579290525478,,Celtic_broadleaf_forest,5,Europe
+"399",16599,,16.7209302325581,Celtic broadleaf forests,"5125",0.220285964846571,,Celtic_broadleaf_forest,4,Europe
+"400",16600,,2.96511627906977,Celtic broadleaf forests,"536",0.0652584503691199,,Celtic_broadleaf_forest,4,Europe
+"401",16600,,2.96511627906977,Celtic broadleaf forests,"1078",0.0652584503691199,,Celtic_broadleaf_forest,4,Europe
+"402",16601,,0.313953488372093,Celtic broadleaf forests,"623",0.00339910260256352,,Celtic_broadleaf_forest,4,Europe
+"403",16601,,0.313953488372093,Celtic broadleaf forests,"278",0.00339910260256352,,Celtic_broadleaf_forest,4,Europe
+"404",16602,,0.988372093023256,Celtic broadleaf forests,"1746",0.00228626420382009,,Celtic_broadleaf_forest,4,Europe
+"405",16603,,1,Celtic broadleaf forests,"150",0.00648267831607547,,Celtic_broadleaf_forest,4,Europe
+"406",16603,,1,Celtic broadleaf forests,"1938",0.00648267831607547,,Celtic_broadleaf_forest,4,Europe
+"407",16604,,2.2906976744186,Celtic broadleaf forests,"3889",0.0253765409619691,,Celtic_broadleaf_forest,4,Europe
+"408",16678,,14.2386363636364,Celtic broadleaf forests,"640",0.682961206144648,,Celtic_broadleaf_forest,4,Europe
+"409",16679,,14.2613636363636,Celtic broadleaf forests,"625",1.1050895283959,,Celtic_broadleaf_forest,4,Europe
+"410",16680,,6.98863636363636,Celtic broadleaf forests,"5670",0.208792331078411,,Celtic_broadleaf_forest,4,Europe
+"411",16681,,7.02272727272727,Celtic broadleaf forests,"4635",0.242411208890717,,Celtic_broadleaf_forest,4,Europe
+"412",16682,,0.443181818181818,Celtic broadleaf forests,"533",0.00396997025145483,,Celtic_broadleaf_forest,4,Europe
+"413",16683,,4.625,Celtic broadleaf forests,"5392",0.133689273955697,,Celtic_broadleaf_forest,4,Europe
+"414",16684,,4.67045454545455,Celtic broadleaf forests,"6469",0.275474082041236,,Celtic_broadleaf_forest,4,Europe
+"415",16685,,2.26136363636364,Celtic broadleaf forests,"4858",0.0128512272615868,,Celtic_broadleaf_forest,4,Europe
+"416",16685,,2.26136363636364,Celtic broadleaf forests,"287",0.0128512272615868,,Celtic_broadleaf_forest,4,Europe
+"417",16686,,0.409090909090909,Celtic broadleaf forests,"723",0,,Celtic_broadleaf_forest,4,Europe
+"418",16761,,3.01162790697674,Celtic broadleaf forests,"2125",0.104820771206529,,Celtic_broadleaf_forest,4,Europe
+"419",16762,,4.36046511627907,Celtic broadleaf forests,"2925",0.295579606599859,,Celtic_broadleaf_forest,4,Europe
+"420",16763,,9.54651162790698,Celtic broadleaf forests,"6017",0.12098550567801,,Celtic_broadleaf_forest,4,Europe
+"421",16764,,7.18604651162791,Celtic broadleaf forests,"5956",0.0690003212346563,,Celtic_broadleaf_forest,4,Europe
+"422",16765,,4.19767441860465,Celtic broadleaf forests,"5330",0.253377815165918,,Celtic_broadleaf_forest,4,Europe
+"423",16766,,1.73255813953488,Celtic broadleaf forests,"6288",0,,Celtic_broadleaf_forest,4,Europe
+"424",16767,,2.12790697674419,Celtic broadleaf forests,"255",0.0484742547427052,,Celtic_broadleaf_forest,4,Europe
+"425",16767,,2.12790697674419,Celtic broadleaf forests,"877",0.0484742547427052,,Celtic_broadleaf_forest,4,Europe
+"426",16768,,0.523255813953488,Celtic broadleaf forests,"1220",0,,Celtic_broadleaf_forest,4,Europe
+"427",16842,,0.337209302325581,Celtic broadleaf forests,"449",0.0380729798353383,,Celtic_broadleaf_forest,4,Europe
+"428",16843,,0.976744186046512,Celtic broadleaf forests,"1355",0.022198015438886,,Celtic_broadleaf_forest,4,Europe
+"429",16844,,0.558139534883721,Celtic broadleaf forests,"1175",0,,Celtic_broadleaf_forest,4,Europe
+"430",16845,,4.5,Celtic broadleaf forests,"5843",0.203285748531534,,Celtic_broadleaf_forest,4,Europe
+"431",16846,,6.24418604651163,Celtic broadleaf forests,"6321",0.263288399248955,,Celtic_broadleaf_forest,4,Europe
+"432",16847,,2.88372093023256,Celtic broadleaf forests,"6470",0.0568270274021305,,Celtic_broadleaf_forest,4,Europe
+"433",16848,,1.17441860465116,Celtic broadleaf forests,"1969",0,,Celtic_broadleaf_forest,4,Europe
+"434",16927,,0.0909090909090909,Celtic broadleaf forests,"0",0,,Celtic_broadleaf_forest,4,Europe
+"435",16928,,1.96590909090909,Celtic broadleaf forests,"4037",0.0798461444996391,,Celtic_broadleaf_forest,4,Europe
+"436",16929,,2.48863636363636,Celtic broadleaf forests,"6354",0,,Celtic_broadleaf_forest,4,Europe
+"437",16930,,1.71590909090909,Celtic broadleaf forests,"5501",0.00662869151711919,,Celtic_broadleaf_forest,4,Europe
+"438",17010,,1.98837209302326,Celtic broadleaf forests,"2700",0.024036283445442,,Celtic_broadleaf_forest,4,Europe
+"439",17011,,5,Celtic broadleaf forests,"5965",0.0769346183423932,,Celtic_broadleaf_forest,4,Europe
+"440",17012,,4.02325581395349,Celtic broadleaf forests,"1102",0.231697340887265,,Celtic_broadleaf_forest,4,Europe
+"441",17093,,0.209302325581395,Celtic broadleaf forests,"100",0,,Celtic_broadleaf_forest,4,Europe
+"442",17094,,5.09302325581395,Celtic broadleaf forests,"5509",0.161940289743518,,Celtic_broadleaf_forest,4,Europe
+"443",17095,,2.26744186046512,Celtic broadleaf forests,"229",0.203438704793329,,Celtic_broadleaf_forest,4,Europe
+"444",17175,,1.56818181818182,Celtic broadleaf forests,"1474",0,,Celtic_broadleaf_forest,4,Europe
+"445",17176,,1.95454545454545,Celtic broadleaf forests,"157",0.313276508015314,,Celtic_broadleaf_forest,4,Europe
+"446",17996,,2.27272727272727,Central European mixed forests,"1853",0.0458839865528057,,Central_European_mixed_forest,4,Europe
+"447",17997,,1,Central European mixed forests,"709",0,,Central_European_mixed_forest,4,Europe
+"448",18078,,5.24418604651163,Central European mixed forests,"2006",0.231321830282933,,Central_European_mixed_forest,4,Europe
+"449",18079,,1.25581395348837,Central European mixed forests,"3464",0.0906282839377727,,Central_European_mixed_forest,4,Europe
+"450",18080,,1.32558139534884,Central European mixed forests,"825",0.0505803327846375,,Central_European_mixed_forest,4,Europe
+"451",18159,,5.34883720930233,Central European mixed forests,"450",0.594439807378607,,Central_European_mixed_forest,4,Europe
+"452",18160,,3.02325581395349,Central European mixed forests,"6449",0.369282764756552,,Central_European_mixed_forest,4,Europe
+"453",18161,,1.41860465116279,Central European mixed forests,"4222",0.0576577651591443,,Central_European_mixed_forest,4,Europe
+"454",18242,,9.23863636363636,Central European mixed forests,"5510",0.0529466610765629,,Central_European_mixed_forest,4,Europe
+"455",18243,,2.48863636363636,Central European mixed forests,"6278",0.238806714725125,,Central_European_mixed_forest,4,Europe
+"456",18244,,2.47727272727273,Central European mixed forests,"255",0.0316517260185742,,Central_European_mixed_forest,4,Europe
+"457",18244,,2.47727272727273,Central European mixed forests,"313",0.0316517260185742,,Central_European_mixed_forest,4,Europe
+"458",18323,,5.08333333333333,Central European mixed forests,"1322",1.07323765785214,,Central_European_mixed_forest,4,Europe
+"459",18324,,6.72619047619048,Central European mixed forests,"6618",0.287059941903138,,Central_European_mixed_forest,4,Europe
+"460",18325,,2.39285714285714,Central European mixed forests,"490",0.0639079363919822,,Central_European_mixed_forest,4,Europe
+"461",18325,,2.39285714285714,Central European mixed forests,"2093",0.0639079363919822,,Central_European_mixed_forest,4,Europe
+"462",18326,,1.66666666666667,Central European mixed forests,"2924",0.402794113637114,,Central_European_mixed_forest,4,Europe
+"463",18405,,8.31818181818182,Central European mixed forests,"529",0.111957679797217,,Central_European_mixed_forest,4,Europe
+"464",18406,,4.48863636363636,Central European mixed forests,"4817",0.0541740424029844,,Central_European_mixed_forest,4,Europe
+"465",18407,,3.78409090909091,Central European mixed forests,"5172",0.142355305852902,,Central_European_mixed_forest,4,Europe
+"466",18408,,2.19318181818182,Central European mixed forests,"3779",0.174092201747969,,Central_European_mixed_forest,4,Europe
+"467",18409,,2.19318181818182,Central European mixed forests,"899",0.960998759127876,,Central_European_mixed_forest,4,Europe
+"468",18486,,4.73863636363636,Central European mixed forests,"200",0,,Central_European_mixed_forest,4,Europe
+"469",18487,,5.02272727272727,Central European mixed forests,"2834",0,,Central_European_mixed_forest,4,Europe
+"470",18488,,4.64772727272727,Central European mixed forests,"6618",0,,Central_European_mixed_forest,4,Europe
+"471",18489,,3.27272727272727,Central European mixed forests,"31",0.00641167834599829,,Central_European_mixed_forest,4,Europe
+"472",18489,,3.27272727272727,Central European mixed forests,"1682",0.00641167834599829,,Central_European_mixed_forest,4,Europe
+"473",18490,,1.92045454545455,Central European mixed forests,"3727",0.391842421135977,,Central_European_mixed_forest,4,Europe
+"474",18491,,1.92045454545455,Central European mixed forests,"1766",1.19998003664244,,Central_European_mixed_forest,4,Europe
+"475",18492,,1.97727272727273,Central European mixed forests,"834",0.00603034045608277,,Central_European_mixed_forest,4,Europe
+"476",18569,,5.78571428571429,Central European mixed forests,"855",0,,Central_European_mixed_forest,4,Europe
+"477",18570,,5.26190476190476,Central European mixed forests,"6264",0,,Central_European_mixed_forest,4,Europe
+"478",18571,,4.21428571428571,Central European mixed forests,"6667",0,,Central_European_mixed_forest,4,Europe
+"479",18572,,2.05952380952381,Central European mixed forests,"921",0.0316944640442157,,Central_European_mixed_forest,4,Europe
+"480",18572,,2.05952380952381,Central European mixed forests,"315",0.0316944640442157,,Central_European_mixed_forest,4,Europe
+"481",18573,,2.0952380952381,Central European mixed forests,"2035",0.220739679282626,,Central_European_mixed_forest,4,Europe
+"482",18574,,0.630952380952381,Central European mixed forests,"588",1.41962075449263,,Central_European_mixed_forest,4,Europe
+"483",18651,,5.72727272727273,Central European mixed forests,"4187",0,,Central_European_mixed_forest,4,Europe
+"484",18652,,3.59090909090909,Central European mixed forests,"6618",0,,Central_European_mixed_forest,4,Europe
+"485",18653,,3.54545454545455,Central European mixed forests,"6347",0,,Central_European_mixed_forest,4,Europe
+"486",18654,,2.40909090909091,Central European mixed forests,"987",0.267553558188642,,Central_European_mixed_forest,4,Europe
+"487",18654,,2.40909090909091,Central European mixed forests,"1038",0.267553558188642,,Central_European_mixed_forest,4,Europe
+"488",18655,,1.05681818181818,Central European mixed forests,"34",0.373461518525645,,Central_European_mixed_forest,4,Europe
+"489",18655,,1.05681818181818,Central European mixed forests,"535",0.373461518525645,,Central_European_mixed_forest,4,Europe
+"490",18733,,5.34883720930233,Central European mixed forests,"1015",0,,Central_European_mixed_forest,4,Europe
+"491",18734,,5.16279069767442,Central European mixed forests,"6544",0,,Central_European_mixed_forest,4,Europe
+"492",18735,,3.73255813953488,Central European mixed forests,"6691",0,,Central_European_mixed_forest,4,Europe
+"493",18736,,4.2093023255814,Central European mixed forests,"6818",0.053837898813256,,Central_European_mixed_forest,4,Europe
+"494",18737,,1.91860465116279,Central European mixed forests,"1990",0.374148178852769,,Central_European_mixed_forest,4,Europe
+"495",18814,,4.7906976744186,Central European mixed forests,"3668",0,,Central_European_mixed_forest,4,Europe
+"496",18815,,4,Central European mixed forests,"6459",0,,Central_European_mixed_forest,4,Europe
+"497",18816,,4.25581395348837,Central European mixed forests,"6618",0,,Central_European_mixed_forest,4,Europe
+"498",18817,,4.16279069767442,Central European mixed forests,"6763",0,,Central_European_mixed_forest,4,Europe
+"499",18818,,2.75581395348837,Central European mixed forests,"4918",0.334384074825332,,Central_European_mixed_forest,4,Europe
+"500",18818,,2.75581395348837,Central European mixed forests,"4918",0.334384074825332,,Central_European_mixed_forest,5,Europe
+"501",18896,,2.92045454545455,Central European mixed forests,"3095",4.02961247888558,,Central_European_mixed_forest,4,Europe
+"502",18897,,6.35227272727273,Central European mixed forests,"6396",0,,Central_European_mixed_forest,4,Europe
+"503",18898,,4.14772727272727,Central European mixed forests,"6544",0,,Central_European_mixed_forest,4,Europe
+"504",18899,,2.82954545454545,Central European mixed forests,"6691",0,,Central_European_mixed_forest,4,Europe
+"505",18900,,3.03409090909091,Central European mixed forests,"6835",0,,Central_European_mixed_forest,4,Europe
+"506",18901,,2.96590909090909,Central European mixed forests,"356",0.0124533238117187,,Central_European_mixed_forest,4,Europe
+"507",18976,,0.872093023255814,Central European mixed forests,"106",0,,Central_European_mixed_forest,4,Europe
+"508",18977,,2.67441860465116,Central European mixed forests,"2578",13.7015785165878,,Central_European_mixed_forest,4,Europe
+"509",18978,,7.02325581395349,Central European mixed forests,"6321",3.65815597967454,,Central_European_mixed_forest,4,Europe
+"510",18979,,7.53488372093023,Central European mixed forests,"6470",0,,Central_European_mixed_forest,4,Europe
+"511",18980,,3.7093023255814,Central European mixed forests,"6618",0,,Central_European_mixed_forest,4,Europe
+"512",18981,,2.95348837209302,Central European mixed forests,"6763",0,,Central_European_mixed_forest,4,Europe
+"513",18982,,2.47674418604651,Central European mixed forests,"3643",0,,Central_European_mixed_forest,4,Europe
+"514",19058,,7.44186046511628,Central European mixed forests,"1",0.389931299886593,,Central_European_mixed_forest,4,Europe
+"515",19059,,7.13953488372093,Central European mixed forests,"2678",5.35068590990882,,Central_European_mixed_forest,4,Europe
+"516",19060,,8.7093023255814,Central European mixed forests,"6216",23.8326230428932,,Central_European_mixed_forest,4,Europe
+"517",19061,,10.7093023255814,Central European mixed forests,"6396",0,,Central_European_mixed_forest,4,Europe
+"518",19062,,5.24418604651163,Central European mixed forests,"6544",0,,Central_European_mixed_forest,4,Europe
+"519",19063,,3.63953488372093,Central European mixed forests,"6691",0,,Central_European_mixed_forest,4,Europe
+"520",19064,,3.63953488372093,Central European mixed forests,"6426",0,,Central_European_mixed_forest,4,Europe
+"521",19065,,1.94186046511628,Central European mixed forests,"239",0.0248385350321496,,Central_European_mixed_forest,4,Europe
+"522",19141,,8.53409090909091,Central European mixed forests,"5489",20.3673737029993,,Central_European_mixed_forest,4,Europe
+"523",19142,,8.11363636363636,Central European mixed forests,"6321",2.48022494941903,,Central_European_mixed_forest,4,Europe
+"524",19143,,10.5454545454545,Central European mixed forests,"6470",0,,Central_European_mixed_forest,4,Europe
+"525",19144,,7.52272727272727,Central European mixed forests,"6618",0,,Central_European_mixed_forest,4,Europe
+"526",19145,,3.32954545454545,Central European mixed forests,"6763",0,,Central_European_mixed_forest,4,Europe
+"527",19146,,3.20454545454545,Central European mixed forests,"4165",0.00159412837048332,,Central_European_mixed_forest,4,Europe
+"528",19147,,1.93181818181818,Central European mixed forests,"50",0.736314313255072,,Central_European_mixed_forest,4,Europe
+"529",19223,,9.73255813953488,Central European mixed forests,"1746",0.380128586832187,,Central_European_mixed_forest,4,Europe
+"530",19224,,11.046511627907,Central European mixed forests,"6245",0.395773842056686,,Central_European_mixed_forest,4,Europe
+"531",19225,,12.1162790697674,Central European mixed forests,"6396",0,,Central_European_mixed_forest,4,Europe
+"532",19226,,8.86046511627907,Central European mixed forests,"6544",0.152673972778324,,Central_European_mixed_forest,4,Europe
+"533",19227,,10.0232558139535,Central European mixed forests,"6691",0.0871979925668851,,Central_European_mixed_forest,4,Europe
+"534",19228,,4.09302325581395,Central European mixed forests,"6835",0.460110532846417,,Central_European_mixed_forest,4,Europe
+"535",19229,,2.53488372093023,Central European mixed forests,"1060",18.0969426748836,,Central_European_mixed_forest,4,Europe
+"536",19305,,8.8953488372093,Central European mixed forests,"3910",0.543789543430462,,Central_European_mixed_forest,4,Europe
+"537",19306,,10.8837209302326,Central European mixed forests,"6321",0.995460382790749,,Central_European_mixed_forest,4,Europe
+"538",19307,,8.74418604651163,Central European mixed forests,"6470",0.557767683515186,,Central_European_mixed_forest,4,Europe
+"539",19308,,14.593023255814,Central European mixed forests,"6618",0.816831718151047,,Central_European_mixed_forest,4,Europe
+"540",19309,,8.19767441860465,Central European mixed forests,"6763",5.52864714251419,,Central_European_mixed_forest,4,Europe
+"541",19310,,2.2093023255814,Central European mixed forests,"6783",14.8631530877702,,Central_European_mixed_forest,4,Europe
+"542",19311,,2.93023255813953,Central European mixed forests,"616",13.8306976334252,,Central_European_mixed_forest,4,Europe
+"543",19388,,12.9545454545455,Central European mixed forests,"4280",0.441934765766668,,Central_European_mixed_forest,4,Europe
+"544",19389,,10.1477272727273,Central European mixed forests,"6396",1.04691928176998,,Central_European_mixed_forest,4,Europe
+"545",19390,,19.3522727272727,Central European mixed forests,"6544",2.34229920342923,,Central_European_mixed_forest,4,Europe
+"546",19391,,16.1136363636364,Central European mixed forests,"6691",4.01806933502273,,Central_European_mixed_forest,4,Europe
+"547",19392,,2.98863636363636,Central European mixed forests,"6835",7.87940805010535,,Central_European_mixed_forest,4,Europe
+"548",19393,,2,Central European mixed forests,"6825",23.3627627404991,,Central_European_mixed_forest,4,Europe
+"549",19394,,2.01136363636364,Central European mixed forests,"335",6.36554024526436,,Central_European_mixed_forest,4,Europe
+"550",19470,,11.1511627906977,Central European mixed forests,"5354",1.01223110170744,,Central_European_mixed_forest,4,Europe
+"551",19471,,14.5,Central European mixed forests,"6470",2.41510932394539,,Central_European_mixed_forest,4,Europe
+"552",19472,,20.906976744186,Central European mixed forests,"6618",6.56997362749243,,Central_European_mixed_forest,4,Europe
+"553",19473,,6.77906976744186,Central European mixed forests,"6763",4.06178767927629,,Central_European_mixed_forest,4,Europe
+"554",19474,,2.31395348837209,Central European mixed forests,"6906",18.9928171864997,,Central_European_mixed_forest,4,Europe
+"555",19475,,1.51162790697674,Central European mixed forests,"6626",30.0277415998627,,Central_European_mixed_forest,4,Europe
+"556",19476,,1.34883720930233,Central European mixed forests,"2193",5.77413826204153,,Central_European_mixed_forest,4,Europe
+"557",19477,,1.82558139534884,Central European mixed forests,"150",0.791566226666421,,Central_European_mixed_forest,4,Europe
+"558",19477,,1.82558139534884,Central European mixed forests,"150",0.791566226666421,,Central_European_mixed_forest,5,Europe
+"559",19552,,13.5697674418605,Central European mixed forests,"35",0.454007686935714,,Central_European_mixed_forest,4,Europe
+"560",19553,,9.5,Central European mixed forests,"5603",0.889160225248843,,Central_European_mixed_forest,4,Europe
+"561",19554,,20.1860465116279,Central European mixed forests,"6544",7.51105842538775,,Central_European_mixed_forest,4,Europe
+"562",19555,,15.3720930232558,Central European mixed forests,"6691",10.2418260981162,,Central_European_mixed_forest,4,Europe
+"563",19556,,4.55813953488372,Central European mixed forests,"6835",10.5131639191358,,Central_European_mixed_forest,4,Europe
+"564",19557,,1.77906976744186,Central European mixed forests,"6669",40.6603198953399,,Central_European_mixed_forest,4,Europe
+"565",19558,,1.06976744186047,Central European mixed forests,"6274",12.0511575564264,,Central_European_mixed_forest,4,Europe
+"566",19559,,0.430232558139535,Central European mixed forests,"4465",1.21770706169608,,Central_European_mixed_forest,4,Europe
+"567",19559,,0.430232558139535,Central European mixed forests,"4465",1.21770706169608,,Central_European_mixed_forest,5,Europe
+"568",19560,,0.720930232558139,Central European mixed forests,"5244",1.12230761471571,,Central_European_mixed_forest,4,Europe
+"569",19561,,0.697674418604651,Central European mixed forests,"3157",2.71172537112421,,Central_European_mixed_forest,4,Europe
+"570",19634,,4.16279069767442,Central European mixed forests,"1105",1.7651354464961,,Central_European_mixed_forest,4,Europe
+"571",19635,,13.5,Central European mixed forests,"6470",2.55284374857654,,Central_European_mixed_forest,4,Europe
+"572",19636,,17.9651162790698,Central European mixed forests,"6618",17.6040663054038,,Central_European_mixed_forest,4,Europe
+"573",19637,,6.02325581395349,Central European mixed forests,"6763",10.0338014345199,,Central_European_mixed_forest,4,Europe
+"574",19638,,3.58139534883721,Central European mixed forests,"5155",24.786774313444,,Central_European_mixed_forest,4,Europe
+"575",19639,,1.75581395348837,Central European mixed forests,"7045",16.5924826277024,,Central_European_mixed_forest,4,Europe
+"576",19640,,0.290697674418605,Central European mixed forests,"4864",6.00831174645493,,Central_European_mixed_forest,4,Europe
+"577",19641,,0.151162790697674,Central European mixed forests,"4675",2.50124963597242,,Central_European_mixed_forest,4,Europe
+"578",19642,,0.0697674418604651,Central European mixed forests,"2976",7.99381813449792,,Central_European_mixed_forest,4,Europe
+"579",19643,,0,Central European mixed forests,"1466",16.1569116882389,,Central_European_mixed_forest,4,Europe
+"580",19717,,11.4886363636364,Central European mixed forests,"4231",1.9631504844107,,Central_European_mixed_forest,4,Europe
+"581",19718,,20.2272727272727,Central European mixed forests,"6544",3.27979761686702,,Central_European_mixed_forest,4,Europe
+"582",19719,,9.75,Central European mixed forests,"6691",10.9925474965568,,Central_European_mixed_forest,4,Europe
+"583",19720,,5.90909090909091,Central European mixed forests,"6835",22.4161673347562,,Central_European_mixed_forest,4,Europe
+"584",19721,,1.96590909090909,Central European mixed forests,"4118",29.1320697530753,,Central_European_mixed_forest,4,Europe
+"585",19722,,0.738636363636364,Central European mixed forests,"5555",21.6360828967262,,Central_European_mixed_forest,4,Europe
+"586",19723,,0.852272727272727,Central European mixed forests,"6365",5.62572025357257,,Central_European_mixed_forest,4,Europe
+"587",19724,,0.0568181818181818,Central European mixed forests,"1631",15.4018319557211,,Central_European_mixed_forest,4,Europe
+"588",19725,,0.0681818181818182,Central European mixed forests,"862",24.8914727838386,,Central_European_mixed_forest,4,Europe
+"589",19798,,10.2209302325581,Central European mixed forests,"394",1.37896960465105,,Central_European_mixed_forest,4,Europe
+"590",19799,,12.0581395348837,Central European mixed forests,"6461",2.66957620386649,,Central_European_mixed_forest,4,Europe
+"591",19800,,13,Central European mixed forests,"6618",7.07810681025644,,Central_European_mixed_forest,4,Europe
+"592",19801,,5.90697674418605,Central European mixed forests,"6763",23.5759092080064,,Central_European_mixed_forest,4,Europe
+"593",19802,,2.08139534883721,Central European mixed forests,"4755",27.2390753428264,,Central_European_mixed_forest,4,Europe
+"594",19803,,1.30232558139535,Central European mixed forests,"5689",38.8383541602017,,Central_European_mixed_forest,4,Europe
+"595",19804,,0.127906976744186,Central European mixed forests,"4520",29.849032585473,,Central_European_mixed_forest,4,Europe
+"596",19805,,0.0232558139534884,Central European mixed forests,"1016",25.6943151193514,,Central_European_mixed_forest,4,Europe
+"597",19881,,10.1279069767442,Central European mixed forests,"3087",3.48767236672982,,Central_European_mixed_forest,4,Europe
+"598",19882,,11.4651162790698,Central European mixed forests,"6544",6.6619303327988,,Central_European_mixed_forest,4,Europe
+"599",19883,,12.093023255814,Central European mixed forests,"6691",10.0331055020763,,Central_European_mixed_forest,4,Europe
+"600",19884,,2.69767441860465,Central European mixed forests,"6005",14.9801582335055,,Central_European_mixed_forest,4,Europe
+"601",19885,,1.87209302325581,Central European mixed forests,"966",47.6486341007605,,Central_European_mixed_forest,4,Europe
+"602",19886,,0.534883720930233,Central European mixed forests,"2954",51.4642600944762,,Central_European_mixed_forest,4,Europe
+"603",19887,,0.0348837209302326,Central European mixed forests,"400",48.59455119804,,Central_European_mixed_forest,4,Europe
+"604",19963,,7.10227272727273,Central European mixed forests,"4694",6.86443185752402,,Central_European_mixed_forest,4,Europe
+"605",19964,,5.44318181818182,Central European mixed forests,"6618",8.21079719284047,,Central_European_mixed_forest,4,Europe
+"606",19965,,3.80681818181818,Central European mixed forests,"2447",23.3211274463144,,Central_European_mixed_forest,4,Europe
+"607",19966,,1.73863636363636,Central European mixed forests,"1849",36.3471963968151,,Central_European_mixed_forest,4,Europe
+"608",19967,,1.26136363636364,Central European mixed forests,"3667",59.4739299036085,,Central_European_mixed_forest,4,Europe
+"609",20046,,7.12790697674419,Central European mixed forests,"4505",19.5003798629617,,Central_European_mixed_forest,4,Europe
+"610",20047,,6.69767441860465,Central European mixed forests,"4115",24.7146349113913,,Central_European_mixed_forest,4,Europe
+"611",20049,,3.59302325581395,Central European mixed forests,"2849",41.338106625383,,Central_European_mixed_forest,4,Europe
+"612",20050,,0.569767441860465,Central European mixed forests,"1114",70.8107922898326,,Central_European_mixed_forest,4,Europe
+"613",20127,,6.38372093023256,Central European mixed forests,"3016",12.4252959216858,,Central_European_mixed_forest,4,Europe
+"614",20128,,4.2093023255814,Central European mixed forests,"6362",9.89362367444564,,Central_European_mixed_forest,4,Europe
+"615",20129,,4.15116279069767,Central European mixed forests,"11",30.7771079978135,,Central_European_mixed_forest,4,Europe
+"616",20131,,2.17441860465116,Central European mixed forests,"3084",48.7617363278872,,Central_European_mixed_forest,4,Europe
+"617",20209,,5.93181818181818,Central European mixed forests,"3579",21.7289122348033,,Central_European_mixed_forest,4,Europe
+"618",20210,,4.44318181818182,Central European mixed forests,"6033",16.2921689172401,,Central_European_mixed_forest,4,Europe
+"619",20211,,2.85227272727273,Central European mixed forests,"1330",20.9954085613427,,Central_European_mixed_forest,4,Europe
+"620",20213,,4.48863636363636,Central European mixed forests,"3",68.0184090045849,,Central_European_mixed_forest,4,Europe
+"621",20214,,0.5,Central European mixed forests,"399",64.2247773297494,,Central_European_mixed_forest,4,Europe
+"622",20290,,7.90697674418605,Central European mixed forests,"656",14.0989395055422,,Central_European_mixed_forest,4,Europe
+"623",20291,,5.72093023255814,Central European mixed forests,"3849",15.3517576042288,,Central_European_mixed_forest,4,Europe
+"624",20373,,5.04651162790698,Central European mixed forests,"826",16.3250120648784,,Central_European_mixed_forest,4,Europe
+"625",20374,,3.02325581395349,Central European mixed forests,"0",21.3487623309499,,Central_European_mixed_forest,4,Europe
+"626",18248,,2.23863636363636,Dinaric Mountains mixed forests,"114",0.270594897710661,,Dinaric_Mountains_mixed_forest,4,Europe
+"627",18330,,1.70238095238095,Dinaric Mountains mixed forests,"3586",0.603393728195245,,Dinaric_Mountains_mixed_forest,4,Europe
+"628",18331,,0.571428571428571,Dinaric Mountains mixed forests,"98",0.108043384938668,,Dinaric_Mountains_mixed_forest,4,Europe
+"629",18412,,1.95454545454545,Dinaric Mountains mixed forests,"8",0.127125647830211,,Dinaric_Mountains_mixed_forest,4,Europe
+"630",18413,,1.86363636363636,Dinaric Mountains mixed forests,"3737",0.576441624898007,,Dinaric_Mountains_mixed_forest,4,Europe
+"631",18414,,0.727272727272727,Dinaric Mountains mixed forests,"227",0,,Dinaric_Mountains_mixed_forest,4,Europe
+"632",18495,,0.875,Dinaric Mountains mixed forests,"4746",3.18274271704107,,Dinaric_Mountains_mixed_forest,4,Europe
+"633",18496,,0.693181818181818,Dinaric Mountains mixed forests,"1117",3.39585131211135,,Dinaric_Mountains_mixed_forest,4,Europe
+"634",18578,,0.892857142857143,Dinaric Mountains mixed forests,"5004",10.3391373085621,,Dinaric_Mountains_mixed_forest,4,Europe
+"635",18579,,0.416666666666667,Dinaric Mountains mixed forests,"278",6.85015503904898,,Dinaric_Mountains_mixed_forest,4,Europe
+"636",18659,,0.181818181818182,Dinaric Mountains mixed forests,"684",0.833631049562326,,Dinaric_Mountains_mixed_forest,4,Europe
+"637",18660,,1.11363636363636,Dinaric Mountains mixed forests,"7039",13.0424492574603,,Dinaric_Mountains_mixed_forest,4,Europe
+"638",18661,,0.818181818181818,Dinaric Mountains mixed forests,"124",2.10671922074819,,Dinaric_Mountains_mixed_forest,4,Europe
+"639",18742,,0.348837209302326,Dinaric Mountains mixed forests,"4118",1.25192818748832,,Dinaric_Mountains_mixed_forest,4,Europe
+"640",18743,,1.32558139534884,Dinaric Mountains mixed forests,"6260",8.69597191235492,,Dinaric_Mountains_mixed_forest,4,Europe
+"641",18824,,0.674418604651163,Dinaric Mountains mixed forests,"4616",0.96039638434162,,Dinaric_Mountains_mixed_forest,4,Europe
+"642",18825,,1.27906976744186,Dinaric Mountains mixed forests,"5870",8.92813060189882,,Dinaric_Mountains_mixed_forest,4,Europe
+"643",18907,,0.590909090909091,Dinaric Mountains mixed forests,"3167",0.805543106264146,,Dinaric_Mountains_mixed_forest,4,Europe
+"644",18908,,1.10227272727273,Dinaric Mountains mixed forests,"5441",8.48460070209757,,Dinaric_Mountains_mixed_forest,4,Europe
+"645",18989,,0.36046511627907,Dinaric Mountains mixed forests,"611",2.39866920483069,,Dinaric_Mountains_mixed_forest,4,Europe
+"646",19557,,1.77906976744186,East European forest steppe,"307",40.6603198953399,,Eastern_European_forest_steppe,4,Europe
+"647",19638,,3.58139534883721,East European forest steppe,"1755",24.786774313444,,Eastern_European_forest_steppe,4,Europe
+"648",19639,,1.75581395348837,East European forest steppe,"2",16.5924826277024,,Eastern_European_forest_steppe,4,Europe
+"649",19721,,1.96590909090909,East European forest steppe,"2858",29.1320697530753,,Eastern_European_forest_steppe,4,Europe
+"650",19802,,2.08139534883721,East European forest steppe,"2153",27.2390753428264,,Eastern_European_forest_steppe,4,Europe
+"651",19803,,1.30232558139535,East European forest steppe,"1356",38.8383541602017,,Eastern_European_forest_steppe,4,Europe
+"652",19804,,0.127906976744186,East European forest steppe,"158",29.849032585473,,Eastern_European_forest_steppe,4,Europe
+"653",19884,,2.69767441860465,East European forest steppe,"437",14.9801582335055,,Eastern_European_forest_steppe,4,Europe
+"654",19884,,2.69767441860465,East European forest steppe,"383",14.9801582335055,,Eastern_European_forest_steppe,4,Europe
+"655",19885,,1.87209302325581,East European forest steppe,"6013",47.6486341007605,,Eastern_European_forest_steppe,4,Europe
+"656",19886,,0.534883720930233,East European forest steppe,"3684",51.4642600944762,,Eastern_European_forest_steppe,4,Europe
+"657",19887,,0.0348837209302326,East European forest steppe,"561",48.59455119804,,Eastern_European_forest_steppe,4,Europe
+"658",19965,,3.80681818181818,East European forest steppe,"3151",23.3211274463144,,Eastern_European_forest_steppe,4,Europe
+"659",19966,,1.73863636363636,East European forest steppe,"1587",36.3471963968151,,Eastern_European_forest_steppe,4,Europe
+"660",19966,,1.73863636363636,East European forest steppe,"2669",36.3471963968151,,Eastern_European_forest_steppe,4,Europe
+"661",19967,,1.26136363636364,East European forest steppe,"3381",59.4739299036085,,Eastern_European_forest_steppe,4,Europe
+"662",19968,,0.113636363636364,East European forest steppe,"750",62.0011050112049,,Eastern_European_forest_steppe,4,Europe
+"663",20047,,6.69767441860465,East European forest steppe,"2577",24.7146349113913,,Eastern_European_forest_steppe,4,Europe
+"664",20048,,6.94186046511628,East European forest steppe,"6698",48.7103345196381,,Eastern_European_forest_steppe,4,Europe
+"665",20049,,3.59302325581395,East European forest steppe,"169",41.338106625383,,Eastern_European_forest_steppe,4,Europe
+"666",20049,,3.59302325581395,East European forest steppe,"3960",41.338106625383,,Eastern_European_forest_steppe,4,Europe
+"667",20050,,0.569767441860465,East European forest steppe,"2632",70.8107922898326,,Eastern_European_forest_steppe,4,Europe
+"668",20128,,4.2093023255814,East European forest steppe,"257",9.89362367444564,,Eastern_European_forest_steppe,4,Europe
+"669",20129,,4.15116279069767,East European forest steppe,"6751",30.7771079978135,,Eastern_European_forest_steppe,4,Europe
+"670",20130,,9.13953488372093,East European forest steppe,"6906",56.6744515576963,,Eastern_European_forest_steppe,4,Europe
+"671",20131,,2.17441860465116,East European forest steppe,"121",48.7617363278872,,Eastern_European_forest_steppe,4,Europe
+"672",20131,,2.17441860465116,East European forest steppe,"2780",48.7617363278872,,Eastern_European_forest_steppe,4,Europe
+"673",20210,,4.44318181818182,East European forest steppe,"511",16.2921689172401,,Eastern_European_forest_steppe,4,Europe
+"674",20211,,2.85227272727273,East European forest steppe,"5359",20.9954085613427,,Eastern_European_forest_steppe,4,Europe
+"675",20212,,4,East European forest steppe,"6835",24.0994293951867,,Eastern_European_forest_steppe,4,Europe
+"676",20213,,4.48863636363636,East European forest steppe,"6974",68.0184090045849,,Eastern_European_forest_steppe,4,Europe
+"677",20214,,0.5,East European forest steppe,"474",64.2247773297494,,Eastern_European_forest_steppe,4,Europe
+"678",20290,,7.90697674418605,East European forest steppe,"322",14.0989395055422,,Eastern_European_forest_steppe,4,Europe
+"679",20291,,5.72093023255814,East European forest steppe,"2248",15.3517576042288,,Eastern_European_forest_steppe,4,Europe
+"680",20292,,3,East European forest steppe,"6618",30.2833892584615,,Eastern_European_forest_steppe,4,Europe
+"681",20293,,2.08139534883721,East European forest steppe,"6763",28.8581744715726,,Eastern_European_forest_steppe,4,Europe
+"682",20294,,1.2906976744186,East European forest steppe,"6906",36.1153918583307,,Eastern_European_forest_steppe,4,Europe
+"683",20295,,1.01162790697674,East European forest steppe,"3758",57.5507528320091,,Eastern_European_forest_steppe,4,Europe
+"684",20372,,5.53488372093023,East European forest steppe,"2867",23.3265886402271,,Eastern_European_forest_steppe,4,Europe
+"685",20373,,5.04651162790698,East European forest steppe,"3744",16.3250120648784,,Eastern_European_forest_steppe,4,Europe
+"686",20374,,3.02325581395349,East European forest steppe,"6542",21.3487623309499,,Eastern_European_forest_steppe,4,Europe
+"687",20375,,1.83720930232558,East European forest steppe,"6691",30.6320494227879,,Eastern_European_forest_steppe,4,Europe
+"688",20376,,1.55813953488372,East European forest steppe,"6835",16.0970673437612,,Eastern_European_forest_steppe,4,Europe
+"689",20377,,0.488372093023256,East European forest steppe,"5468",68.6842848410336,,Eastern_European_forest_steppe,4,Europe
+"690",20453,,6.98863636363636,East European forest steppe,"609",12.4491868129942,,Eastern_European_forest_steppe,4,Europe
+"691",20454,,4.06818181818182,East European forest steppe,"6240",13.022345772605,,Eastern_European_forest_steppe,4,Europe
+"692",20455,,2.38636363636364,East European forest steppe,"6470",34.3759096104007,,Eastern_European_forest_steppe,4,Europe
+"693",20456,,1.86363636363636,East European forest steppe,"6618",28.344530761639,,Eastern_European_forest_steppe,4,Europe
+"694",20457,,1.26136363636364,East European forest steppe,"6763",19.1668877879361,,Eastern_European_forest_steppe,4,Europe
+"695",20458,,0.909090909090909,East European forest steppe,"6499",28.6787048850669,,Eastern_European_forest_steppe,4,Europe
+"696",20459,,0.113636363636364,East European forest steppe,"264",67.3180708795537,,Eastern_European_forest_steppe,4,Europe
+"697",20535,,5.96511627906977,East European forest steppe,"966",9.05231273864371,,Eastern_European_forest_steppe,4,Europe
+"698",20536,,4.48837209302326,East European forest steppe,"6245",10.2631273361801,,Eastern_European_forest_steppe,4,Europe
+"699",20537,,2.59302325581395,East European forest steppe,"6396",37.6678124672438,,Eastern_European_forest_steppe,4,Europe
+"700",20538,,1.26744186046512,East European forest steppe,"6544",38.4554525290726,,Eastern_European_forest_steppe,4,Europe
+"701",20539,,1.06976744186047,East European forest steppe,"6691",28.4113968968789,,Eastern_European_forest_steppe,4,Europe
+"702",20540,,1.05813953488372,East European forest steppe,"5491",14.8167280956233,,Eastern_European_forest_steppe,4,Europe
+"703",20541,,0.686046511627907,East European forest steppe,"338",55.4754700984878,,Eastern_European_forest_steppe,4,Europe
+"704",20616,,7.77906976744186,East European forest steppe,"44",8.57210571187059,,Eastern_European_forest_steppe,4,Europe
+"705",20617,,4.33720930232558,East European forest steppe,"5072",21.909481370165,,Eastern_European_forest_steppe,4,Europe
+"706",20618,,2.6046511627907,East European forest steppe,"6321",36.2608143779794,,Eastern_European_forest_steppe,4,Europe
+"707",20619,,1.36046511627907,East European forest steppe,"6470",38.3795604239177,,Eastern_European_forest_steppe,4,Europe
+"708",20620,,0.686046511627907,East European forest steppe,"6618",45.7969026291903,,Eastern_European_forest_steppe,4,Europe
+"709",20621,,0.86046511627907,East European forest steppe,"6572",11.3145793293272,,Eastern_European_forest_steppe,4,Europe
+"710",20622,,0.627906976744186,East European forest steppe,"100",34.1602941553024,,Eastern_European_forest_steppe,4,Europe
+"711",20699,,7.17441860465116,East European forest steppe,"809",17.3951252657231,,Eastern_European_forest_steppe,4,Europe
+"712",20700,,2.72093023255814,East European forest steppe,"6245",32.700195790023,,Eastern_European_forest_steppe,4,Europe
+"713",20701,,1.38372093023256,East European forest steppe,"6396",43.8164566079006,,Eastern_European_forest_steppe,4,Europe
+"714",20702,,0.86046511627907,East European forest steppe,"6544",32.5408730757417,,Eastern_European_forest_steppe,4,Europe
+"715",20703,,0.802325581395349,East European forest steppe,"6691",24.2211920688874,,Eastern_European_forest_steppe,4,Europe
+"716",20704,,0.627906976744186,East European forest steppe,"1711",9.11361544031372,,Eastern_European_forest_steppe,4,Europe
+"717",20781,,18.4545454545455,East European forest steppe,"2753",22.101435596567,,Eastern_European_forest_steppe,4,Europe
+"718",20782,,1.44318181818182,East European forest steppe,"6321",32.9047331371797,,Eastern_European_forest_steppe,4,Europe
+"719",20783,,1.52272727272727,East European forest steppe,"6470",37.5331361927625,,Eastern_European_forest_steppe,4,Europe
+"720",20784,,1.71590909090909,East European forest steppe,"6618",29.7408118649447,,Eastern_European_forest_steppe,4,Europe
+"721",20785,,0.727272727272727,East European forest steppe,"4191",24.997642761503,,Eastern_European_forest_steppe,4,Europe
+"722",20864,,9.26744186046512,East European forest steppe,"3734",21.7728673796051,,Eastern_European_forest_steppe,4,Europe
+"723",20865,,1.83720930232558,East European forest steppe,"6396",45.3594871146086,,Eastern_European_forest_steppe,4,Europe
+"724",20866,,0.697674418604651,East European forest steppe,"6544",46.3192868038122,,Eastern_European_forest_steppe,4,Europe
+"725",20867,,0.697674418604651,East European forest steppe,"6449",33.1580633245012,,Eastern_European_forest_steppe,4,Europe
+"726",20945,,7.6046511627907,East European forest steppe,"711",11.301914727634,,Eastern_European_forest_steppe,4,Europe
+"727",20946,,1.91860465116279,East European forest steppe,"5105",24.3457158530327,,Eastern_European_forest_steppe,4,Europe
+"728",20947,,2.72093023255814,East European forest steppe,"6470",26.8798789603886,,Eastern_European_forest_steppe,4,Europe
+"729",20948,,0.290697674418605,East European forest steppe,"6618",53.6956752593388,,Eastern_European_forest_steppe,4,Europe
+"730",20949,,0.511627906976744,East European forest steppe,"4092",23.3949213485962,,Eastern_European_forest_steppe,4,Europe
+"731",21028,,3.46590909090909,East European forest steppe,"4589",19.7377560588674,,Eastern_European_forest_steppe,4,Europe
+"732",21029,,2.51136363636364,East European forest steppe,"6396",21.3612298121737,,Eastern_European_forest_steppe,4,Europe
+"733",21030,,0.704545454545455,East European forest steppe,"6544",47.4359797010956,,Eastern_European_forest_steppe,4,Europe
+"734",21031,,0.693181818181818,East European forest steppe,"4961",36.0745250929149,,Eastern_European_forest_steppe,4,Europe
+"735",21032,,0.397727272727273,East European forest steppe,"6",20.9543104321915,,Eastern_European_forest_steppe,4,Europe
+"736",21108,,5.8953488372093,East European forest steppe,"1056",8.4533756709209,,Eastern_European_forest_steppe,4,Europe
+"737",21109,,3.38372093023256,East European forest steppe,"1559",12.9857631471169,,Eastern_European_forest_steppe,4,Europe
+"738",21110,,2.16279069767442,East European forest steppe,"6321",23.1632939373772,,Eastern_European_forest_steppe,4,Europe
+"739",21111,,1.11627906976744,East European forest steppe,"6470",37.9229418368201,,Eastern_European_forest_steppe,4,Europe
+"740",21112,,0.511627906976744,East European forest steppe,"6245",41.2114015691287,,Eastern_European_forest_steppe,4,Europe
+"741",21190,,7.22093023255814,East European forest steppe,"1300",5.78722495580856,,Eastern_European_forest_steppe,4,Europe
+"742",21191,,2.81395348837209,East European forest steppe,"1422",12.2065478401094,,Eastern_European_forest_steppe,4,Europe
+"743",21192,,3.15116279069767,East European forest steppe,"5206",12.3958531328433,,Eastern_European_forest_steppe,4,Europe
+"744",21193,,1.46511627906977,East European forest steppe,"6396",22.7453716236605,,Eastern_European_forest_steppe,4,Europe
+"745",21194,,0.732558139534884,East European forest steppe,"6539",42.7932252129963,,Eastern_European_forest_steppe,4,Europe
+"746",21195,,0.0697674418604651,East European forest steppe,"209",40.344987148268,,Eastern_European_forest_steppe,4,Europe
+"747",21272,,6.63636363636364,East European forest steppe,"4379",19.7667159394902,,Eastern_European_forest_steppe,4,Europe
+"748",21273,,1.88636363636364,East European forest steppe,"4606",17.109881918601,,Eastern_European_forest_steppe,4,Europe
+"749",21274,,1.36363636363636,East European forest steppe,"6321",28.9135654986758,,Eastern_European_forest_steppe,4,Europe
+"750",21275,,1.19318181818182,East European forest steppe,"6470",23.1438615772351,,Eastern_European_forest_steppe,4,Europe
+"751",21276,,0.340909090909091,East European forest steppe,"1886",35.4808284858764,,Eastern_European_forest_steppe,4,Europe
+"752",21354,,11.7209302325581,East European forest steppe,"1008",16.0012422046467,,Eastern_European_forest_steppe,4,Europe
+"753",21355,,1.97674418604651,East European forest steppe,"6093",25.172227267128,,Eastern_European_forest_steppe,4,Europe
+"754",21356,,1.88372093023256,East European forest steppe,"5233",26.4390486587496,,Eastern_European_forest_steppe,4,Europe
+"755",21357,,2.91860465116279,East European forest steppe,"6396",5.6857951490579,,Eastern_European_forest_steppe,4,Europe
+"756",21358,,1.09302325581395,East European forest steppe,"5445",10.4446606946815,,Eastern_European_forest_steppe,4,Europe
+"757",21436,,5.8953488372093,East European forest steppe,"5083",1.83563246765438,,Eastern_European_forest_steppe,4,Europe
+"758",21437,,3.04651162790698,East European forest steppe,"6044",13.7979114490267,,Eastern_European_forest_steppe,4,Europe
+"759",21438,,2.98837209302326,East European forest steppe,"6321",8.24691868539817,,Eastern_European_forest_steppe,4,Europe
+"760",21439,,2.03488372093023,East European forest steppe,"6223",4.00010273268908,,Eastern_European_forest_steppe,4,Europe
+"761",21440,,0.779069767441861,East European forest steppe,"1388",11.1901946935911,,Eastern_European_forest_steppe,4,Europe
+"762",21518,,10.3181818181818,East European forest steppe,"821",8.60604158371093,,Eastern_European_forest_steppe,4,Europe
+"763",21519,,1.47727272727273,East European forest steppe,"6093",3.26662872384063,,Eastern_European_forest_steppe,4,Europe
+"764",21520,,1.5,East European forest steppe,"6245",24.8514196219123,,Eastern_European_forest_steppe,4,Europe
+"765",21521,,2.40909090909091,East European forest steppe,"6396",9.84586866799873,,Eastern_European_forest_steppe,4,Europe
+"766",21522,,1.01136363636364,East European forest steppe,"4363",6.41140585040711,,Eastern_European_forest_steppe,4,Europe
+"767",21523,,0.159090909090909,East European forest steppe,"46",15.5849494886537,,Eastern_European_forest_steppe,4,Europe
+"768",21600,,4.32558139534884,East European forest steppe,"2608",5.23713748253981,,Eastern_European_forest_steppe,4,Europe
+"769",21601,,1.24418604651163,East European forest steppe,"6170",20.8159277055016,,Eastern_European_forest_steppe,4,Europe
+"770",21602,,1.47674418604651,East European forest steppe,"6321",12.4597851200542,,Eastern_European_forest_steppe,4,Europe
+"771",21603,,1.41860465116279,East European forest steppe,"5069",19.1272590078617,,Eastern_European_forest_steppe,4,Europe
+"772",21604,,0.302325581395349,East European forest steppe,"4",19.2215136167061,,Eastern_European_forest_steppe,4,Europe
+"773",21683,,1.82558139534884,East European forest steppe,"5381",7.70747111267862,,Eastern_European_forest_steppe,4,Europe
+"774",21684,,1.93023255813953,East European forest steppe,"6245",20.9949947316548,,Eastern_European_forest_steppe,4,Europe
+"775",21685,,1.95348837209302,East European forest steppe,"5383",25.3767565423182,,Eastern_European_forest_steppe,4,Europe
+"776",21764,,1.6046511627907,East European forest steppe,"2137",8.00448355273557,,Eastern_European_forest_steppe,4,Europe
+"777",21765,,1.30232558139535,East European forest steppe,"6170",19.7450340469199,,Eastern_European_forest_steppe,4,Europe
+"778",21766,,1.30232558139535,East European forest steppe,"6321",27.4694296963771,,Eastern_European_forest_steppe,4,Europe
+"779",21767,,1.65116279069767,East European forest steppe,"1763",16.756786160379,,Eastern_European_forest_steppe,4,Europe
+"780",21847,,2.04545454545455,East European forest steppe,"4911",15.0696923159208,,Eastern_European_forest_steppe,4,Europe
+"781",21848,,1.61363636363636,East European forest steppe,"6245",20.5115146383788,,Eastern_European_forest_steppe,4,Europe
+"782",21849,,1.04545454545455,East European forest steppe,"5003",25.1555405917109,,Eastern_European_forest_steppe,4,Europe
+"783",21928,,2.45348837209302,East European forest steppe,"481",6.93866770642485,,Eastern_European_forest_steppe,4,Europe
+"784",21929,,1.66279069767442,East European forest steppe,"6170",11.7287346434562,,Eastern_European_forest_steppe,4,Europe
+"785",21930,,1.30232558139535,East European forest steppe,"6054",11.7682412859493,,Eastern_European_forest_steppe,4,Europe
+"786",21931,,1.2093023255814,East European forest steppe,"41",22.1995891653918,,Eastern_European_forest_steppe,4,Europe
+"787",22011,,1.55813953488372,East European forest steppe,"4543",13.2748810878205,,Eastern_European_forest_steppe,4,Europe
+"788",22012,,1.2906976744186,East European forest steppe,"6245",5.55356172787034,,Eastern_European_forest_steppe,4,Europe
+"789",22013,,0.63953488372093,East European forest steppe,"1736",14.9620076051413,,Eastern_European_forest_steppe,4,Europe
+"790",22092,,4.61363636363636,East European forest steppe,"2527",9.8541376705646,,Eastern_European_forest_steppe,4,Europe
+"791",22093,,1.36363636363636,East European forest steppe,"6170",7.02695527463503,,Eastern_European_forest_steppe,4,Europe
+"792",22094,,1.01136363636364,East European forest steppe,"6153",3.61817299979867,,Eastern_European_forest_steppe,4,Europe
+"793",22095,,0.136363636363636,East European forest steppe,"201",22.685838382845,,Eastern_European_forest_steppe,4,Europe
+"794",22175,,3.87209302325581,East European forest steppe,"5231",10.5475652140562,,Eastern_European_forest_steppe,4,Europe
+"795",22176,,1.15116279069767,East European forest steppe,"4743",6.02557200769278,,Eastern_European_forest_steppe,4,Europe
+"796",22177,,1.01162790697674,East European forest steppe,"4155",4.32225919926979,,Eastern_European_forest_steppe,4,Europe
+"797",22256,,2.24418604651163,East European forest steppe,"1257",2.17977377779813,,Eastern_European_forest_steppe,4,Europe
+"798",22257,,1.2093023255814,East European forest steppe,"6132",5.50926287449668,,Eastern_European_forest_steppe,4,Europe
+"799",22258,,1.16279069767442,East European forest steppe,"1147",6.84373493400753,,Eastern_European_forest_steppe,4,Europe
+"800",22259,,0.813953488372093,East European forest steppe,"1984",7.92236556395185,,Eastern_European_forest_steppe,4,Europe
+"801",22339,,2.05681818181818,East European forest steppe,"5851",2.07187426109402,,Eastern_European_forest_steppe,4,Europe
+"802",22340,,2.10227272727273,East European forest steppe,"6245",2.78770952419222,,Eastern_European_forest_steppe,4,Europe
+"803",22341,,1.42045454545455,East European forest steppe,"5504",5.62311478203842,,Eastern_European_forest_steppe,4,Europe
+"804",22342,,0.761363636363636,East European forest steppe,"4360",3.68928681360792,,Eastern_European_forest_steppe,4,Europe
+"805",22420,,1.95348837209302,East European forest steppe,"1186",0.348402662432555,,Eastern_European_forest_steppe,4,Europe
+"806",22421,,2.55813953488372,East European forest steppe,"0",0.582273906098647,,Eastern_European_forest_steppe,4,Europe
+"807",22421,,2.55813953488372,East European forest steppe,"4034",0.582273906098647,,Eastern_European_forest_steppe,4,Europe
+"808",22422,,2.34883720930233,East European forest steppe,"5109",0.0776264578009498,,Eastern_European_forest_steppe,4,Europe
+"809",22423,,1.94186046511628,East European forest steppe,"5854",0.54159455910891,,Eastern_European_forest_steppe,4,Europe
+"810",22424,,1.33720930232558,East European forest steppe,"5523",9.41322622079494,,Eastern_European_forest_steppe,4,Europe
+"811",22504,,1.86046511627907,East European forest steppe,"705",0.223983088009446,,Eastern_European_forest_steppe,4,Europe
+"812",22505,,1.8953488372093,East European forest steppe,"473",1.60610674157042,,Eastern_European_forest_steppe,4,Europe
+"813",22506,,1.30232558139535,East European forest steppe,"211",2.80787822503098,,Eastern_European_forest_steppe,4,Europe
+"814",22507,,0.36046511627907,East European forest steppe,"1237",36.9052996429785,,Eastern_European_forest_steppe,4,Europe
+"815",16766,,1.73255813953488,English Lowlands beech forests,"259",0,,English_lowlands_forest,4,Europe
+"816",16767,,2.12790697674419,English Lowlands beech forests,"4745",0.0484742547427052,,English_lowlands_forest,4,Europe
+"817",16768,,0.523255813953488,English Lowlands beech forests,"742",0,,English_lowlands_forest,4,Europe
+"818",16848,,1.17441860465116,English Lowlands beech forests,"4646",0,,English_lowlands_forest,4,Europe
+"819",16849,,1.77906976744186,English Lowlands beech forests,"5746",0.239534117737592,,English_lowlands_forest,4,Europe
+"820",16930,,1.71590909090909,English Lowlands beech forests,"1046",0.00662869151711919,,English_lowlands_forest,4,Europe
+"821",16931,,1.61363636363636,English Lowlands beech forests,"6691",0.148447831950359,,English_lowlands_forest,4,Europe
+"822",16932,,0.693181818181818,English Lowlands beech forests,"1071",0,,English_lowlands_forest,4,Europe
+"823",17011,,5,English Lowlands beech forests,"15",0.0769346183423932,,English_lowlands_forest,4,Europe
+"824",17012,,4.02325581395349,English Lowlands beech forests,"5513",0.231697340887265,,English_lowlands_forest,4,Europe
+"825",17013,,1.31395348837209,English Lowlands beech forests,"5035",0,,English_lowlands_forest,4,Europe
+"826",17094,,5.09302325581395,English Lowlands beech forests,"731",0.161940289743518,,English_lowlands_forest,4,Europe
+"827",17095,,2.26744186046512,English Lowlands beech forests,"5000",0.203438704793329,,English_lowlands_forest,4,Europe
+"828",17096,,0.302325581395349,English Lowlands beech forests,"546",0,,English_lowlands_forest,4,Europe
+"829",17175,,1.56818181818182,English Lowlands beech forests,"62",0,,English_lowlands_forest,4,Europe
+"830",17176,,1.95454545454545,English Lowlands beech forests,"2037",0.313276508015314,,English_lowlands_forest,4,Europe
+"831",17177,,0.886363636363636,English Lowlands beech forests,"544",0,,English_lowlands_forest,4,Europe
+"832",16026,,0.558139534883721,North Atlantic moist mixed forests,"30",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"833",16028,,2.41860465116279,North Atlantic moist mixed forests,"26",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"834",16108,,9.19318181818182,North Atlantic moist mixed forests,"1414",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"835",16109,,13.0227272727273,North Atlantic moist mixed forests,"1254",0.973110103433815,,North_Atlantic_moist_mixed_forest,4,Europe
+"836",16110,,7.63636363636364,North Atlantic moist mixed forests,"2033",0.138739527064883,,North_Atlantic_moist_mixed_forest,4,Europe
+"837",16189,,3.2906976744186,North Atlantic moist mixed forests,"588",0.387900962443301,,North_Atlantic_moist_mixed_forest,4,Europe
+"838",16190,,15.4883720930233,North Atlantic moist mixed forests,"3649",0.225824364511758,,North_Atlantic_moist_mixed_forest,4,Europe
+"839",16191,,9.69767441860465,North Atlantic moist mixed forests,"31",0.0200881665992238,,North_Atlantic_moist_mixed_forest,4,Europe
+"840",16191,,9.69767441860465,North Atlantic moist mixed forests,"181",0.0200881665992238,,North_Atlantic_moist_mixed_forest,4,Europe
+"841",16192,,6.76744186046512,North Atlantic moist mixed forests,"1262",0.076229608248428,,North_Atlantic_moist_mixed_forest,4,Europe
+"842",16269,,0.558139534883721,North Atlantic moist mixed forests,"1",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"843",16269,,0.558139534883721,North Atlantic moist mixed forests,"43",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"844",16271,,3.33720930232558,North Atlantic moist mixed forests,"831",0.056792977949271,,North_Atlantic_moist_mixed_forest,4,Europe
+"845",16272,,18.8023255813953,North Atlantic moist mixed forests,"4505",0.675847405425893,,North_Atlantic_moist_mixed_forest,4,Europe
+"846",16273,,15.9883720930233,North Atlantic moist mixed forests,"481",0.22353814141987,,North_Atlantic_moist_mixed_forest,4,Europe
+"847",16350,,9.67441860465116,North Atlantic moist mixed forests,"1175",0.121465145863285,,North_Atlantic_moist_mixed_forest,4,Europe
+"848",16350,,9.67441860465116,North Atlantic moist mixed forests,"0",0.121465145863285,,North_Atlantic_moist_mixed_forest,4,Europe
+"849",16350,,9.67441860465116,North Atlantic moist mixed forests,"240",0.121465145863285,,North_Atlantic_moist_mixed_forest,4,Europe
+"850",16351,,3.62790697674419,North Atlantic moist mixed forests,"69",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"851",16351,,3.62790697674419,North Atlantic moist mixed forests,"251",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"852",16351,,3.62790697674419,North Atlantic moist mixed forests,"4",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"853",16351,,3.62790697674419,North Atlantic moist mixed forests,"61",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"854",16351,,3.62790697674419,North Atlantic moist mixed forests,"25",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"855",16352,,0,North Atlantic moist mixed forests,"39",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"856",16353,,8.87209302325581,North Atlantic moist mixed forests,"2782",0.364154867377982,,North_Atlantic_moist_mixed_forest,4,Europe
+"857",16432,,10.1477272727273,North Atlantic moist mixed forests,"791",0.434205377887162,,North_Atlantic_moist_mixed_forest,4,Europe
+"858",16433,,11.1136363636364,North Atlantic moist mixed forests,"37",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"859",16433,,11.1136363636364,North Atlantic moist mixed forests,"52",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"860",16433,,11.1136363636364,North Atlantic moist mixed forests,"29",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"861",16433,,11.1136363636364,North Atlantic moist mixed forests,"1450",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"862",16433,,11.1136363636364,North Atlantic moist mixed forests,"203",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"863",16433,,11.1136363636364,North Atlantic moist mixed forests,"51",0.389370763226398,,North_Atlantic_moist_mixed_forest,4,Europe
+"864",16434,,6.65909090909091,North Atlantic moist mixed forests,"449",0.33821719937963,,North_Atlantic_moist_mixed_forest,4,Europe
+"865",16434,,6.65909090909091,North Atlantic moist mixed forests,"51",0.33821719937963,,North_Atlantic_moist_mixed_forest,4,Europe
+"866",16434,,6.65909090909091,North Atlantic moist mixed forests,"66",0.33821719937963,,North_Atlantic_moist_mixed_forest,4,Europe
+"867",16434,,6.65909090909091,North Atlantic moist mixed forests,"815",0.33821719937963,,North_Atlantic_moist_mixed_forest,4,Europe
+"868",16434,,6.65909090909091,North Atlantic moist mixed forests,"6",0.33821719937963,,North_Atlantic_moist_mixed_forest,4,Europe
+"869",16513,,0.151162790697674,North Atlantic moist mixed forests,"5",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"870",16514,,15.3372093023256,North Atlantic moist mixed forests,"1422",1.35375611413662,,North_Atlantic_moist_mixed_forest,4,Europe
+"871",16514,,15.3372093023256,North Atlantic moist mixed forests,"186",1.35375611413662,,North_Atlantic_moist_mixed_forest,4,Europe
+"872",16514,,15.3372093023256,North Atlantic moist mixed forests,"7",1.35375611413662,,North_Atlantic_moist_mixed_forest,4,Europe
+"873",16515,,21.9767441860465,North Atlantic moist mixed forests,"113",0.742816967323251,,North_Atlantic_moist_mixed_forest,4,Europe
+"874",16515,,21.9767441860465,North Atlantic moist mixed forests,"2088",0.742816967323251,,North_Atlantic_moist_mixed_forest,4,Europe
+"875",16516,,20.1279069767442,North Atlantic moist mixed forests,"10",0.521159243768814,,North_Atlantic_moist_mixed_forest,4,Europe
+"876",16596,,17.8023255813953,North Atlantic moist mixed forests,"3017",2.08226195729765,,North_Atlantic_moist_mixed_forest,4,Europe
+"877",16597,,20.0813953488372,North Atlantic moist mixed forests,"91",0.740090309447536,,North_Atlantic_moist_mixed_forest,4,Europe
+"878",16597,,20.0813953488372,North Atlantic moist mixed forests,"91",0.740090309447536,,North_Atlantic_moist_mixed_forest,5,Europe
+"879",16677,,3.04545454545455,North Atlantic moist mixed forests,"122",0.207933737118815,,North_Atlantic_moist_mixed_forest,4,Europe
+"880",16677,,3.04545454545455,North Atlantic moist mixed forests,"295",0.207933737118815,,North_Atlantic_moist_mixed_forest,4,Europe
+"881",16677,,3.04545454545455,North Atlantic moist mixed forests,"350",0.207933737118815,,North_Atlantic_moist_mixed_forest,4,Europe
+"882",16678,,14.2386363636364,North Atlantic moist mixed forests,"1612",0.682961206144648,,North_Atlantic_moist_mixed_forest,4,Europe
+"883",16678,,14.2386363636364,North Atlantic moist mixed forests,"1612",0.682961206144648,,North_Atlantic_moist_mixed_forest,5,Europe
+"884",16759,,0.63953488372093,North Atlantic moist mixed forests,"36",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"885",16759,,0.63953488372093,North Atlantic moist mixed forests,"35",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"886",16760,,3.37209302325581,North Atlantic moist mixed forests,"0",0.0270069688083338,,North_Atlantic_moist_mixed_forest,4,Europe
+"887",16760,,3.37209302325581,North Atlantic moist mixed forests,"108",0.0270069688083338,,North_Atlantic_moist_mixed_forest,4,Europe
+"888",16760,,3.37209302325581,North Atlantic moist mixed forests,"38",0.0270069688083338,,North_Atlantic_moist_mixed_forest,4,Europe
+"889",16760,,3.37209302325581,North Atlantic moist mixed forests,"416",0.0270069688083338,,North_Atlantic_moist_mixed_forest,4,Europe
+"890",16840,,1.06976744186047,North Atlantic moist mixed forests,"132",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"891",16922,,7.54545454545455,North Atlantic moist mixed forests,"109",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"892",16922,,7.54545454545455,North Atlantic moist mixed forests,"176",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"893",16922,,7.54545454545455,North Atlantic moist mixed forests,"619",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"894",16923,,0,North Atlantic moist mixed forests,"71",0,,North_Atlantic_moist_mixed_forest,4,Europe
+"895",18330,,1.70238095238095,Pannonian mixed forests,"207",0.603393728195245,,Pannonian_mixed_forest,4,Europe
+"896",18412,,1.95454545454545,Pannonian mixed forests,"1621",0.127125647830211,,Pannonian_mixed_forest,4,Europe
+"897",18413,,1.86363636363636,Pannonian mixed forests,"1690",0.576441624898007,,Pannonian_mixed_forest,4,Europe
+"898",18491,,1.92045454545455,Pannonian mixed forests,"2",1.19998003664244,,Pannonian_mixed_forest,4,Europe
+"899",18492,,1.97727272727273,Pannonian mixed forests,"273",0.00603034045608277,,Pannonian_mixed_forest,4,Europe
+"900",18492,,1.97727272727273,Pannonian mixed forests,"273",0.00603034045608277,,Pannonian_mixed_forest,5,Europe
+"901",18493,,2.125,Pannonian mixed forests,"3711",0.0355292242822574,,Pannonian_mixed_forest,4,Europe
+"902",18494,,1.21590909090909,Pannonian mixed forests,"5980",0,,Pannonian_mixed_forest,4,Europe
+"903",18495,,0.875,Pannonian mixed forests,"2758",3.18274271704107,,Pannonian_mixed_forest,4,Europe
+"904",18573,,2.0952380952381,Pannonian mixed forests,"409",0.220739679282626,,Pannonian_mixed_forest,4,Europe
+"905",18574,,0.630952380952381,Pannonian mixed forests,"6147",1.41962075449263,,Pannonian_mixed_forest,4,Europe
+"906",18575,,1.85714285714286,Pannonian mixed forests,"6096",0.354260138282308,,Pannonian_mixed_forest,4,Europe
+"907",18576,,1.27380952380952,Pannonian mixed forests,"7390",0.0965336298426056,,Pannonian_mixed_forest,4,Europe
+"908",18577,,0.619047619047619,Pannonian mixed forests,"7523",0.67157319289792,,Pannonian_mixed_forest,4,Europe
+"909",18578,,0.892857142857143,Pannonian mixed forests,"2338",10.3391373085621,,Pannonian_mixed_forest,4,Europe
+"910",18654,,2.40909090909091,Pannonian mixed forests,"374",0.267553558188642,,Pannonian_mixed_forest,4,Europe
+"911",18655,,1.05681818181818,Pannonian mixed forests,"6475",0.373461518525645,,Pannonian_mixed_forest,4,Europe
+"912",18656,,3.03409090909091,Pannonian mixed forests,"7186",2.14337495893787,,Pannonian_mixed_forest,4,Europe
+"913",18657,,7.31818181818182,Pannonian mixed forests,"7322",0.455949401488299,,Pannonian_mixed_forest,4,Europe
+"914",18658,,1.10227272727273,Pannonian mixed forests,"7457",0.279646970599697,,Pannonian_mixed_forest,4,Europe
+"915",18659,,0.181818181818182,Pannonian mixed forests,"6906",0.833631049562326,,Pannonian_mixed_forest,4,Europe
+"916",18737,,1.91860465116279,Pannonian mixed forests,"2707",0.374148178852769,,Pannonian_mixed_forest,4,Europe
+"917",18738,,0.627906976744186,Pannonian mixed forests,"7030",1.1697683349146,,Pannonian_mixed_forest,4,Europe
+"918",18739,,1.12790697674419,Pannonian mixed forests,"7254",0.720922636436393,,Pannonian_mixed_forest,4,Europe
+"919",18740,,2.41860465116279,Pannonian mixed forests,"7390",2.51517298720556,,Pannonian_mixed_forest,4,Europe
+"920",18741,,0.441860465116279,Pannonian mixed forests,"7523",1.88731170916268,,Pannonian_mixed_forest,4,Europe
+"921",18742,,0.348837209302326,Pannonian mixed forests,"3535",1.25192818748832,,Pannonian_mixed_forest,4,Europe
+"922",18819,,2.30232558139535,Pannonian mixed forests,"1892",0.04609739656437,,Pannonian_mixed_forest,4,Europe
+"923",18820,,0.848837209302326,Pannonian mixed forests,"7186",0.577259729789026,,Pannonian_mixed_forest,4,Europe
+"924",18821,,1.44186046511628,Pannonian mixed forests,"7322",2.15669281669388,,Pannonian_mixed_forest,4,Europe
+"925",18822,,0.406976744186047,Pannonian mixed forests,"7457",8.80292374601881,,Pannonian_mixed_forest,4,Europe
+"926",18823,,0.22093023255814,Pannonian mixed forests,"7468",5.68685505532997,,Pannonian_mixed_forest,4,Europe
+"927",18824,,0.674418604651163,Pannonian mixed forests,"1454",0.96039638434162,,Pannonian_mixed_forest,4,Europe
+"928",18902,,1.64772727272727,Pannonian mixed forests,"4737",0.32849643299176,,Pannonian_mixed_forest,4,Europe
+"929",18902,,1.64772727272727,Pannonian mixed forests,"4737",0.32849643299176,,Pannonian_mixed_forest,5,Europe
+"930",18903,,0.340909090909091,Pannonian mixed forests,"7254",1.90858712500723,,Pannonian_mixed_forest,4,Europe
+"931",18904,,0.0340909090909091,Pannonian mixed forests,"7390",0.820024679569988,,Pannonian_mixed_forest,4,Europe
+"932",18905,,0.0340909090909091,Pannonian mixed forests,"7523",22.2866605845752,,Pannonian_mixed_forest,4,Europe
+"933",18906,,0.170454545454545,Pannonian mixed forests,"3512",3.47127849146182,,Pannonian_mixed_forest,4,Europe
+"934",18907,,0.590909090909091,Pannonian mixed forests,"5",0.805543106264146,,Pannonian_mixed_forest,4,Europe
+"935",18983,,2.09302325581395,Pannonian mixed forests,"1705",0.155059668752184,,Pannonian_mixed_forest,4,Europe
+"936",18984,,0.441860465116279,Pannonian mixed forests,"7186",6.04423315595917,,Pannonian_mixed_forest,4,Europe
+"937",18985,,0.0232558139534884,Pannonian mixed forests,"7322",4.47513047275007,,Pannonian_mixed_forest,4,Europe
+"938",18986,,0.0232558139534884,Pannonian mixed forests,"7457",24.3371890728842,,Pannonian_mixed_forest,4,Europe
+"939",18987,,0.0232558139534884,Pannonian mixed forests,"6059",21.3301529258284,,Pannonian_mixed_forest,4,Europe
+"940",18988,,0.27906976744186,Pannonian mixed forests,"109",0.324100280802634,,Pannonian_mixed_forest,4,Europe
+"941",19065,,1.94186046511628,Pannonian mixed forests,"1177",0.0248385350321496,,Pannonian_mixed_forest,4,Europe
+"942",19066,,1.76744186046512,Pannonian mixed forests,"7088",3.31220502873903,,Pannonian_mixed_forest,4,Europe
+"943",19067,,0.930232558139535,Pannonian mixed forests,"7254",5.92217494152149,,Pannonian_mixed_forest,4,Europe
+"944",19068,,0.244186046511628,Pannonian mixed forests,"7390",9.9814184148007,,Pannonian_mixed_forest,4,Europe
+"945",19069,,0.0348837209302326,Pannonian mixed forests,"7515",8.16804374747674,,Pannonian_mixed_forest,4,Europe
+"946",19070,,0.174418604651163,Pannonian mixed forests,"1765",2.66710452111502,,Pannonian_mixed_forest,4,Europe
+"947",19147,,1.93181818181818,Pannonian mixed forests,"2466",0.736314313255072,,Pannonian_mixed_forest,4,Europe
+"948",19148,,3.14772727272727,Pannonian mixed forests,"7186",7.40320476908291,,Pannonian_mixed_forest,4,Europe
+"949",19149,,0.340909090909091,Pannonian mixed forests,"6433",4.08952680710619,,Pannonian_mixed_forest,4,Europe
+"950",19150,,0.534090909090909,Pannonian mixed forests,"6471",4.00937533720264,,Pannonian_mixed_forest,4,Europe
+"951",19151,,0.920454545454545,Pannonian mixed forests,"5857",3.68141561754214,,Pannonian_mixed_forest,4,Europe
+"952",19152,,0.306818181818182,Pannonian mixed forests,"56",11.364718310608,,Pannonian_mixed_forest,4,Europe
+"953",19230,,2.06976744186047,Pannonian mixed forests,"2794",1.74513503072728,,Pannonian_mixed_forest,4,Europe
+"954",19230,,2.06976744186047,Pannonian mixed forests,"2794",1.74513503072728,,Pannonian_mixed_forest,5,Europe
+"955",19231,,0.558139534883721,Pannonian mixed forests,"6873",1.80010217299049,,Pannonian_mixed_forest,4,Europe
+"956",19232,,1.2906976744186,Pannonian mixed forests,"3443",1.28415880926488,,Pannonian_mixed_forest,4,Europe
+"957",19233,,1.40697674418605,Pannonian mixed forests,"2656",1.07915060886035,,Pannonian_mixed_forest,4,Europe
+"958",19234,,0.104651162790698,Pannonian mixed forests,"154",16.8131652659617,,Pannonian_mixed_forest,4,Europe
+"959",19312,,2.7093023255814,Pannonian mixed forests,"71",1.02732700295647,,Pannonian_mixed_forest,4,Europe
+"960",19313,,0.697674418604651,Pannonian mixed forests,"6216",2.70438039516533,,Pannonian_mixed_forest,4,Europe
+"961",19314,,0.593023255813954,Pannonian mixed forests,"5138",5.07256435837977,,Pannonian_mixed_forest,4,Europe
+"962",19395,,2.55681818181818,Pannonian mixed forests,"621",0.0834485138315414,,Pannonian_mixed_forest,4,Europe
+"963",19396,,1.13636363636364,Pannonian mixed forests,"4801",1.1971036970055,,Pannonian_mixed_forest,4,Europe
+"964",19397,,1.19318181818182,Pannonian mixed forests,"999",2.39399436303887,,Pannonian_mixed_forest,4,Europe
+"965",19478,,1.23255813953488,Pannonian mixed forests,"2952",0.818765767196647,,Pannonian_mixed_forest,4,Europe
+"966",17757,,1.27272727272727,Po Basin mixed forests,"1517",0.661772714532677,,Po_basin_mixed_forest,4,Europe
+"967",17758,,1.30681818181818,Po Basin mixed forests,"1514",0.197090506502244,,Po_basin_mixed_forest,4,Europe
+"968",17838,,1.62790697674419,Po Basin mixed forests,"607",0.824100556299791,,Po_basin_mixed_forest,4,Europe
+"969",17839,,1.90697674418605,Po Basin mixed forests,"4435",13.4614886027341,,Po_basin_mixed_forest,4,Europe
+"970",17921,,1.04651162790698,Po Basin mixed forests,"4834",0.827630985091149,,Po_basin_mixed_forest,4,Europe
+"971",17922,,2.16279069767442,Po Basin mixed forests,"77",0.267573563841678,,Po_basin_mixed_forest,4,Europe
+"972",18002,,1.71590909090909,Po Basin mixed forests,"250",0.427679035289594,,Po_basin_mixed_forest,4,Europe
+"973",18003,,1.09090909090909,Po Basin mixed forests,"5582",1.45638408213204,,Po_basin_mixed_forest,4,Europe
+"974",18085,,1.3953488372093,Po Basin mixed forests,"3616",0.637557387695539,,Po_basin_mixed_forest,4,Europe
+"975",18086,,1.06976744186047,Po Basin mixed forests,"3590",0.303495305806574,,Po_basin_mixed_forest,4,Europe
+"976",18166,,1.54651162790698,Po Basin mixed forests,"2081",0.404721796075064,,Po_basin_mixed_forest,4,Europe
+"977",18167,,1.51162790697674,Po Basin mixed forests,"6596",2.37667317600591,,Po_basin_mixed_forest,4,Europe
+"978",18168,,1.08139534883721,Po Basin mixed forests,"1976",0.164904012075893,,Po_basin_mixed_forest,4,Europe
+"979",18248,,2.23863636363636,Po Basin mixed forests,"1660",0.270594897710661,,Po_basin_mixed_forest,4,Europe
+"980",18249,,0.443181818181818,Po Basin mixed forests,"2807",0.567657729207298,,Po_basin_mixed_forest,4,Europe
+"981",18250,,0,Po Basin mixed forests,"19",0,,Po_basin_mixed_forest,4,Europe
+"982",18330,,1.70238095238095,Po Basin mixed forests,"987",0.603393728195245,,Po_basin_mixed_forest,4,Europe
+"983",16857,,5.61627906976744,Pyrenees conifer and mixed forests,"2",2.4379749108719,,Pyrenees_conifer_forest,4,Europe
+"984",16939,,0.568181818181818,Pyrenees conifer and mixed forests,"651",6.37198512509675,,Pyrenees_conifer_forest,4,Europe
+"985",16940,,12.0113636363636,Pyrenees conifer and mixed forests,"2778",3.67151247162819,,Pyrenees_conifer_forest,4,Europe
+"986",17021,,1.47674418604651,Pyrenees conifer and mixed forests,"5309",5.00004599122294,,Pyrenees_conifer_forest,4,Europe
+"987",17022,,6.86046511627907,Pyrenees conifer and mixed forests,"777",0.841495906878485,,Pyrenees_conifer_forest,4,Europe
+"988",17103,,0.267441860465116,Pyrenees conifer and mixed forests,"1127",0.0721688128542104,,Pyrenees_conifer_forest,4,Europe
+"989",17104,,0.848837209302326,Pyrenees conifer and mixed forests,"5961",0.472802066782293,,Pyrenees_conifer_forest,4,Europe
+"990",17185,,0.772727272727273,Pyrenees conifer and mixed forests,"4076",0.594049313924131,,Pyrenees_conifer_forest,4,Europe
+"991",17186,,0.613636363636364,Pyrenees conifer and mixed forests,"2710",1.44579412919257,,Pyrenees_conifer_forest,4,Europe
+"992",17268,,1.22093023255814,Pyrenees conifer and mixed forests,"2539",2.20227075626077,,Pyrenees_conifer_forest,4,Europe
+"993",17988,,6.09090909090909,Sarmatic mixed forests,"87",0,,Sarmatic_mixed_forest,4,Europe
+"994",18071,,5.59302325581395,Sarmatic mixed forests,"2428",0,,Sarmatic_mixed_forest,4,Europe
+"995",18072,,2.36046511627907,Sarmatic mixed forests,"1460",0,,Sarmatic_mixed_forest,4,Europe
+"996",18152,,8.5,Sarmatic mixed forests,"1208",0,,Sarmatic_mixed_forest,4,Europe
+"997",18153,,8.04651162790698,Sarmatic mixed forests,"5413",0.00392619702644228,,Sarmatic_mixed_forest,4,Europe
+"998",18154,,5.5,Sarmatic mixed forests,"4133",0,,Sarmatic_mixed_forest,4,Europe
+"999",18155,,0.941860465116279,Sarmatic mixed forests,"1029",0,,Sarmatic_mixed_forest,4,Europe
+"1000",18235,,7.45454545454545,Sarmatic mixed forests,"2001",0,,Sarmatic_mixed_forest,4,Europe
+"1001",18236,,4.125,Sarmatic mixed forests,"3290",0,,Sarmatic_mixed_forest,4,Europe
+"1002",18237,,11.9090909090909,Sarmatic mixed forests,"5782",0,,Sarmatic_mixed_forest,4,Europe
+"1003",18238,,5.75,Sarmatic mixed forests,"2568",0.0109901494162685,,Sarmatic_mixed_forest,4,Europe
+"1004",18317,,4.77380952380952,Sarmatic mixed forests,"2217",0.015635279957101,,Sarmatic_mixed_forest,4,Europe
+"1005",18318,,9.79761904761905,Sarmatic mixed forests,"5704",0,,Sarmatic_mixed_forest,4,Europe
+"1006",18319,,15.0714285714286,Sarmatic mixed forests,"5861",0,,Sarmatic_mixed_forest,4,Europe
+"1007",18320,,7.84523809523809,Sarmatic mixed forests,"2049",0.0108325656718586,,Sarmatic_mixed_forest,4,Europe
+"1008",18399,,9.93181818181818,Sarmatic mixed forests,"1173",0,,Sarmatic_mixed_forest,4,Europe
+"1009",18400,,7.44318181818182,Sarmatic mixed forests,"5624",0.192745889403765,,Sarmatic_mixed_forest,4,Europe
+"1010",18401,,9.89772727272727,Sarmatic mixed forests,"5782",0,,Sarmatic_mixed_forest,4,Europe
+"1011",18402,,10.7159090909091,Sarmatic mixed forests,"5197",0,,Sarmatic_mixed_forest,4,Europe
+"1012",18480,,9.51136363636364,Sarmatic mixed forests,"18",0,,Sarmatic_mixed_forest,4,Europe
+"1013",18481,,7.39772727272727,Sarmatic mixed forests,"5212",0,,Sarmatic_mixed_forest,4,Europe
+"1014",18482,,8.44318181818182,Sarmatic mixed forests,"5704",0.0683952026608467,,Sarmatic_mixed_forest,4,Europe
+"1015",18483,,10.7613636363636,Sarmatic mixed forests,"5861",0,,Sarmatic_mixed_forest,4,Europe
+"1016",18484,,2.55681818181818,Sarmatic mixed forests,"1811",0,,Sarmatic_mixed_forest,4,Europe
+"1017",18562,,9.53571428571429,Sarmatic mixed forests,"1123",0,,Sarmatic_mixed_forest,4,Europe
+"1018",18563,,7.01190476190476,Sarmatic mixed forests,"4227",2.20590612285547,,Sarmatic_mixed_forest,4,Europe
+"1019",18564,,7.19047619047619,Sarmatic mixed forests,"5337",0,,Sarmatic_mixed_forest,4,Europe
+"1020",18565,,8.47619047619048,Sarmatic mixed forests,"4581",0,,Sarmatic_mixed_forest,4,Europe
+"1021",18566,,3.54761904761905,Sarmatic mixed forests,"2172",0.00366368403168764,,Sarmatic_mixed_forest,4,Europe
+"1022",18566,,3.54761904761905,Sarmatic mixed forests,"789",0.00366368403168764,,Sarmatic_mixed_forest,4,Europe
+"1023",18643,,6.05681818181818,Sarmatic mixed forests,"460",0,,Sarmatic_mixed_forest,4,Europe
+"1024",18644,,7.90909090909091,Sarmatic mixed forests,"5169",0.00807086316799572,,Sarmatic_mixed_forest,4,Europe
+"1025",18645,,5.59090909090909,Sarmatic mixed forests,"3846",0,,Sarmatic_mixed_forest,4,Europe
+"1026",18646,,0.897727272727273,Sarmatic mixed forests,"220",0,,Sarmatic_mixed_forest,4,Europe
+"1027",18647,,0.511363636363636,Sarmatic mixed forests,"441",0,,Sarmatic_mixed_forest,4,Europe
+"1028",18726,,3.69767441860465,Sarmatic mixed forests,"2377",0,,Sarmatic_mixed_forest,4,Europe
+"1029",18727,,5.84883720930233,Sarmatic mixed forests,"4160",0,,Sarmatic_mixed_forest,4,Europe
+"1030",18728,,0.616279069767442,Sarmatic mixed forests,"91",0,,Sarmatic_mixed_forest,4,Europe
+"1031",18729,,1.2906976744186,Sarmatic mixed forests,"1446",0,,Sarmatic_mixed_forest,4,Europe
+"1032",18730,,0.151162790697674,Sarmatic mixed forests,"64",0,,Sarmatic_mixed_forest,4,Europe
+"1033",18808,,3.05813953488372,Sarmatic mixed forests,"1480",0,,Sarmatic_mixed_forest,4,Europe
+"1034",18809,,0.825581395348837,Sarmatic mixed forests,"43",0,,Sarmatic_mixed_forest,4,Europe
+"1035",18810,,1.58139534883721,Sarmatic mixed forests,"885",0,,Sarmatic_mixed_forest,4,Europe
+"1036",18811,,0.790697674418605,Sarmatic mixed forests,"433",0,,Sarmatic_mixed_forest,4,Europe
+"1037",18975,,0,Sarmatic mixed forests,"23",0,,Sarmatic_mixed_forest,4,Europe
+"1038",18976,,0.872093023255814,Sarmatic mixed forests,"266",0,,Sarmatic_mixed_forest,4,Europe
+"1039",19056,,0.104651162790698,Sarmatic mixed forests,"129",0,,Sarmatic_mixed_forest,4,Europe
+"1040",19057,,2.91860465116279,Sarmatic mixed forests,"1767",0.247024306195691,,Sarmatic_mixed_forest,4,Europe
+"1041",19058,,7.44186046511628,Sarmatic mixed forests,"5715",0.389931299886593,,Sarmatic_mixed_forest,4,Europe
+"1042",19059,,7.13953488372093,Sarmatic mixed forests,"2517",5.35068590990882,,Sarmatic_mixed_forest,4,Europe
+"1043",19137,,1.875,Sarmatic mixed forests,"850",0.0117774762197993,,Sarmatic_mixed_forest,4,Europe
+"1044",19137,,1.875,Sarmatic mixed forests,"203",0.0117774762197993,,Sarmatic_mixed_forest,4,Europe
+"1045",19138,,5.30681818181818,Sarmatic mixed forests,"731",0.00381557033492491,,Sarmatic_mixed_forest,4,Europe
+"1046",19138,,5.30681818181818,Sarmatic mixed forests,"1511",0.00381557033492491,,Sarmatic_mixed_forest,4,Europe
+"1047",19139,,8.05681818181818,Sarmatic mixed forests,"5861",0.291630625534125,,Sarmatic_mixed_forest,4,Europe
+"1048",19140,,10.1136363636364,Sarmatic mixed forests,"6016",0.0972766921939745,,Sarmatic_mixed_forest,4,Europe
+"1049",19141,,8.53409090909091,Sarmatic mixed forests,"678",20.3673737029993,,Sarmatic_mixed_forest,4,Europe
+"1050",19219,,0.988372093023256,Sarmatic mixed forests,"127",0,,Sarmatic_mixed_forest,4,Europe
+"1051",19220,,3.63953488372093,Sarmatic mixed forests,"466",0.102622676346296,,Sarmatic_mixed_forest,4,Europe
+"1052",19220,,3.63953488372093,Sarmatic mixed forests,"92",0.102622676346296,,Sarmatic_mixed_forest,4,Europe
+"1053",19220,,3.63953488372093,Sarmatic mixed forests,"757",0.102622676346296,,Sarmatic_mixed_forest,4,Europe
+"1054",19221,,3.30232558139535,Sarmatic mixed forests,"1283",0.00376320418865051,,Sarmatic_mixed_forest,4,Europe
+"1055",19222,,8.30232558139535,Sarmatic mixed forests,"5939",0.387137740846934,,Sarmatic_mixed_forest,4,Europe
+"1056",19223,,9.73255813953488,Sarmatic mixed forests,"4350",0.380128586832187,,Sarmatic_mixed_forest,4,Europe
+"1057",19301,,14.7325581395349,Sarmatic mixed forests,"4646",0.33302224901575,,Sarmatic_mixed_forest,4,Europe
+"1058",19302,,4.02325581395349,Sarmatic mixed forests,"1504",0,,Sarmatic_mixed_forest,4,Europe
+"1059",19303,,8.80232558139535,Sarmatic mixed forests,"3644",1.01587196678202,,Sarmatic_mixed_forest,4,Europe
+"1060",19304,,6.15116279069767,Sarmatic mixed forests,"6016",1.99225777404362,,Sarmatic_mixed_forest,4,Europe
+"1061",19305,,8.8953488372093,Sarmatic mixed forests,"2258",0.543789543430462,,Sarmatic_mixed_forest,4,Europe
+"1062",19383,,5.75,Sarmatic mixed forests,"2595",0.243479375750327,,Sarmatic_mixed_forest,4,Europe
+"1063",19384,,14.3181818181818,Sarmatic mixed forests,"5564",0.15038129894712,,Sarmatic_mixed_forest,4,Europe
+"1064",19385,,12.6136363636364,Sarmatic mixed forests,"5782",0.64681750709871,,Sarmatic_mixed_forest,4,Europe
+"1065",19386,,10.6022727272727,Sarmatic mixed forests,"5939",0.765870975232647,,Sarmatic_mixed_forest,4,Europe
+"1066",19387,,10.0909090909091,Sarmatic mixed forests,"6093",0.326881496174901,,Sarmatic_mixed_forest,4,Europe
+"1067",19388,,12.9545454545455,Sarmatic mixed forests,"1965",0.441934765766668,,Sarmatic_mixed_forest,4,Europe
+"1068",19464,,2.33720930232558,Sarmatic mixed forests,"348",0.00404377516096728,,Sarmatic_mixed_forest,4,Europe
+"1069",19465,,19.9651162790698,Sarmatic mixed forests,"5545",0.197975470638139,,Sarmatic_mixed_forest,4,Europe
+"1070",19466,,13.3023255813953,Sarmatic mixed forests,"5704",0.362186023089651,,Sarmatic_mixed_forest,4,Europe
+"1071",19467,,8.75581395348837,Sarmatic mixed forests,"5861",0.60480537834341,,Sarmatic_mixed_forest,4,Europe
+"1072",19468,,14.1046511627907,Sarmatic mixed forests,"6016",0.303851787753588,,Sarmatic_mixed_forest,4,Europe
+"1073",19469,,11.906976744186,Sarmatic mixed forests,"6170",0.878136849679136,,Sarmatic_mixed_forest,4,Europe
+"1074",19470,,11.1511627906977,Sarmatic mixed forests,"966",1.01223110170744,,Sarmatic_mixed_forest,4,Europe
+"1075",19547,,6.03488372093023,Sarmatic mixed forests,"2735",0.259186667338992,,Sarmatic_mixed_forest,4,Europe
+"1076",19548,,16.7674418604651,Sarmatic mixed forests,"5624",0.313245491084146,,Sarmatic_mixed_forest,4,Europe
+"1077",19549,,11.3023255813953,Sarmatic mixed forests,"5782",0.532672746592011,,Sarmatic_mixed_forest,4,Europe
+"1078",19550,,17.5116279069767,Sarmatic mixed forests,"5939",0.774817663195222,,Sarmatic_mixed_forest,4,Europe
+"1079",19551,,10.7906976744186,Sarmatic mixed forests,"6093",0.613585485988433,,Sarmatic_mixed_forest,4,Europe
+"1080",19552,,13.5697674418605,Sarmatic mixed forests,"6211",0.454007686935714,,Sarmatic_mixed_forest,4,Europe
+"1081",19553,,9.5,Sarmatic mixed forests,"791",0.889160225248843,,Sarmatic_mixed_forest,4,Europe
+"1082",19629,,11.5813953488372,Sarmatic mixed forests,"5065",2.70761389754785,,Sarmatic_mixed_forest,4,Europe
+"1083",19630,,15.3255813953488,Sarmatic mixed forests,"5704",4.42005846235768,,Sarmatic_mixed_forest,4,Europe
+"1084",19631,,12.4418604651163,Sarmatic mixed forests,"5861",5.22343271806151,,Sarmatic_mixed_forest,4,Europe
+"1085",19632,,8.90697674418605,Sarmatic mixed forests,"6016",2.01194647895406,,Sarmatic_mixed_forest,4,Europe
+"1086",19633,,12.9302325581395,Sarmatic mixed forests,"6170",1.30370978708525,,Sarmatic_mixed_forest,4,Europe
+"1087",19634,,4.16279069767442,Sarmatic mixed forests,"5218",1.7651354464961,,Sarmatic_mixed_forest,4,Europe
+"1088",19711,,7.97727272727273,Sarmatic mixed forests,"2447",7.57667365412886,,Sarmatic_mixed_forest,4,Europe
+"1089",19712,,8.42045454545454,Sarmatic mixed forests,"3871",2.37611651068671,,Sarmatic_mixed_forest,4,Europe
+"1090",19713,,10.875,Sarmatic mixed forests,"5432",22.3375513981357,,Sarmatic_mixed_forest,4,Europe
+"1091",19714,,14.0340909090909,Sarmatic mixed forests,"5939",7.33059381258758,,Sarmatic_mixed_forest,4,Europe
+"1092",19715,,9.72727272727273,Sarmatic mixed forests,"6093",1.40125361473712,,Sarmatic_mixed_forest,4,Europe
+"1093",19716,,10.5,Sarmatic mixed forests,"6245",1.96638069744565,,Sarmatic_mixed_forest,4,Europe
+"1094",19717,,11.4886363636364,Sarmatic mixed forests,"2163",1.9631504844107,,Sarmatic_mixed_forest,4,Europe
+"1095",19792,,5.88372093023256,Sarmatic mixed forests,"2104",9.76724584099887,,Sarmatic_mixed_forest,4,Europe
+"1096",19793,,9.32558139534884,Sarmatic mixed forests,"1845",9.91443390500077,,Sarmatic_mixed_forest,4,Europe
+"1097",19794,,8.72093023255814,Sarmatic mixed forests,"4706",4.09570567810659,,Sarmatic_mixed_forest,4,Europe
+"1098",19795,,6.95348837209302,Sarmatic mixed forests,"5861",5.28816894031526,,Sarmatic_mixed_forest,4,Europe
+"1099",19796,,8.63953488372093,Sarmatic mixed forests,"6016",1.89656652079322,,Sarmatic_mixed_forest,4,Europe
+"1100",19797,,10.9651162790698,Sarmatic mixed forests,"6170",4.15149681580488,,Sarmatic_mixed_forest,4,Europe
+"1101",19798,,10.2209302325581,Sarmatic mixed forests,"5930",1.37896960465105,,Sarmatic_mixed_forest,4,Europe
+"1102",19799,,12.0581395348837,Sarmatic mixed forests,"9",2.66957620386649,,Sarmatic_mixed_forest,4,Europe
+"1103",19875,,11.1162790697674,Sarmatic mixed forests,"2013",18.4569030919679,,Sarmatic_mixed_forest,4,Europe
+"1104",19876,,11.0697674418605,Sarmatic mixed forests,"4121",8.47654961724676,,Sarmatic_mixed_forest,4,Europe
+"1105",19877,,14.5348837209302,Sarmatic mixed forests,"3858",11.5548460089023,,Sarmatic_mixed_forest,4,Europe
+"1106",19878,,10.4651162790698,Sarmatic mixed forests,"5939",29.6174390864512,,Sarmatic_mixed_forest,4,Europe
+"1107",19879,,6.7906976744186,Sarmatic mixed forests,"6093",8.7432741202891,,Sarmatic_mixed_forest,4,Europe
+"1108",19880,,8.04651162790698,Sarmatic mixed forests,"6245",6.52637753157605,,Sarmatic_mixed_forest,4,Europe
+"1109",19881,,10.1279069767442,Sarmatic mixed forests,"3310",3.48767236672982,,Sarmatic_mixed_forest,4,Europe
+"1110",19956,,10.9318181818182,Sarmatic mixed forests,"200",5.02233807611246,,Sarmatic_mixed_forest,4,Europe
+"1111",19957,,17.9545454545455,Sarmatic mixed forests,"197",2.71008305811211,,Sarmatic_mixed_forest,4,Europe
+"1112",19958,,12.0795454545455,Sarmatic mixed forests,"3840",13.6633522397281,,Sarmatic_mixed_forest,4,Europe
+"1113",19959,,17.6477272727273,Sarmatic mixed forests,"4951",2.58220329342521,,Sarmatic_mixed_forest,4,Europe
+"1114",19960,,13.6477272727273,Sarmatic mixed forests,"6016",18.5212019036736,,Sarmatic_mixed_forest,4,Europe
+"1115",19961,,10.0454545454545,Sarmatic mixed forests,"6170",25.9519736036381,,Sarmatic_mixed_forest,4,Europe
+"1116",19962,,4.67045454545455,Sarmatic mixed forests,"6321",7.73345360970701,,Sarmatic_mixed_forest,4,Europe
+"1117",19963,,7.10227272727273,Sarmatic mixed forests,"1775",6.86443185752402,,Sarmatic_mixed_forest,4,Europe
+"1118",20040,,14.3488372093023,Sarmatic mixed forests,"3880",2.41151998003056,,Sarmatic_mixed_forest,4,Europe
+"1119",20041,,12.0697674418605,Sarmatic mixed forests,"4160",2.66791364013543,,Sarmatic_mixed_forest,4,Europe
+"1120",20042,,6.73255813953488,Sarmatic mixed forests,"5939",1.39779916837168,,Sarmatic_mixed_forest,4,Europe
+"1121",20043,,7.72093023255814,Sarmatic mixed forests,"6093",15.0636925575263,,Sarmatic_mixed_forest,4,Europe
+"1122",20044,,9.33720930232558,Sarmatic mixed forests,"6245",41.7282465318355,,Sarmatic_mixed_forest,4,Europe
+"1123",20045,,7.80232558139535,Sarmatic mixed forests,"6396",11.5006700589089,,Sarmatic_mixed_forest,4,Europe
+"1124",20046,,7.12790697674419,Sarmatic mixed forests,"2037",19.5003798629617,,Sarmatic_mixed_forest,4,Europe
+"1125",20121,,19.5232558139535,Sarmatic mixed forests,"48",2.48789100879871,,Sarmatic_mixed_forest,4,Europe
+"1126",20122,,9.2906976744186,Sarmatic mixed forests,"5552",0.847582874008133,,Sarmatic_mixed_forest,4,Europe
+"1127",20123,,8.7093023255814,Sarmatic mixed forests,"5861",0.384145562444127,,Sarmatic_mixed_forest,4,Europe
+"1128",20124,,10.1627906976744,Sarmatic mixed forests,"6016",10.1608249113528,,Sarmatic_mixed_forest,4,Europe
+"1129",20125,,8.06976744186047,Sarmatic mixed forests,"6170",40.31857223958,,Sarmatic_mixed_forest,4,Europe
+"1130",20126,,8.37209302325581,Sarmatic mixed forests,"6321",20.078629118548,,Sarmatic_mixed_forest,4,Europe
+"1131",20127,,6.38372093023256,Sarmatic mixed forests,"3455",12.4252959216858,,Sarmatic_mixed_forest,4,Europe
+"1132",20204,,9.20454545454546,Sarmatic mixed forests,"2974",2.39980698236679,,Sarmatic_mixed_forest,4,Europe
+"1133",20205,,8.67045454545454,Sarmatic mixed forests,"5782",0.958365228254204,,Sarmatic_mixed_forest,4,Europe
+"1134",20206,,6.125,Sarmatic mixed forests,"5939",5.383204125824,,Sarmatic_mixed_forest,4,Europe
+"1135",20207,,5.92045454545455,Sarmatic mixed forests,"6093",15.2791833878226,,Sarmatic_mixed_forest,4,Europe
+"1136",20208,,6.90909090909091,Sarmatic mixed forests,"6245",28.0930099506524,,Sarmatic_mixed_forest,4,Europe
+"1137",20209,,5.93181818181818,Sarmatic mixed forests,"2817",21.7289122348033,,Sarmatic_mixed_forest,4,Europe
+"1138",20285,,17.3604651162791,Sarmatic mixed forests,"0",0.486462619821887,,Sarmatic_mixed_forest,4,Europe
+"1139",20286,,16.9651162790698,Sarmatic mixed forests,"5240",1.70051977680529,,Sarmatic_mixed_forest,4,Europe
+"1140",20287,,7.12790697674419,Sarmatic mixed forests,"5546",6.57164746118649,,Sarmatic_mixed_forest,4,Europe
+"1141",20288,,6.52325581395349,Sarmatic mixed forests,"6016",24.0183802971812,,Sarmatic_mixed_forest,4,Europe
+"1142",20289,,7.81395348837209,Sarmatic mixed forests,"6170",19.5856942781883,,Sarmatic_mixed_forest,4,Europe
+"1143",20290,,7.90697674418605,Sarmatic mixed forests,"5345",14.0989395055422,,Sarmatic_mixed_forest,4,Europe
+"1144",20291,,5.72093023255814,Sarmatic mixed forests,"373",15.3517576042288,,Sarmatic_mixed_forest,4,Europe
+"1145",20368,,13.3372093023256,Sarmatic mixed forests,"9",0.231676544514481,,Sarmatic_mixed_forest,4,Europe
+"1146",20369,,9.81395348837209,Sarmatic mixed forests,"284",8.09714119922947,,Sarmatic_mixed_forest,4,Europe
+"1147",20370,,12.0813953488372,Sarmatic mixed forests,"5939",21.6441491355186,,Sarmatic_mixed_forest,4,Europe
+"1148",20371,,9.1046511627907,Sarmatic mixed forests,"6093",16.8729003071905,,Sarmatic_mixed_forest,4,Europe
+"1149",20372,,5.53488372093023,Sarmatic mixed forests,"3379",23.3265886402271,,Sarmatic_mixed_forest,4,Europe
+"1150",20373,,5.04651162790698,Sarmatic mixed forests,"1827",16.3250120648784,,Sarmatic_mixed_forest,4,Europe
+"1151",20451,,17.1590909090909,Sarmatic mixed forests,"2421",16.523450026828,,Sarmatic_mixed_forest,4,Europe
+"1152",20452,,8.52272727272727,Sarmatic mixed forests,"6016",10.2708880951948,,Sarmatic_mixed_forest,4,Europe
+"1153",20453,,6.98863636363636,Sarmatic mixed forests,"5561",12.4491868129942,,Sarmatic_mixed_forest,4,Europe
+"1154",20454,,4.06818181818182,Sarmatic mixed forests,"80",13.022345772605,,Sarmatic_mixed_forest,4,Europe
+"1155",20533,,11.6046511627907,Sarmatic mixed forests,"86",7.16495997925177,,Sarmatic_mixed_forest,4,Europe
+"1156",20534,,9.26744186046512,Sarmatic mixed forests,"5292",12.3961904595892,,Sarmatic_mixed_forest,4,Europe
+"1157",20535,,5.96511627906977,Sarmatic mixed forests,"5130",9.05231273864371,,Sarmatic_mixed_forest,4,Europe
+"1158",20614,,8.6046511627907,Sarmatic mixed forests,"518",4.00854711555287,,Sarmatic_mixed_forest,4,Europe
+"1159",20615,,12.2906976744186,Sarmatic mixed forests,"5283",8.92718498728338,,Sarmatic_mixed_forest,4,Europe
+"1160",20616,,7.77906976744186,Sarmatic mixed forests,"5973",8.57210571187059,,Sarmatic_mixed_forest,4,Europe
+"1161",20617,,4.33720930232558,Sarmatic mixed forests,"1093",21.909481370165,,Sarmatic_mixed_forest,4,Europe
+"1162",20696,,5.97674418604651,Sarmatic mixed forests,"229",0.520565504857021,,Sarmatic_mixed_forest,4,Europe
+"1163",20697,,9.95348837209302,Sarmatic mixed forests,"2587",3.89912069534581,,Sarmatic_mixed_forest,4,Europe
+"1164",20698,,6.11627906976744,Sarmatic mixed forests,"5939",11.4177663014752,,Sarmatic_mixed_forest,4,Europe
+"1165",20699,,7.17441860465116,Sarmatic mixed forests,"5286",17.3951252657231,,Sarmatic_mixed_forest,4,Europe
+"1166",20779,,8.29545454545454,Sarmatic mixed forests,"3301",20.0811031213267,,Sarmatic_mixed_forest,4,Europe
+"1167",20780,,12.0568181818182,Sarmatic mixed forests,"6016",7.48119698526956,,Sarmatic_mixed_forest,4,Europe
+"1168",20781,,18.4545454545455,Sarmatic mixed forests,"3418",22.101435596567,,Sarmatic_mixed_forest,4,Europe
+"1169",20861,,9.94186046511628,Sarmatic mixed forests,"129",22.378480562074,,Sarmatic_mixed_forest,4,Europe
+"1170",20862,,8.17441860465116,Sarmatic mixed forests,"5315",11.0063483338246,,Sarmatic_mixed_forest,4,Europe
+"1171",20863,,17.5,Sarmatic mixed forests,"6093",12.0868665600488,,Sarmatic_mixed_forest,4,Europe
+"1172",20864,,9.26744186046512,Sarmatic mixed forests,"2509",21.7728673796051,,Sarmatic_mixed_forest,4,Europe
+"1173",20943,,6.30232558139535,Sarmatic mixed forests,"2785",7.37991395277169,,Sarmatic_mixed_forest,4,Europe
+"1174",20944,,7.38372093023256,Sarmatic mixed forests,"6016",8.62324703043969,,Sarmatic_mixed_forest,4,Europe
+"1175",20945,,7.6046511627907,Sarmatic mixed forests,"5462",11.301914727634,,Sarmatic_mixed_forest,4,Europe
+"1176",20946,,1.91860465116279,Sarmatic mixed forests,"1215",24.3457158530327,,Sarmatic_mixed_forest,4,Europe
+"1177",21026,,6.09090909090909,Sarmatic mixed forests,"4293",14.3281451764331,,Sarmatic_mixed_forest,4,Europe
+"1178",21027,,5.09090909090909,Sarmatic mixed forests,"6093",20.5927425049584,,Sarmatic_mixed_forest,4,Europe
+"1179",21028,,3.46590909090909,Sarmatic mixed forests,"1653",19.7377560588674,,Sarmatic_mixed_forest,4,Europe
+"1180",21107,,5.88372093023256,Sarmatic mixed forests,"1411",1.71942103656571,,Sarmatic_mixed_forest,4,Europe
+"1181",21108,,5.8953488372093,Sarmatic mixed forests,"4960",8.4533756709209,,Sarmatic_mixed_forest,4,Europe
+"1182",21109,,3.38372093023256,Sarmatic mixed forests,"4614",12.9857631471169,,Sarmatic_mixed_forest,4,Europe
+"1183",21189,,9.09302325581395,Sarmatic mixed forests,"5",0.359704663025317,,Sarmatic_mixed_forest,4,Europe
+"1184",21190,,7.22093023255814,Sarmatic mixed forests,"4422",5.78722495580856,,Sarmatic_mixed_forest,4,Europe
+"1185",21191,,2.81395348837209,Sarmatic mixed forests,"4670",12.2065478401094,,Sarmatic_mixed_forest,4,Europe
+"1186",21192,,3.15116279069767,Sarmatic mixed forests,"1037",12.3958531328433,,Sarmatic_mixed_forest,4,Europe
+"1187",21271,,6.36363636363636,Sarmatic mixed forests,"707",1.94186066792361,,Sarmatic_mixed_forest,4,Europe
+"1188",21272,,6.63636363636364,Sarmatic mixed forests,"1403",19.7667159394902,,Sarmatic_mixed_forest,4,Europe
+"1189",21273,,1.88636363636364,Sarmatic mixed forests,"1565",17.109881918601,,Sarmatic_mixed_forest,4,Europe
+"1190",21354,,11.7209302325581,Sarmatic mixed forests,"3397",16.0012422046467,,Sarmatic_mixed_forest,4,Europe
+"1191",21356,,1.88372093023256,Sarmatic mixed forests,"1010",26.4390486587496,,Sarmatic_mixed_forest,4,Europe
+"1192",21435,,8.31395348837209,Sarmatic mixed forests,"1",6.11998483661383,,Sarmatic_mixed_forest,4,Europe
+"1193",21436,,5.8953488372093,Sarmatic mixed forests,"439",1.83563246765438,,Sarmatic_mixed_forest,4,Europe
+"1194",21436,,5.8953488372093,Sarmatic mixed forests,"78",1.83563246765438,,Sarmatic_mixed_forest,4,Europe
+"1195",21437,,3.04651162790698,Sarmatic mixed forests,"128",13.7979114490267,,Sarmatic_mixed_forest,4,Europe
+"1196",21518,,10.3181818181818,Sarmatic mixed forests,"2269",8.60604158371093,,Sarmatic_mixed_forest,4,Europe
+"1197",21599,,3.52325581395349,Sarmatic mixed forests,"758",3.15352854140066,,Sarmatic_mixed_forest,4,Europe
+"1198",21600,,4.32558139534884,Sarmatic mixed forests,"3409",5.23713748253981,,Sarmatic_mixed_forest,4,Europe
+"1199",21681,,3,Sarmatic mixed forests,"2",3.73625947569473,,Sarmatic_mixed_forest,4,Europe
+"1200",21682,,3.82558139534884,Sarmatic mixed forests,"5107",4.29370903958457,,Sarmatic_mixed_forest,4,Europe
+"1201",21683,,1.82558139534884,Sarmatic mixed forests,"710",7.70747111267862,,Sarmatic_mixed_forest,4,Europe
+"1202",21762,,3.43023255813953,Sarmatic mixed forests,"60",2.7903441444611,,Sarmatic_mixed_forest,4,Europe
+"1203",21763,,3.88372093023256,Sarmatic mixed forests,"4642",3.9360306028739,,Sarmatic_mixed_forest,4,Europe
+"1204",21764,,1.6046511627907,Sarmatic mixed forests,"3881",8.00448355273557,,Sarmatic_mixed_forest,4,Europe
+"1205",21845,,4.21590909090909,Sarmatic mixed forests,"1516",1.16540093377174,,Sarmatic_mixed_forest,4,Europe
+"1206",21846,,2.97727272727273,Sarmatic mixed forests,"5939",3.85131778241316,,Sarmatic_mixed_forest,4,Europe
+"1207",21847,,2.04545454545455,Sarmatic mixed forests,"1180",15.0696923159208,,Sarmatic_mixed_forest,4,Europe
+"1208",21927,,5.82558139534884,Sarmatic mixed forests,"4724",0.365729147988282,,Sarmatic_mixed_forest,4,Europe
+"1209",21928,,2.45348837209302,Sarmatic mixed forests,"5537",6.93866770642485,,Sarmatic_mixed_forest,4,Europe
+"1210",22009,,4.2093023255814,Sarmatic mixed forests,"2783",0.322745804585274,,Sarmatic_mixed_forest,4,Europe
+"1211",22010,,3.04651162790698,Sarmatic mixed forests,"5851",1.54153447178087,,Sarmatic_mixed_forest,4,Europe
+"1212",22011,,1.55813953488372,Sarmatic mixed forests,"1548",13.2748810878205,,Sarmatic_mixed_forest,4,Europe
+"1213",22090,,3.48863636363636,Sarmatic mixed forests,"469",0.118059117314184,,Sarmatic_mixed_forest,4,Europe
+"1214",22091,,3.43181818181818,Sarmatic mixed forests,"5861",0.711909435128395,,Sarmatic_mixed_forest,4,Europe
+"1215",22092,,4.61363636363636,Sarmatic mixed forests,"3491",9.8541376705646,,Sarmatic_mixed_forest,4,Europe
+"1216",22173,,3.09302325581395,Sarmatic mixed forests,"3443",0.664390812469046,,Sarmatic_mixed_forest,4,Europe
+"1217",22174,,4.09302325581395,Sarmatic mixed forests,"5939",2.05963990524589,,Sarmatic_mixed_forest,4,Europe
+"1218",22175,,3.87209302325581,Sarmatic mixed forests,"860",10.5475652140562,,Sarmatic_mixed_forest,4,Europe
+"1219",22254,,3.12790697674419,Sarmatic mixed forests,"1040",1.87434423046191,,Sarmatic_mixed_forest,4,Europe
+"1220",22255,,2.47674418604651,Sarmatic mixed forests,"5861",1.31972308427067,,Sarmatic_mixed_forest,4,Europe
+"1221",22256,,2.24418604651163,Sarmatic mixed forests,"4762",2.17977377779813,,Sarmatic_mixed_forest,4,Europe
+"1222",22336,,4.97727272727273,Sarmatic mixed forests,"1060",0.600054651767506,,Sarmatic_mixed_forest,4,Europe
+"1223",22337,,2.48863636363636,Sarmatic mixed forests,"5782",2.31087540845023,,Sarmatic_mixed_forest,4,Europe
+"1224",22338,,2.54545454545455,Sarmatic mixed forests,"5939",1.10895530313675,,Sarmatic_mixed_forest,4,Europe
+"1225",22339,,2.05681818181818,Sarmatic mixed forests,"240",2.07187426109402,,Sarmatic_mixed_forest,4,Europe
+"1226",22418,,2.84883720930233,Sarmatic mixed forests,"2826",1.55606004417526,,Sarmatic_mixed_forest,4,Europe
+"1227",22419,,2.46511627906977,Sarmatic mixed forests,"2074",2.85146260835659,,Sarmatic_mixed_forest,4,Europe
+"1228",22420,,1.95348837209302,Sarmatic mixed forests,"0",0.348402662432555,,Sarmatic_mixed_forest,4,Europe
+"1229",22420,,1.95348837209302,Sarmatic mixed forests,"3498",0.348402662432555,,Sarmatic_mixed_forest,4,Europe
+"1230",22420,,1.95348837209302,Sarmatic mixed forests,"46",0.348402662432555,,Sarmatic_mixed_forest,4,Europe
+"1231",22501,,2.13953488372093,Sarmatic mixed forests,"0",0.711077633246882,,Sarmatic_mixed_forest,4,Europe
+"1232",22501,,2.13953488372093,Sarmatic mixed forests,"2484",0.711077633246882,,Sarmatic_mixed_forest,4,Europe
+"1233",22501,,2.13953488372093,Sarmatic mixed forests,"180",0.711077633246882,,Sarmatic_mixed_forest,4,Europe
+"1234",22502,,2.04651162790698,Sarmatic mixed forests,"0",3.52724093292948,,Sarmatic_mixed_forest,4,Europe
+"1235",22502,,2.04651162790698,Sarmatic mixed forests,"363",3.52724093292948,,Sarmatic_mixed_forest,4,Europe
+"1236",22503,,1.81395348837209,Sarmatic mixed forests,"27",2.70358690664428,,Sarmatic_mixed_forest,4,Europe
+"1237",17825,,8.3953488372093,Scandinavian and Russian taiga,"4346",0.428680967798307,,Scandanavian_Russian_taiga,4,Europe
+"1238",18152,,8.5,Scandinavian and Russian taiga,"4178",0,,Scandanavian_Russian_taiga,4,Europe
+"1239",18481,,7.39772727272727,Scandinavian and Russian taiga,"331",0,,Scandanavian_Russian_taiga,4,Europe
+"1240",18563,,7.01190476190476,Scandinavian and Russian taiga,"930",2.20590612285547,,Scandanavian_Russian_taiga,4,Europe
+"1241",18643,,6.05681818181818,Scandinavian and Russian taiga,"2485",0,,Scandanavian_Russian_taiga,4,Europe
+"1242",19711,,7.97727272727273,Scandinavian and Russian taiga,"1601",7.57667365412886,,Scandanavian_Russian_taiga,4,Europe
+"1243",20534,,9.26744186046512,Scandinavian and Russian taiga,"645",12.3961904595892,,Scandanavian_Russian_taiga,4,Europe
+"1244",21271,,6.36363636363636,Scandinavian and Russian taiga,"5157",1.94186066792361,,Scandanavian_Russian_taiga,4,Europe
+"1245",21517,,4.72727272727273,Scandinavian and Russian taiga,"4695",2.19571785469301,,Scandanavian_Russian_taiga,4,Europe
+"1246",21681,,3,Scandinavian and Russian taiga,"5781",3.73625947569473,,Scandanavian_Russian_taiga,4,Europe
+"1247",21844,,6.21590909090909,Scandinavian and Russian taiga,"4430",1.82678235522394,,Scandanavian_Russian_taiga,4,Europe
+"1248",22336,,4.97727272727273,Scandinavian and Russian taiga,"4566",0.600054651767506,,Scandanavian_Russian_taiga,4,Europe
+"1249",22418,,2.84883720930233,Scandinavian and Russian taiga,"2660",1.55606004417526,,Scandanavian_Russian_taiga,4,Europe
+"1250",22420,,1.95348837209302,Ural montane forests and tundra,"1286",0.348402662432555,,Ural_montane_forest - NP,4,Europe
+"1251",22503,,1.81395348837209,Ural montane forests and tundra,"2027",2.70358690664428,,Ural_montane_forest - NP,4,Europe
+"1252",22504,,1.86046511627907,Ural montane forests and tundra,"2822",0.223983088009446,,Ural_montane_forest - NP,4,Europe
+"1253",22506,,1.30232558139535,Ural montane forests and tundra,"4331",2.80787822503098,,Ural_montane_forest - NP,4,Europe
+"1254",17018,,0.802325581395349,Western European broadleaf forests,"137",0.222996105457397,,Western_European_broadleaf_forest,4,Europe
+"1255",17020,,0.709302325581395,Western European broadleaf forests,"1",1.5887418666391,,Western_European_broadleaf_forest,4,Europe
+"1256",17021,,1.47674418604651,Western European broadleaf forests,"50",5.00004599122294,,Western_European_broadleaf_forest,4,Europe
+"1257",17100,,0.720930232558139,Western European broadleaf forests,"1801",0.101795874498098,,Western_European_broadleaf_forest,4,Europe
+"1258",17101,,1.1046511627907,Western European broadleaf forests,"3779",0.0402393940329347,,Western_European_broadleaf_forest,4,Europe
+"1259",17102,,0.186046511627907,Western European broadleaf forests,"717",0,,Western_European_broadleaf_forest,4,Europe
+"1260",17103,,0.267441860465116,Western European broadleaf forests,"5783",0.0721688128542104,,Western_European_broadleaf_forest,4,Europe
+"1261",17104,,0.848837209302326,Western European broadleaf forests,"6",0.472802066782293,,Western_European_broadleaf_forest,4,Europe
+"1262",17181,,0.920454545454545,Western European broadleaf forests,"2408",2.6911767332143,,Western_European_broadleaf_forest,4,Europe
+"1263",17182,,2.21590909090909,Western European broadleaf forests,"7448",0.0203126390802719,,Western_European_broadleaf_forest,4,Europe
+"1264",17183,,0.806818181818182,Western European broadleaf forests,"3742",0,,Western_European_broadleaf_forest,4,Europe
+"1265",17184,,0.0795454545454545,Western European broadleaf forests,"2805",0,,Western_European_broadleaf_forest,4,Europe
+"1266",17185,,0.772727272727273,Western European broadleaf forests,"3747",0.594049313924131,,Western_European_broadleaf_forest,4,Europe
+"1267",17263,,1.84883720930233,Western European broadleaf forests,"2049",0.630441137042159,,Western_European_broadleaf_forest,4,Europe
+"1268",17264,,1.11627906976744,Western European broadleaf forests,"7390",1.13953759552741,,Western_European_broadleaf_forest,4,Europe
+"1269",17265,,1.5,Western European broadleaf forests,"7523",0.143633273699882,,Western_European_broadleaf_forest,4,Europe
+"1270",17266,,1.06976744186047,Western European broadleaf forests,"5705",0.0128790401107017,,Western_European_broadleaf_forest,4,Europe
+"1271",17267,,1.02325581395349,Western European broadleaf forests,"3048",0.282602513597735,,Western_European_broadleaf_forest,4,Europe
+"1272",17268,,1.22093023255814,Western European broadleaf forests,"64",2.20227075626077,,Western_European_broadleaf_forest,4,Europe
+"1273",17344,,1.18604651162791,Western European broadleaf forests,"3944",1.73200011502236,,Western_European_broadleaf_forest,4,Europe
+"1274",17345,,1.27906976744186,Western European broadleaf forests,"7322",0.145558566393593,,Western_European_broadleaf_forest,4,Europe
+"1275",17346,,0.976744186046512,Western European broadleaf forests,"7457",0.118692470560914,,Western_European_broadleaf_forest,4,Europe
+"1276",17347,,1.73255813953488,Western European broadleaf forests,"7375",0.180263232953648,,Western_European_broadleaf_forest,4,Europe
+"1277",17348,,1.73255813953488,Western European broadleaf forests,"948",0.587538128196123,,Western_European_broadleaf_forest,4,Europe
+"1278",17424,,1.88636363636364,Western European broadleaf forests,"435",0,,Western_European_broadleaf_forest,4,Europe
+"1279",17425,,1.32954545454545,Western European broadleaf forests,"1460",0.612399587749587,,Western_European_broadleaf_forest,4,Europe
+"1280",17426,,1.52272727272727,Western European broadleaf forests,"1795",0.985702692617578,,Western_European_broadleaf_forest,4,Europe
+"1281",17427,,0.681818181818182,Western European broadleaf forests,"7017",3.284626062104,,Western_European_broadleaf_forest,4,Europe
+"1282",17428,,0.920454545454545,Western European broadleaf forests,"7390",0.00293782176071405,,Western_European_broadleaf_forest,4,Europe
+"1283",17429,,1.36363636363636,Western European broadleaf forests,"7507",0.0833827571528715,,Western_European_broadleaf_forest,4,Europe
+"1284",17430,,1.34090909090909,Western European broadleaf forests,"3720",0.554310493618788,,Western_European_broadleaf_forest,4,Europe
+"1285",17506,,1.3953488372093,Western European broadleaf forests,"5452",0.0156880867019839,,Western_European_broadleaf_forest,4,Europe
+"1286",17507,,1.36046511627907,Western European broadleaf forests,"5408",0.793851510601412,,Western_European_broadleaf_forest,4,Europe
+"1287",17508,,0.930232558139535,Western European broadleaf forests,"7186",2.22890000012893,,Western_European_broadleaf_forest,4,Europe
+"1288",17509,,0.953488372093023,Western European broadleaf forests,"7322",0.25053727365473,,Western_European_broadleaf_forest,4,Europe
+"1289",17510,,1.11627906976744,Western European broadleaf forests,"7407",0.11005716910005,,Western_European_broadleaf_forest,4,Europe
+"1290",17511,,0.779069767441861,Western European broadleaf forests,"3076",0.241509344515098,,Western_European_broadleaf_forest,4,Europe
+"1291",17511,,0.779069767441861,Western European broadleaf forests,"3076",0.241509344515098,,Western_European_broadleaf_forest,5,Europe
+"1292",17588,,1.90697674418605,Western European broadleaf forests,"4034",0.126380593496669,,Western_European_broadleaf_forest,4,Europe
+"1293",17589,,1.22093023255814,Western European broadleaf forests,"6977",0.71756428446683,,Western_European_broadleaf_forest,4,Europe
+"1294",17590,,1.27906976744186,Western European broadleaf forests,"7117",0.747317836365886,,Western_European_broadleaf_forest,4,Europe
+"1295",17591,,1.15116279069767,Western European broadleaf forests,"7254",0.235638757221785,,Western_European_broadleaf_forest,4,Europe
+"1296",17592,,1.98837209302326,Western European broadleaf forests,"7273",0.0936676159495874,,Western_European_broadleaf_forest,4,Europe
+"1297",17593,,1.98837209302326,Western European broadleaf forests,"4413",0.1608655929038,,Western_European_broadleaf_forest,4,Europe
+"1298",17669,,1.15116279069767,Western European broadleaf forests,"2651",0.247387162692206,,Western_European_broadleaf_forest,4,Europe
+"1299",17670,,1.12790697674419,Western European broadleaf forests,"6906",0.0251114156618857,,Western_European_broadleaf_forest,4,Europe
+"1300",17671,,1.68604651162791,Western European broadleaf forests,"7047",0.594813055222624,,Western_European_broadleaf_forest,4,Europe
+"1301",17672,,1.58139534883721,Western European broadleaf forests,"7186",0.04527755031626,,Western_European_broadleaf_forest,4,Europe
+"1302",17673,,2.06976744186047,Western European broadleaf forests,"7117",0.242356873031935,,Western_European_broadleaf_forest,4,Europe
+"1303",17673,,2.06976744186047,Western European broadleaf forests,"7117",0.242356873031935,,Western_European_broadleaf_forest,5,Europe
+"1304",17674,,1.90697674418605,Western European broadleaf forests,"897",0.0377798639678962,,Western_European_broadleaf_forest,4,Europe
+"1305",17675,,1.06976744186047,Western European broadleaf forests,"0",0.470670515244297,,Western_European_broadleaf_forest,4,Europe
+"1306",17750,,8.76136363636364,Western European broadleaf forests,"503",0.127063077006203,,Western_European_broadleaf_forest,4,Europe
+"1307",17751,,2.04545454545455,Western European broadleaf forests,"3333",0.122739519558809,,Western_European_broadleaf_forest,4,Europe
+"1308",17752,,1.11363636363636,Western European broadleaf forests,"6830",0,,Western_European_broadleaf_forest,4,Europe
+"1309",17753,,1.61363636363636,Western European broadleaf forests,"6977",0.170498081917444,,Western_European_broadleaf_forest,4,Europe
+"1310",17754,,2.03409090909091,Western European broadleaf forests,"7117",0.303855186947935,,Western_European_broadleaf_forest,4,Europe
+"1311",17755,,1.53409090909091,Western European broadleaf forests,"7254",0.220637695790632,,Western_European_broadleaf_forest,4,Europe
+"1312",17756,,2.44318181818182,Western European broadleaf forests,"1452",0.0962557598246956,,Western_European_broadleaf_forest,4,Europe
+"1313",17756,,2.44318181818182,Western European broadleaf forests,"1452",0.0962557598246956,,Western_European_broadleaf_forest,5,Europe
+"1314",17832,,4.54651162790698,Western European broadleaf forests,"3285",0.161120632354312,,Western_European_broadleaf_forest,4,Europe
+"1315",17833,,1.52325581395349,Western European broadleaf forests,"6763",0,,Western_European_broadleaf_forest,4,Europe
+"1316",17834,,1.43023255813953,Western European broadleaf forests,"6906",0.00943697771336828,,Western_European_broadleaf_forest,4,Europe
+"1317",17835,,1.67441860465116,Western European broadleaf forests,"7047",0.141128479280442,,Western_European_broadleaf_forest,4,Europe
+"1318",17836,,1.52325581395349,Western European broadleaf forests,"7186",0.0301805002182981,,Western_European_broadleaf_forest,4,Europe
+"1319",17837,,1.97674418604651,Western European broadleaf forests,"3152",0.0742632581529135,,Western_European_broadleaf_forest,4,Europe
+"1320",17914,,5.61627906976744,Western European broadleaf forests,"2004",0.167622958439103,,Western_European_broadleaf_forest,4,Europe
+"1321",17915,,1.38372093023256,Western European broadleaf forests,"6654",0,,Western_European_broadleaf_forest,4,Europe
+"1322",17916,,1.26744186046512,Western European broadleaf forests,"6835",0.00317887344654095,,Western_European_broadleaf_forest,4,Europe
+"1323",17917,,1.03488372093023,Western European broadleaf forests,"6977",0.00932735559658112,,Western_European_broadleaf_forest,4,Europe
+"1324",17918,,1.1046511627907,Western European broadleaf forests,"7117",0.153055559158416,,Western_European_broadleaf_forest,4,Europe
+"1325",17919,,1.83720930232558,Western European broadleaf forests,"5594",0.00598555810818762,,Western_European_broadleaf_forest,4,Europe
+"1326",17996,,2.27272727272727,Western European broadleaf forests,"3548",0.0458839865528057,,Western_European_broadleaf_forest,4,Europe
+"1327",17997,,1,Western European broadleaf forests,"6052",0,,Western_European_broadleaf_forest,4,Europe
+"1328",17998,,1.38636363636364,Western European broadleaf forests,"6906",0.0939809662924812,,Western_European_broadleaf_forest,4,Europe
+"1329",17999,,1.44318181818182,Western European broadleaf forests,"7047",0.21924363876119,,Western_European_broadleaf_forest,4,Europe
+"1330",18000,,3.29545454545455,Western European broadleaf forests,"7095",0.0030215964276635,,Western_European_broadleaf_forest,4,Europe
+"1331",18001,,2.21590909090909,Western European broadleaf forests,"60",0.00296496265762753,,Western_European_broadleaf_forest,4,Europe
+"1332",18079,,1.25581395348837,Western European broadleaf forests,"3229",0.0906282839377727,,Western_European_broadleaf_forest,4,Europe
+"1333",18080,,1.32558139534884,Western European broadleaf forests,"6007",0.0505803327846375,,Western_European_broadleaf_forest,4,Europe
+"1334",18081,,1.54651162790698,Western European broadleaf forests,"6977",0.018627659007213,,Western_European_broadleaf_forest,4,Europe
+"1335",18082,,3.86046511627907,Western European broadleaf forests,"7117",0.0820409014788242,,Western_European_broadleaf_forest,4,Europe
+"1336",18083,,4.61627906976744,Western European broadleaf forests,"2674",0.0358526068685896,,Western_European_broadleaf_forest,4,Europe
+"1337",18083,,4.61627906976744,Western European broadleaf forests,"2674",0.0358526068685896,,Western_European_broadleaf_forest,5,Europe
+"1338",18161,,1.41860465116279,Western European broadleaf forests,"2542",0.0576577651591443,,Western_European_broadleaf_forest,4,Europe
+"1339",18162,,2.63953488372093,Western European broadleaf forests,"6906",0.0689324771560239,,Western_European_broadleaf_forest,4,Europe
+"1340",18163,,1.84883720930233,Western European broadleaf forests,"7047",0.0337851987353977,,Western_European_broadleaf_forest,4,Europe
+"1341",18164,,3.27906976744186,Western European broadleaf forests,"5648",0.0301675809433399,,Western_European_broadleaf_forest,4,Europe
+"1342",18243,,2.48863636363636,Western European broadleaf forests,"414",0.238806714725125,,Western_European_broadleaf_forest,4,Europe
+"1343",18244,,2.47727272727273,Western European broadleaf forests,"6266",0.0316517260185742,,Western_European_broadleaf_forest,4,Europe
+"1344",18245,,2.125,Western European broadleaf forests,"6977",0.457072383491905,,Western_European_broadleaf_forest,4,Europe
+"1345",18246,,2.13636363636364,Western European broadleaf forests,"7117",0.221426869994412,,Western_European_broadleaf_forest,4,Europe
+"1346",18247,,2.70454545454545,Western European broadleaf forests,"1349",0.0926138326530411,,Western_European_broadleaf_forest,4,Europe
+"1347",18325,,2.39285714285714,Western European broadleaf forests,"4179",0.0639079363919822,,Western_European_broadleaf_forest,4,Europe
+"1348",18326,,1.66666666666667,Western European broadleaf forests,"3981",0.402794113637114,,Western_European_broadleaf_forest,4,Europe
+"1349",18327,,2.82142857142857,Western European broadleaf forests,"7047",0.181196299166385,,Western_European_broadleaf_forest,4,Europe
+"1350",18328,,1.9047619047619,Western European broadleaf forests,"5004",0.0303552247780661,,Western_European_broadleaf_forest,4,Europe
+"1351",18328,,1.9047619047619,Western European broadleaf forests,"5004",0.0303552247780661,,Western_European_broadleaf_forest,5,Europe
+"1352",18407,,3.78409090909091,Western European broadleaf forests,"1522",0.142355305852902,,Western_European_broadleaf_forest,4,Europe
+"1353",18408,,2.19318181818182,Western European broadleaf forests,"3054",0.174092201747969,,Western_European_broadleaf_forest,4,Europe
+"1354",18409,,2.19318181818182,Western European broadleaf forests,"6076",0.960998759127876,,Western_European_broadleaf_forest,4,Europe
+"1355",18410,,2.05681818181818,Western European broadleaf forests,"7117",0.320049614925915,,Western_European_broadleaf_forest,4,Europe
+"1356",18411,,2.65909090909091,Western European broadleaf forests,"732",0.0177339839101329,,Western_European_broadleaf_forest,4,Europe
+"1357",18489,,3.27272727272727,Western European broadleaf forests,"5050",0.00641167834599829,,Western_European_broadleaf_forest,4,Europe
+"1358",18490,,1.92045454545455,Western European broadleaf forests,"3177",0.391842421135977,,Western_European_broadleaf_forest,4,Europe
+"1359",18491,,1.92045454545455,Western European broadleaf forests,"5280",1.19998003664244,,Western_European_broadleaf_forest,4,Europe
+"1360",18492,,1.97727272727273,Western European broadleaf forests,"2282",0.00603034045608277,,Western_European_broadleaf_forest,4,Europe
+"1361",18492,,1.97727272727273,Western European broadleaf forests,"2282",0.00603034045608277,,Western_European_broadleaf_forest,5,Europe
+"1362",18571,,4.21428571428571,Western European broadleaf forests,"25",0,,Western_European_broadleaf_forest,4,Europe
+"1363",18572,,2.05952380952381,Western European broadleaf forests,"5599",0.0316944640442157,,Western_European_broadleaf_forest,4,Europe
+"1364",18573,,2.0952380952381,Western European broadleaf forests,"4536",0.220739679282626,,Western_European_broadleaf_forest,4,Europe
+"1365",18574,,0.630952380952381,Western European broadleaf forests,"166",1.41962075449263,,Western_European_broadleaf_forest,4,Europe
+"1366",18653,,3.54545454545455,Western European broadleaf forests,"418",0,,Western_European_broadleaf_forest,4,Europe
+"1367",18654,,2.40909090909091,Western European broadleaf forests,"4508",0.267553558188642,,Western_European_broadleaf_forest,4,Europe
+"1368",18736,,4.2093023255814,Western European broadleaf forests,"19",0.053837898813256,,Western_European_broadleaf_forest,4,Europe
+"1369",18737,,1.91860465116279,Western European broadleaf forests,"806",0.374148178852769,,Western_European_broadleaf_forest,4,Europe

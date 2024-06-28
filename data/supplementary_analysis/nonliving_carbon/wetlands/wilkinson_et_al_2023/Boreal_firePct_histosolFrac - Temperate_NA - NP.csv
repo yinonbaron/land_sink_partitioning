@@ -1,0 +1,1186 @@
+fid,id,fire_pct,_mean,ECO_NAME,area,fired_eurasia_4326_pc,fired_russia_china_japan_4326_pc,layer,BIOME,CONTINENT
+"1",10052,0,2.51162790697674,New England-Acadian forests,"1690",,,Acadian_forest,4,North America
+"2",10053,0,2.94186046511628,New England-Acadian forests,"636",,,Acadian_forest,4,North America
+"3",10131,0.00285954761364544,4.54651162790698,New England-Acadian forests,"3246",,,Acadian_forest,4,North America
+"4",10132,0.00562234276852615,2.37209302325581,New England-Acadian forests,"5462",,,Acadian_forest,4,North America
+"5",10133,0,1.01162790697674,New England-Acadian forests,"6601",,,Acadian_forest,4,North America
+"6",10134,0,2.96511627906977,New England-Acadian forests,"3934",,,Acadian_forest,4,North America
+"7",10212,0.0249178134494076,5.32954545454545,New England-Acadian forests,"205",,,Acadian_forest,4,North America
+"8",10213,0.0445328610064369,2.40909090909091,New England-Acadian forests,"6094",,,Acadian_forest,4,North America
+"9",10214,0,2.25,New England-Acadian forests,"6887",,,Acadian_forest,4,North America
+"10",10215,0,2.01136363636364,New England-Acadian forests,"7394",,,Acadian_forest,4,North America
+"11",10216,0.0109701104182117,4.56818181818182,New England-Acadian forests,"4280",,,Acadian_forest,4,North America
+"12",10293,0.335871018566499,3.97674418604651,New England-Acadian forests,"108",,,Acadian_forest,4,North America
+"13",10294,0,2.91860465116279,New England-Acadian forests,"6950",,,Acadian_forest,4,North America
+"14",10295,0,4.2093023255814,New England-Acadian forests,"7588",,,Acadian_forest,4,North America
+"15",10296,0.00281116176104208,4.38372093023256,New England-Acadian forests,"7718",,,Acadian_forest,4,North America
+"16",10297,0.00827060906756375,4.7093023255814,New England-Acadian forests,"1170",,,Acadian_forest,4,North America
+"17",10375,0.0591473819763471,3.03488372093023,New England-Acadian forests,"933",,,Acadian_forest,4,North America
+"18",10376,0,3.59302325581395,New England-Acadian forests,"7241",,,Acadian_forest,4,North America
+"19",10377,0,5.46511627906977,New England-Acadian forests,"7523",,,Acadian_forest,4,North America
+"20",10378,0,2.61627906976744,New England-Acadian forests,"5674",,,Acadian_forest,4,North America
+"21",10379,0.0055635446806757,2.84883720930233,New England-Acadian forests,"1173",,,Acadian_forest,4,North America
+"22",10456,0.00603099718405398,5.29545454545455,New England-Acadian forests,"2470",,,Acadian_forest,4,North America
+"23",10457,0,3.85227272727273,New England-Acadian forests,"7281",,,Acadian_forest,4,North America
+"24",10458,0,5.01136363636364,New England-Acadian forests,"7457",,,Acadian_forest,4,North America
+"25",10459,0,5.43181818181818,New England-Acadian forests,"3681",,,Acadian_forest,4,North America
+"26",10538,0,4.30232558139535,New England-Acadian forests,"1788",,,Acadian_forest,4,North America
+"27",10539,0,3.38372093023256,New England-Acadian forests,"4887",,,Acadian_forest,4,North America
+"28",10540,0,3.04651162790698,New England-Acadian forests,"7390",,,Acadian_forest,4,North America
+"29",10541,0,4.93023255813953,New England-Acadian forests,"7512",,,Acadian_forest,4,North America
+"30",10542,0.00283508775835299,4.56976744186047,New England-Acadian forests,"3290",,,Acadian_forest,4,North America
+"31",10619,0,3.45348837209302,New England-Acadian forests,"385",,,Acadian_forest,4,North America
+"32",10620,0,3.74418604651163,New England-Acadian forests,"1118",,,Acadian_forest,4,North America
+"33",10621,0.380509547126318,1.6046511627907,New England-Acadian forests,"7322",,,Acadian_forest,4,North America
+"34",10622,0.00291062742677942,4.31395348837209,New England-Acadian forests,"7457",,,Acadian_forest,4,North America
+"35",10623,0.0199666867704441,6.26744186046512,New England-Acadian forests,"7166",,,Acadian_forest,4,North America
+"36",10624,0,0.267441860465116,New England-Acadian forests,"77",,,Acadian_forest,4,North America
+"37",10702,0.00610311701228013,2.875,New England-Acadian forests,"396",,,Acadian_forest,4,North America
+"38",10703,0,2.30681818181818,New England-Acadian forests,"4188",,,Acadian_forest,4,North America
+"39",10704,0,2.94318181818182,New England-Acadian forests,"5077",,,Acadian_forest,4,North America
+"40",10705,0.412863418151572,4.89772727272727,New England-Acadian forests,"4984",,,Acadian_forest,4,North America
+"41",10706,0.00283527332298167,1.03409090909091,New England-Acadian forests,"401",,,Acadian_forest,4,North America
+"42",10784,0.0120483319269818,2.22093023255814,New England-Acadian forests,"2491",,,Acadian_forest,4,North America
+"43",10785,0,4.81395348837209,New England-Acadian forests,"2372",,,Acadian_forest,4,North America
+"44",10786,0.859403182488153,5.23255813953488,New England-Acadian forests,"1390",,,Acadian_forest,4,North America
+"45",10787,0,1.56976744186047,New England-Acadian forests,"1716",,,Acadian_forest,4,North America
+"46",10787,0,1.56976744186047,New England-Acadian forests,"303",,,Acadian_forest,4,North America
+"47",10788,0.00843307945207299,7.69767441860465,New England-Acadian forests,"4404",,,Acadian_forest,4,North America
+"48",10868,0.0088001858033299,6.7093023255814,New England-Acadian forests,"43",,,Acadian_forest,4,North America
+"49",10869,0,1.68604651162791,New England-Acadian forests,"3266",,,Acadian_forest,4,North America
+"50",10869,0,1.68604651162791,New England-Acadian forests,"461",,,Acadian_forest,4,North America
+"51",10870,0.0424145666929717,9.23255813953488,New England-Acadian forests,"6785",,,Acadian_forest,4,North America
+"52",10871,0,3.72093023255814,New England-Acadian forests,"1896",,,Acadian_forest,4,North America
+"53",10950,0.0463964127787544,3.41860465116279,New England-Acadian forests,"206",,,Acadian_forest,4,North America
+"54",10950,0.0463964127787544,3.41860465116279,New England-Acadian forests,"1312",,,Acadian_forest,4,North America
+"55",10951,0.00285993035350672,6.12790697674419,New England-Acadian forests,"4144",,,Acadian_forest,4,North America
+"56",10952,0.0028112111770693,1.52325581395349,New England-Acadian forests,"1064",,,Acadian_forest,4,North America
+"57",11033,0.958921509869148,2.85227272727273,New England-Acadian forests,"2786",,,Acadian_forest,4,North America
+"58",11034,0.644585236359179,2.84090909090909,New England-Acadian forests,"2559",,,Acadian_forest,4,North America
+"59",11114,0,1.04651162790698,New England-Acadian forests,"617",,,Acadian_forest,4,North America
+"60",11115,0.029826239381671,5.46511627906977,New England-Acadian forests,"4888",,,Acadian_forest,4,North America
+"61",11196,0,0.313953488372093,New England-Acadian forests,"374",,,Acadian_forest,4,North America
+"62",11197,0.0188286820089509,3.48837209302326,New England-Acadian forests,"819",,,Acadian_forest,4,North America
+"63",11197,0.0188286820089509,3.48837209302326,New England-Acadian forests,"3996",,,Acadian_forest,4,North America
+"64",11277,0.0443932026786958,1.76136363636364,New England-Acadian forests,"616",,,Acadian_forest,4,North America
+"65",11278,0,4.52272727272727,New England-Acadian forests,"4747",,,Acadian_forest,4,North America
+"66",11279,0,0.386363636363636,New England-Acadian forests,"157",,,Acadian_forest,4,North America
+"67",11360,0,1.22093023255814,New England-Acadian forests,"877",,,Acadian_forest,4,North America
+"68",11361,0.0115278260106636,1.51162790697674,New England-Acadian forests,"548",,,Acadian_forest,4,North America
+"69",5363,1.17680849469142,0.790697674418605,Alberta-British Columbia foothills forests,"559",,,Alberta_BC_foothills_forest,5,North America
+"70",5445,3.57176938434339,1.10227272727273,Alberta-British Columbia foothills forests,"444",,,Alberta_BC_foothills_forest,5,North America
+"71",5446,1.65378287153176,3.05681818181818,Alberta-British Columbia foothills forests,"4246",,,Alberta_BC_foothills_forest,5,North America
+"72",5526,0.710728569484401,12.4642857142857,Alberta-British Columbia foothills forests,"359",,,Alberta_BC_foothills_forest,5,North America
+"73",5527,5.72440763444107,6.65476190476191,Alberta-British Columbia foothills forests,"5300",,,Alberta_BC_foothills_forest,5,North America
+"74",5528,2.35620164941444,5.10714285714286,Alberta-British Columbia foothills forests,"938",,,Alberta_BC_foothills_forest,5,North America
+"75",5528,2.35620164941444,5.10714285714286,Alberta-British Columbia foothills forests,"496",,,Alberta_BC_foothills_forest,5,North America
+"76",5529,0.874120657594628,1.46428571428571,Alberta-British Columbia foothills forests,"120",,,Alberta_BC_foothills_forest,5,North America
+"77",5608,3.20602729798672,10.625,Alberta-British Columbia foothills forests,"262",,,Alberta_BC_foothills_forest,5,North America
+"78",5609,6.02062440534029,21.2727272727273,Alberta-British Columbia foothills forests,"5658",,,Alberta_BC_foothills_forest,5,North America
+"79",5610,8.24222492220342,9.90909090909091,Alberta-British Columbia foothills forests,"2961",,,Alberta_BC_foothills_forest,5,North America
+"80",5611,2.48178046520782,3.79545454545455,Alberta-British Columbia foothills forests,"4393",,,Alberta_BC_foothills_forest,5,North America
+"81",5612,6.72634817554061,2,Alberta-British Columbia foothills forests,"1805",,,Alberta_BC_foothills_forest,5,North America
+"82",5690,4.12230498054696,29.0454545454545,Alberta-British Columbia foothills forests,"4220",,,Alberta_BC_foothills_forest,5,North America
+"83",5691,3.10591493520363,19.125,Alberta-British Columbia foothills forests,"5690",,,Alberta_BC_foothills_forest,5,North America
+"84",5692,1.36579791996963,2.44318181818182,Alberta-British Columbia foothills forests,"61",,,Alberta_BC_foothills_forest,5,North America
+"85",5692,1.36579791996963,2.44318181818182,Alberta-British Columbia foothills forests,"1319",,,Alberta_BC_foothills_forest,5,North America
+"86",5693,1.76269595684292,3.14772727272727,Alberta-British Columbia foothills forests,"1867",,,Alberta_BC_foothills_forest,5,North America
+"87",5694,3.50097422376595,1.09090909090909,Alberta-British Columbia foothills forests,"301",,,Alberta_BC_foothills_forest,5,North America
+"88",5772,0.471063492279506,25.5,Alberta-British Columbia foothills forests,"564",,,Alberta_BC_foothills_forest,5,North America
+"89",5773,1.98061885773503,24.4404761904762,Alberta-British Columbia foothills forests,"5172",,,Alberta_BC_foothills_forest,5,North America
+"90",5774,1.72782211985964,4.23809523809524,Alberta-British Columbia foothills forests,"3039",,,Alberta_BC_foothills_forest,5,North America
+"91",5775,0.486853399127272,2.51190476190476,Alberta-British Columbia foothills forests,"1164",,,Alberta_BC_foothills_forest,5,North America
+"92",5776,0.674370337941535,4.41666666666667,Alberta-British Columbia foothills forests,"3900",,,Alberta_BC_foothills_forest,5,North America
+"93",5777,2.1463859181058,0.55952380952381,Alberta-British Columbia foothills forests,"186",,,Alberta_BC_foothills_forest,5,North America
+"94",5854,19.3466186375179,13.2954545454545,Alberta-British Columbia foothills forests,"1119",,,Alberta_BC_foothills_forest,5,North America
+"95",5855,4.82811288332854,7,Alberta-British Columbia foothills forests,"3877",,,Alberta_BC_foothills_forest,5,North America
+"96",5856,0.970420343984598,3.48863636363636,Alberta-British Columbia foothills forests,"499",,,Alberta_BC_foothills_forest,5,North America
+"97",5857,0.939284208542462,3.86363636363636,Alberta-British Columbia foothills forests,"817",,,Alberta_BC_foothills_forest,5,North America
+"98",5858,0.325468185431316,5.93181818181818,Alberta-British Columbia foothills forests,"5592",,,Alberta_BC_foothills_forest,5,North America
+"99",5859,3.52249761072846,0.693181818181818,Alberta-British Columbia foothills forests,"446",,,Alberta_BC_foothills_forest,5,North America
+"100",5937,3.50417484043744,8.80232558139535,Alberta-British Columbia foothills forests,"383",,,Alberta_BC_foothills_forest,5,North America
+"101",5939,2.96959670689355,4.18604651162791,Alberta-British Columbia foothills forests,"59",,,Alberta_BC_foothills_forest,5,North America
+"102",5940,0.742338833900672,7.67441860465116,Alberta-British Columbia foothills forests,"3212",,,Alberta_BC_foothills_forest,5,North America
+"103",5941,0.223177132455624,8.59302325581395,Alberta-British Columbia foothills forests,"6041",,,Alberta_BC_foothills_forest,5,North America
+"104",5942,0.538907059245813,0.465116279069767,Alberta-British Columbia foothills forests,"89",,,Alberta_BC_foothills_forest,5,North America
+"105",6021,0.453725287575166,4.74418604651163,Alberta-British Columbia foothills forests,"3646",,,Alberta_BC_foothills_forest,5,North America
+"106",6022,0.231276254463026,8.22093023255814,Alberta-British Columbia foothills forests,"6027",,,Alberta_BC_foothills_forest,5,North America
+"107",6023,0.382826694016905,8.83720930232558,Alberta-British Columbia foothills forests,"6345",,,Alberta_BC_foothills_forest,5,North America
+"108",6024,2.45459639090214,0.0930232558139535,Alberta-British Columbia foothills forests,"1646",,,Alberta_BC_foothills_forest,5,North America
+"109",6103,2.51951938728645,19.6363636363636,Alberta-British Columbia foothills forests,"1331",,,Alberta_BC_foothills_forest,5,North America
+"110",6104,1.0630094733274,4.73863636363636,Alberta-British Columbia foothills forests,"4412",,,Alberta_BC_foothills_forest,5,North America
+"111",6105,0.409632180805851,10.1818181818182,Alberta-British Columbia foothills forests,"4934",,,Alberta_BC_foothills_forest,5,North America
+"112",6106,0.31130207760389,4.56818181818182,Alberta-British Columbia foothills forests,"6404",,,Alberta_BC_foothills_forest,5,North America
+"113",6107,1.74137583935771,0.0795454545454545,Alberta-British Columbia foothills forests,"2717",,,Alberta_BC_foothills_forest,5,North America
+"114",6185,1.22166923864187,8.95348837209302,Alberta-British Columbia foothills forests,"1761",,,Alberta_BC_foothills_forest,5,North America
+"115",6187,0.320622024028982,5.43023255813953,Alberta-British Columbia foothills forests,"1745",,,Alberta_BC_foothills_forest,5,North America
+"116",6188,0.0424572196213934,3.2093023255814,Alberta-British Columbia foothills forests,"1006",,,Alberta_BC_foothills_forest,5,North America
+"117",6189,0.0285990530523393,0.430232558139535,Alberta-British Columbia foothills forests,"249",,,Alberta_BC_foothills_forest,5,North America
+"118",5612,6.72634817554061,2,Alberta Mountain forests,"1421",,,Alberta_mountain_forest,5,North America
+"119",5613,0.153801603044106,0.636363636363636,Alberta Mountain forests,"9",,,Alberta_mountain_forest,5,North America
+"120",5693,1.76269595684292,3.14772727272727,Alberta Mountain forests,"49",,,Alberta_mountain_forest,5,North America
+"121",5694,3.50097422376595,1.09090909090909,Alberta Mountain forests,"5456",,,Alberta_mountain_forest,5,North America
+"122",5695,0.545340807250851,0.920454545454545,Alberta Mountain forests,"577",,,Alberta_mountain_forest,5,North America
+"123",5776,0.674370337941535,4.41666666666667,Alberta Mountain forests,"885",,,Alberta_mountain_forest,5,North America
+"124",5777,2.1463859181058,0.55952380952381,Alberta Mountain forests,"5713",,,Alberta_mountain_forest,5,North America
+"125",5778,2.71265055959733,0.642857142857143,Alberta Mountain forests,"241",,,Alberta_mountain_forest,5,North America
+"126",5858,0.325468185431316,5.93181818181818,Alberta Mountain forests,"730",,,Alberta_mountain_forest,5,North America
+"127",5859,3.52249761072846,0.693181818181818,Alberta Mountain forests,"6019",,,Alberta_mountain_forest,5,North America
+"128",5860,0.800139215096018,0.556818181818182,Alberta Mountain forests,"935",,,Alberta_mountain_forest,5,North America
+"129",5941,0.223177132455624,8.59302325581395,Alberta Mountain forests,"356",,,Alberta_mountain_forest,5,North America
+"130",5942,0.538907059245813,0.465116279069767,Alberta Mountain forests,"6337",,,Alberta_mountain_forest,5,North America
+"131",5943,1.12806897578501,0.558139534883721,Alberta Mountain forests,"669",,,Alberta_mountain_forest,5,North America
+"132",6023,0.382826694016905,8.83720930232558,Alberta Mountain forests,"128",,,Alberta_mountain_forest,5,North America
+"133",6024,2.45459639090214,0.0930232558139535,Alberta Mountain forests,"4882",,,Alberta_mountain_forest,5,North America
+"134",6025,5.85333952847522,0.418604651162791,Alberta Mountain forests,"1291",,,Alberta_mountain_forest,5,North America
+"135",6107,1.74137583935771,0.0795454545454545,Alberta Mountain forests,"3327",,,Alberta_mountain_forest,5,North America
+"136",6108,6.10901216150339,0.420454545454545,Alberta Mountain forests,"908",,,Alberta_mountain_forest,5,North America
+"137",9314,0.0210493235453595,0.431818181818182,Allegheny Highlands forests,"29",,,Allegheny_Highland_forests,4,North America
+"138",9315,0.202389533487528,1.05681818181818,Allegheny Highlands forests,"20",,,Allegheny_Highland_forests,4,North America
+"139",9397,0.0161870296668103,0.546511627906977,Allegheny Highlands forests,"2249",,,Allegheny_Highland_forests,4,North America
+"140",9478,0,0.476744186046512,Allegheny Highlands forests,"5310",,,Allegheny_Highland_forests,4,North America
+"141",9479,0,0,Allegheny Highlands forests,"746",,,Allegheny_Highland_forests,4,North America
+"142",9560,0,1.53409090909091,Allegheny Highlands forests,"4548",,,Allegheny_Highland_forests,4,North America
+"143",9561,0,0.102272727272727,Allegheny Highlands forests,"6561",,,Allegheny_Highland_forests,4,North America
+"144",9641,0.0165525431750291,2.23255813953488,Allegheny Highlands forests,"2761",,,Allegheny_Highland_forests,4,North America
+"145",9642,0,0.5,Allegheny Highlands forests,"7970",,,Allegheny_Highland_forests,4,North America
+"146",9643,0.425627710432436,0.0465116279069767,Allegheny Highlands forests,"2770",,,Allegheny_Highland_forests,4,North America
+"147",9724,0.0027428886993442,0.837209302325581,Allegheny Highlands forests,"6969",,,Allegheny_Highland_forests,4,North America
+"148",9725,0,0.593023255813954,Allegheny Highlands forests,"6242",,,Allegheny_Highland_forests,4,North America
+"149",9805,0,3.28409090909091,Allegheny Highlands forests,"2573",,,Allegheny_Highland_forests,4,North America
+"150",9806,0,0.681818181818182,Allegheny Highlands forests,"7970",,,Allegheny_Highland_forests,4,North America
+"151",9807,0.145191677804292,0.5,Allegheny Highlands forests,"1618",,,Allegheny_Highland_forests,4,North America
+"152",9888,0.00548572128682088,1.46428571428571,Allegheny Highlands forests,"7187",,,Allegheny_Highland_forests,4,North America
+"153",9889,0.214592501541838,1.30952380952381,Allegheny Highlands forests,"7077",,,Allegheny_Highland_forests,4,North America
+"154",9890,0,0.119047619047619,Allegheny Highlands forests,"256",,,Allegheny_Highland_forests,4,North America
+"155",9969,0,2.75,Allegheny Highlands forests,"1546",,,Allegheny_Highland_forests,4,North America
+"156",9970,0.135255058566878,1.75,Allegheny Highlands forests,"7430",,,Allegheny_Highland_forests,4,North America
+"157",9971,0,3.54545454545455,Allegheny Highlands forests,"1684",,,Allegheny_Highland_forests,4,North America
+"158",10052,0,2.51162790697674,Allegheny Highlands forests,"463",,,Allegheny_Highland_forests,4,North America
+"159",10053,0,2.94186046511628,Allegheny Highlands forests,"31",,,Allegheny_Highland_forests,4,North America
+"160",4628,0.00694982731684485,7.85227272727273,British Columbia mainland coastal forests,"111",,,BC_mainland_coastal_forest,5,North America
+"161",4709,0.0598729694014372,13.093023255814,British Columbia mainland coastal forests,"1992",,,BC_mainland_coastal_forest,5,North America
+"162",4710,0.0167798370559094,19.3488372093023,British Columbia mainland coastal forests,"2847",,,BC_mainland_coastal_forest,5,North America
+"163",4790,0.120734113748103,1.55813953488372,British Columbia mainland coastal forests,"1099",,,BC_mainland_coastal_forest,5,North America
+"164",4791,0.659737503108586,7,British Columbia mainland coastal forests,"3512",,,BC_mainland_coastal_forest,5,North America
+"165",4792,0.504158821011655,4.31395348837209,British Columbia mainland coastal forests,"6157",,,BC_mainland_coastal_forest,5,North America
+"166",4793,0.0207833779407861,13.6627906976744,British Columbia mainland coastal forests,"2630",,,BC_mainland_coastal_forest,5,North America
+"167",4872,0.441254544250394,2.93023255813953,British Columbia mainland coastal forests,"1747",,,BC_mainland_coastal_forest,5,North America
+"168",4873,0.84164665139518,2.43023255813953,British Columbia mainland coastal forests,"6170",,,BC_mainland_coastal_forest,5,North America
+"169",4874,0.589153035479692,4.63953488372093,British Columbia mainland coastal forests,"6059",,,BC_mainland_coastal_forest,5,North America
+"170",4875,0.00670606712700266,13.906976744186,British Columbia mainland coastal forests,"3828",,,BC_mainland_coastal_forest,5,North America
+"171",4876,0.00328465874836372,10.3023255813953,British Columbia mainland coastal forests,"269",,,BC_mainland_coastal_forest,5,North America
+"172",4955,2.84370951990293,2.25,British Columbia mainland coastal forests,"1888",,,BC_mainland_coastal_forest,5,North America
+"173",4956,1.51598060113844,1.65909090909091,British Columbia mainland coastal forests,"1632",,,BC_mainland_coastal_forest,5,North America
+"174",4957,0.348487634336809,2.79545454545455,British Columbia mainland coastal forests,"4929",,,BC_mainland_coastal_forest,5,North America
+"175",4958,0.0212219832526939,9.73863636363636,British Columbia mainland coastal forests,"4996",,,BC_mainland_coastal_forest,5,North America
+"176",4959,0.0421830105272042,15.2159090909091,British Columbia mainland coastal forests,"4599",,,BC_mainland_coastal_forest,5,North America
+"177",4960,0.591999684392496,6.71590909090909,British Columbia mainland coastal forests,"232",,,BC_mainland_coastal_forest,5,North America
+"178",5039,27.7259964421438,3.15116279069767,British Columbia mainland coastal forests,"3056",,,BC_mainland_coastal_forest,5,North America
+"179",5040,0.148544254927824,4.59302325581395,British Columbia mainland coastal forests,"5594",,,BC_mainland_coastal_forest,5,North America
+"180",5041,0.0791935663623435,6.54651162790698,British Columbia mainland coastal forests,"4050",,,BC_mainland_coastal_forest,5,North America
+"181",5122,13.1752493435359,2.53488372093023,British Columbia mainland coastal forests,"767",,,BC_mainland_coastal_forest,5,North America
+"182",5123,2.85923418953071,1.23255813953488,British Columbia mainland coastal forests,"3535",,,BC_mainland_coastal_forest,5,North America
+"183",5124,0.136291087344028,5.2093023255814,British Columbia mainland coastal forests,"3007",,,BC_mainland_coastal_forest,5,North America
+"184",5204,4.69071492176558,2.89772727272727,British Columbia mainland coastal forests,"331",,,BC_mainland_coastal_forest,5,North America
+"185",5205,0.425189118522668,2.07954545454545,British Columbia mainland coastal forests,"5417",,,BC_mainland_coastal_forest,5,North America
+"186",5206,0.4446135608031,3.28409090909091,British Columbia mainland coastal forests,"1434",,,BC_mainland_coastal_forest,5,North America
+"187",5287,11.9284452002901,1.97674418604651,British Columbia mainland coastal forests,"170",,,BC_mainland_coastal_forest,5,North America
+"188",5288,1.41074136904056,3.22093023255814,British Columbia mainland coastal forests,"5340",,,BC_mainland_coastal_forest,5,North America
+"189",5289,0.58688779384289,2.87209302325581,British Columbia mainland coastal forests,"1458",,,BC_mainland_coastal_forest,5,North America
+"190",5369,2.98519635960219,1.58139534883721,British Columbia mainland coastal forests,"802",,,BC_mainland_coastal_forest,5,North America
+"191",5370,1.2358074284516,4.18604651162791,British Columbia mainland coastal forests,"6746",,,BC_mainland_coastal_forest,5,North America
+"192",5371,0.147569992412683,3.13953488372093,British Columbia mainland coastal forests,"488",,,BC_mainland_coastal_forest,5,North America
+"193",5452,4.76851407749505,0.988636363636364,British Columbia mainland coastal forests,"1460",,,BC_mainland_coastal_forest,5,North America
+"194",5453,0.758257000043299,4.25,British Columbia mainland coastal forests,"5260",,,BC_mainland_coastal_forest,5,North America
+"195",5454,0.302347304202925,4.10227272727273,British Columbia mainland coastal forests,"2676",,,BC_mainland_coastal_forest,5,North America
+"196",5455,0.118483238067615,4.97727272727273,British Columbia mainland coastal forests,"49",,,BC_mainland_coastal_forest,5,North America
+"197",5534,8.54873309667189,0.94047619047619,British Columbia mainland coastal forests,"1867",,,BC_mainland_coastal_forest,5,North America
+"198",5535,1.38930750206895,2.23809523809524,British Columbia mainland coastal forests,"6546",,,BC_mainland_coastal_forest,5,North America
+"199",5536,0.917635605934238,2.27380952380952,British Columbia mainland coastal forests,"5791",,,BC_mainland_coastal_forest,5,North America
+"200",5537,4.42492122163606,0.857142857142857,British Columbia mainland coastal forests,"560",,,BC_mainland_coastal_forest,5,North America
+"201",5618,25.9570192847114,0.738636363636364,British Columbia mainland coastal forests,"297",,,BC_mainland_coastal_forest,5,North America
+"202",5528,2.35620164941444,5.10714285714286,Canadian Aspen forests and parklands,"4281",,,Canadian_Aspen_Parkland,5,North America
+"203",5856,0.970420343984598,3.48863636363636,Canadian Aspen forests and parklands,"5516",,,Canadian_Aspen_Parkland,5,North America
+"204",5939,2.96959670689355,4.18604651162791,Canadian Aspen forests and parklands,"6016",,,Canadian_Aspen_Parkland,5,North America
+"205",6021,0.453725287575166,4.74418604651163,Canadian Aspen forests and parklands,"2523",,,Canadian_Aspen_Parkland,5,North America
+"206",6022,0.231276254463026,8.22093023255814,Canadian Aspen forests and parklands,"5",,,Canadian_Aspen_Parkland,5,North America
+"207",6106,0.31130207760389,4.56818181818182,Canadian Aspen forests and parklands,"142",,,Canadian_Aspen_Parkland,5,North America
+"208",6188,0.0424572196213934,3.2093023255814,Canadian Aspen forests and parklands,"5611",,,Canadian_Aspen_Parkland,5,North America
+"209",5122,13.1752493435359,2.53488372093023,Cascade Mountains leeward forests,"1613",,,Cascade_Mountains_leeward_forest,5,North America
+"210",5123,2.85923418953071,1.23255813953488,Cascade Mountains leeward forests,"712",,,Cascade_Mountains_leeward_forest,5,North America
+"211",5204,4.69071492176558,2.89772727272727,Cascade Mountains leeward forests,"2199",,,Cascade_Mountains_leeward_forest,5,North America
+"212",5205,0.425189118522668,2.07954545454545,Cascade Mountains leeward forests,"390",,,Cascade_Mountains_leeward_forest,5,North America
+"213",5287,11.9284452002901,1.97674418604651,Cascade Mountains leeward forests,"3280",,,Cascade_Mountains_leeward_forest,5,North America
+"214",5288,1.41074136904056,3.22093023255814,Cascade Mountains leeward forests,"80",,,Cascade_Mountains_leeward_forest,5,North America
+"215",5369,2.98519635960219,1.58139534883721,Cascade Mountains leeward forests,"4828",,,Cascade_Mountains_leeward_forest,5,North America
+"216",5451,9.2464612317066,1.57954545454545,Cascade Mountains leeward forests,"1301",,,Cascade_Mountains_leeward_forest,5,North America
+"217",5452,4.76851407749505,0.988636363636364,Cascade Mountains leeward forests,"5375",,,Cascade_Mountains_leeward_forest,5,North America
+"218",5533,38.6341807158144,2.60714285714286,Cascade Mountains leeward forests,"2421",,,Cascade_Mountains_leeward_forest,5,North America
+"219",5534,8.54873309667189,0.94047619047619,Cascade Mountains leeward forests,"4000",,,Cascade_Mountains_leeward_forest,5,North America
+"220",5535,1.38930750206895,2.23809523809524,Cascade Mountains leeward forests,"298",,,Cascade_Mountains_leeward_forest,5,North America
+"221",5536,0.917635605934238,2.27380952380952,Cascade Mountains leeward forests,"1006",,,Cascade_Mountains_leeward_forest,5,North America
+"222",5537,4.42492122163606,0.857142857142857,Cascade Mountains leeward forests,"748",,,Cascade_Mountains_leeward_forest,5,North America
+"223",5617,7.40829986673484,0.352272727272727,Cascade Mountains leeward forests,"2490",,,Cascade_Mountains_leeward_forest,5,North America
+"224",5618,25.9570192847114,0.738636363636364,Cascade Mountains leeward forests,"6379",,,Cascade_Mountains_leeward_forest,5,North America
+"225",5619,18.5537815373621,0.125,Cascade Mountains leeward forests,"4362",,,Cascade_Mountains_leeward_forest,5,North America
+"226",5699,22.6120523313577,0.136363636363636,Cascade Mountains leeward forests,"3645",,,Cascade_Mountains_leeward_forest,5,North America
+"227",5700,54.1174890250843,0.0454545454545455,Cascade Mountains leeward forests,"1324",,,Cascade_Mountains_leeward_forest,5,North America
+"228",4789,2.61007988496343,0.325581395348837,Central British Columbia Mountain forests,"202",,,Central_BC_mountain_forest,5,North America
+"229",4871,0.0103454222518284,1.84883720930233,Central British Columbia Mountain forests,"3232",,,Central_BC_mountain_forest,5,North America
+"230",4872,0.441254544250394,2.93023255813953,Central British Columbia Mountain forests,"2",,,Central_BC_mountain_forest,5,North America
+"231",4953,0.486482106024014,0.386363636363636,Central British Columbia Mountain forests,"46",,,Central_BC_mountain_forest,5,North America
+"232",4954,0.70388543483539,0.75,Central British Columbia Mountain forests,"4191",,,Central_BC_mountain_forest,5,North America
+"233",4955,2.84370951990293,2.25,Central British Columbia Mountain forests,"81",,,Central_BC_mountain_forest,5,North America
+"234",5035,0.647496627667278,0.232558139534884,Central British Columbia Mountain forests,"313",,,Central_BC_mountain_forest,5,North America
+"235",5036,0.247483874795077,2.55813953488372,Central British Columbia Mountain forests,"5223",,,Central_BC_mountain_forest,5,North America
+"236",5037,1.05734351405864,4.44186046511628,Central British Columbia Mountain forests,"96",,,Central_BC_mountain_forest,5,North America
+"237",5118,6.26555513439781,0.244186046511628,Central British Columbia Mountain forests,"2964",,,Central_BC_mountain_forest,5,North America
+"238",5119,1.71629670567168,2.36046511627907,Central British Columbia Mountain forests,"5093",,,Central_BC_mountain_forest,5,North America
+"239",5199,0.595331829180064,0.511363636363636,Central British Columbia Mountain forests,"483",,,Central_BC_mountain_forest,5,North America
+"240",5200,13.257284499584,1.72727272727273,Central British Columbia Mountain forests,"5987",,,Central_BC_mountain_forest,5,North America
+"241",5201,2.73985261629596,4.43181818181818,Central British Columbia Mountain forests,"1434",,,Central_BC_mountain_forest,5,North America
+"242",5281,1.39841953030589,0.337209302325581,Central British Columbia Mountain forests,"306",,,Central_BC_mountain_forest,5,North America
+"243",5282,1.60926381438312,1.16279069767442,Central British Columbia Mountain forests,"5612",,,Central_BC_mountain_forest,5,North America
+"244",5283,1.39086591775849,4.16279069767442,Central British Columbia Mountain forests,"4314",,,Central_BC_mountain_forest,5,North America
+"245",5363,1.17680849469142,0.790697674418605,Central British Columbia Mountain forests,"1732",,,Central_BC_mountain_forest,5,North America
+"246",5364,2.21295761710936,0.569767441860465,Central British Columbia Mountain forests,"6016",,,Central_BC_mountain_forest,5,North America
+"247",5365,0.446442309323943,3.45348837209302,Central British Columbia Mountain forests,"1582",,,Central_BC_mountain_forest,5,North America
+"248",5446,1.65378287153176,3.05681818181818,Central British Columbia Mountain forests,"1513",,,Central_BC_mountain_forest,5,North America
+"249",5447,4.53414960026419,0.875,Central British Columbia Mountain forests,"5989",,,Central_BC_mountain_forest,5,North America
+"250",5448,0.486578744482149,3.98863636363636,Central British Columbia Mountain forests,"1959",,,Central_BC_mountain_forest,5,North America
+"251",5528,2.35620164941444,5.10714285714286,Central British Columbia Mountain forests,"301",,,Central_BC_mountain_forest,5,North America
+"252",5529,0.874120657594628,1.46428571428571,Central British Columbia Mountain forests,"6048",,,Central_BC_mountain_forest,5,North America
+"253",5530,0.207395871365235,1.73809523809524,Central British Columbia Mountain forests,"2987",,,Central_BC_mountain_forest,5,North America
+"254",5611,2.48178046520782,3.79545454545455,Central British Columbia Mountain forests,"60",,,Central_BC_mountain_forest,5,North America
+"255",5612,6.72634817554061,2,Central British Columbia Mountain forests,"3020",,,Central_BC_mountain_forest,5,North America
+"256",5613,0.153801603044106,0.636363636363636,Central British Columbia Mountain forests,"1216",,,Central_BC_mountain_forest,5,North America
+"257",5694,3.50097422376595,1.09090909090909,Central British Columbia Mountain forests,"87",,,Central_BC_mountain_forest,5,North America
+"258",8406,4.88622480629389,7.48837209302326,Central Canadian Shield forests,"35",,,Central_Canadian_shield_forest,4,North America
+"259",8487,0.909375955531726,5.38636363636364,Central Canadian Shield forests,"5930",,,Central_Canadian_shield_forest,4,North America
+"260",9143,0.00615114474458506,14.406976744186,Central Canadian Shield forests,"6592",,,Central_Canadian_shield_forest,4,North America
+"261",9226,0.0456074200929121,14.9651162790698,Central Canadian Shield forests,"3748",,,Central_Canadian_shield_forest,4,North America
+"262",9308,4.71275645301346,5.04545454545455,Central Canadian Shield forests,"1037",,,Central_Canadian_shield_forest,4,North America
+"263",9718,1.03994482484249,11.4186046511628,Central Canadian Shield forests,"7116",,,Central_Canadian_shield_forest,4,North America
+"264",9800,6.8383441586938,9.29545454545454,Central Canadian Shield forests,"1109",,,Central_Canadian_shield_forest,4,North America
+"265",9881,2.66333875134364,8.69047619047619,Central Canadian Shield forests,"6974",,,Central_Canadian_shield_forest,4,North America
+"266",9963,3.86749612301663,5.76136363636364,Central Canadian Shield forests,"936",,,Central_Canadian_shield_forest,4,North America
+"267",4877,0,2.38372093023256,Central Pacific coastal forests,"1011",,,Central_Pacific_coastal_forest,5,North America
+"268",4878,0,0.348837209302326,Central Pacific coastal forests,"58",,,Central_Pacific_coastal_forest,5,North America
+"269",4960,0.591999684392496,6.71590909090909,Central Pacific coastal forests,"4180",,,Central_Pacific_coastal_forest,5,North America
+"270",4961,0,0.136363636363636,Central Pacific coastal forests,"74",,,Central_Pacific_coastal_forest,5,North America
+"271",5041,0.0791935663623435,6.54651162790698,Central Pacific coastal forests,"60",,,Central_Pacific_coastal_forest,5,North America
+"272",5042,1.30824123262569,6.26744186046512,Central Pacific coastal forests,"5442",,,Central_Pacific_coastal_forest,5,North America
+"273",5043,0.00615156692161098,0.383720930232558,Central Pacific coastal forests,"215",,,Central_Pacific_coastal_forest,5,North America
+"274",5124,0.136291087344028,5.2093023255814,Central Pacific coastal forests,"2239",,,Central_Pacific_coastal_forest,5,North America
+"275",5125,0.218745625489918,5.86046511627907,Central Pacific coastal forests,"5840",,,Central_Pacific_coastal_forest,5,North America
+"276",5126,0.00305191961179742,0.127906976744186,Central Pacific coastal forests,"82",,,Central_Pacific_coastal_forest,5,North America
+"277",5206,0.4446135608031,3.28409090909091,Central Pacific coastal forests,"1304",,,Central_Pacific_coastal_forest,5,North America
+"278",5207,0.650231103813321,3.94318181818182,Central Pacific coastal forests,"5294",,,Central_Pacific_coastal_forest,5,North America
+"279",5208,0.111448868715671,0.5,Central Pacific coastal forests,"1233",,,Central_Pacific_coastal_forest,5,North America
+"280",5213,0,0,Central Pacific coastal forests,"457",,,Central_Pacific_coastal_forest,5,North America
+"281",5289,0.58688779384289,2.87209302325581,Central Pacific coastal forests,"1177",,,Central_Pacific_coastal_forest,5,North America
+"282",5290,1.01092144163306,1.53488372093023,Central Pacific coastal forests,"4104",,,Central_Pacific_coastal_forest,5,North America
+"283",5290,1.01092144163306,1.53488372093023,Central Pacific coastal forests,"1020",,,Central_Pacific_coastal_forest,5,North America
+"284",5291,0.681252975384329,2.08139534883721,Central Pacific coastal forests,"5658",,,Central_Pacific_coastal_forest,5,North America
+"285",5292,0.169867853689112,2.13953488372093,Central Pacific coastal forests,"2927",,,Central_Pacific_coastal_forest,5,North America
+"286",5293,0.6434245219372,0.406976744186047,Central Pacific coastal forests,"3237",,,Central_Pacific_coastal_forest,5,North America
+"287",5294,1.42233841540877,0.186046511627907,Central Pacific coastal forests,"4392",,,Central_Pacific_coastal_forest,5,North America
+"288",5295,1.84929249800171,0.174418604651163,Central Pacific coastal forests,"5959",,,Central_Pacific_coastal_forest,5,North America
+"289",5296,29.9569587317757,0.0348837209302326,Central Pacific coastal forests,"2807",,,Central_Pacific_coastal_forest,5,North America
+"290",5371,0.147569992412683,3.13953488372093,Central Pacific coastal forests,"120",,,Central_Pacific_coastal_forest,5,North America
+"291",5372,0.40037166975666,1.48837209302326,Central Pacific coastal forests,"99",,,Central_Pacific_coastal_forest,5,North America
+"292",5372,0.40037166975666,1.48837209302326,Central Pacific coastal forests,"1595",,,Central_Pacific_coastal_forest,5,North America
+"293",5373,0.605823646180132,3.32558139534884,Central Pacific coastal forests,"3289",,,Central_Pacific_coastal_forest,5,North America
+"294",5374,0.59438072652087,1.25581395348837,Central Pacific coastal forests,"4769",,,Central_Pacific_coastal_forest,5,North America
+"295",5375,3.64504846994314,0.0697674418604651,Central Pacific coastal forests,"1059",,,Central_Pacific_coastal_forest,5,North America
+"296",5376,5.11384674739783,0.0348837209302326,Central Pacific coastal forests,"1315",,,Central_Pacific_coastal_forest,5,North America
+"297",5377,16.9184724929392,0.0232558139534884,Central Pacific coastal forests,"26",,,Central_Pacific_coastal_forest,5,North America
+"298",5457,10.3345967627755,1.10227272727273,Central Pacific coastal forests,"29",,,Central_Pacific_coastal_forest,5,North America
+"299",10704,0,2.94318181818182,Eastern Canadian forests,"751",,,Eastern_Canadian_forest,4,North America
+"300",10785,0,4.81395348837209,Eastern Canadian forests,"1171",,,Eastern_Canadian_forest,4,North America
+"301",11277,0.0443932026786958,1.76136363636364,Eastern Canadian forests,"1379",,,Eastern_Canadian_forest,4,North America
+"302",11360,0,1.22093023255814,Eastern Canadian forests,"4",,,Eastern_Canadian_forest,4,North America
+"303",8980,0.00604441455985818,4.18604651162791,Eastern forest-boreal transition,"1230",,,Eastern_forest_boreal_transition,4,North America
+"304",8981,0.293018097616982,2.08139534883721,Eastern forest-boreal transition,"649",,,Eastern_forest_boreal_transition,4,North America
+"305",9063,0.422190663801138,5.76136363636364,Eastern forest-boreal transition,"6565",,,Eastern_forest_boreal_transition,4,North America
+"306",9064,0.0322235541369266,5.18181818181818,Eastern forest-boreal transition,"3985",,,Eastern_forest_boreal_transition,4,North America
+"307",9143,0.00615114474458506,14.406976744186,Eastern forest-boreal transition,"457",,,Eastern_forest_boreal_transition,4,North America
+"308",9144,0.00302223373108554,6.22093023255814,Eastern forest-boreal transition,"6349",,,Eastern_forest_boreal_transition,4,North America
+"309",9145,0.0177503934541756,5.7093023255814,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"310",9146,0.00291080083242449,2.83720930232558,Eastern forest-boreal transition,"1798",,,Eastern_forest_boreal_transition,4,North America
+"311",9226,0.0456074200929121,14.9651162790698,Eastern forest-boreal transition,"3369",,,Eastern_forest_boreal_transition,4,North America
+"312",9227,0.0149387146269406,5.12790697674419,Eastern forest-boreal transition,"7254",,,Eastern_forest_boreal_transition,4,North America
+"313",9228,0,4.46511627906977,Eastern forest-boreal transition,"6480",,,Eastern_forest_boreal_transition,4,North America
+"314",9308,4.71275645301346,5.04545454545455,Eastern forest-boreal transition,"6145",,,Eastern_forest_boreal_transition,4,North America
+"315",9309,0.109231721017854,4.85227272727273,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"316",9310,0.0174292021339666,3.34090909090909,Eastern forest-boreal transition,"3510",,,Eastern_forest_boreal_transition,4,North America
+"317",9390,0.712428122070302,14.2790697674419,Eastern forest-boreal transition,"2408",,,Eastern_forest_boreal_transition,4,North America
+"318",9391,3.43144441963598,4.98837209302326,Eastern forest-boreal transition,"7254",,,Eastern_forest_boreal_transition,4,North America
+"319",9392,0.312766783774131,4.98837209302326,Eastern forest-boreal transition,"7340",,,Eastern_forest_boreal_transition,4,North America
+"320",9393,1.49153609432362,1.96511627906977,Eastern forest-boreal transition,"1796",,,Eastern_forest_boreal_transition,4,North America
+"321",9471,0.147376814610923,10.4418604651163,Eastern forest-boreal transition,"1",,,Eastern_forest_boreal_transition,4,North America
+"322",9472,0.252247397701373,9.01162790697674,Eastern forest-boreal transition,"5889",,,Eastern_forest_boreal_transition,4,North America
+"323",9473,0.303751137030715,4.7906976744186,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"324",9474,0.00291099694072375,5.22093023255814,Eastern forest-boreal transition,"7457",,,Eastern_forest_boreal_transition,4,North America
+"325",9475,0.0142855591990516,3.58139534883721,Eastern forest-boreal transition,"3872",,,Eastern_forest_boreal_transition,4,North America
+"326",9554,0.276110576492837,9.06818181818182,Eastern forest-boreal transition,"56",,,Eastern_forest_boreal_transition,4,North America
+"327",9555,0.416967622746339,4.07954545454545,Eastern forest-boreal transition,"6698",,,Eastern_forest_boreal_transition,4,North America
+"328",9556,0.0877046061366202,4.28409090909091,Eastern forest-boreal transition,"7390",,,Eastern_forest_boreal_transition,4,North America
+"329",9557,0,5.19318181818182,Eastern forest-boreal transition,"7523",,,Eastern_forest_boreal_transition,4,North America
+"330",9558,0.0592551678978436,5.17045454545455,Eastern forest-boreal transition,"1854",,,Eastern_forest_boreal_transition,4,North America
+"331",9636,0.76522532143177,8.74418604651163,Eastern forest-boreal transition,"640",,,Eastern_forest_boreal_transition,4,North America
+"332",9637,0.0649041005634457,3.76744186046512,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"333",9638,0.0982565452285144,4.8953488372093,Eastern forest-boreal transition,"7457",,,Eastern_forest_boreal_transition,4,North America
+"334",9639,0,5.26744186046512,Eastern forest-boreal transition,"7182",,,Eastern_forest_boreal_transition,4,North America
+"335",9640,0,2.15116279069767,Eastern forest-boreal transition,"1",,,Eastern_forest_boreal_transition,4,North America
+"336",9718,1.03994482484249,11.4186046511628,Eastern forest-boreal transition,"2",,,Eastern_forest_boreal_transition,4,North America
+"337",9719,0.029909585517161,6.69767441860465,Eastern forest-boreal transition,"5930",,,Eastern_forest_boreal_transition,4,North America
+"338",9720,0.00293764700391119,3.01162790697674,Eastern forest-boreal transition,"7390",,,Eastern_forest_boreal_transition,4,North America
+"339",9721,0.957014682476425,5.83720930232558,Eastern forest-boreal transition,"6519",,,Eastern_forest_boreal_transition,4,North America
+"340",9722,0.0790565296252981,5.86046511627907,Eastern forest-boreal transition,"3735",,,Eastern_forest_boreal_transition,4,North America
+"341",9799,1.61149856324769,4.71590909090909,Eastern forest-boreal transition,"144",,,Eastern_forest_boreal_transition,4,North America
+"342",9800,6.8383441586938,9.29545454545454,Eastern forest-boreal transition,"6076",,,Eastern_forest_boreal_transition,4,North America
+"343",9801,0.0296241399312135,2.36363636363636,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"344",9802,0,3.09090909090909,Eastern forest-boreal transition,"7283",,,Eastern_forest_boreal_transition,4,North America
+"345",9803,0,8.28409090909091,Eastern forest-boreal transition,"4185",,,Eastern_forest_boreal_transition,4,North America
+"346",9804,0.00842179184350469,1.76136363636364,Eastern forest-boreal transition,"167",,,Eastern_forest_boreal_transition,4,North America
+"347",9881,2.66333875134364,8.69047619047619,Eastern forest-boreal transition,"3",,,Eastern_forest_boreal_transition,4,North America
+"348",9882,1.73309528277432,11.1904761904762,Eastern forest-boreal transition,"6112",,,Eastern_forest_boreal_transition,4,North America
+"349",9883,0.0833717477097608,2.01190476190476,Eastern forest-boreal transition,"7254",,,Eastern_forest_boreal_transition,4,North America
+"350",9884,0.0849893689409956,2.89285714285714,Eastern forest-boreal transition,"7390",,,Eastern_forest_boreal_transition,4,North America
+"351",9885,0.117912728751114,4.02380952380952,Eastern forest-boreal transition,"3595",,,Eastern_forest_boreal_transition,4,North America
+"352",9886,0.110264854946546,6.60714285714286,Eastern forest-boreal transition,"1925",,,Eastern_forest_boreal_transition,4,North America
+"353",9887,0,3.83333333333333,Eastern forest-boreal transition,"3615",,,Eastern_forest_boreal_transition,4,North America
+"354",9962,0.337654832781373,8.18181818181818,Eastern forest-boreal transition,"1",,,Eastern_forest_boreal_transition,4,North America
+"355",9963,3.86749612301663,5.76136363636364,Eastern forest-boreal transition,"6111",,,Eastern_forest_boreal_transition,4,North America
+"356",9964,0.987682272452052,3.44318181818182,Eastern forest-boreal transition,"7186",,,Eastern_forest_boreal_transition,4,North America
+"357",9965,0.0207425107870655,2.70454545454545,Eastern forest-boreal transition,"7322",,,Eastern_forest_boreal_transition,4,North America
+"358",9966,0.0145161165127582,3.09090909090909,Eastern forest-boreal transition,"6510",,,Eastern_forest_boreal_transition,4,North America
+"359",9967,0.267438825314745,6.80681818181818,Eastern forest-boreal transition,"1781",,,Eastern_forest_boreal_transition,4,North America
+"360",9968,0,8.89772727272727,Eastern forest-boreal transition,"7718",,,Eastern_forest_boreal_transition,4,North America
+"361",9969,0,2.75,Eastern forest-boreal transition,"2632",,,Eastern_forest_boreal_transition,4,North America
+"362",10045,9.67871470670446,4.27906976744186,Eastern forest-boreal transition,"1786",,,Eastern_forest_boreal_transition,4,North America
+"363",10046,8.40876493706914,3.34883720930233,Eastern forest-boreal transition,"7117",,,Eastern_forest_boreal_transition,4,North America
+"364",10047,2.77980445905274,2.96511627906977,Eastern forest-boreal transition,"7254",,,Eastern_forest_boreal_transition,4,North America
+"365",10048,0.00293775874082833,2.58139534883721,Eastern forest-boreal transition,"7056",,,Eastern_forest_boreal_transition,4,North America
+"366",10049,0.023004806766238,6.7906976744186,Eastern forest-boreal transition,"718",,,Eastern_forest_boreal_transition,4,North America
+"367",10050,0.0367593290456398,5.22093023255814,Eastern forest-boreal transition,"5924",,,Eastern_forest_boreal_transition,4,North America
+"368",10051,0,3.51162790697674,Eastern forest-boreal transition,"5477",,,Eastern_forest_boreal_transition,4,North America
+"369",10127,3.35118712556123,1.90697674418605,Eastern forest-boreal transition,"2557",,,Eastern_forest_boreal_transition,4,North America
+"370",10128,5.95743419404516,1.56976744186047,Eastern forest-boreal transition,"7186",,,Eastern_forest_boreal_transition,4,North America
+"371",10129,0,2.22093023255814,Eastern forest-boreal transition,"6883",,,Eastern_forest_boreal_transition,4,North America
+"372",10130,0.0319933019152807,4.11627906976744,Eastern forest-boreal transition,"632",,,Eastern_forest_boreal_transition,4,North America
+"373",10132,0.00562234276852615,2.37209302325581,Eastern forest-boreal transition,"144",,,Eastern_forest_boreal_transition,4,North America
+"374",10210,0,5.85227272727273,Eastern forest-boreal transition,"2803",,,Eastern_forest_boreal_transition,4,North America
+"375",10211,0,2.78409090909091,Eastern forest-boreal transition,"7254",,,Eastern_forest_boreal_transition,4,North America
+"376",10212,0.0249178134494076,5.32954545454545,Eastern forest-boreal transition,"1587",,,Eastern_forest_boreal_transition,4,North America
+"377",10292,0.0186815328053284,4.02325581395349,Eastern forest-boreal transition,"5364",,,Eastern_forest_boreal_transition,4,North America
+"378",10293,0.335871018566499,3.97674418604651,Eastern forest-boreal transition,"4264",,,Eastern_forest_boreal_transition,4,North America
+"379",10374,0.0304391896582822,2.77906976744186,Eastern forest-boreal transition,"1076",,,Eastern_forest_boreal_transition,4,North America
+"380",10375,0.0591473819763471,3.03488372093023,Eastern forest-boreal transition,"3414",,,Eastern_forest_boreal_transition,4,North America
+"381",9146,0.00291080083242449,2.83720930232558,Eastern Great Lakes lowland forests,"425",,,Eastern_Great_Lakes_forests,4,North America
+"382",9229,0.00575781670770022,1.36046511627907,Eastern Great Lakes lowland forests,"1628",,,Eastern_Great_Lakes_forests,4,North America
+"383",9310,0.0174292021339666,3.34090909090909,Eastern Great Lakes lowland forests,"900",,,Eastern_Great_Lakes_forests,4,North America
+"384",9311,0.0199557437591961,1.125,Eastern Great Lakes lowland forests,"1348",,,Eastern_Great_Lakes_forests,4,North America
+"385",9312,0.0352855995629179,1.65909090909091,Eastern Great Lakes lowland forests,"4816",,,Eastern_Great_Lakes_forests,4,North America
+"386",9313,0.216267634079429,1.22727272727273,Eastern Great Lakes lowland forests,"1130",,,Eastern_Great_Lakes_forests,4,North America
+"387",9394,0,2.22093023255814,Eastern Great Lakes lowland forests,"5323",,,Eastern_Great_Lakes_forests,4,North America
+"388",9395,0.0205673019724201,1.18604651162791,Eastern Great Lakes lowland forests,"6746",,,Eastern_Great_Lakes_forests,4,North America
+"389",9475,0.0142855591990516,3.58139534883721,Eastern Great Lakes lowland forests,"1512",,,Eastern_Great_Lakes_forests,4,North America
+"390",9476,0,2.38372093023256,Eastern Great Lakes lowland forests,"5621",,,Eastern_Great_Lakes_forests,4,North America
+"391",9477,0.104678641654646,0.976744186046512,Eastern Great Lakes lowland forests,"176",,,Eastern_Great_Lakes_forests,4,North America
+"392",9558,0.0592551678978436,5.17045454545455,Eastern Great Lakes lowland forests,"5727",,,Eastern_Great_Lakes_forests,4,North America
+"393",9559,0,1.125,Eastern Great Lakes lowland forests,"408",,,Eastern_Great_Lakes_forests,4,North America
+"394",9639,0,5.26744186046512,Eastern Great Lakes lowland forests,"408",,,Eastern_Great_Lakes_forests,4,North America
+"395",9640,0,2.15116279069767,Eastern Great Lakes lowland forests,"4286",,,Eastern_Great_Lakes_forests,4,North America
+"396",9721,0.957014682476425,5.83720930232558,Eastern Great Lakes lowland forests,"1003",,,Eastern_Great_Lakes_forests,4,North America
+"397",9722,0.0790565296252981,5.86046511627907,Eastern Great Lakes lowland forests,"3705",,,Eastern_Great_Lakes_forests,4,North America
+"398",9723,0.00278731223868282,1.38372093023256,Eastern Great Lakes lowland forests,"476",,,Eastern_Great_Lakes_forests,4,North America
+"399",9802,0,3.09090909090909,Eastern Great Lakes lowland forests,"175",,,Eastern_Great_Lakes_forests,4,North America
+"400",9803,0,8.28409090909091,Eastern Great Lakes lowland forests,"3402",,,Eastern_Great_Lakes_forests,4,North America
+"401",9804,0.00842179184350469,1.76136363636364,Eastern Great Lakes lowland forests,"3370",,,Eastern_Great_Lakes_forests,4,North America
+"402",9805,0,3.28409090909091,Eastern Great Lakes lowland forests,"1155",,,Eastern_Great_Lakes_forests,4,North America
+"403",9885,0.117912728751114,4.02380952380952,Eastern Great Lakes lowland forests,"3926",,,Eastern_Great_Lakes_forests,4,North America
+"404",9886,0.110264854946546,6.60714285714286,Eastern Great Lakes lowland forests,"5500",,,Eastern_Great_Lakes_forests,4,North America
+"405",9887,0,3.83333333333333,Eastern Great Lakes lowland forests,"4167",,,Eastern_Great_Lakes_forests,4,North America
+"406",9888,0.00548572128682088,1.46428571428571,Eastern Great Lakes lowland forests,"718",,,Eastern_Great_Lakes_forests,4,North America
+"407",9966,0.0145161165127582,3.09090909090909,Eastern Great Lakes lowland forests,"950",,,Eastern_Great_Lakes_forests,4,North America
+"408",9967,0.267438825314745,6.80681818181818,Eastern Great Lakes lowland forests,"5637",,,Eastern_Great_Lakes_forests,4,North America
+"409",9969,0,2.75,Eastern Great Lakes lowland forests,"3667",,,Eastern_Great_Lakes_forests,4,North America
+"410",10048,0.00293775874082833,2.58139534883721,Eastern Great Lakes lowland forests,"337",,,Eastern_Great_Lakes_forests,4,North America
+"411",10049,0.023004806766238,6.7906976744186,Eastern Great Lakes lowland forests,"6802",,,Eastern_Great_Lakes_forests,4,North America
+"412",10050,0.0367593290456398,5.22093023255814,Eastern Great Lakes lowland forests,"1729",,,Eastern_Great_Lakes_forests,4,North America
+"413",10051,0,3.51162790697674,Eastern Great Lakes lowland forests,"2285",,,Eastern_Great_Lakes_forests,4,North America
+"414",10052,0,2.51162790697674,Eastern Great Lakes lowland forests,"1498",,,Eastern_Great_Lakes_forests,4,North America
+"415",10129,0,2.22093023255814,Eastern Great Lakes lowland forests,"442",,,Eastern_Great_Lakes_forests,4,North America
+"416",10130,0.0319933019152807,4.11627906976744,Eastern Great Lakes lowland forests,"6822",,,Eastern_Great_Lakes_forests,4,North America
+"417",10131,0.00285954761364544,4.54651162790698,Eastern Great Lakes lowland forests,"4341",,,Eastern_Great_Lakes_forests,4,North America
+"418",10132,0.00562234276852615,2.37209302325581,Eastern Great Lakes lowland forests,"2111",,,Eastern_Great_Lakes_forests,4,North America
+"419",10133,0,1.01162790697674,Eastern Great Lakes lowland forests,"366",,,Eastern_Great_Lakes_forests,4,North America
+"420",10212,0.0249178134494076,5.32954545454545,Eastern Great Lakes lowland forests,"5596",,,Eastern_Great_Lakes_forests,4,North America
+"421",10213,0.0445328610064369,2.40909090909091,Eastern Great Lakes lowland forests,"1430",,,Eastern_Great_Lakes_forests,4,North America
+"422",10293,0.335871018566499,3.97674418604651,Eastern Great Lakes lowland forests,"2203",,,Eastern_Great_Lakes_forests,4,North America
+"423",10294,0,2.91860465116279,Eastern Great Lakes lowland forests,"505",,,Eastern_Great_Lakes_forests,4,North America
+"424",10375,0.0591473819763471,3.03488372093023,Eastern Great Lakes lowland forests,"649",,,Eastern_Great_Lakes_forests,4,North America
+"425",10376,0,3.59302325581395,Eastern Great Lakes lowland forests,"138",,,Eastern_Great_Lakes_forests,4,North America
+"426",4955,2.84370951990293,2.25,Fraser Plateau and Basin complex,"178",,,Fraser_Plateau_complex,5,North America
+"427",4956,1.51598060113844,1.65909090909091,Fraser Plateau and Basin complex,"1703",,,Fraser_Plateau_complex,5,North America
+"428",4957,0.348487634336809,2.79545454545455,Fraser Plateau and Basin complex,"1440",,,Fraser_Plateau_complex,5,North America
+"429",5036,0.247483874795077,2.55813953488372,Fraser Plateau and Basin complex,"555",,,Fraser_Plateau_complex,5,North America
+"430",5037,1.05734351405864,4.44186046511628,Fraser Plateau and Basin complex,"4606",,,Fraser_Plateau_complex,5,North America
+"431",5038,14.8785267404434,2.69767441860465,Fraser Plateau and Basin complex,"6321",,,Fraser_Plateau_complex,5,North America
+"432",5039,27.7259964421438,3.15116279069767,Fraser Plateau and Basin complex,"3339",,,Fraser_Plateau_complex,5,North America
+"433",5119,1.71629670567168,2.36046511627907,Fraser Plateau and Basin complex,"1003",,,Fraser_Plateau_complex,5,North America
+"434",5120,0.869950700720961,2.73255813953488,Fraser Plateau and Basin complex,"6245",,,Fraser_Plateau_complex,5,North America
+"435",5121,38.0166195692825,3.01162790697674,Fraser Plateau and Basin complex,"6396",,,Fraser_Plateau_complex,5,North America
+"436",5122,13.1752493435359,2.53488372093023,Fraser Plateau and Basin complex,"4068",,,Fraser_Plateau_complex,5,North America
+"437",5201,2.73985261629596,4.43181818181818,Fraser Plateau and Basin complex,"4732",,,Fraser_Plateau_complex,5,North America
+"438",5202,28.5299550130027,1.05681818181818,Fraser Plateau and Basin complex,"6321",,,Fraser_Plateau_complex,5,North America
+"439",5203,11.9805450923163,5.13636363636364,Fraser Plateau and Basin complex,"6470",,,Fraser_Plateau_complex,5,North America
+"440",5204,4.69071492176558,2.89772727272727,Fraser Plateau and Basin complex,"4091",,,Fraser_Plateau_complex,5,North America
+"441",5283,1.39086591775849,4.16279069767442,Fraser Plateau and Basin complex,"1782",,,Fraser_Plateau_complex,5,North America
+"442",5284,3.63808153236198,6.67441860465116,Fraser Plateau and Basin complex,"6245",,,Fraser_Plateau_complex,5,North America
+"443",5285,23.3307426587183,5.7906976744186,Fraser Plateau and Basin complex,"6396",,,Fraser_Plateau_complex,5,North America
+"444",5286,43.5298405214838,5.22093023255814,Fraser Plateau and Basin complex,"6544",,,Fraser_Plateau_complex,5,North America
+"445",5287,11.9284452002901,1.97674418604651,Fraser Plateau and Basin complex,"3111",,,Fraser_Plateau_complex,5,North America
+"446",5365,0.446442309323943,3.45348837209302,Fraser Plateau and Basin complex,"4586",,,Fraser_Plateau_complex,5,North America
+"447",5366,2.50084192504295,5.33720930232558,Fraser Plateau and Basin complex,"6321",,,Fraser_Plateau_complex,5,North America
+"448",5367,17.5416199568519,4.66279069767442,Fraser Plateau and Basin complex,"6470",,,Fraser_Plateau_complex,5,North America
+"449",5368,44.0450115030274,3.81395348837209,Fraser Plateau and Basin complex,"6618",,,Fraser_Plateau_complex,5,North America
+"450",5369,2.98519635960219,1.58139534883721,Fraser Plateau and Basin complex,"1002",,,Fraser_Plateau_complex,5,North America
+"451",5448,0.486578744482149,3.98863636363636,Fraser Plateau and Basin complex,"4288",,,Fraser_Plateau_complex,5,North America
+"452",5449,0.496508973325344,3.89772727272727,Fraser Plateau and Basin complex,"3928",,,Fraser_Plateau_complex,5,North America
+"453",5450,9.75760429835131,4.35227272727273,Fraser Plateau and Basin complex,"6402",,,Fraser_Plateau_complex,5,North America
+"454",5451,9.2464612317066,1.57954545454545,Fraser Plateau and Basin complex,"5392",,,Fraser_Plateau_complex,5,North America
+"455",5530,0.207395871365235,1.73809523809524,Fraser Plateau and Basin complex,"841",,,Fraser_Plateau_complex,5,North America
+"456",5531,1.09700047151054,1.53571428571429,Fraser Plateau and Basin complex,"109",,,Fraser_Plateau_complex,5,North America
+"457",5532,5.80872156867655,5.96428571428571,Fraser Plateau and Basin complex,"5664",,,Fraser_Plateau_complex,5,North America
+"458",5533,38.6341807158144,2.60714285714286,Fraser Plateau and Basin complex,"2434",,,Fraser_Plateau_complex,5,North America
+"459",5615,11.2301587099348,2.43181818181818,Fraser Plateau and Basin complex,"2034",,,Fraser_Plateau_complex,5,North America
+"460",,1.0630094733274,4.73863636363636,Mid-Continental Canadian forests,"1375",,,Mid_continnental_Canadian_forest,5,North America
+"461",,1.22166923864187,8.95348837209302,Mid-Continental Canadian forests,"4189",,,Mid_continnental_Canadian_forest,5,North America
+"462",9322,0.708242867391163,0.0340909090909091,Middle Atlantic coastal forests,"1199",,,Middle_Atlantic_coastal_forest,5,North America
+"463",9323,7.98654976576055,0.613636363636364,Middle Atlantic coastal forests,"5783",,,Middle_Atlantic_coastal_forest,5,North America
+"464",9324,8.52386958588416,2.67045454545455,Middle Atlantic coastal forests,"5063",,,Middle_Atlantic_coastal_forest,5,North America
+"465",9404,2.4766420581083,0.325581395348837,Middle Atlantic coastal forests,"2865",,,Middle_Atlantic_coastal_forest,5,North America
+"466",9405,1.75408530966749,1.02325581395349,Middle Atlantic coastal forests,"8926",,,Middle_Atlantic_coastal_forest,5,North America
+"467",9406,2.862935767828,4,Middle Atlantic coastal forests,"6502",,,Middle_Atlantic_coastal_forest,5,North America
+"468",9407,0.0240565616095537,0.627906976744186,Middle Atlantic coastal forests,"222",,,Middle_Atlantic_coastal_forest,5,North America
+"469",9485,3.12960940037517,0.488372093023256,Middle Atlantic coastal forests,"3443",,,Middle_Atlantic_coastal_forest,5,North America
+"470",9486,3.4943440953988,1.54651162790698,Middle Atlantic coastal forests,"8875",,,Middle_Atlantic_coastal_forest,5,North America
+"471",9487,6.11544797066938,3.59302325581395,Middle Atlantic coastal forests,"6380",,,Middle_Atlantic_coastal_forest,5,North America
+"472",9567,2.75927456290776,0.272727272727273,Middle Atlantic coastal forests,"3369",,,Middle_Atlantic_coastal_forest,5,North America
+"473",9568,1.5390279899098,2.57954545454545,Middle Atlantic coastal forests,"8823",,,Middle_Atlantic_coastal_forest,5,North America
+"474",9569,1.90310094119761,2.29545454545455,Middle Atlantic coastal forests,"3934",,,Middle_Atlantic_coastal_forest,5,North America
+"475",9648,0.421909105590265,0.22093023255814,Middle Atlantic coastal forests,"3423",,,Middle_Atlantic_coastal_forest,5,North America
+"476",9649,1.00206729211935,1.48837209302326,Middle Atlantic coastal forests,"8771",,,Middle_Atlantic_coastal_forest,5,North America
+"477",9650,0.623963934418692,3.18604651162791,Middle Atlantic coastal forests,"4258",,,Middle_Atlantic_coastal_forest,5,North America
+"478",9729,0.29702701206671,0.372093023255814,Middle Atlantic coastal forests,"164",,,Middle_Atlantic_coastal_forest,5,North America
+"479",9730,0.721760687050133,1.65116279069767,Middle Atlantic coastal forests,"7201",,,Middle_Atlantic_coastal_forest,5,North America
+"480",9731,1.02095232946006,2.54651162790698,Middle Atlantic coastal forests,"8449",,,Middle_Atlantic_coastal_forest,5,North America
+"481",9732,3.36217434249044,3.30232558139535,Middle Atlantic coastal forests,"3332",,,Middle_Atlantic_coastal_forest,5,North America
+"482",9809,0,1.27272727272727,Middle Atlantic coastal forests,"2078",,,Middle_Atlantic_coastal_forest,5,North America
+"483",9810,0.161097427727191,3.70454545454545,Middle Atlantic coastal forests,"493",,,Middle_Atlantic_coastal_forest,5,North America
+"484",9811,0.54759228416608,8.35227272727273,Middle Atlantic coastal forests,"90",,,Middle_Atlantic_coastal_forest,5,North America
+"485",9811,0.54759228416608,8.35227272727273,Middle Atlantic coastal forests,"3773",,,Middle_Atlantic_coastal_forest,5,North America
+"486",9812,5.27626973572163,19.8409090909091,Middle Atlantic coastal forests,"6627",,,Middle_Atlantic_coastal_forest,5,North America
+"487",9813,0.454597714622735,3.60227272727273,Middle Atlantic coastal forests,"2334",,,Middle_Atlantic_coastal_forest,5,North America
+"488",9891,0.0505389668365229,2.97619047619048,Middle Atlantic coastal forests,"1735",,,Middle_Atlantic_coastal_forest,5,North America
+"489",9892,0.0051563084801116,4.79761904761905,Middle Atlantic coastal forests,"6905",,,Middle_Atlantic_coastal_forest,5,North America
+"490",9893,0,1.26190476190476,Middle Atlantic coastal forests,"1223",,,Middle_Atlantic_coastal_forest,5,North America
+"491",9894,0.0169979118317465,3.96428571428571,Middle Atlantic coastal forests,"319",,,Middle_Atlantic_coastal_forest,5,North America
+"492",9895,0.32340806100685,8.63095238095238,Middle Atlantic coastal forests,"791",,,Middle_Atlantic_coastal_forest,5,North America
+"493",,0.317048658256784,5.45348837209302,Midwestern Canadian Shield forests,"3090",,,Midwestern_Canadian_Shield_forest,4,North America
+"494",,0.0217542148158423,4.68181818181818,Midwestern Canadian Shield forests,"306",,,Midwestern_Canadian_Shield_forest,4,North America
+"495",5609,6.02062440534029,21.2727272727273,Muskwa-Slave Lake forests,"122",,,Muskwa-Slave Lake forests - NP,5,North America
+"496",5772,0.471063492279506,25.5,Muskwa-Slave Lake forests,"5062",,,Muskwa-Slave Lake forests - NP,5,North America
+"497",5449,0.496508973325344,3.89772727272727,North Central Rockies forests,"2467",,,North_central_Rockies_forest,5,North America
+"498",5450,9.75760429835131,4.35227272727273,North Central Rockies forests,"141",,,North_central_Rockies_forest,5,North America
+"499",5530,0.207395871365235,1.73809523809524,North Central Rockies forests,"2494",,,North_central_Rockies_forest,5,North America
+"500",5531,1.09700047151054,1.53571428571429,North Central Rockies forests,"6364",,,North_central_Rockies_forest,5,North America
+"501",5532,5.80872156867655,5.96428571428571,North Central Rockies forests,"954",,,North_central_Rockies_forest,5,North America
+"502",5613,0.153801603044106,0.636363636363636,North Central Rockies forests,"5168",,,North_central_Rockies_forest,5,North America
+"503",5614,2.02406023214545,1.375,North Central Rockies forests,"6544",,,North_central_Rockies_forest,5,North America
+"504",5615,11.2301587099348,2.43181818181818,North Central Rockies forests,"638",,,North_central_Rockies_forest,5,North America
+"505",5694,3.50097422376595,1.09090909090909,North Central Rockies forests,"475",,,North_central_Rockies_forest,5,North America
+"506",5695,0.545340807250851,0.920454545454545,North Central Rockies forests,"5892",,,North_central_Rockies_forest,5,North America
+"507",5696,0.562621536056064,2.06818181818182,North Central Rockies forests,"6057",,,North_central_Rockies_forest,5,North America
+"508",5697,4.89243435821674,0.806818181818182,North Central Rockies forests,"2817",,,North_central_Rockies_forest,5,North America
+"509",5777,2.1463859181058,0.55952380952381,North Central Rockies forests,"497",,,North_central_Rockies_forest,5,North America
+"510",5778,2.71265055959733,0.642857142857143,North Central Rockies forests,"6301",,,North_central_Rockies_forest,5,North America
+"511",5779,2.18578662790205,0.904761904761905,North Central Rockies forests,"6691",,,North_central_Rockies_forest,5,North America
+"512",5780,1.32317590737328,1.53571428571429,North Central Rockies forests,"4312",,,North_central_Rockies_forest,5,North America
+"513",5781,2.46882924572913,0.678571428571429,North Central Rockies forests,"2301",,,North_central_Rockies_forest,5,North America
+"514",5859,3.52249761072846,0.693181818181818,North Central Rockies forests,"5",,,North_central_Rockies_forest,5,North America
+"515",5860,0.800139215096018,0.556818181818182,North Central Rockies forests,"5681",,,North_central_Rockies_forest,5,North America
+"516",5861,0.841014307453404,0.761363636363636,North Central Rockies forests,"6763",,,North_central_Rockies_forest,5,North America
+"517",5862,5.50569256924779,1.21590909090909,North Central Rockies forests,"6906",,,North_central_Rockies_forest,5,North America
+"518",5863,4.54722065725931,0.454545454545455,North Central Rockies forests,"5258",,,North_central_Rockies_forest,5,North America
+"519",5864,7.92175945373697,0.556818181818182,North Central Rockies forests,"318",,,North_central_Rockies_forest,5,North America
+"520",5942,0.538907059245813,0.465116279069767,North Central Rockies forests,"119",,,North_central_Rockies_forest,5,North America
+"521",5943,1.12806897578501,0.558139534883721,North Central Rockies forests,"6019",,,North_central_Rockies_forest,5,North America
+"522",5944,1.61300842746275,0.709302325581395,North Central Rockies forests,"6835",,,North_central_Rockies_forest,5,North America
+"523",5945,6.33062049641857,0.430232558139535,North Central Rockies forests,"6977",,,North_central_Rockies_forest,5,North America
+"524",5946,1.35879956201392,0.720930232558139,North Central Rockies forests,"7117",,,North_central_Rockies_forest,5,North America
+"525",5947,7.46970810191443,0.22093023255814,North Central Rockies forests,"3922",,,North_central_Rockies_forest,5,North America
+"526",5948,15.8866440921842,0,North Central Rockies forests,"365",,,North_central_Rockies_forest,5,North America
+"527",6024,2.45459639090214,0.0930232558139535,North Central Rockies forests,"92",,,North_central_Rockies_forest,5,North America
+"528",6025,5.85333952847522,0.418604651162791,North Central Rockies forests,"5472",,,North_central_Rockies_forest,5,North America
+"529",6026,3.65571170791836,0.569767441860465,North Central Rockies forests,"6906",,,North_central_Rockies_forest,5,North America
+"530",6027,4.43215268934834,0.813953488372093,North Central Rockies forests,"7047",,,North_central_Rockies_forest,5,North America
+"531",6028,2.10599598215008,1.1046511627907,North Central Rockies forests,"7186",,,North_central_Rockies_forest,5,North America
+"532",6029,3.46272417489571,0.104651162790698,North Central Rockies forests,"6911",,,North_central_Rockies_forest,5,North America
+"533",6030,24.6457621331573,0.0232558139534884,North Central Rockies forests,"2079",,,North_central_Rockies_forest,5,North America
+"534",6107,1.74137583935771,0.0795454545454545,North Central Rockies forests,"649",,,North_central_Rockies_forest,5,North America
+"535",6108,6.10901216150339,0.420454545454545,North Central Rockies forests,"5926",,,North_central_Rockies_forest,5,North America
+"536",6109,3.78896800668696,0.363636363636364,North Central Rockies forests,"6977",,,North_central_Rockies_forest,5,North America
+"537",6110,3.8799357447308,0.397727272727273,North Central Rockies forests,"7117",,,North_central_Rockies_forest,5,North America
+"538",6111,6.05547934915574,0.284090909090909,North Central Rockies forests,"7254",,,North_central_Rockies_forest,5,North America
+"539",6112,7.26476167570899,0.397727272727273,North Central Rockies forests,"7390",,,North_central_Rockies_forest,5,North America
+"540",6113,35.1910578694605,0.386363636363636,North Central Rockies forests,"3025",,,North_central_Rockies_forest,5,North America
+"541",6189,0.0285990530523393,0.430232558139535,North Central Rockies forests,"1458",,,North_central_Rockies_forest,5,North America
+"542",6190,1.77146797068627,0.720930232558139,North Central Rockies forests,"5550",,,North_central_Rockies_forest,5,North America
+"543",6191,14.0644146349255,0.36046511627907,North Central Rockies forests,"7047",,,North_central_Rockies_forest,5,North America
+"544",6192,6.56616061537736,0.720930232558139,North Central Rockies forests,"5323",,,North_central_Rockies_forest,5,North America
+"545",6193,11.673468639875,0.395348837209302,North Central Rockies forests,"5367",,,North_central_Rockies_forest,5,North America
+"546",6194,19.8453369196866,0.244186046511628,North Central Rockies forests,"5427",,,North_central_Rockies_forest,5,North America
+"547",6195,25.240315588032,0.104651162790698,North Central Rockies forests,"1",,,North_central_Rockies_forest,5,North America
+"548",6272,0.363813011534314,0,North Central Rockies forests,"13",,,North_central_Rockies_forest,5,North America
+"549",6273,4.27649642609793,0.0465116279069767,North Central Rockies forests,"1155",,,North_central_Rockies_forest,5,North America
+"550",6274,13.8798540160274,0.197674418604651,North Central Rockies forests,"6596",,,North_central_Rockies_forest,5,North America
+"551",6275,21.4032390550012,0.244186046511628,North Central Rockies forests,"6544",,,North_central_Rockies_forest,5,North America
+"552",6276,9.54299894075641,0.0930232558139535,North Central Rockies forests,"126",,,North_central_Rockies_forest,5,North America
+"553",6356,12.3573025289479,0.0681818181818182,North Central Rockies forests,"3441",,,North_central_Rockies_forest,5,North America
+"554",6357,9.72732193687634,0.0909090909090909,North Central Rockies forests,"3888",,,North_central_Rockies_forest,5,North America
+"555",6358,0.790946753027719,0.295454545454545,North Central Rockies forests,"2129",,,North_central_Rockies_forest,5,North America
+"556",6440,3.76223921544768,0.151162790697674,North Central Rockies forests,"2022",,,North_central_Rockies_forest,5,North America
+"557",2573,0.0333171510850863,0.136363636363636,Northern Pacific coastal forests,"135",,,North_Pacific_coastal_forest,5,North America
+"558",2573,0.0333171510850863,0.136363636363636,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"559",2574,0.00190810100884624,4.53409090909091,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"560",2574,0.00190810100884624,4.53409090909091,Northern Pacific coastal forests,"1174",,,North_Pacific_coastal_forest,5,North America
+"561",2655,0.0159199788159359,4.36046511627907,Northern Pacific coastal forests,"905",,,North_Pacific_coastal_forest,5,North America
+"562",2655,0.0159199788159359,4.36046511627907,Northern Pacific coastal forests,"644",,,North_Pacific_coastal_forest,5,North America
+"563",2656,0,0.313953488372093,Northern Pacific coastal forests,"145",,,North_Pacific_coastal_forest,5,North America
+"564",2736,11.2843361393741,10.6976744186047,Northern Pacific coastal forests,"406",,,North_Pacific_coastal_forest,5,North America
+"565",2736,11.2843361393741,10.6976744186047,Northern Pacific coastal forests,"52",,,North_Pacific_coastal_forest,5,North America
+"566",2737,0,0.372093023255814,Northern Pacific coastal forests,"250",,,North_Pacific_coastal_forest,5,North America
+"567",2737,0,0.372093023255814,Northern Pacific coastal forests,"50",,,North_Pacific_coastal_forest,5,North America
+"568",2737,0,0.372093023255814,Northern Pacific coastal forests,"9",,,North_Pacific_coastal_forest,5,North America
+"569",2819,0,0.886363636363636,Northern Pacific coastal forests,"54",,,North_Pacific_coastal_forest,5,North America
+"570",2819,0,0.886363636363636,Northern Pacific coastal forests,"152",,,North_Pacific_coastal_forest,5,North America
+"571",2819,0,0.886363636363636,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"572",2819,0,0.886363636363636,Northern Pacific coastal forests,"33",,,North_Pacific_coastal_forest,5,North America
+"573",2819,0,0.886363636363636,Northern Pacific coastal forests,"70",,,North_Pacific_coastal_forest,5,North America
+"574",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"112",,,North_Pacific_coastal_forest,5,North America
+"575",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"48",,,North_Pacific_coastal_forest,5,North America
+"576",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"577",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"578",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"9",,,North_Pacific_coastal_forest,5,North America
+"579",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"580",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"581",2900,0.00404409183753789,3.02325581395349,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"582",2981,0.0372904042760601,1.68604651162791,Northern Pacific coastal forests,"15",,,North_Pacific_coastal_forest,5,North America
+"583",2981,0.0372904042760601,1.68604651162791,Northern Pacific coastal forests,"103",,,North_Pacific_coastal_forest,5,North America
+"584",2981,0.0372904042760601,1.68604651162791,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"585",2982,0,7.74418604651163,Northern Pacific coastal forests,"27",,,North_Pacific_coastal_forest,5,North America
+"586",2982,0,7.74418604651163,Northern Pacific coastal forests,"236",,,North_Pacific_coastal_forest,5,North America
+"587",2982,0,7.74418604651163,Northern Pacific coastal forests,"63",,,North_Pacific_coastal_forest,5,North America
+"588",2982,0,7.74418604651163,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"589",2982,0,7.74418604651163,Northern Pacific coastal forests,"47",,,North_Pacific_coastal_forest,5,North America
+"590",2982,0,7.74418604651163,Northern Pacific coastal forests,"60",,,North_Pacific_coastal_forest,5,North America
+"591",2982,0,7.74418604651163,Northern Pacific coastal forests,"126",,,North_Pacific_coastal_forest,5,North America
+"592",2982,0,7.74418604651163,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"593",2982,0,7.74418604651163,Northern Pacific coastal forests,"256",,,North_Pacific_coastal_forest,5,North America
+"594",2982,0,7.74418604651163,Northern Pacific coastal forests,"117",,,North_Pacific_coastal_forest,5,North America
+"595",2982,0,7.74418604651163,Northern Pacific coastal forests,"57",,,North_Pacific_coastal_forest,5,North America
+"596",2982,0,7.74418604651163,Northern Pacific coastal forests,"10",,,North_Pacific_coastal_forest,5,North America
+"597",2982,0,7.74418604651163,Northern Pacific coastal forests,"182",,,North_Pacific_coastal_forest,5,North America
+"598",2982,0,7.74418604651163,Northern Pacific coastal forests,"90",,,North_Pacific_coastal_forest,5,North America
+"599",2982,0,7.74418604651163,Northern Pacific coastal forests,"70",,,North_Pacific_coastal_forest,5,North America
+"600",2982,0,7.74418604651163,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"601",2983,0,0.872093023255814,Northern Pacific coastal forests,"20",,,North_Pacific_coastal_forest,5,North America
+"602",2983,0,0.872093023255814,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"603",2983,0,0.872093023255814,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"604",2983,0,0.872093023255814,Northern Pacific coastal forests,"17",,,North_Pacific_coastal_forest,5,North America
+"605",2983,0,0.872093023255814,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"606",2983,0,0.872093023255814,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"607",3063,0,4.81818181818182,Northern Pacific coastal forests,"202",,,North_Pacific_coastal_forest,5,North America
+"608",3063,0,4.81818181818182,Northern Pacific coastal forests,"22",,,North_Pacific_coastal_forest,5,North America
+"609",3063,0,4.81818181818182,Northern Pacific coastal forests,"75",,,North_Pacific_coastal_forest,5,North America
+"610",3063,0,4.81818181818182,Northern Pacific coastal forests,"227",,,North_Pacific_coastal_forest,5,North America
+"611",3064,0,4.67045454545455,Northern Pacific coastal forests,"140",,,North_Pacific_coastal_forest,5,North America
+"612",3064,0,4.67045454545455,Northern Pacific coastal forests,"715",,,North_Pacific_coastal_forest,5,North America
+"613",3064,0,4.67045454545455,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"614",3064,0,4.67045454545455,Northern Pacific coastal forests,"45",,,North_Pacific_coastal_forest,5,North America
+"615",3145,0.836403933647918,2.36046511627907,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"616",3145,0.836403933647918,2.36046511627907,Northern Pacific coastal forests,"29",,,North_Pacific_coastal_forest,5,North America
+"617",3145,0.836403933647918,2.36046511627907,Northern Pacific coastal forests,"152",,,North_Pacific_coastal_forest,5,North America
+"618",3146,0,6.97674418604651,Northern Pacific coastal forests,"378",,,North_Pacific_coastal_forest,5,North America
+"619",3146,0,6.97674418604651,Northern Pacific coastal forests,"647",,,North_Pacific_coastal_forest,5,North America
+"620",3146,0,6.97674418604651,Northern Pacific coastal forests,"120",,,North_Pacific_coastal_forest,5,North America
+"621",3146,0,6.97674418604651,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"622",3227,0.0142382795533061,5.53488372093023,Northern Pacific coastal forests,"854",,,North_Pacific_coastal_forest,5,North America
+"623",3227,0.0142382795533061,5.53488372093023,Northern Pacific coastal forests,"45",,,North_Pacific_coastal_forest,5,North America
+"624",3228,0,1.30232558139535,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"625",3228,0,1.30232558139535,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"626",3228,0,1.30232558139535,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"627",3228,0,1.30232558139535,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"628",3228,0,1.30232558139535,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"629",3228,0,1.30232558139535,Northern Pacific coastal forests,"18",,,North_Pacific_coastal_forest,5,North America
+"630",3228,0,1.30232558139535,Northern Pacific coastal forests,"8",,,North_Pacific_coastal_forest,5,North America
+"631",3228,0,1.30232558139535,Northern Pacific coastal forests,"8",,,North_Pacific_coastal_forest,5,North America
+"632",3228,0,1.30232558139535,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"633",3228,0,1.30232558139535,Northern Pacific coastal forests,"149",,,North_Pacific_coastal_forest,5,North America
+"634",3228,0,1.30232558139535,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"635",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"636",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"16",,,North_Pacific_coastal_forest,5,North America
+"637",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"638",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"15",,,North_Pacific_coastal_forest,5,North America
+"639",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"640",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"11",,,North_Pacific_coastal_forest,5,North America
+"641",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"642",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"109",,,North_Pacific_coastal_forest,5,North America
+"643",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"896",,,North_Pacific_coastal_forest,5,North America
+"644",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"645",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"22",,,North_Pacific_coastal_forest,5,North America
+"646",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"647",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"9",,,North_Pacific_coastal_forest,5,North America
+"648",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"5",,,North_Pacific_coastal_forest,5,North America
+"649",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"650",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"651",3310,0.0287288216305755,7.56818181818182,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"652",3311,0,0,Northern Pacific coastal forests,"23",,,North_Pacific_coastal_forest,5,North America
+"653",3392,0.09692521008543,5.26744186046512,Northern Pacific coastal forests,"1051",,,North_Pacific_coastal_forest,5,North America
+"654",3392,0.09692521008543,5.26744186046512,Northern Pacific coastal forests,"24",,,North_Pacific_coastal_forest,5,North America
+"655",3474,0.0284449349642026,3.43023255813953,Northern Pacific coastal forests,"5",,,North_Pacific_coastal_forest,5,North America
+"656",3556,0,3.25581395348837,Northern Pacific coastal forests,"241",,,North_Pacific_coastal_forest,5,North America
+"657",3638,0,0.522727272727273,Northern Pacific coastal forests,"9",,,North_Pacific_coastal_forest,5,North America
+"658",3638,0,0.522727272727273,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"659",3639,0.0159202191431679,1.28409090909091,Northern Pacific coastal forests,"17",,,North_Pacific_coastal_forest,5,North America
+"660",3639,0.0159202191431679,1.28409090909091,Northern Pacific coastal forests,"285",,,North_Pacific_coastal_forest,5,North America
+"661",3720,0.00807041721626113,0.674418604651163,Northern Pacific coastal forests,"32",,,North_Pacific_coastal_forest,5,North America
+"662",3803,0.0265285909876133,4.72093023255814,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"663",3803,0.0265285909876133,4.72093023255814,Northern Pacific coastal forests,"976",,,North_Pacific_coastal_forest,5,North America
+"664",3884,0.0577717688351725,0.238636363636364,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"665",3885,0,3.57954545454545,Northern Pacific coastal forests,"782",,,North_Pacific_coastal_forest,5,North America
+"666",3968,0,2.56976744186047,Northern Pacific coastal forests,"121",,,North_Pacific_coastal_forest,5,North America
+"667",3968,0,2.56976744186047,Northern Pacific coastal forests,"93",,,North_Pacific_coastal_forest,5,North America
+"668",4049,0,0.523255813953488,Northern Pacific coastal forests,"25",,,North_Pacific_coastal_forest,5,North America
+"669",4049,0,0.523255813953488,Northern Pacific coastal forests,"22",,,North_Pacific_coastal_forest,5,North America
+"670",4049,0,0.523255813953488,Northern Pacific coastal forests,"47",,,North_Pacific_coastal_forest,5,North America
+"671",4049,0,0.523255813953488,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"672",4049,0,0.523255813953488,Northern Pacific coastal forests,"101",,,North_Pacific_coastal_forest,5,North America
+"673",4049,0,0.523255813953488,Northern Pacific coastal forests,"27",,,North_Pacific_coastal_forest,5,North America
+"674",4049,0,0.523255813953488,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"675",4049,0,0.523255813953488,Northern Pacific coastal forests,"32",,,North_Pacific_coastal_forest,5,North America
+"676",4049,0,0.523255813953488,Northern Pacific coastal forests,"21",,,North_Pacific_coastal_forest,5,North America
+"677",4049,0,0.523255813953488,Northern Pacific coastal forests,"11",,,North_Pacific_coastal_forest,5,North America
+"678",4049,0,0.523255813953488,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"679",4050,0,3.38372093023256,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"680",4050,0,3.38372093023256,Northern Pacific coastal forests,"213",,,North_Pacific_coastal_forest,5,North America
+"681",4050,0,3.38372093023256,Northern Pacific coastal forests,"121",,,North_Pacific_coastal_forest,5,North America
+"682",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"167",,,North_Pacific_coastal_forest,5,North America
+"683",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"29",,,North_Pacific_coastal_forest,5,North America
+"684",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"142",,,North_Pacific_coastal_forest,5,North America
+"685",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"47",,,North_Pacific_coastal_forest,5,North America
+"686",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"687",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"93",,,North_Pacific_coastal_forest,5,North America
+"688",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"368",,,North_Pacific_coastal_forest,5,North America
+"689",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"595",,,North_Pacific_coastal_forest,5,North America
+"690",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"691",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"692",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"63",,,North_Pacific_coastal_forest,5,North America
+"693",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"96",,,North_Pacific_coastal_forest,5,North America
+"694",4132,0.0502754846391695,13.8863636363636,Northern Pacific coastal forests,"25",,,North_Pacific_coastal_forest,5,North America
+"695",4133,0,9.98863636363636,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"696",4133,0,9.98863636363636,Northern Pacific coastal forests,"1496",,,North_Pacific_coastal_forest,5,North America
+"697",4133,0,9.98863636363636,Northern Pacific coastal forests,"52",,,North_Pacific_coastal_forest,5,North America
+"698",4133,0,9.98863636363636,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"699",4133,0,9.98863636363636,Northern Pacific coastal forests,"146",,,North_Pacific_coastal_forest,5,North America
+"700",4133,0,9.98863636363636,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"701",4134,0,0,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"702",4213,0.148763039425189,6.81395348837209,Northern Pacific coastal forests,"328",,,North_Pacific_coastal_forest,5,North America
+"703",4213,0.148763039425189,6.81395348837209,Northern Pacific coastal forests,"238",,,North_Pacific_coastal_forest,5,North America
+"704",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"1307",,,North_Pacific_coastal_forest,5,North America
+"705",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"706",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"292",,,North_Pacific_coastal_forest,5,North America
+"707",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"708",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"202",,,North_Pacific_coastal_forest,5,North America
+"709",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"664",,,North_Pacific_coastal_forest,5,North America
+"710",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"32",,,North_Pacific_coastal_forest,5,North America
+"711",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"18",,,North_Pacific_coastal_forest,5,North America
+"712",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"42",,,North_Pacific_coastal_forest,5,North America
+"713",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"14",,,North_Pacific_coastal_forest,5,North America
+"714",4214,0.0347417839532692,18.7209302325581,Northern Pacific coastal forests,"54",,,North_Pacific_coastal_forest,5,North America
+"715",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"80",,,North_Pacific_coastal_forest,5,North America
+"716",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"717",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"91",,,North_Pacific_coastal_forest,5,North America
+"718",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"89",,,North_Pacific_coastal_forest,5,North America
+"719",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"39",,,North_Pacific_coastal_forest,5,North America
+"720",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"372",,,North_Pacific_coastal_forest,5,North America
+"721",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"253",,,North_Pacific_coastal_forest,5,North America
+"722",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"10",,,North_Pacific_coastal_forest,5,North America
+"723",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"24",,,North_Pacific_coastal_forest,5,North America
+"724",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"725",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"32",,,North_Pacific_coastal_forest,5,North America
+"726",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"1",,,North_Pacific_coastal_forest,5,North America
+"727",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"728",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"115",,,North_Pacific_coastal_forest,5,North America
+"729",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"730",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"731",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"23",,,North_Pacific_coastal_forest,5,North America
+"732",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"31",,,North_Pacific_coastal_forest,5,North America
+"733",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"52",,,North_Pacific_coastal_forest,5,North America
+"734",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"41",,,North_Pacific_coastal_forest,5,North America
+"735",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"76",,,North_Pacific_coastal_forest,5,North America
+"736",4215,0.0148355771914544,11.1395348837209,Northern Pacific coastal forests,"57",,,North_Pacific_coastal_forest,5,North America
+"737",4216,0,0.627906976744186,Northern Pacific coastal forests,"27",,,North_Pacific_coastal_forest,5,North America
+"738",4296,0.0382758784316744,7.55813953488372,Northern Pacific coastal forests,"47",,,North_Pacific_coastal_forest,5,North America
+"739",4296,0.0382758784316744,7.55813953488372,Northern Pacific coastal forests,"56",,,North_Pacific_coastal_forest,5,North America
+"740",4296,0.0382758784316744,7.55813953488372,Northern Pacific coastal forests,"128",,,North_Pacific_coastal_forest,5,North America
+"741",4296,0.0382758784316744,7.55813953488372,Northern Pacific coastal forests,"623",,,North_Pacific_coastal_forest,5,North America
+"742",4296,0.0382758784316744,7.55813953488372,Northern Pacific coastal forests,"195",,,North_Pacific_coastal_forest,5,North America
+"743",4297,0.0752357645515169,16.3139534883721,Northern Pacific coastal forests,"48",,,North_Pacific_coastal_forest,5,North America
+"744",4297,0.0752357645515169,16.3139534883721,Northern Pacific coastal forests,"3110",,,North_Pacific_coastal_forest,5,North America
+"745",4297,0.0752357645515169,16.3139534883721,Northern Pacific coastal forests,"79",,,North_Pacific_coastal_forest,5,North America
+"746",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"25",,,North_Pacific_coastal_forest,5,North America
+"747",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"17",,,North_Pacific_coastal_forest,5,North America
+"748",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"1453",,,North_Pacific_coastal_forest,5,North America
+"749",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"15",,,North_Pacific_coastal_forest,5,North America
+"750",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"62",,,North_Pacific_coastal_forest,5,North America
+"751",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"107",,,North_Pacific_coastal_forest,5,North America
+"752",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"25",,,North_Pacific_coastal_forest,5,North America
+"753",4298,0.153624345550397,10.5813953488372,Northern Pacific coastal forests,"191",,,North_Pacific_coastal_forest,5,North America
+"754",4299,0.0320406099502078,0.720930232558139,Northern Pacific coastal forests,"63",,,North_Pacific_coastal_forest,5,North America
+"755",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"78",,,North_Pacific_coastal_forest,5,North America
+"756",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"104",,,North_Pacific_coastal_forest,5,North America
+"757",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"218",,,North_Pacific_coastal_forest,5,North America
+"758",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"293",,,North_Pacific_coastal_forest,5,North America
+"759",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"338",,,North_Pacific_coastal_forest,5,North America
+"760",4378,0.00381551970103232,6.05681818181818,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"761",4379,0.0370463261896189,20.125,Northern Pacific coastal forests,"4",,,North_Pacific_coastal_forest,5,North America
+"762",4379,0.0370463261896189,20.125,Northern Pacific coastal forests,"766",,,North_Pacific_coastal_forest,5,North America
+"763",4379,0.0370463261896189,20.125,Northern Pacific coastal forests,"2217",,,North_Pacific_coastal_forest,5,North America
+"764",4379,0.0370463261896189,20.125,Northern Pacific coastal forests,"204",,,North_Pacific_coastal_forest,5,North America
+"765",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"52",,,North_Pacific_coastal_forest,5,North America
+"766",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"116",,,North_Pacific_coastal_forest,5,North America
+"767",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"105",,,North_Pacific_coastal_forest,5,North America
+"768",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"1338",,,North_Pacific_coastal_forest,5,North America
+"769",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"770",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"392",,,North_Pacific_coastal_forest,5,North America
+"771",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"772",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"161",,,North_Pacific_coastal_forest,5,North America
+"773",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"48",,,North_Pacific_coastal_forest,5,North America
+"774",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"43",,,North_Pacific_coastal_forest,5,North America
+"775",4380,0.0504718774423114,16.2159090909091,Northern Pacific coastal forests,"6",,,North_Pacific_coastal_forest,5,North America
+"776",4381,0,5.18181818181818,Northern Pacific coastal forests,"70",,,North_Pacific_coastal_forest,5,North America
+"777",4381,0,5.18181818181818,Northern Pacific coastal forests,"19",,,North_Pacific_coastal_forest,5,North America
+"778",4381,0,5.18181818181818,Northern Pacific coastal forests,"36",,,North_Pacific_coastal_forest,5,North America
+"779",4381,0,5.18181818181818,Northern Pacific coastal forests,"61",,,North_Pacific_coastal_forest,5,North America
+"780",4381,0,5.18181818181818,Northern Pacific coastal forests,"109",,,North_Pacific_coastal_forest,5,North America
+"781",4381,0,5.18181818181818,Northern Pacific coastal forests,"130",,,North_Pacific_coastal_forest,5,North America
+"782",4381,0,5.18181818181818,Northern Pacific coastal forests,"333",,,North_Pacific_coastal_forest,5,North America
+"783",4461,0.0112728915531354,1.75581395348837,Northern Pacific coastal forests,"695",,,North_Pacific_coastal_forest,5,North America
+"784",4461,0.0112728915531354,1.75581395348837,Northern Pacific coastal forests,"102",,,North_Pacific_coastal_forest,5,North America
+"785",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"495",,,North_Pacific_coastal_forest,5,North America
+"786",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"99",,,North_Pacific_coastal_forest,5,North America
+"787",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"310",,,North_Pacific_coastal_forest,5,North America
+"788",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"281",,,North_Pacific_coastal_forest,5,North America
+"789",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"8",,,North_Pacific_coastal_forest,5,North America
+"790",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"70",,,North_Pacific_coastal_forest,5,North America
+"791",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"200",,,North_Pacific_coastal_forest,5,North America
+"792",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"459",,,North_Pacific_coastal_forest,5,North America
+"793",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"20",,,North_Pacific_coastal_forest,5,North America
+"794",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"567",,,North_Pacific_coastal_forest,5,North America
+"795",4462,0.00366344644546503,20.1395348837209,Northern Pacific coastal forests,"11",,,North_Pacific_coastal_forest,5,North America
+"796",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"797",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"146",,,North_Pacific_coastal_forest,5,North America
+"798",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"2",,,North_Pacific_coastal_forest,5,North America
+"799",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"46",,,North_Pacific_coastal_forest,5,North America
+"800",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"3749",,,North_Pacific_coastal_forest,5,North America
+"801",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"31",,,North_Pacific_coastal_forest,5,North America
+"802",4463,0.0142651341813109,25.0232558139535,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"803",4464,0.0382394254621233,7.18604651162791,Northern Pacific coastal forests,"111",,,North_Pacific_coastal_forest,5,North America
+"804",4464,0.0382394254621233,7.18604651162791,Northern Pacific coastal forests,"274",,,North_Pacific_coastal_forest,5,North America
+"805",4464,0.0382394254621233,7.18604651162791,Northern Pacific coastal forests,"108",,,North_Pacific_coastal_forest,5,North America
+"806",4543,0.196203166151248,2.22093023255814,Northern Pacific coastal forests,"88",,,North_Pacific_coastal_forest,5,North America
+"807",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"2224",,,North_Pacific_coastal_forest,5,North America
+"808",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"286",,,North_Pacific_coastal_forest,5,North America
+"809",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"244",,,North_Pacific_coastal_forest,5,North America
+"810",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"35",,,North_Pacific_coastal_forest,5,North America
+"811",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"3",,,North_Pacific_coastal_forest,5,North America
+"812",4544,0.0144647580389301,20.2906976744186,Northern Pacific coastal forests,"615",,,North_Pacific_coastal_forest,5,North America
+"813",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"958",,,North_Pacific_coastal_forest,5,North America
+"814",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"333",,,North_Pacific_coastal_forest,5,North America
+"815",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"222",,,North_Pacific_coastal_forest,5,North America
+"816",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"315",,,North_Pacific_coastal_forest,5,North America
+"817",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"125",,,North_Pacific_coastal_forest,5,North America
+"818",4545,0.0105769759865596,12.1162790697674,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"819",4626,0.159588674978613,3.76136363636364,Northern Pacific coastal forests,"456",,,North_Pacific_coastal_forest,5,North America
+"820",4627,0.0214038274883738,16.8068181818182,Northern Pacific coastal forests,"389",,,North_Pacific_coastal_forest,5,North America
+"821",4627,0.0214038274883738,16.8068181818182,Northern Pacific coastal forests,"1116",,,North_Pacific_coastal_forest,5,North America
+"822",4627,0.0214038274883738,16.8068181818182,Northern Pacific coastal forests,"420",,,North_Pacific_coastal_forest,5,North America
+"823",4627,0.0214038274883738,16.8068181818182,Northern Pacific coastal forests,"406",,,North_Pacific_coastal_forest,5,North America
+"824",4627,0.0214038274883738,16.8068181818182,Northern Pacific coastal forests,"889",,,North_Pacific_coastal_forest,5,North America
+"825",4628,0.00694982731684485,7.85227272727273,Northern Pacific coastal forests,"44",,,North_Pacific_coastal_forest,5,North America
+"826",4628,0.00694982731684485,7.85227272727273,Northern Pacific coastal forests,"386",,,North_Pacific_coastal_forest,5,North America
+"827",4628,0.00694982731684485,7.85227272727273,Northern Pacific coastal forests,"16",,,North_Pacific_coastal_forest,5,North America
+"828",4628,0.00694982731684485,7.85227272727273,Northern Pacific coastal forests,"16",,,North_Pacific_coastal_forest,5,North America
+"829",4628,0.00694982731684485,7.85227272727273,British Columbia mainland coastal forests,"139",,,North_Pacific_coastal_forest,5,North America
+"830",4708,0.00361640332196903,2.83720930232558,Northern Pacific coastal forests,"0",,,North_Pacific_coastal_forest,5,North America
+"831",4709,0.0598729694014372,13.093023255814,Northern Pacific coastal forests,"360",,,North_Pacific_coastal_forest,5,North America
+"832",4709,0.0598729694014372,13.093023255814,Northern Pacific coastal forests,"403",,,North_Pacific_coastal_forest,5,North America
+"833",4709,0.0598729694014372,13.093023255814,Northern Pacific coastal forests,"8",,,North_Pacific_coastal_forest,5,North America
+"834",9726,0.038672407448768,0.0697674418604651,Northeastern coastal forests,"309",,,Northeaster_coastal_forest,4,North America
+"835",9727,0,0.0116279069767442,Northeastern coastal forests,"4497",,,Northeaster_coastal_forest,4,North America
+"836",9808,0.107402879554135,0.0340909090909091,Northeastern coastal forests,"5633",,,Northeaster_coastal_forest,4,North America
+"837",9890,0,0.119047619047619,Northeastern coastal forests,"4447",,,Northeaster_coastal_forest,4,North America
+"838",9891,0.0505389668365229,2.97619047619048,Northeastern coastal forests,"4347",,,Northeaster_coastal_forest,4,North America
+"839",9891,0.0505389668365229,2.97619047619048,Northeastern coastal forests,"4347",,,Northeaster_coastal_forest,5,North America
+"840",9970,0.135255058566878,1.75,Northeastern coastal forests,"466",,,Northeaster_coastal_forest,4,North America
+"841",9971,0,3.54545454545455,Northeastern coastal forests,"4627",,,Northeaster_coastal_forest,4,North America
+"842",9972,2.69935205868428,4.21590909090909,Northeastern coastal forests,"4382",,,Northeaster_coastal_forest,4,North America
+"843",9973,0.0181476201758137,1.78409090909091,Northeastern coastal forests,"521",,,Northeaster_coastal_forest,4,North America
+"844",9973,0.0181476201758137,1.78409090909091,Northeastern coastal forests,"521",,,Northeaster_coastal_forest,5,North America
+"845",10051,0,3.51162790697674,Northeastern coastal forests,"20",,,Northeaster_coastal_forest,4,North America
+"846",10052,0,2.51162790697674,Northeastern coastal forests,"4256",,,Northeaster_coastal_forest,4,North America
+"847",10053,0,2.94186046511628,Northeastern coastal forests,"6312",,,Northeaster_coastal_forest,4,North America
+"848",10054,0,2.24418604651163,Northeastern coastal forests,"1635",,,Northeaster_coastal_forest,4,North America
+"849",10055,0,0.406976744186047,Northeastern coastal forests,"61",,,Northeaster_coastal_forest,4,North America
+"850",10133,0,1.01162790697674,Northeastern coastal forests,"880",,,Northeaster_coastal_forest,4,North America
+"851",10134,0,2.96511627906977,Northeastern coastal forests,"4036",,,Northeaster_coastal_forest,4,North America
+"852",10135,0,3.08139534883721,Northeastern coastal forests,"1914",,,Northeaster_coastal_forest,4,North America
+"853",10216,0.0109701104182117,4.56818181818182,Northeastern coastal forests,"3625",,,Northeaster_coastal_forest,4,North America
+"854",10217,0,4.69318181818182,Northeastern coastal forests,"5711",,,Northeaster_coastal_forest,4,North America
+"855",10297,0.00827060906756375,4.7093023255814,Northeastern coastal forests,"6168",,,Northeaster_coastal_forest,4,North America
+"856",10298,0.00542970606421021,5.8953488372093,Northeastern coastal forests,"6648",,,Northeaster_coastal_forest,4,North America
+"857",10298,0.00542970606421021,5.8953488372093,Northeastern coastal forests,"6648",,,Northeaster_coastal_forest,5,North America
+"858",10299,0.00535904014784231,0.197674418604651,Northeastern coastal forests,"56",,,Northeaster_coastal_forest,4,North America
+"859",10378,0,2.61627906976744,Northeastern coastal forests,"1979",,,Northeaster_coastal_forest,4,North America
+"860",10379,0.0055635446806757,2.84883720930233,Northeastern coastal forests,"2355",,,Northeaster_coastal_forest,4,North America
+"861",10380,0,0.186046511627907,Northeastern coastal forests,"146",,,Northeaster_coastal_forest,4,North America
+"862",10381,0.00538832539329194,2.08139534883721,Northeastern coastal forests,"8",,,Northeaster_coastal_forest,4,North America
+"863",10381,0.00538832539329194,2.08139534883721,Northeastern coastal forests,"8",,,Northeaster_coastal_forest,5,North America
+"864",10459,0,5.43181818181818,Northeastern coastal forests,"3909",,,Northeaster_coastal_forest,4,North America
+"865",10460,0.00843271978610752,2.60227272727273,Northeastern coastal forests,"3900",,,Northeaster_coastal_forest,4,North America
+"866",10541,0,4.93023255813953,Northeastern coastal forests,"12",,,Northeaster_coastal_forest,4,North America
+"867",10542,0.00283508775835299,4.56976744186047,Northeastern coastal forests,"1239",,,Northeaster_coastal_forest,4,North America
+"868",7831,16.6487841467322,0.930232558139535,Western Great Lakes forests,"16",,,Northern_Great_Lakes_forests,4,North America
+"869",7912,2.58935597456124,14.8604651162791,Western Great Lakes forests,"2832",,,Northern_Great_Lakes_forests,4,North America
+"870",7913,3.45754003515583,23.2093023255814,Western Great Lakes forests,"4003",,,Northern_Great_Lakes_forests,4,North America
+"871",7914,7.61189069580738,8.1046511627907,Western Great Lakes forests,"1168",,,Northern_Great_Lakes_forests,4,North America
+"872",7994,0.748924102039418,20.3977272727273,Western Great Lakes forests,"6173",,,Northern_Great_Lakes_forests,4,North America
+"873",7995,4.08716029392311,26.6363636363636,Western Great Lakes forests,"6845",,,Northern_Great_Lakes_forests,4,North America
+"874",7996,8.77813857246544,15.6590909090909,Western Great Lakes forests,"4113",,,Northern_Great_Lakes_forests,4,North America
+"875",7997,0.346581582003932,7.76136363636364,Western Great Lakes forests,"4253",,,Northern_Great_Lakes_forests,4,North America
+"876",8076,27.1416994338886,6.3953488372093,Western Great Lakes forests,"1702",,,Northern_Great_Lakes_forests,4,North America
+"877",8077,0.0961622922654477,8.66279069767442,Western Great Lakes forests,"6977",,,Northern_Great_Lakes_forests,4,North America
+"878",8078,0.653288493715292,30.5697674418605,Western Great Lakes forests,"7117",,,Northern_Great_Lakes_forests,4,North America
+"879",8079,0.205975712184846,12.7325581395349,Western Great Lakes forests,"7254",,,Northern_Great_Lakes_forests,4,North America
+"880",8080,0.761908522183964,9.02325581395349,Western Great Lakes forests,"6021",,,Northern_Great_Lakes_forests,4,North America
+"881",8158,0.317048658256784,5.45348837209302,Western Great Lakes forests,"3816",,,Northern_Great_Lakes_forests,4,North America
+"882",8159,0.00770584112048698,9.52325581395349,Western Great Lakes forests,"7047",,,Northern_Great_Lakes_forests,4,North America
+"883",8160,0.0510774802031999,27.1395348837209,Western Great Lakes forests,"7186",,,Northern_Great_Lakes_forests,4,North America
+"884",8161,0.238535358689215,20.2558139534884,Western Great Lakes forests,"7322",,,Northern_Great_Lakes_forests,4,North America
+"885",8162,0.153537620212834,12.2209302325581,Western Great Lakes forests,"3427",,,Northern_Great_Lakes_forests,4,North America
+"886",8240,0.329082210671844,6.06818181818182,Western Great Lakes forests,"47",,,Northern_Great_Lakes_forests,4,North America
+"887",8241,0.0217542148158423,4.68181818181818,Western Great Lakes forests,"6669",,,Northern_Great_Lakes_forests,4,North America
+"888",8242,0,12.5681818181818,Western Great Lakes forests,"7117",,,Northern_Great_Lakes_forests,4,North America
+"889",8243,0.0566762187711533,22.4090909090909,Western Great Lakes forests,"7254",,,Northern_Great_Lakes_forests,4,North America
+"890",8244,0.0919548649513056,18.7613636363636,Western Great Lakes forests,"7309",,,Northern_Great_Lakes_forests,4,North America
+"891",8245,1.14021273908036,10.125,Western Great Lakes forests,"918",,,Northern_Great_Lakes_forests,4,North America
+"892",8322,4.04731230860768,5.12790697674419,Western Great Lakes forests,"3681",,,Northern_Great_Lakes_forests,4,North America
+"893",8323,0.0122899889532435,6.61627906976744,Western Great Lakes forests,"7047",,,Northern_Great_Lakes_forests,4,North America
+"894",8324,1.04900035476144,12.3255813953488,Western Great Lakes forests,"7186",,,Northern_Great_Lakes_forests,4,North America
+"895",8325,0.00296470249473025,12.2558139534884,Western Great Lakes forests,"5924",,,Northern_Great_Lakes_forests,4,North America
+"896",8326,0.318529875426643,11.1860465116279,Western Great Lakes forests,"6554",,,Northern_Great_Lakes_forests,4,North America
+"897",8405,0.102238995509146,5.19767441860465,Western Great Lakes forests,"2322",,,Northern_Great_Lakes_forests,4,North America
+"898",8406,4.88622480629389,7.48837209302326,Western Great Lakes forests,"7080",,,Northern_Great_Lakes_forests,4,North America
+"899",8407,4.09016896556726,8.84883720930233,Western Great Lakes forests,"4343",,,Northern_Great_Lakes_forests,4,North America
+"900",8408,2.61458336846562,9.48837209302326,Western Great Lakes forests,"6254",,,Northern_Great_Lakes_forests,4,North America
+"901",8409,0,6.33720930232558,Western Great Lakes forests,"6283",,,Northern_Great_Lakes_forests,4,North America
+"902",8487,0.909375955531726,5.38636363636364,Western Great Lakes forests,"1121",,,Northern_Great_Lakes_forests,4,North America
+"903",8488,1.67453602142366,7.02272727272727,Western Great Lakes forests,"5425",,,Northern_Great_Lakes_forests,4,North America
+"904",8489,0,1.42045454545455,Western Great Lakes forests,"861",,,Northern_Great_Lakes_forests,4,North America
+"905",8490,0,15.9886363636364,Western Great Lakes forests,"7457",,,Northern_Great_Lakes_forests,4,North America
+"906",8491,0.0057189304119696,6.04545454545455,Western Great Lakes forests,"1844",,,Northern_Great_Lakes_forests,4,North America
+"907",8570,0.00305185755861843,5.2906976744186,Western Great Lakes forests,"2966",,,Northern_Great_Lakes_forests,4,North America
+"908",8571,0,0.581395348837209,Western Great Lakes forests,"15",,,Northern_Great_Lakes_forests,4,North America
+"909",8572,0.0527101017696974,8.67441860465116,Western Great Lakes forests,"6750",,,Northern_Great_Lakes_forests,4,North America
+"910",8573,0,13.8720930232558,Western Great Lakes forests,"6253",,,Northern_Great_Lakes_forests,4,North America
+"911",8653,0.0266198744451551,3.6046511627907,Western Great Lakes forests,"3703",,,Northern_Great_Lakes_forests,4,North America
+"912",8654,0.179965518524843,14.906976744186,Western Great Lakes forests,"7457",,,Northern_Great_Lakes_forests,4,North America
+"913",8655,0.0967476647635441,11.7674418604651,Western Great Lakes forests,"3905",,,Northern_Great_Lakes_forests,4,North America
+"914",8736,0.0702467286979661,10.8409090909091,Western Great Lakes forests,"5535",,,Northern_Great_Lakes_forests,4,North America
+"915",8737,0,16.1022727272727,Western Great Lakes forests,"5681",,,Northern_Great_Lakes_forests,4,North America
+"916",8738,0.00283496314486644,4.40909090909091,Western Great Lakes forests,"47",,,Northern_Great_Lakes_forests,4,North America
+"917",8817,0,0.0348837209302326,Western Great Lakes forests,"44",,,Northern_Great_Lakes_forests,4,North America
+"918",8818,0.0116306158627868,16.093023255814,Western Great Lakes forests,"5575",,,Northern_Great_Lakes_forests,4,North America
+"919",8900,1.99385150353658,13.7209302325581,Western Great Lakes forests,"5163",,,Northern_Great_Lakes_forests,4,North America
+"920",8901,0,1.02325581395349,Western Great Lakes forests,"196",,,Northern_Great_Lakes_forests,4,North America
+"921",8981,0.293018097616982,2.08139534883721,Western Great Lakes forests,"751",,,Northern_Great_Lakes_forests,4,North America
+"922",8982,0.707749955827812,9.69767441860465,Western Great Lakes forests,"3500",,,Northern_Great_Lakes_forests,4,North America
+"923",9064,0.0322235541369266,5.18181818181818,Western Great Lakes forests,"1661",,,Northern_Great_Lakes_forests,4,North America
+"924",9065,0.122928416868926,5.93181818181818,Western Great Lakes forests,"114",,,Northern_Great_Lakes_forests,4,North America
+"925",4625,7.3595998044207,1,Northern transitional alpine forests,"723",,,Northern_transitional_alpine_forest,5,North America
+"926",4626,0.159588674978613,3.76136363636364,Northern transitional alpine forests,"1213",,,Northern_transitional_alpine_forest,5,North America
+"927",4707,0.304869250331035,1.26744186046512,Northern transitional alpine forests,"4512",,,Northern_transitional_alpine_forest,5,North America
+"928",4789,2.61007988496343,0.325581395348837,Northern transitional alpine forests,"1015",,,Northern_transitional_alpine_forest,5,North America
+"929",4790,0.120734113748103,1.55813953488372,Northern transitional alpine forests,"4194",,,Northern_transitional_alpine_forest,5,North America
+"930",4871,0.0103454222518284,1.84883720930233,Northern transitional alpine forests,"709",,,Northern_transitional_alpine_forest,5,North America
+"931",4872,0.441254544250394,2.93023255813953,Northern transitional alpine forests,"4266",,,Northern_transitional_alpine_forest,5,North America
+"932",4954,0.70388543483539,0.75,Northern transitional alpine forests,"569",,,Northern_transitional_alpine_forest,5,North America
+"933",4955,2.84370951990293,2.25,Northern transitional alpine forests,"3936",,,Northern_transitional_alpine_forest,5,North America
+"934",4956,1.51598060113844,1.65909090909091,Northern transitional alpine forests,"59",,,Northern_transitional_alpine_forest,5,North America
+"935",5036,0.247483874795077,2.55813953488372,Northern transitional alpine forests,"231",,,Northern_transitional_alpine_forest,5,North America
+"936",5037,1.05734351405864,4.44186046511628,Northern transitional alpine forests,"1466",,,Northern_transitional_alpine_forest,5,North America
+"937",5035,0.647496627667278,0.232558139534884,Northern Cordillera forests,"5550",,,Northwest_Cordillera_forest - NP,5,North America
+"938",5118,6.26555513439781,0.244186046511628,Northern Cordillera forests,"2974",,,Northwest_Cordillera_forest - NP,5,North America
+"939",5200,13.257284499584,1.72727272727273,Northern Cordillera forests,"29",,,Northwest_Cordillera_forest - NP,5,North America
+"940",5533,38.6341807158144,2.60714285714286,Okanagan dry forests,"1907",,,Okanagan_dry_forest,5,North America
+"941",5534,8.54873309667189,0.94047619047619,Okanagan dry forests,"1040",,,Okanagan_dry_forest,5,North America
+"942",5615,11.2301587099348,2.43181818181818,Okanagan dry forests,"4017",,,Okanagan_dry_forest,5,North America
+"943",5616,5.00616877290832,0.431818181818182,Okanagan dry forests,"6835",,,Okanagan_dry_forest,5,North America
+"944",5617,7.40829986673484,0.352272727272727,Okanagan dry forests,"4487",,,Okanagan_dry_forest,5,North America
+"945",5696,0.562621536056064,2.06818181818182,Okanagan dry forests,"563",,,Okanagan_dry_forest,5,North America
+"946",5697,4.89243435821674,0.806818181818182,Okanagan dry forests,"3947",,,Okanagan_dry_forest,5,North America
+"947",5698,9.73356428817338,0.409090909090909,Okanagan dry forests,"6906",,,Okanagan_dry_forest,5,North America
+"948",5699,22.6120523313577,0.136363636363636,Okanagan dry forests,"2503",,,Okanagan_dry_forest,5,North America
+"949",5700,54.1174890250843,0.0454545454545455,Okanagan dry forests,"240",,,Okanagan_dry_forest,5,North America
+"950",5780,1.32317590737328,1.53571428571429,Okanagan dry forests,"2522",,,Okanagan_dry_forest,5,North America
+"951",5781,2.46882924572913,0.678571428571429,Okanagan dry forests,"4677",,,Okanagan_dry_forest,5,North America
+"952",5782,19.8818038914216,0.273809523809524,Okanagan dry forests,"6555",,,Okanagan_dry_forest,5,North America
+"953",5783,11.7318658824529,0,Okanagan dry forests,"245",,,Okanagan_dry_forest,5,North America
+"954",5863,4.54722065725931,0.454545454545455,Okanagan dry forests,"1788",,,Okanagan_dry_forest,5,North America
+"955",5864,7.92175945373697,0.556818181818182,Okanagan dry forests,"4657",,,Okanagan_dry_forest,5,North America
+"956",5947,7.46970810191443,0.22093023255814,Okanagan dry forests,"608",,,Okanagan_dry_forest,5,North America
+"957",5371,0.147569992412683,3.13953488372093,Puget lowland forests,"1217",,,Puget_lowland_forest,5,North America
+"958",5372,0.40037166975666,1.48837209302326,Puget lowland forests,"46",,,Puget_lowland_forest,5,North America
+"959",5372,0.40037166975666,1.48837209302326,Puget lowland forests,"999",,,Puget_lowland_forest,5,North America
+"960",5372,0.40037166975666,1.48837209302326,Puget lowland forests,"216",,,Puget_lowland_forest,5,North America
+"961",5373,0.605823646180132,3.32558139534884,Puget lowland forests,"1843",,,Puget_lowland_forest,5,North America
+"962",5373,0.605823646180132,3.32558139534884,Puget lowland forests,"1404",,,Puget_lowland_forest,5,North America
+"963",5374,0.59438072652087,1.25581395348837,Puget lowland forests,"734",,,Puget_lowland_forest,5,North America
+"964",5453,0.758257000043299,4.25,Puget lowland forests,"1720",,,Puget_lowland_forest,5,North America
+"965",5454,0.302347304202925,4.10227272727273,Puget lowland forests,"2667",,,Puget_lowland_forest,5,North America
+"966",5454,0.302347304202925,4.10227272727273,Puget lowland forests,"270",,,Puget_lowland_forest,5,North America
+"967",5455,0.118483238067615,4.97727272727273,Puget lowland forests,"4278",,,Puget_lowland_forest,5,North America
+"968",5455,0.118483238067615,4.97727272727273,Puget lowland forests,"67",,,Puget_lowland_forest,5,North America
+"969",5455,0.118483238067615,4.97727272727273,Puget lowland forests,"827",,,Puget_lowland_forest,5,North America
+"970",5456,0.161203507750664,1.85227272727273,Puget lowland forests,"1147",,,Puget_lowland_forest,5,North America
+"971",5535,1.38930750206895,2.23809523809524,Puget lowland forests,"204",,,Puget_lowland_forest,5,North America
+"972",5536,0.917635605934238,2.27380952380952,Puget lowland forests,"389",,,Puget_lowland_forest,5,North America
+"973",5537,4.42492122163606,0.857142857142857,Puget lowland forests,"0",,,Puget_lowland_forest,5,North America
+"974",4382,0.0377227160707401,0.829545454545455,Queen Charlotte Islands,"244",,,Queen_Charlotte_Islands,5,North America
+"975",4464,0.0382394254621233,7.18604651162791,Queen Charlotte Islands,"520",,,Queen_Charlotte_Islands,5,North America
+"976",4465,0.0475493668832427,10.046511627907,Queen Charlotte Islands,"113",,,Queen_Charlotte_Islands,5,North America
+"977",4465,0.0475493668832427,10.046511627907,Queen Charlotte Islands,"3471",,,Queen_Charlotte_Islands,5,North America
+"978",4465,0.0475493668832427,10.046511627907,Queen Charlotte Islands,"25",,,Queen_Charlotte_Islands,5,North America
+"979",4466,0,0.116279069767442,Queen Charlotte Islands,"2",,,Queen_Charlotte_Islands,5,North America
+"980",4546,0.0171854223461536,7.47674418604651,Queen Charlotte Islands,"1475",,,Queen_Charlotte_Islands,5,North America
+"981",4546,0.0171854223461536,7.47674418604651,Queen Charlotte Islands,"2",,,Queen_Charlotte_Islands,5,North America
+"982",4547,0.21122943640314,5.55813953488372,Queen Charlotte Islands,"0",,,Queen_Charlotte_Islands,5,North America
+"983",4547,0.21122943640314,5.55813953488372,Queen Charlotte Islands,"1647",,,Queen_Charlotte_Islands,5,North America
+"984",4547,0.21122943640314,5.55813953488372,Queen Charlotte Islands,"428",,,Queen_Charlotte_Islands,5,North America
+"985",4547,0.21122943640314,5.55813953488372,Queen Charlotte Islands,"260",,,Queen_Charlotte_Islands,5,North America
+"986",4547,0.21122943640314,5.55813953488372,Queen Charlotte Islands,"161",,,Queen_Charlotte_Islands,5,North America
+"987",4548,0,0.790697674418605,Queen Charlotte Islands,"259",,,Queen_Charlotte_Islands,5,North America
+"988",4630,0,1.22727272727273,Queen Charlotte Islands,"332",,,Queen_Charlotte_Islands,5,North America
+"989",4630,0,1.22727272727273,Queen Charlotte Islands,"59",,,Queen_Charlotte_Islands,5,North America
+"990",4630,0,1.22727272727273,Queen Charlotte Islands,"88",,,Queen_Charlotte_Islands,5,North America
+"991",4631,0,0.136363636363636,Queen Charlotte Islands,"22",,,Queen_Charlotte_Islands,5,North America
+"992",8424,10.6425803109875,1.2906976744186,Southeastern conifer forests,"109",,,Southeastern_conifer_forest,4,North America
+"993",8424,10.6425803109875,1.2906976744186,Southeastern conifer forests,"109",,,Southeastern_conifer_forest,5,North America
+"994",8504,0.525321561162901,0.0568181818181818,Southeastern conifer forests,"164",,,Southeastern_conifer_forest,4,North America
+"995",8504,0.525321561162901,0.0568181818181818,Southeastern conifer forests,"164",,,Southeastern_conifer_forest,5,North America
+"996",8505,0.682011729832545,0.113636363636364,Southeastern conifer forests,"6090",,,Southeastern_conifer_forest,4,North America
+"997",8505,0.682011729832545,0.113636363636364,Southeastern conifer forests,"6090",,,Southeastern_conifer_forest,5,North America
+"998",8506,4.1344472717882,19.9772727272727,Southeastern conifer forests,"117",,,Southeastern_conifer_forest,5,North America
+"999",8587,4.69619225478255,0.523255813953488,Southeastern conifer forests,"7527",,,Southeastern_conifer_forest,5,North America
+"1000",8588,5.54196968684753,6.55813953488372,Southeastern conifer forests,"6640",,,Southeastern_conifer_forest,5,North America
+"1001",8668,1.16731087314826,0.197674418604651,Southeastern conifer forests,"1765",,,Southeastern_conifer_forest,5,North America
+"1002",8669,5.52885412020058,2.72093023255814,Southeastern conifer forests,"9170",,,Southeastern_conifer_forest,5,North America
+"1003",8670,0.873410263511525,3.27906976744186,Southeastern conifer forests,"930",,,Southeastern_conifer_forest,5,North America
+"1004",8751,2.59903876311194,0.738636363636364,Southeastern conifer forests,"5244",,,Southeastern_conifer_forest,5,North America
+"1005",8752,2.0803802955604,4.20454545454545,Southeastern conifer forests,"5569",,,Southeastern_conifer_forest,5,North America
+"1006",8832,1.23265307895984,0.0348837209302326,Southeastern conifer forests,"463",,,Southeastern_conifer_forest,5,North America
+"1007",8833,24.0563480333855,1.74418604651163,Southeastern conifer forests,"9133",,,Southeastern_conifer_forest,5,North America
+"1008",8834,1.34879773652846,0.790697674418605,Southeastern conifer forests,"411",,,Southeastern_conifer_forest,5,North America
+"1009",8915,1.58859337953261,0.465116279069767,Southeastern conifer forests,"3861",,,Southeastern_conifer_forest,4,North America
+"1010",8915,1.58859337953261,0.465116279069767,Southeastern conifer forests,"3861",,,Southeastern_conifer_forest,5,North America
+"1011",8916,5.4115112335342,3.40697674418605,Southeastern conifer forests,"6830",,,Southeastern_conifer_forest,5,North America
+"1012",8996,8.31188663190038,0.0465116279069767,Southeastern conifer forests,"33",,,Southeastern_conifer_forest,4,North America
+"1013",8996,8.31188663190038,0.0465116279069767,Southeastern conifer forests,"33",,,Southeastern_conifer_forest,5,North America
+"1014",8997,6.81849619315436,0.63953488372093,Southeastern conifer forests,"8691",,,Southeastern_conifer_forest,4,North America
+"1015",8997,6.81849619315436,0.63953488372093,Southeastern conifer forests,"8691",,,Southeastern_conifer_forest,5,North America
+"1016",8998,14.2615114868487,3.17441860465116,Southeastern conifer forests,"6661",,,Southeastern_conifer_forest,5,North America
+"1017",9078,3.51137766548433,0.0227272727272727,Southeastern conifer forests,"336",,,Southeastern_conifer_forest,5,North America
+"1018",9079,12.4521292351532,0.25,Southeastern conifer forests,"8734",,,Southeastern_conifer_forest,5,North America
+"1019",9080,20.3146116432022,2.92045454545455,Southeastern conifer forests,"8738",,,Southeastern_conifer_forest,5,North America
+"1020",9081,0,0,Southeastern conifer forests,"63",,,Southeastern_conifer_forest,5,North America
+"1021",9159,2.51119723232239,0.0813953488372093,Southeastern conifer forests,"438",,,Southeastern_conifer_forest,4,North America
+"1022",9159,2.51119723232239,0.0813953488372093,Southeastern conifer forests,"438",,,Southeastern_conifer_forest,5,North America
+"1023",9160,2.80854134235385,0.151162790697674,Southeastern conifer forests,"8946",,,Southeastern_conifer_forest,5,North America
+"1024",9161,6.76136367704899,2.83720930232558,Southeastern conifer forests,"9170",,,Southeastern_conifer_forest,5,North America
+"1025",9162,4.68938490272948,3.80232558139535,Southeastern conifer forests,"8264",,,Southeastern_conifer_forest,5,North America
+"1026",9163,0.0852294557638356,1.52325581395349,Southeastern conifer forests,"864",,,Southeastern_conifer_forest,5,North America
+"1027",9164,0,0.104651162790698,Southeastern conifer forests,"147",,,Southeastern_conifer_forest,5,North America
+"1028",9242,1.40804864816866,0.430232558139535,Southeastern conifer forests,"8346",,,Southeastern_conifer_forest,4,North America
+"1029",9242,1.40804864816866,0.430232558139535,Southeastern conifer forests,"8346",,,Southeastern_conifer_forest,5,North America
+"1030",9243,10.2972182323649,2.18604651162791,Southeastern conifer forests,"9122",,,Southeastern_conifer_forest,5,North America
+"1031",9244,26.34216312289,9.81395348837209,Southeastern conifer forests,"9217",,,Southeastern_conifer_forest,5,North America
+"1032",9245,3.42595751348464,2.34883720930233,Southeastern conifer forests,"9187",,,Southeastern_conifer_forest,5,North America
+"1033",9246,3.88001978976306,4.82558139534884,Southeastern conifer forests,"7412",,,Southeastern_conifer_forest,5,North America
+"1034",9247,5.59572400617123,2.54651162790698,Southeastern conifer forests,"5886",,,Southeastern_conifer_forest,5,North America
+"1035",9248,0.257284435340714,1.01162790697674,Southeastern conifer forests,"751",,,Southeastern_conifer_forest,5,North America
+"1036",9323,7.98654976576055,0.613636363636364,Southeastern conifer forests,"2460",,,Southeastern_conifer_forest,5,North America
+"1037",9324,8.52386958588416,2.67045454545455,Southeastern conifer forests,"3788",,,Southeastern_conifer_forest,5,North America
+"1038",9325,0.564041658725077,5.5,Southeastern conifer forests,"4759",,,Southeastern_conifer_forest,5,North America
+"1039",9326,3.6395252101149,6.31818181818182,Southeastern conifer forests,"6881",,,Southeastern_conifer_forest,5,North America
+"1040",9327,4.65921746075439,7.80681818181818,Southeastern conifer forests,"7882",,,Southeastern_conifer_forest,5,North America
+"1041",9328,11.4776488797558,4.375,Southeastern conifer forests,"9240",,,Southeastern_conifer_forest,5,North America
+"1042",9329,21.195901463585,6.07954545454545,Southeastern conifer forests,"8741",,,Southeastern_conifer_forest,5,North America
+"1043",9330,11.7309192914863,7.11363636363636,Southeastern conifer forests,"1186",,,Southeastern_conifer_forest,5,North America
+"1044",9409,0.057145121542454,0.546511627906977,Southeastern conifer forests,"408",,,Southeastern_conifer_forest,5,North America
+"1045",9410,7.06593639262742,6.05813953488372,Southeastern conifer forests,"3803",,,Southeastern_conifer_forest,5,North America
+"1046",9411,14.3436346704956,4.3953488372093,Southeastern conifer forests,"7030",,,Southeastern_conifer_forest,5,North America
+"1047",9412,41.3716834753094,24.093023255814,Southeastern conifer forests,"1331",,,Southeastern_conifer_forest,5,North America
+"1048",9493,0.864571995195158,0.0930232558139535,Southeastern conifer forests,"966",,,Southeastern_conifer_forest,5,North America
+"1049",8741,0.292788540899319,1,Southern Great Lakes forests,"8",,,Southern_Great_Lakes_forest,4,North America
+"1050",8742,0.450073465406708,0.0795454545454545,Southern Great Lakes forests,"705",,,Southern_Great_Lakes_forest,4,North America
+"1051",8743,0.855677165162117,0.0227272727272727,Southern Great Lakes forests,"158",,,Southern_Great_Lakes_forest,4,North America
+"1052",8820,0.0112078785273157,1.19767441860465,Southern Great Lakes forests,"1100",,,Southern_Great_Lakes_forest,4,North America
+"1053",8821,0,0.0348837209302326,Southern Great Lakes forests,"134",,,Southern_Great_Lakes_forest,4,North America
+"1054",8822,0.0595856615767414,2.19767441860465,Southern Great Lakes forests,"2191",,,Southern_Great_Lakes_forest,4,North America
+"1055",8823,0.28407827699319,3.16279069767442,Southern Great Lakes forests,"2981",,,Southern_Great_Lakes_forest,4,North America
+"1056",8824,0.614035979122869,0.0232558139534884,Southern Great Lakes forests,"7440",,,Southern_Great_Lakes_forest,4,North America
+"1057",8825,0.659263433352392,0,Southern Great Lakes forests,"88",,,Southern_Great_Lakes_forest,4,North America
+"1058",8902,0.0986516631892279,5.41860465116279,Southern Great Lakes forests,"257",,,Southern_Great_Lakes_forest,4,North America
+"1059",8903,0.00836208624337896,7.51162790697674,Southern Great Lakes forests,"6847",,,Southern_Great_Lakes_forest,4,North America
+"1060",8904,0.00822736090091378,6.54651162790698,Southern Great Lakes forests,"7227",,,Southern_Great_Lakes_forest,4,North America
+"1061",8905,0.0484113093639897,6.43023255813953,Southern Great Lakes forests,"7904",,,Southern_Great_Lakes_forest,4,North America
+"1062",8906,0.187780078149548,0.732558139534884,Southern Great Lakes forests,"8152",,,Southern_Great_Lakes_forest,4,North America
+"1063",8907,0.415801778564479,0.0581395348837209,Southern Great Lakes forests,"7261",,,Southern_Great_Lakes_forest,4,North America
+"1064",8908,0.466426311901143,0,Southern Great Lakes forests,"3055",,,Southern_Great_Lakes_forest,4,North America
+"1065",8984,0,12.6279069767442,Southern Great Lakes forests,"5290",,,Southern_Great_Lakes_forest,4,North America
+"1066",8985,0.0247997324447883,10.1046511627907,Southern Great Lakes forests,"7845",,,Southern_Great_Lakes_forest,4,North America
+"1067",8986,0.0840808929621996,7.93023255813953,Southern Great Lakes forests,"7970",,,Southern_Great_Lakes_forest,4,North America
+"1068",8987,0.24806187267095,1.53488372093023,Southern Great Lakes forests,"8092",,,Southern_Great_Lakes_forest,4,North America
+"1069",8988,0.151648294182656,0.255813953488372,Southern Great Lakes forests,"8118",,,Southern_Great_Lakes_forest,4,North America
+"1070",8989,0.556331371452896,0,Southern Great Lakes forests,"3347",,,Southern_Great_Lakes_forest,4,North America
+"1071",9066,0.307838302646766,8.64772727272727,Southern Great Lakes forests,"1873",,,Southern_Great_Lakes_forest,4,North America
+"1072",9067,0.116397706202263,4.84090909090909,Southern Great Lakes forests,"7269",,,Southern_Great_Lakes_forest,4,North America
+"1073",9068,0.00548541680219969,13.8068181818182,Southern Great Lakes forests,"7908",,,Southern_Great_Lakes_forest,4,North America
+"1074",9069,0.225708739722107,1.21590909090909,Southern Great Lakes forests,"8031",,,Southern_Great_Lakes_forest,4,North America
+"1075",9070,0.0132835506344103,0.647727272727273,Southern Great Lakes forests,"8152",,,Southern_Great_Lakes_forest,4,North America
+"1076",9071,0.0323087912058979,0,Southern Great Lakes forests,"8091",,,Southern_Great_Lakes_forest,4,North America
+"1077",9072,0,0,Southern Great Lakes forests,"736",,,Southern_Great_Lakes_forest,4,North America
+"1078",9148,0.148478779945713,3.12790697674419,Southern Great Lakes forests,"3612",,,Southern_Great_Lakes_forest,4,North America
+"1079",9149,0.0303195401568905,7.86046511627907,Southern Great Lakes forests,"7845",,,Southern_Great_Lakes_forest,4,North America
+"1080",9150,0.270369632676674,1.22093023255814,Southern Great Lakes forests,"5842",,,Southern_Great_Lakes_forest,4,North America
+"1081",9151,0.234680255017771,0.709302325581395,Southern Great Lakes forests,"8076",,,Southern_Great_Lakes_forest,4,North America
+"1082",9152,0.0552817570945333,0.534883720930233,Southern Great Lakes forests,"8211",,,Southern_Great_Lakes_forest,4,North America
+"1083",9153,0.25884338094659,0,Southern Great Lakes forests,"3040",,,Southern_Great_Lakes_forest,4,North America
+"1084",9231,0.196541905631517,1.84883720930233,Southern Great Lakes forests,"2713",,,Southern_Great_Lakes_forest,4,North America
+"1085",9232,0.403109855008381,1.2093023255814,Southern Great Lakes forests,"6050",,,Southern_Great_Lakes_forest,4,North America
+"1086",9233,0.0912825879856885,0.697674418604651,Southern Great Lakes forests,"3642",,,Southern_Great_Lakes_forest,4,North America
+"1087",9234,0.0740980979849418,0.627906976744186,Southern Great Lakes forests,"6564",,,Southern_Great_Lakes_forest,4,North America
+"1088",9235,0.208379632105511,0.0465116279069767,Southern Great Lakes forests,"1868",,,Southern_Great_Lakes_forest,4,North America
+"1089",9313,0.216267634079429,1.22727272727273,Southern Great Lakes forests,"5943",,,Southern_Great_Lakes_forest,4,North America
+"1090",9314,0.0210493235453595,0.431818181818182,Southern Great Lakes forests,"992",,,Southern_Great_Lakes_forest,4,North America
+"1091",9315,0.202389533487528,1.05681818181818,Southern Great Lakes forests,"7096",,,Southern_Great_Lakes_forest,4,North America
+"1092",9395,0.0205673019724201,1.18604651162791,Southern Great Lakes forests,"1039",,,Southern_Great_Lakes_forest,4,North America
+"1093",9396,0.0027427444485111,0.779069767441861,Southern Great Lakes forests,"2642",,,Southern_Great_Lakes_forest,4,North America
+"1094",9397,0.0161870296668103,0.546511627906977,Southern Great Lakes forests,"5331",,,Southern_Great_Lakes_forest,4,North America
+"1095",9398,0.00265898683742784,0.116279069767442,Southern Great Lakes forests,"1517",,,Southern_Great_Lakes_forest,4,North America
+"1096",9476,0,2.38372093023256,Southern Great Lakes forests,"2034",,,Southern_Great_Lakes_forest,4,North America
+"1097",9477,0.104678641654646,0.976744186046512,Southern Great Lakes forests,"4778",,,Southern_Great_Lakes_forest,4,North America
+"1098",9478,0,0.476744186046512,Southern Great Lakes forests,"772",,,Southern_Great_Lakes_forest,4,North America
+"1099",9479,0,0,Southern Great Lakes forests,"1259",,,Southern_Great_Lakes_forest,4,North America
+"1100",9558,0.0592551678978436,5.17045454545455,Southern Great Lakes forests,"72",,,Southern_Great_Lakes_forest,4,North America
+"1101",9559,0,1.125,Southern Great Lakes forests,"2693",,,Southern_Great_Lakes_forest,4,North America
+"1102",9560,0,1.53409090909091,Southern Great Lakes forests,"1860",,,Southern_Great_Lakes_forest,4,North America
+"1103",9641,0.0165525431750291,2.23255813953488,Southern Great Lakes forests,"4250",,,Southern_Great_Lakes_forest,4,North America
+"1104",9723,0.00278731223868282,1.38372093023256,Southern Great Lakes forests,"1825",,,Southern_Great_Lakes_forest,4,North America
+"1105",9724,0.0027428886993442,0.837209302325581,Southern Great Lakes forests,"936",,,Southern_Great_Lakes_forest,4,North America
+"1106",9804,0.00842179184350469,1.76136363636364,Southern Great Lakes forests,"94",,,Southern_Great_Lakes_forest,4,North America
+"1107",9805,0,3.28409090909091,Southern Great Lakes forests,"3958",,,Southern_Great_Lakes_forest,4,North America
+"1108",10704,0,2.94318181818182,Gulf of St. Lawrence lowland forests,"1560",,,St_Lawrence_forest,4,North America
+"1109",10705,0.412863418151572,4.89772727272727,Gulf of St. Lawrence lowland forests,"1852",,,St_Lawrence_forest,4,North America
+"1110",10784,0.0120483319269818,2.22093023255814,Gulf of St. Lawrence lowland forests,"90",,,St_Lawrence_forest,4,North America
+"1111",10785,0,4.81395348837209,Gulf of St. Lawrence lowland forests,"3774",,,St_Lawrence_forest,4,North America
+"1112",10786,0.859403182488153,5.23255813953488,Gulf of St. Lawrence lowland forests,"6067",,,St_Lawrence_forest,4,North America
+"1113",10787,0,1.56976744186047,Gulf of St. Lawrence lowland forests,"21",,,St_Lawrence_forest,4,North America
+"1114",10867,0,5.18604651162791,Gulf of St. Lawrence lowland forests,"3930",,,St_Lawrence_forest,4,North America
+"1115",10868,0.0088001858033299,6.7093023255814,Gulf of St. Lawrence lowland forests,"6613",,,St_Lawrence_forest,4,North America
+"1116",10869,0,1.68604651162791,Gulf of St. Lawrence lowland forests,"265",,,St_Lawrence_forest,4,North America
+"1117",10869,0,1.68604651162791,Gulf of St. Lawrence lowland forests,"103",,,St_Lawrence_forest,4,North America
+"1118",10870,0.0424145666929717,9.23255813953488,Gulf of St. Lawrence lowland forests,"467",,,St_Lawrence_forest,4,North America
+"1119",10949,0.00296470828131761,0.848837209302326,Gulf of St. Lawrence lowland forests,"1",,,St_Lawrence_forest,4,North America
+"1120",10949,0.00296470828131761,0.848837209302326,Gulf of St. Lawrence lowland forests,"1054",,,St_Lawrence_forest,4,North America
+"1121",10950,0.0463964127787544,3.41860465116279,Gulf of St. Lawrence lowland forests,"2708",,,St_Lawrence_forest,4,North America
+"1122",10950,0.0463964127787544,3.41860465116279,Gulf of St. Lawrence lowland forests,"155",,,St_Lawrence_forest,4,North America
+"1123",10951,0.00285993035350672,6.12790697674419,Gulf of St. Lawrence lowland forests,"1563",,,St_Lawrence_forest,4,North America
+"1124",11032,0,0.284090909090909,Gulf of St. Lawrence lowland forests,"1985",,,St_Lawrence_forest,4,North America
+"1125",11033,0.958921509869148,2.85227272727273,Gulf of St. Lawrence lowland forests,"1181",,,St_Lawrence_forest,4,North America
+"1126",11033,0.958921509869148,2.85227272727273,Gulf of St. Lawrence lowland forests,"1903",,,St_Lawrence_forest,4,North America
+"1127",11034,0.644585236359179,2.84090909090909,Gulf of St. Lawrence lowland forests,"161",,,St_Lawrence_forest,4,North America
+"1128",11114,0,1.04651162790698,Gulf of St. Lawrence lowland forests,"593",,,St_Lawrence_forest,4,North America
+"1129",11114,0,1.04651162790698,Gulf of St. Lawrence lowland forests,"2087",,,St_Lawrence_forest,4,North America
+"1130",11115,0.029826239381671,5.46511627906977,Gulf of St. Lawrence lowland forests,"111",,,St_Lawrence_forest,4,North America
+"1131",11196,0,0.313953488372093,Gulf of St. Lawrence lowland forests,"126",,,St_Lawrence_forest,4,North America
+"1132",7915,14.9306468756883,2.5,Upper Midwest forest-savanna transition,"2286",,,Upper_Midwest_forest,4,North America
+"1133",7916,5.65016701982421,2.11627906976744,Upper Midwest forest-savanna transition,"2882",,,Upper_Midwest_forest,4,North America
+"1134",7996,8.77813857246544,15.6590909090909,Upper Midwest forest-savanna transition,"968",,,Upper_Midwest_forest,4,North America
+"1135",7997,0.346581582003932,7.76136363636364,Upper Midwest forest-savanna transition,"3070",,,Upper_Midwest_forest,4,North America
+"1136",7998,1.11395106592111,5.25,Upper Midwest forest-savanna transition,"6119",,,Upper_Midwest_forest,4,North America
+"1137",7999,3.45667513052469,1.46590909090909,Upper Midwest forest-savanna transition,"750",,,Upper_Midwest_forest,4,North America
+"1138",8080,0.761908522183964,9.02325581395349,Upper Midwest forest-savanna transition,"1368",,,Upper_Midwest_forest,4,North America
+"1139",8081,0.859271575175713,4.96511627906977,Upper Midwest forest-savanna transition,"7039",,,Upper_Midwest_forest,4,North America
+"1140",8082,0.627497323391249,5.27906976744186,Upper Midwest forest-savanna transition,"172",,,Upper_Midwest_forest,4,North America
+"1141",8162,0.153537620212834,12.2209302325581,Upper Midwest forest-savanna transition,"4028",,,Upper_Midwest_forest,4,North America
+"1142",8163,0.240378841039861,8.05813953488372,Upper Midwest forest-savanna transition,"7142",,,Upper_Midwest_forest,4,North America
+"1143",8164,0.280183841550023,4.98837209302326,Upper Midwest forest-savanna transition,"1815",,,Upper_Midwest_forest,4,North America
+"1144",8244,0.0919548649513056,18.7613636363636,Upper Midwest forest-savanna transition,"82",,,Upper_Midwest_forest,4,North America
+"1145",8245,1.14021273908036,10.125,Upper Midwest forest-savanna transition,"6602",,,Upper_Midwest_forest,4,North America
+"1146",8246,0.42586376497086,1.23863636363636,Upper Midwest forest-savanna transition,"2322",,,Upper_Midwest_forest,4,North America
+"1147",8326,0.318529875426643,11.1860465116279,Upper Midwest forest-savanna transition,"905",,,Upper_Midwest_forest,4,North America
+"1148",8327,0.0114257827763,1.69767441860465,Upper Midwest forest-savanna transition,"7406",,,Upper_Midwest_forest,4,North America
+"1149",8328,0.518227952977921,0.290697674418605,Upper Midwest forest-savanna transition,"7063",,,Upper_Midwest_forest,4,North America
+"1150",8329,0.995403789497832,0.348837209302326,Upper Midwest forest-savanna transition,"2837",,,Upper_Midwest_forest,4,North America
+"1151",8409,0,6.33720930232558,Upper Midwest forest-savanna transition,"1240",,,Upper_Midwest_forest,4,North America
+"1152",8410,0.0113167671987807,2.84883720930233,Upper Midwest forest-savanna transition,"7653",,,Upper_Midwest_forest,4,North America
+"1153",8411,0.0467975706566685,0.27906976744186,Upper Midwest forest-savanna transition,"7782",,,Upper_Midwest_forest,4,North America
+"1154",8412,0.109303084212736,0.232558139534884,Upper Midwest forest-savanna transition,"3739",,,Upper_Midwest_forest,4,North America
+"1155",8491,0.0057189304119696,6.04545454545455,Upper Midwest forest-savanna transition,"5742",,,Upper_Midwest_forest,4,North America
+"1156",8492,0.584043264107961,7.28409090909091,Upper Midwest forest-savanna transition,"7718",,,Upper_Midwest_forest,4,North America
+"1157",8493,0.0881528547328579,0.443181818181818,Upper Midwest forest-savanna transition,"7845",,,Upper_Midwest_forest,4,North America
+"1158",8494,0.449483993146217,0.147727272727273,Upper Midwest forest-savanna transition,"1925",,,Upper_Midwest_forest,4,North America
+"1159",8573,0,13.8720930232558,Upper Midwest forest-savanna transition,"1272",,,Upper_Midwest_forest,4,North America
+"1160",8574,0.127151826196751,10.1511627906977,Upper Midwest forest-savanna transition,"7653",,,Upper_Midwest_forest,4,North America
+"1161",8575,0.0849246935593396,7.65116279069767,Upper Midwest forest-savanna transition,"7782",,,Upper_Midwest_forest,4,North America
+"1162",8576,0.510134032580314,1.13953488372093,Upper Midwest forest-savanna transition,"5281",,,Upper_Midwest_forest,4,North America
+"1163",8655,0.0967476647635441,11.7674418604651,Upper Midwest forest-savanna transition,"3681",,,Upper_Midwest_forest,4,North America
+"1164",8656,0.148300323236238,9.95348837209302,Upper Midwest forest-savanna transition,"7718",,,Upper_Midwest_forest,4,North America
+"1165",8657,0.10723387892984,6.61627906976744,Upper Midwest forest-savanna transition,"7824",,,Upper_Midwest_forest,4,North America
+"1166",8658,0.58541184131868,1.91860465116279,Upper Midwest forest-savanna transition,"265",,,Upper_Midwest_forest,4,North America
+"1167",8737,0,16.1022727272727,Upper Midwest forest-savanna transition,"375",,,Upper_Midwest_forest,4,North America
+"1168",8738,0.00283496314486644,4.40909090909091,Upper Midwest forest-savanna transition,"4010",,,Upper_Midwest_forest,4,North America
+"1169",8739,0.00557548900373926,1.96590909090909,Upper Midwest forest-savanna transition,"2329",,,Upper_Midwest_forest,4,North America
+"1170",8740,0.011977175740174,1.34090909090909,Upper Midwest forest-savanna transition,"982",,,Upper_Midwest_forest,4,North America
+"1171",8820,0.0112078785273157,1.19767441860465,Upper Midwest forest-savanna transition,"2",,,Upper_Midwest_forest,4,North America
+"1172",8901,0,1.02325581395349,Upper Midwest forest-savanna transition,"186",,,Upper_Midwest_forest,4,North America
+"1173",8902,0.0986516631892279,5.41860465116279,Upper Midwest forest-savanna transition,"3612",,,Upper_Midwest_forest,4,North America
+"1174",8982,0.707749955827812,9.69767441860465,Upper Midwest forest-savanna transition,"140",,,Upper_Midwest_forest,4,North America
+"1175",8983,0.619381789517771,4.8953488372093,Upper Midwest forest-savanna transition,"3877",,,Upper_Midwest_forest,4,North America
+"1176",9065,0.122928416868926,5.93181818181818,Upper Midwest forest-savanna transition,"3",,,Upper_Midwest_forest,4,North America
+"1177",8902,0.0986516631892279,5.41860465116279,Western Great Lakes forests,"2437",,,Western_Great_Lakes_forest,4,North America
+"1178",8903,0.00836208624337896,7.51162790697674,Western Great Lakes forests,"904",,,Western_Great_Lakes_forest,4,North America
+"1179",8982,0.707749955827812,9.69767441860465,Western Great Lakes forests,"719",,,Western_Great_Lakes_forest,4,North America
+"1180",8983,0.619381789517771,4.8953488372093,Western Great Lakes forests,"2727",,,Western_Great_Lakes_forest,4,North America
+"1181",8984,0,12.6279069767442,Western Great Lakes forests,"2425",,,Western_Great_Lakes_forest,4,North America
+"1182",9065,0.122928416868926,5.93181818181818,Western Great Lakes forests,"4319",,,Western_Great_Lakes_forest,4,North America
+"1183",9066,0.307838302646766,8.64772727272727,Western Great Lakes forests,"5783",,,Western_Great_Lakes_forest,4,North America
+"1184",9147,0,4.6046511627907,Western Great Lakes forests,"2891",,,Western_Great_Lakes_forest,4,North America
+"1185",9148,0.148478779945713,3.12790697674419,Western Great Lakes forests,"338",,,Western_Great_Lakes_forest,4,North America
