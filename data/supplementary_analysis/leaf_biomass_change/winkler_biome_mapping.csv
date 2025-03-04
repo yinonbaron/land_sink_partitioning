@@ -1,0 +1,19 @@
+﻿based on table S1 in https://doi.org/10.5194/bg-18-4985-2021,,
+IGBP code,Biome,Biome name
+1,1,Boreal Forests
+2,2,Tropical Forests
+3,1,Boreal Forests
+4,3,Temperate Forests
+5,3,Temperate Forests
+6,4,Shrublands
+7,4,Shrublands
+8,5,Savannas
+9,5,Savannas
+10,6,Grasslands
+11,8,Others
+12,7,Croplands
+13,8,Others
+14,7,Croplands
+15,8,Others
+16,8,Others
+17,8,Others

@@ -10,7 +10,15 @@ To run the code, first set up a new python environment with using the `requireme
 ```
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
-Then you can run the scripts in consecutive order to produce the results and figures.
+You will also need to install GDAL using conda. First, make sure conda or miniconda is installed on your system. Then run the following command:
+
+```
+conda install -c conda-forge gdal
+```
+
+To run the code, first download the data using the `00a_download_data.ipynb` notebook. The only data not publicly available is the L-VOD biomass data, which could be received through a request to the authors.
+
+Once all of the data has been downloaded, you can run the scripts in consecutive order to produce the results and figures. The scripts are numbered in the order they should be run.
